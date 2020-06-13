@@ -1,21 +1,21 @@
-114821;4;12;20;V;Solista;XILO;Os Condes, Bergondo;A CoruÒa
-114822;5;12;20;S;Solista;XILO;Os Condes, Bergondo;A CoruÒa
-116094;6;12;20;D;TrÌo;MAR DE CAI”N;MALPICA;A CoruÒa
-114823;6;12;20;D;Solista;XILO;Os Condes, Bergondo;A CoruÒa
-117386;6;12;20;D;D˙o;D¥VICIO;Santaia de Probaos, Cesuras;A CoruÒa
-114824;7;12;20;L;Solista;XILO;Os Condes, Bergondo;A CoruÒa
-114780;11;12;20;V;Solista;XILO;Hotel NarÛn, NarÛn;A CoruÒa
-114781;12;12;20;S;Solista;XILO;Hotel NarÛn, NarÛn;A CoruÒa
-114147;12;12;20;S;D˙o;ESTRELLAS;Restaurante La Torre, Tabeaio, Carral;A CoruÒa
-114761;13;12;20;D;Solista;XILO;Centro CÌvico de Caranza, Ferrol;A CoruÒa
-114795;18;12;20;V;Solista;XILO;Os ¡nxeles, BriÛn;A CoruÒa
-113010;19;12;20;S;TrÌo;TBM SHOW;A CaÒiza;Pontevedra
-114794;20;12;20;D;Solista;XILO;Pontedeume;A CoruÒa
-116809;20;12;20;D;TrÌo;TBM SHOW;Vigo;Pontevedra
-114807;25;12;20;V;D˙o;XILO & CARLOS;CervecerÌa Campo GarcÌa, Meir·s;A CoruÒa
-116029;26;12;20;S;Charanga;ARDORES;CadrÛn, LalÌn;Pontevedra
-114808;26;12;20;S;D˙o;XILO & CARLOS;CervecerÌa O Lagar, Neda;A CoruÒa
-114838;31;12;20;J;Solista;XILO;Fisterra;A CoruÒa
-114525;31;12;20;J;TrÌo;KARMA;Malpica de BergantiÒos;A CoruÒa
-115554;31;12;20;J;Disco MÛvil;CHOCOLATE;Noia;A CoruÒa
-114980;31;12;20;J;Orquesta;ROYAL ESPECT¡CULO;Ponte da Barca, Viana do Castelo;Portugal
+114821;4;12;20;V;Solista;XILO;Os Condes, Bergondo;A Coru√±a
+114822;5;12;20;S;Solista;XILO;Os Condes, Bergondo;A Coru√±a
+116094;6;12;20;D;Tr√≠o;MAR DE CAI√ìN;MALPICA;A Coru√±a
+114823;6;12;20;D;Solista;XILO;Os Condes, Bergondo;A Coru√±a
+117386;6;12;20;D;D√∫o;D¬¥VICIO;Santaia de Probaos, Cesuras;A Coru√±a
+114824;7;12;20;L;Solista;XILO;Os Condes, Bergondo;A Coru√±a
+114780;11;12;20;V;Solista;XILO;Hotel Nar√≥n, Nar√≥n;A Coru√±a
+114781;12;12;20;S;Solista;XILO;Hotel Nar√≥n, Nar√≥n;A Coru√±a
+114147;12;12;20;S;D√∫o;ESTRELLAS;Restaurante La Torre, Tabeaio, Carral;A Coru√±a
+114761;13;12;20;D;Solista;XILO;Centro C√≠vico de Caranza, Ferrol;A Coru√±a
+114795;18;12;20;V;Solista;XILO;Os √Ånxeles, Bri√≥n;A Coru√±a
+113010;19;12;20;S;Tr√≠o;TBM SHOW;A Ca√±iza;Pontevedra
+114794;20;12;20;D;Solista;XILO;Pontedeume;A Coru√±a
+116809;20;12;20;D;Tr√≠o;TBM SHOW;Vigo;Pontevedra
+114807;25;12;20;V;D√∫o;XILO & CARLOS;Cervecer√≠a Campo Garc√≠a, Meir√°s;A Coru√±a
+116029;26;12;20;S;Charanga;ARDORES;Cadr√≥n, Lal√≠n;Pontevedra
+114808;26;12;20;S;D√∫o;XILO & CARLOS;Cervecer√≠a O Lagar, Neda;A Coru√±a
+114838;31;12;20;J;Solista;XILO;Fisterra;A Coru√±a
+114525;31;12;20;J;Tr√≠o;KARMA;Malpica de Berganti√±os;A Coru√±a
+115554;31;12;20;J;Disco M√≥vil;CHOCOLATE;Noia;A Coru√±a
+114980;31;12;20;J;Orquesta;ROYAL ESPECT√ÅCULO;Ponte da Barca, Viana do Castelo;Portugal
