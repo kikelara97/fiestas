@@ -1,0 +1,314 @@
+6076;1;12;12;S;Orquesta;SOLARA;A Lagoa, Vimianzo;A Coruña
+5854;1;12;12;S;Orquesta;COMPOSTELA;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+5937;1;12;12;S;Orquesta;CINEMA;Alto de Xestoso, Monfero;A Coruña
+6018;1;12;12;S;Orquesta;PARAISO;Amoedo, Pazos de Borbén;Pontevedra
+6045;1;12;12;S;Orquesta;LOS ESPAÑOLES;Avenida de Beiramar, 251, Vigo;Pontevedra
+6130;1;12;12;S;Grupo;ALKAR;Avenida de Ramón Nieto, 367, Vigo;Pontevedra
+5858;1;12;12;S;Solista;TANIA Y SU ACORDEÓN;Barcia, Ribeira de Piquín;Lugo
+6090;1;12;12;S;Orquesta;TREBOL;Cures, Boiro;A Coruña
+5709;1;12;12;S;Orquesta;MARAZUL;El Vilar, Bergondo;A Coruña
+6009;1;12;12;S;Grupo;TEKILA;Grado;Asturias
+5672;1;12;12;S;Orquesta;GRAN PARADA;Parroquia de San Francisco Javier;A Coruña
+5981;1;12;12;S;Orquesta;PANORAMA;Poio;Pontevedra
+5998;1;12;12;S;Orquesta;PONTEVEDRA;Ponteareas;Pontevedra
+6079;1;12;12;S;Orquesta;PARIS DE NOIA;Ponteceso;A Coruña
+5684;1;12;12;S;Orquesta;CHARLESTON BIG-BAND;Restaurante El Pantano, Abegondo;A Coruña
+6035;1;12;12;S;Orquesta;LOS SATÉLITES;Restaurante El Pantano, Abegondo;A Coruña
+6120;1;12;12;S;Orquesta;MIRAMAR;S.F. Chanteclair, Pontecesures;Pontevedra
+6159;1;12;12;S;Grupo;ASSIA;S.F. Estilo, Oviedo;Asturias
+5599;1;12;12;S;Orquesta;PANAMA;S.F. La Concha, O Val;A Coruña
+6151;1;12;12;S;Grupo;CLAXXON;S.F. La Reina, Sanguiñeda;Pontevedra
+6059;1;12;12;S;Orquesta;PALLADIUM;S.F. Rosalar, Ribadeo;Lugo
+5872;1;12;12;S;Orquesta;MARBELLA;Torres, Vilarmaior;A Coruña
+5969;1;12;12;S;Orquesta;OLYMPUS RED TOUR;Touro, Touro;A Coruña
+6102;1;12;12;S;Orquesta;TELEVISIÓN;Valiñas, Barro;Pontevedra
+5880;2;12;12;D;Orquesta;GRAN PARADA;Av Bierzo, 91, Dehesas;León
+6046;2;12;12;D;Orquesta;CAPITOL;Avenida de Beiramar, 251, Vigo;Pontevedra
+5999;2;12;12;D;Orquesta;PONTEVEDRA;Avenida de Ramón Nieto, 367, Vigo;Pontevedra
+5970;2;12;12;D;Orquesta;OLYMPUS RED TOUR;Benigno Rivera 67, O Ceao;Lugo
+6091;2;12;12;D;Orquesta;TREBOL;Escarabote, Boiro;A Coruña
+6037;2;12;12;D;Orquesta;LOS SATÉLITES;Parroquia de San Francisco Javier;A Coruña
+6221;2;12;12;D;Orquesta;ABANICO;S.F. Chanteclair, Pontecesures;Pontevedra
+6060;2;12;12;D;Orquesta;PALLADIUM;S.F. La Luna, Cerponzóns;Pontevedra
+5855;2;12;12;D;Orquesta;COMPOSTELA;S.F. La Reina, Sanguiñeda;Pontevedra
+5873;2;12;12;D;Orquesta;MARBELLA;S.F. La Reina, Sanguiñeda;Pontevedra
+6111;2;12;12;D;Orquesta;SOLARA;S.F. Mami, A Manchica;Ourense
+6075;2;12;12;D;Orquesta;MIRAMAR;S.F. Nova Exágono, Lugo;Lugo
+5685;2;12;12;D;Orquesta;CHARLESTON BIG-BAND;S.F. Zeus, Campolongo;A Coruña
+5881;4;12;12;M;Orquesta;GRAN PARADA;Meis;Pontevedra
+6000;4;12;12;M;Orquesta;PONTEVEDRA;Meis;Pontevedra
+6110;5;12;12;X;Orquesta;CINEMA;Estrada Pavillon, Narón;A Coruña
+5971;5;12;12;X;Orquesta;OLYMPUS RED TOUR;Ponte Carreira, Frades;A Coruña
+5874;5;12;12;X;Orquesta;MARBELLA;Restaurante El Pantano, Abegondo;A Coruña
+5982;5;12;12;X;Orquesta;PANORAMA;S.F. Rosalar, Ribadeo;Lugo
+5995;5;12;12;X;Orquesta;PARIS DE NOIA;S.F. Rosalar, Ribadeo;Lugo
+5686;6;12;12;J;Orquesta;CHARLESTON BIG-BAND;Av Bierzo, 91, Dehesas;León
+6047;6;12;12;J;Grupo;ARAMIO;Avenida de Beiramar, 251, Vigo;Pontevedra
+5536;6;12;12;J;Solista;TANIA Y SU ACORDEÓN;Ferrol;A Coruña
+5983;6;12;12;J;Orquesta;PANORAMA;Noicela, Carballo;A Coruña
+5882;6;12;12;J;Orquesta;GRAN PARADA;S.F. Nova Exágono, Lugo;Lugo
+5893;6;12;12;J;Orquesta;OLYMPUS RED TOUR;S.F. Nova Exágono, Lugo;Lugo
+5902;6;12;12;J;Orquesta;MARBELLA;Silván, Meis;Pontevedra
+6032;6;12;12;J;Orquesta;PALLADIUM;Silván, Meis;Pontevedra
+5537;7;12;12;V;Solista;TANIA Y SU ACORDEÓN;A Fonsagrada;Lugo
+6048;7;12;12;V;Grupo;ARAMIO;Avenida de Beiramar, 251, Vigo;Pontevedra
+5701;7;12;12;V;Dúo;ECLIPSE;Becerreá;Lugo
+5899;7;12;12;V;Orquesta;METRÓPOLIS;Bribes, Cambre;A Coruña
+5866;7;12;12;V;Dúo;D´CACHE;Covas, Viveiro;Lugo
+6092;7;12;12;V;Orquesta;TREBOL;Espirito Santo, 3, Sada;A Coruña
+5574;7;12;12;V;Grupo;ALVEIN;Leirado, Salvaterra de Miño;Pontevedra
+5575;7;12;12;V;Orquesta;MARAZUL;Leirado, Salvaterra de Miño;Pontevedra
+5938;7;12;12;V;Orquesta;CINEMA;Merelle, Lousame;A Coruña
+5962;7;12;12;V;Orquesta;PALLADIUM;Nantes, Sanxenxo;Pontevedra
+5883;7;12;12;V;Orquesta;GRAN PARADA;Restaurante El Pantano, Abegondo;A Coruña
+5972;7;12;12;V;Orquesta;OLYMPUS RED TOUR;S.F. Chanteclair, Pontecesures;Pontevedra
+5903;7;12;12;V;Orquesta;MARBELLA;Santaia de Probaos, Cesuras;A Coruña
+6036;7;12;12;V;Orquesta;LOS SATÉLITES;Sobral, Soutomaior;Pontevedra
+6162;7;12;12;V;Orquesta;PONTEVEDRA;Xeve;Pontevedra
+5984;7;12;12;V;Orquesta;PANORAMA;Xornes, Ponteceso;A Coruña
+5994;7;12;12;V;Orquesta;PARIS DE NOIA;Xornes, Ponteceso;A Coruña
+5758;8;12;12;S;Orquesta;LOS ESPAÑOLES;Arteixo;A Coruña
+5973;8;12;12;S;Orquesta;OLYMPUS RED TOUR;Av Bierzo, 91, Dehesas;León
+6049;8;12;12;S;Orquesta;MARAZUL;Avenida de Beiramar, 251, Vigo;Pontevedra
+6131;8;12;12;S;Grupo;AMÉRICA DE VIGO;Avenida de Ramón Nieto, 367, Vigo;Pontevedra
+5850;8;12;12;S;Dúo;D´CACHE;Barcia, Ribeira de Piquín;Lugo
+6055;8;12;12;S;Orquesta;PANAMA;Bribes, Cambre;A Coruña
+6010;8;12;12;S;Grupo;TEKILA;Canedo, Lourenzá;Lugo
+5884;8;12;12;S;Orquesta;GRAN PARADA;Cangas, Foz;Lugo
+5733;8;12;12;S;Grupo;ATENAS;Extramundi, Padrón;A Coruña
+6163;8;12;12;S;Orquesta;PONTEVEDRA;Laviana;Asturias
+5752;8;12;12;S;Orquesta;COMPOSTELA;Lousada, Xermade;Lugo
+6041;8;12;12;S;Orquesta;IPANEMA;Manganeses de la Polvorosa;Zamora
+6112;8;12;12;S;Orquesta;SOLARA;Matalobos, A Estrada;Pontevedra
+6118;8;12;12;S;Orquesta;RITMO JOVEN;Matalobos, A Estrada;Pontevedra
+5939;8;12;12;S;Orquesta;CINEMA;Mesón do Vento, Ordes;A Coruña
+6145;8;12;12;S;Orquesta;FIN DE SIGLO;Millán, Sobér;Lugo
+5746;8;12;12;S;Orquesta;ISRAEL;Mondariz;Pontevedra
+5769;8;12;12;S;Grupo;ARAMIO;Mondariz;Pontevedra
+6104;8;12;12;S;Orquesta;TELEVISIÓN;Nantes, Sanxenxo;Pontevedra
+6105;8;12;12;S;Grupo;ALKAR;Nantes, Sanxenxo;Pontevedra
+5904;8;12;12;S;Orquesta;MARBELLA;Poio;Pontevedra
+6222;8;12;12;S;Orquesta;ABANICO;Ponteareas;Pontevedra
+6142;8;12;12;S;Orquesta;LOS TROVADORES;Restaurante Os Paraguas, Carral;A Coruña
+6101;8;12;12;S;Orquesta;METRÓPOLIS;S.F. Chanteclair, Pontecesures;Pontevedra
+5600;8;12;12;S;Orquesta;CHARLESTON BIG-BAND;S.F. La Concha, O Val;A Coruña
+6080;8;12;12;S;Orquesta;PARIS DE NOIA;S.F. Nova Exágono, Lugo;Lugo
+6089;8;12;12;S;Grupo;CLAXXON;S.F. Nova Exágono, Lugo;Lugo
+5786;8;12;12;S;Dúo;ECLIPSE;Santaballa, Monfero;A Coruña
+5985;8;12;12;S;Orquesta;PANORAMA;Santaia de Probaos, Cesuras;A Coruña
+6183;8;12;12;S;Dúo;DE LA CRUZ SHOW;Santiago de Compostela;A Coruña
+5895;8;12;12;S;Orquesta;PALLADIUM;Tines, Vimianzo;A Coruña
+6161;8;12;12;S;Grupo;SAMBA;Vilameán, Tomiño;Pontevedra
+5879;8;12;12;S;Solista;TANIA Y SU ACORDEÓN;Vilela, Ribadeo;Lugo
+6154;8;12;12;S;Grupo;ASSIA;Villamarco;León
+6044;8;12;12;S;Orquesta;MIRAMAR;Xeve;Pontevedra
+6038;8;12;12;S;Orquesta;LOS SATÉLITES;Xornes, Ponteceso;A Coruña
+6093;8;12;12;S;Orquesta;TREBOL;Xornes, Ponteceso;A Coruña
+6081;9;12;12;D;Orquesta;PARIS DE NOIA;Av Bierzo, 91, Dehesas;León
+6039;9;12;12;D;Orquesta;LOS SATÉLITES;Avenida de Beiramar, 251, Vigo;Pontevedra
+6127;9;12;12;D;Orquesta;MIRAMAR;Avenida de Ramón Nieto, 367, Vigo;Pontevedra
+5577;9;12;12;D;Grupo;ACIREMA;Leirado, Salvaterra de Miño;Pontevedra
+5952;9;12;12;D;Dúo;D´CACHE;Lugo;Lugo
+6040;9;12;12;D;Orquesta;MARBELLA;S.F. Chanteclair, Pontecesures;Pontevedra
+5687;9;12;12;D;Orquesta;CHARLESTON BIG-BAND;S.F. La Reina, Sanguiñeda;Pontevedra
+5762;9;12;12;D;Orquesta;PRINCIPAL;S.F. La Reina, Sanguiñeda;Pontevedra
+6164;9;12;12;D;Orquesta;PONTEVEDRA;S.F. Nova Exágono, Lugo;Lugo
+6171;9;12;12;D;Charanga;BB+;Vigo, Boqueixón;A Coruña
+5964;10;12;12;L;Charanga;BB+;Vedra;A Coruña
+6050;13;12;12;J;Grupo;NIEVLA;Avenida de Beiramar, 251, Vigo;Pontevedra
+6029;13;12;12;J;Orquesta;PARIS DE NOIA;Moraña;Pontevedra
+6212;14;12;12;V;Grupo;KALIMA 3.0;A Coruña;A Coruña
+6192;14;12;12;V;Solista;TANIA Y SU ACORDEÓN;A Fonsagrada;Lugo
+6229;14;12;12;V;Solista;PILI PAMPÍN;Actuación en TVG;A Coruña
+5638;14;12;12;V;Disco Móvil;BLANCO Y NEGRO;Alfoz;Lugo
+5753;14;12;12;V;Orquesta;COMPOSTELA;Arteixo;A Coruña
+5957;14;12;12;V;Dúo;CALÚ;O Temple, Cambre;A Coruña
+5940;14;12;12;V;Orquesta;CINEMA;Restaurante El Pantano, Abegondo;A Coruña
+5790;14;12;12;V;Orquesta;PANORAMA;S.F. Zeus, Campolongo;A Coruña
+5791;14;12;12;V;Orquesta;PARIS DE NOIA;S.F. Zeus, Campolongo;A Coruña
+6239;14;12;12;V;Dúo;DE LA CRUZ SHOW;Santiago de Compostela;A Coruña
+6007;14;12;12;V;Orquesta;EL COMBO DOMINICANO;Sobrado;A Coruña
+5979;15;12;12;S;Solista;TANIA Y SU ACORDEÓN;A Fonsagrada;Lugo
+6223;15;12;12;S;Orquesta;ABANICO;A Lagoa, Vimianzo;A Coruña
+5754;15;12;12;S;Orquesta;COMPOSTELA;Arteixo;A Coruña
+6113;15;12;12;S;Orquesta;SOLARA;Asados, Rianxo;A Coruña
+5763;15;12;12;S;Orquesta;PRINCIPAL;Avenida de Beiramar, 251, Vigo;Pontevedra
+5759;15;12;12;S;Orquesta;LOS ESPAÑOLES;Beiro, Carballeda de Avia;Ourense
+6181;15;12;12;S;Grupo;SAMBA;Bemil, Caldas de Reis;Pontevedra
+5885;15;12;12;S;Orquesta;GRAN PARADA;Cepeda, Pazos de Borbén;Pontevedra
+5905;15;12;12;S;Orquesta;MARBELLA;Cepeda, Pazos de Borbén;Pontevedra
+5025;15;12;12;S;Orquesta;EL COMBO DOMINICANO;Discoteca Teyma, Ponteceso;A Coruña
+5712;15;12;12;S;Orquesta;CIUDADEVIGO;El Vilar, Bergondo;A Coruña
+6156;15;12;12;S;Grupo;ASSIA;Gijón;Asturias
+6011;15;12;12;S;Grupo;TEKILA;Juan Carlos I, 16 Arriondas, Parres;Asturias
+6030;15;12;12;S;Grupo;LIMÓN;Magán, Cuntis;Pontevedra
+6061;15;12;12;S;Orquesta;LOS SATÉLITES;Mesón do Vento, Ordes;A Coruña
+6082;15;12;12;S;Orquesta;PARIS DE NOIA;O Pereiro, Valdoviño;A Coruña
+6215;15;12;12;S;Orquesta;PANAMA;Playa Area, Viveiro;Lugo
+6191;15;12;12;S;Orquesta;FIN DE SIGLO;Punxín, Freás;Ourense
+6139;15;12;12;S;Orquesta;LOS TROVADORES;Rairo, Ourense;Ourense
+5941;15;12;12;S;Orquesta;CINEMA;Restaurante El Pantano, Abegondo;A Coruña
+6095;15;12;12;S;Orquesta;TREBOL;Restaurante El Pantano, Abegondo;A Coruña
+5747;15;12;12;S;Orquesta;ISRAEL;Restaurante Os Paraguas, Carral;A Coruña
+6213;15;12;12;S;Grupo;KALIMA 3.0;Ribadeo;Lugo
+6148;15;12;12;S;Dúo;D´CACHE;Riotorto;Lugo
+5601;15;12;12;S;Orquesta;PALLADIUM;S.F. La Concha, O Val;A Coruña
+5986;15;12;12;S;Orquesta;PANORAMA;S.F. La Luna, Cerponzóns;Pontevedra
+6152;15;12;12;S;Grupo;CLAXXON;S.F. La Luna, Cerponzóns;Pontevedra
+5583;15;12;12;S;Dúo;DE LA CRUZ SHOW;Santa María de Arzúa, Arzúa;A Coruña
+6201;15;12;12;S;Dúo;CALÚ;Sigüeiro, Oroso;A Coruña
+6168;15;12;12;S;Grupo;AMÉRICA DE VIGO;Touro, Touro;A Coruña
+6224;16;12;12;D;Orquesta;ABANICO;A Cañiza;Pontevedra
+6165;16;12;12;D;Orquesta;PONTEVEDRA;Av Bierzo, 91, Dehesas;León
+5764;16;12;12;D;Orquesta;PRINCIPAL;Avenida de Beiramar, 251, Vigo;Pontevedra
+6134;16;12;12;D;Orquesta;FANIA BLANCO SHOW;Avenida de Ramón Nieto, 367, Vigo;Pontevedra
+6114;16;12;12;D;Orquesta;SOLARA;Bueu;Pontevedra
+6202;16;12;12;D;Dúo;CALÚ;Perillo, Oleiros;A Coruña
+6058;16;12;12;D;Orquesta;PALLADIUM;S.F. Chanteclair, Pontecesures;Pontevedra
+6106;16;12;12;D;Orquesta;TELEVISIÓN;S.F. La Luna, Cerponzóns;Pontevedra
+6077;16;12;12;D;Orquesta;LOS TROVADORES;S.F. La Reina, Sanguiñeda;Pontevedra
+6096;16;12;12;D;Orquesta;TREBOL;S.F. Paulino, O Carballiño;Ourense
+5906;16;12;12;D;Orquesta;MARBELLA;S.F. Zeus, Campolongo;A Coruña
+5538;16;12;12;D;Solista;TANIA Y SU ACORDEÓN;Santa Eulalia de Oscos;Asturias
+5739;16;12;12;D;Dúo;DE LA CRUZ SHOW;Santiago de Compostela;A Coruña
+5760;16;12;12;D;Orquesta;LOS ESPAÑOLES;Valenza, Coristanco;A Coruña
+6083;17;12;12;L;Orquesta;PARIS DE NOIA;Grabación TVG;A Coruña
+6254;20;12;12;J;Solista;HUGO TORREIRO;Los Cantones Village;A Coruña
+6062;21;12;12;V;Orquesta;LOS SATÉLITES;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+6052;21;12;12;V;Orquesta;PANAMA;Alvite, Negreira;A Coruña
+6155;21;12;12;V;Grupo;ASSIA;Cangas de Onís;Asturias
+6216;21;12;12;V;Dúo;D´CACHE;Castroverde;Lugo
+6084;21;12;12;V;Orquesta;PARIS DE NOIA;Éntoma, O Barco de Valdeorras;Ourense
+6205;21;12;12;V;Orquesta;LOS ESPAÑOLES;Espirito Santo, 3, Sada;A Coruña
+5916;21;12;12;V;Orquesta;OLYMPUS RED TOUR;Estrada Pavillon, Narón;A Coruña
+5997;21;12;12;V;Orquesta;MARBELLA;Ferrol;A Coruña
+6253;21;12;12;V;Dúo;CALÚ;Leira, Ordes;A Coruña
+6193;21;12;12;V;Solista;TANIA Y SU ACORDEÓN;Lugo;Lugo
+5989;21;12;12;V;Grupo;ARAMIO;Nemeño, Ponteceso;A Coruña
+6115;21;12;12;V;Orquesta;SOLARA;Restaurante El Pantano, Abegondo;A Coruña
+6012;21;12;12;V;Grupo;TEKILA;S.F. Estilo, Oviedo;Asturias
+5735;21;12;12;V;Dúo;DE LA CRUZ SHOW;Santiago de Compostela;A Coruña
+5987;21;12;12;V;Orquesta;PANORAMA;Vegadeo;Asturias
+6063;22;12;12;S;Orquesta;LOS SATÉLITES;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+5918;22;12;12;S;Solista;TANIA Y SU ACORDEÓN;Cangas del Narcea;Asturias
+6033;22;12;12;S;Orquesta;PALLADIUM;Cangas, Foz;Lugo
+6210;22;12;12;S;Orquesta;CHARLESTON BIG-BAND;Cespón, Boiro;A Coruña
+5988;22;12;12;S;Orquesta;PANORAMA;Discoteca Teyma, Ponteceso;A Coruña
+6207;22;12;12;S;Orquesta;PRINCIPAL;Espirito Santo, 3, Sada;A Coruña
+5917;22;12;12;S;Orquesta;PARIS DE NOIA;Estrada Pavillon, Narón;A Coruña
+5907;22;12;12;S;Orquesta;MARBELLA;Gargallons;Pontevedra
+6157;22;12;12;S;Grupo;ASSIA;Gijón;Asturias
+5761;22;12;12;S;Orquesta;LOS ESPAÑOLES;Mesón do Vento, Ordes;A Coruña
+6203;22;12;12;S;Orquesta;COMPOSTELA;Mugardos;A Coruña
+5843;22;12;12;S;Dúo;D´CACHE;O Cádavo, Baleira;Lugo
+5975;22;12;12;S;Orquesta;OLYMPUS RED TOUR;O Pereiro, Valdoviño;A Coruña
+6116;22;12;12;S;Orquesta;SOLARA;Restaurante El Pantano, Abegondo;A Coruña
+6097;22;12;12;S;Orquesta;TREBOL;Restaurante Os Paraguas, Carral;A Coruña
+6013;22;12;12;S;Grupo;TEKILA;S.F. Estilo, Oviedo;Asturias
+6241;22;12;12;S;Orquesta;GRAN PARADA;S.F. La Luna, Cerponzóns;Pontevedra
+6143;22;12;12;S;Orquesta;TELEVISIÓN;S.F. La Reina, Sanguiñeda;Pontevedra
+5736;22;12;12;S;Dúo;DE LA CRUZ SHOW;Santiago de Compostela;A Coruña
+6255;22;12;12;S;Solista;HUGO TORREIRO;Santiago de Compostela;A Coruña
+6243;22;12;12;S;Dúo;CALÚ;Tabeaio, Carral;A Coruña
+6166;22;12;12;S;Orquesta;PONTEVEDRA;Tineo;Asturias
+6266;23;12;12;D;Orquesta;SOLARA;Asados, Rianxo;A Coruña
+6245;23;12;12;D;Orquesta;TELEVISIÓN;Av Bierzo, 91, Dehesas;León
+6225;23;12;12;D;Orquesta;ABANICO;Bueu;Pontevedra
+6285;23;12;12;D;Grupo;AMERICA SL;Marcón, Pontevedra;Pontevedra
+5974;23;12;12;D;Orquesta;OLYMPUS RED TOUR;Negreira;A Coruña
+6256;23;12;12;D;Solista;HUGO TORREIRO;Negreira;A Coruña
+6230;23;12;12;D;Orquesta;PANAMA;S.F. La Luna, Cerponzóns;Pontevedra
+5748;23;12;12;D;Orquesta;ISRAEL;S.F. La Reina, Sanguiñeda;Pontevedra
+6123;23;12;12;D;Orquesta;PONTEVEDRA;S.F. La Reina, Sanguiñeda;Pontevedra
+6014;23;12;12;D;Grupo;TEKILA;S.F. Nova Exágono, Lugo;Lugo
+5908;23;12;12;D;Orquesta;MARBELLA;S.F. Paulino, O Carballiño;Ourense
+6244;25;12;12;M;Dúo;CALÚ;A Laracha;A Coruña
+6147;25;12;12;M;Orquesta;PARIS DE NOIA;As Pontes de García Rodríguez;A Coruña
+6206;25;12;12;M;Orquesta;LOS ESPAÑOLES;Bueu;Pontevedra
+6220;25;12;12;M;Orquesta;MARBELLA;S.F. La Luna, Cerponzóns;Pontevedra
+6117;25;12;12;M;Orquesta;SOLARA;S.F. La Reina, Sanguiñeda;Pontevedra
+6226;25;12;12;M;Orquesta;ABANICO;S.F. Mami, A Manchica;Ourense
+5990;25;12;12;M;Orquesta;PANORAMA;S.F. Nova Exágono, Lugo;Lugo
+5976;25;12;12;M;Orquesta;OLYMPUS RED TOUR;S.F. Paulino, O Carballiño;Ourense
+5755;25;12;12;M;Orquesta;COMPOSTELA;S.F. Rosalar, Ribadeo;Lugo
+5909;26;12;12;X;Orquesta;MARBELLA;A Canicouva, Pontevedra;Pontevedra
+6358;26;12;12;X;Orquesta;OLYMPUS RED TOUR;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+5956;26;12;12;X;Orquesta;CHARLESTON BIG-BAND;Cans, O Porriño;Pontevedra
+5960;26;12;12;X;Orquesta;PALLADIUM;Cans, O Porriño;Pontevedra
+5886;26;12;12;X;Orquesta;GRAN PARADA;Landeira, Negreira;A Coruña
+6066;26;12;12;X;Orquesta;MARAZUL;Noalla, Sanxenxo;Pontevedra
+6167;26;12;12;X;Orquesta;PONTEVEDRA;Tremoedo, Vilanova de Arousa;Pontevedra
+6200;26;12;12;X;Orquesta;TREBOL;Treos, Vimianzo;A Coruña
+6204;26;12;12;X;Orquesta;ISRAEL;Treos, Vimianzo;A Coruña
+5673;27;12;12;J;Orquesta;GRAN PARADA;Cans, O Porriño;Pontevedra
+6330;28;12;12;V;Orquesta;CAPITOL;A Lagoa, Vimianzo;A Coruña
+6260;28;12;12;V;Orquesta;COSTA BLANCA;Avenida de Beiramar, 251, Vigo;Pontevedra
+6320;28;12;12;V;Orquesta;OLYMPUS RED TOUR;Baio, Zas;A Coruña
+5991;28;12;12;V;Orquesta;PANORAMA;Cangas, Foz;Lugo
+6246;28;12;12;V;Orquesta;TELEVISIÓN;Estrada Pavillon, Narón;A Coruña
+6034;28;12;12;V;Orquesta;PALLADIUM;Ferrol;A Coruña
+6064;28;12;12;V;Orquesta;LOS SATÉLITES;Loureda, Cesuras;A Coruña
+5910;28;12;12;V;Orquesta;MARBELLA;Nogueira, Leiro;Ourense
+6053;28;12;12;V;Orquesta;PANAMA;Pasarela, Vimianzo;A Coruña
+6085;28;12;12;V;Orquesta;PARIS DE NOIA;Ponte Carreira, Frades;A Coruña
+5926;28;12;12;V;Orquesta;CINEMA;Silleda;Pontevedra
+6198;28;12;12;V;Dúo;D´CACHE;Viveiro;Lugo
+5750;29;12;12;S;Orquesta;ISRAEL;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+5756;29;12;12;S;Orquesta;COMPOSTELA;Avenida de Beiramar, 251, Vigo;Pontevedra
+6086;29;12;12;S;Orquesta;PARIS DE NOIA;Avenida de Manuel Lemos, 24, A Ramallosa, Nigrán;Pontevedra
+6199;29;12;12;S;Dúo;D´CACHE;Barcia, Ribeira de Piquín;Lugo
+6158;29;12;12;S;Grupo;ASSIA;Gijón;Asturias
+6208;29;12;12;S;Orquesta;PRINCIPAL;Loureda, Cesuras;A Coruña
+6031;29;12;12;S;Orquesta;CINEMA;Ponteareas;Pontevedra
+6140;29;12;12;S;Orquesta;LOS TROVADORES;Restaurante El Pantano, Abegondo;A Coruña
+5977;29;12;12;S;Orquesta;OLYMPUS RED TOUR;S.F. La Luna, Cerponzóns;Pontevedra
+5992;29;12;12;S;Orquesta;PANORAMA;S.F. La Reina, Sanguiñeda;Pontevedra
+6107;29;12;12;S;Orquesta;TELEVISIÓN;S.F. Rosalar, Ribadeo;Lugo
+6279;29;12;12;S;Dúo;ECLIPSE;Sarria;Lugo
+5887;29;12;12;S;Orquesta;GRAN PARADA;Silleda;Pontevedra
+5911;29;12;12;S;Orquesta;MARBELLA;Silleda;Pontevedra
+6292;29;12;12;S;Dúo;CALÚ;Torres, Vilarmaior;A Coruña
+5888;30;12;12;D;Orquesta;GRAN PARADA;Av Bierzo, 91, Dehesas;León
+5757;30;12;12;D;Orquesta;COMPOSTELA;Avenida de Beiramar, 251, Vigo;Pontevedra
+6098;30;12;12;D;Orquesta;TREBOL;Bueu;Pontevedra
+6153;30;12;12;D;Grupo;CLAXXON;O Porriño;Pontevedra
+6056;30;12;12;D;Orquesta;PONTEVEDRA;S.F. Chanteclair, Pontecesures;Pontevedra
+6125;30;12;12;D;Orquesta;CAPITOL;S.F. La Reina, Sanguiñeda;Pontevedra
+6126;30;12;12;D;Orquesta;MIRAMAR;S.F. La Reina, Sanguiñeda;Pontevedra
+6311;30;12;12;D;Orquesta;SUAVECITO;S.F. Mami, A Manchica;Ourense
+6108;30;12;12;D;Orquesta;TELEVISIÓN;S.F. Zeus, Campolongo;A Coruña
+5934;30;12;12;D;Orquesta;PARIS DE NOIA;Silleda;Pontevedra
+5935;30;12;12;D;Orquesta;PANORAMA;Silleda;Pontevedra
+5861;31;12;12;L;Grupo;KALIMA 3.0;A Coruña;A Coruña
+6287;31;12;12;L;Orquesta;ACORDES;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+6057;31;12;12;L;Orquesta;PALLADIUM;Avenida de Ramón Nieto, 367, Vigo;Pontevedra
+6233;31;12;12;L;Grupo;SAMBA;Avenida Malpica, 125, Carballo;A Coruña
+6109;31;12;12;L;Orquesta;TELEVISIÓN;Chaves;Portugal
+6307;31;12;12;L;Grupo;ALKAR;Cubillos del Sil;León
+6344;31;12;12;L;Solista;PILI PAMPÍN;Especial Fin de Año TVG;A Coruña
+6280;31;12;12;L;Orquesta;PANAMA;Estrada Pavillon, Narón;A Coruña
+5844;31;12;12;L;Dúo;D´CACHE;Gontá, Palas de Rei;Lugo
+6015;31;12;12;L;Grupo;TEKILA;Laviana;Asturias
+6324;31;12;12;L;Orquesta;METRÓPOLIS;Mesón do Vento, Ordes;A Coruña
+6008;31;12;12;L;Dúo;ECLIPSE;Monforte de Lemos;Lugo
+6242;31;12;12;L;Orquesta;PONTEVEDRA;Mourente, Pontevedra;Pontevedra
+6329;31;12;12;L;Orquesta;CAPITOL;Mugardos;A Coruña
+5889;31;12;12;L;Orquesta;GRAN PARADA;Noia;A Coruña
+6160;31;12;12;L;Grupo;ASSIA;Oviedo;Asturias
+6227;31;12;12;L;Orquesta;ABANICO;Ponferrada;León
+6099;31;12;12;L;Orquesta;TREBOL;Praza Maior, Lugo;Lugo
+6267;31;12;12;L;Orquesta;SOLARA;Praza Maior, Ourense;Ourense
+5993;31;12;12;L;Orquesta;PANORAMA;Redondela;Pontevedra
+5912;31;12;12;L;Orquesta;MARBELLA;Restaurante El Pantano, Abegondo;A Coruña
+6141;31;12;12;L;Orquesta;LOS TROVADORES;Restaurante El Pantano, Abegondo;A Coruña
+6065;31;12;12;L;Orquesta;LOS SATÉLITES;Restaurante Os Paraguas, Carral;A Coruña
+6054;31;12;12;L;Grupo;ATENAS;Ribadavia;Ourense
+5958;31;12;12;L;Orquesta;CHARLESTON BIG-BAND;S.F. Chanteclair, Pontecesures;Pontevedra
+5978;31;12;12;L;Orquesta;OLYMPUS RED TOUR;S.F. La Concha, O Val;A Coruña
+6169;31;12;12;L;Grupo;AMÉRICA DE VIGO;S.F. Mami, A Manchica;Ourense
+6087;31;12;12;L;Orquesta;PARIS DE NOIA;S.F. Nova Exágono, Lugo;Lugo
+6128;31;12;12;L;Orquesta;MIRAMAR;S.F. Paulino, O Carballiño;Ourense
+6228;31;12;12;L;Orquesta;CINEMA;S.F. Rosalar, Ribadeo;Lugo
+6258;31;12;12;L;Solista;HUGO TORREIRO;Santiago de Compostela;A Coruña
+6262;31;12;12;L;Orquesta;ISRAEL;Santiago de Compostela;A Coruña
+6315;31;12;12;L;Orquesta;SUAVECITO;Vilalonga, Sanxenxo;Pontevedra

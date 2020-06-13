@@ -1,15 +1,15 @@
-114793;1;11;20;D;Solista;XILO;Pontedeume;A Coruña
-114835;6;11;20;V;Solista;XILO;Cervecería Campo García, Meirás;A Coruña
-114836;7;11;20;S;Solista;XILO;Lorbé, Oleiros;A Coruña
-114850;8;11;20;D;Solista;XILO;A Ponte de Mera, Ortigueira;A Coruña
-114772;13;11;20;V;Solista;XILO;Cervecería La Terraza, O Temple, Cambre;A Coruña
-115114;13;11;20;V;Trío;KARMA;Pub La Terraza, Ordes;A Coruña
-114773;14;11;20;S;Solista;XILO;Cervecería La Terraza, O Temple, Cambre;A Coruña
-115698;14;11;20;S;Charanga;CLK;Mugueimes, Muíños;Ourense
-114825;20;11;20;V;Solista;XILO;Catabois, Ferrol;A Coruña
-114840;21;11;20;S;Solista;XILO;Restaurante La Torre, Tabeaio, Carral;A Coruña
-115500;22;11;20;D;Trío;KARMA;Malpica de Bergantiños;A Coruña
-114841;22;11;20;D;Solista;XILO;Restaurante La Torre, Tabeaio, Carral;A Coruña
-114779;27;11;20;V;Solista;XILO;Pub La Terraza, Ordes;A Coruña
-115133;28;11;20;S;Grupo;ARENA;Cruce de Arinaga, Agüimes;Las Palmas
-114782;28;11;20;S;Solista;XILO;Hotel Narón, Narón;A Coruña
+114793;1;11;20;D;Solista;XILO;Pontedeume;A CoruÃ±a
+114835;6;11;20;V;Solista;XILO;CervecerÃ­a Campo GarcÃ­a, MeirÃ¡s;A CoruÃ±a
+114836;7;11;20;S;Solista;XILO;LorbÃ©, Oleiros;A CoruÃ±a
+114850;8;11;20;D;Solista;XILO;A Ponte de Mera, Ortigueira;A CoruÃ±a
+114772;13;11;20;V;Solista;XILO;CervecerÃ­a La Terraza, O Temple, Cambre;A CoruÃ±a
+115114;13;11;20;V;TrÃ­o;KARMA;Pub La Terraza, Ordes;A CoruÃ±a
+114773;14;11;20;S;Solista;XILO;CervecerÃ­a La Terraza, O Temple, Cambre;A CoruÃ±a
+115698;14;11;20;S;Charanga;CLK;Mugueimes, MuÃ­Ã±os;Ourense
+114825;20;11;20;V;Solista;XILO;Catabois, Ferrol;A CoruÃ±a
+114840;21;11;20;S;Solista;XILO;Restaurante La Torre, Tabeaio, Carral;A CoruÃ±a
+115500;22;11;20;D;TrÃ­o;KARMA;Malpica de BergantiÃ±os;A CoruÃ±a
+114841;22;11;20;D;Solista;XILO;Restaurante La Torre, Tabeaio, Carral;A CoruÃ±a
+114779;27;11;20;V;Solista;XILO;Pub La Terraza, Ordes;A CoruÃ±a
+115133;28;11;20;S;Grupo;ARENA;Cruce de Arinaga, AgÃ¼imes;Las Palmas
+114782;28;11;20;S;Solista;XILO;Hotel NarÃ³n, NarÃ³n;A CoruÃ±a

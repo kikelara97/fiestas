@@ -1,0 +1,660 @@
+82402;1;2;18;J;Charanga;LOS TÁMEGA;Verín;Ourense
+82174;1;2;18;J;Charanga;MIL9;Viana do Bolo;Ourense
+82831;2;2;18;V;Solista;BEGOÑA GARCÍA;A Coruña;A Coruña
+82459;2;2;18;V;Grupo;PEKADOS;Biobra, Rubiá;Ourense
+82138;2;2;18;V;Charanga;CASTRO BELLO;Cardelle, Boborás;Ourense
+82673;2;2;18;V;Grupo;RADAR;Celadilla del Páramo, Villadangos del Páramo;León
+82632;2;2;18;V;Orquesta;LA OLA ADN;Córgomo, Vilamartín de Valdeorras;Ourense
+82574;2;2;18;V;Orquesta;EL COMBO DOMINICANO;Discoteca Dn7, Fuerteventura;Las Palmas
+82817;2;2;18;V;Grupo;TEKILA;Discoteca Habana 75, Lalín;Pontevedra
+82813;2;2;18;V;Orquesta;NEW YORK;Discoteca Zouk, Lugo;Lugo
+82060;2;2;18;V;Orquesta;GÉNESIS;Geria;Valladolid
+82903;2;2;18;V;Grupo;KALIMA 3.0;Landrove, Viveiro;Lugo
+82380;2;2;18;V;Orquesta;LOS SATÉLITES;Plató 1000, Teo;A Coruña
+82001;2;2;18;V;Grupo;PUNTO CLAVE;Pub Aki, Sarria;Lugo
+82487;2;2;18;V;Orquesta;RITMO JOVEN;Rúa, Cervo;Lugo
+82488;2;2;18;V;Orquesta;CAPITOL;Rúa, Cervo;Lugo
+80961;2;2;18;V;Solista;XILO;Sada;A Coruña
+82738;2;2;18;V;Grupo;GARIBALDI;San Millán de los Caballeros;León
+82306;2;2;18;V;Orquesta;PARIS DE NOIA;San Salvador de Budiño, O Porriño;Pontevedra
+82307;2;2;18;V;Orquesta;GRAN PARADA;San Salvador de Budiño, O Porriño;Pontevedra
+82491;2;2;18;V;Orquesta;OLYMPUS RED TOUR;Serres, Muros;A Coruña
+82492;2;2;18;V;Disco Móvil;CDC;Serres, Muros;A Coruña
+82678;2;2;18;V;Orquesta;MARBELLA;Verducido de Xeve, Pontevedra;Pontevedra
+82866;2;2;18;V;Dúo;EXPLOSIÓN;Vigo;Pontevedra
+82116;2;2;18;V;Orquesta;LA OCABAND;Vilaxoane, Foz;Lugo
+82832;3;2;18;S;Solista;BEGOÑA GARCÍA;A Coruña;A Coruña
+82651;3;2;18;S;Dúo;CHARADA;A Pobra do Caramiñal;A Coruña
+82464;3;2;18;S;Charanga;FUEGO;A Rasela, Verín;Ourense
+82372;3;2;18;S;Orquesta;ESSENCIA;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+82499;3;2;18;S;Charanga;CASTRO BELLO;As Curuxeiras, Ourense;Ourense
+82580;3;2;18;S;Orquesta;ISRAEL;As Curuxeiras, Ourense;Ourense
+82292;3;2;18;S;Grupo;CLAXXON;Barrio de San Francisco, Puebla de Sanabria;Zamora
+82613;3;2;18;S;Orquesta;GRAN PARADA;Bembibre;León
+82062;3;2;18;S;Orquesta;GÉNESIS;Burgos;Burgos
+82725;3;2;18;S;Grupo;AMÉRICA DE VIGO;Burgueira, Oia;Pontevedra
+82795;3;2;18;S;Orquesta;CAPITOL;Burgueira, Oia;Pontevedra
+82181;3;2;18;S;Orquesta;SANTIAGO D.C.;Cabeiras, Arbo;Pontevedra
+82739;3;2;18;S;Grupo;GARIBALDI;Campazas;León
+82590;3;2;18;S;Orquesta;RITMO JOVEN;Carracedo, A Peroxa;Ourense
+82522;3;2;18;S;Grupo;NEBRASKA;Carrizo de la Ribera;León
+82789;3;2;18;S;Charanga;BB+;Castrelos, Vigo;Pontevedra
+82865;3;2;18;S;Grupo;RADAR;Castrofuerte, Villaornate y Castro;León
+82674;3;2;18;S;Orquesta;VERSIÓN ORIGINAL;Celadilla del Páramo, Villadangos del Páramo;León
+82075;3;2;18;S;Orquesta;SALSARENA;Centro Cívico de Cangas, Foz;Lugo
+82343;3;2;18;S;Orquesta;ABANICO;Corzáns, Salvaterra de Miño;Pontevedra
+82414;3;2;18;S;Orquesta;SAUDADE;Corzáns, Salvaterra de Miño;Pontevedra
+82340;3;2;18;S;Orquesta;NEW YORK;Discoteca Nova Slava, Cee;A Coruña
+82718;3;2;18;S;Orquesta;PARIS DE NOIA;Discoteca Pazos, Laracha;A Coruña
+82702;3;2;18;S;Trío;LA NOCHE DO GROVE;Faramontaos, Carballeda de Avia;Ourense
+82877;3;2;18;S;Grupo;ASSIA;Fuentes de Béjar;Salamanca
+82287;3;2;18;S;Dúo;D´ASES;La Colmena, Narón;A Coruña
+82905;3;2;18;S;Dúo;CARAMELO;Landrove, Viveiro;Lugo
+82549;3;2;18;S;Orquesta;FANIA BLANCO SHOW;Lorbé, Oleiros;A Coruña
+82668;3;2;18;S;Orquesta;CHARLESTON BIG-BAND;Magdalena, Cangas;Pontevedra
+82901;3;2;18;S;Orquesta;PASSARELA;Magdalena, Cangas;Pontevedra
+82679;3;2;18;S;Orquesta;MARBELLA;Mañufe, Gondomar;Pontevedra
+82778;3;2;18;S;Dúo;ECLIPSE;Mesón do Loyo, Paradela;Lugo
+82418;3;2;18;S;Dúo;DE LA CRUZ SHOW;Noia;A Coruña
+72451;3;2;18;S;Grupo;PUNTO CLAVE;O Corgo;Lugo
+82419;3;2;18;S;Grupo;ALKAR;Os Ánxeles, Brión;A Coruña
+82200;3;2;18;S;Disco Móvil;BOA FESTA;Outarelo, O Barco de Valdeorras;Ourense
+82569;3;2;18;S;Orquesta;TRIUNFO;Palleirós, Manzaneda;Ourense
+82106;3;2;18;S;Dúo;CHIC;Paradela;Lugo
+82365;3;2;18;S;Orquesta;TOKIO;Paredes, Ponteareas;Pontevedra
+82628;3;2;18;S;Grupo;NUEVA FUERZA;Parque Santa Catalina, Las Palmas;Las Palmas
+81685;3;2;18;S;Orquesta;SOLARA;Pazo de Mos, Mos;Pontevedra
+82485;3;2;18;S;Grupo;CANELA;Pazo de Mos, Mos;Pontevedra
+82173;3;2;18;S;Dúo;EXPLOSIÓN;Ponferrada;León
+81116;3;2;18;S;Charanga;MIL9;Pontevedra;Pontevedra
+82762;3;2;18;S;Orquesta;EL COMBO DOMINICANO;Puntagorda, La Palma;Tenerife
+82423;3;2;18;S;Orquesta;MIRAMAR;Restaurante Casa Peizas, A Capela;A Coruña
+82855;3;2;18;S;Grupo;TEKILA;Riberas, Soto del Barco;Asturias
+82489;3;2;18;S;Orquesta;COMPOSTELA;Rúa, Cervo;Lugo
+82490;3;2;18;S;Orquesta;PANAMA;Rúa, Cervo;Lugo
+82143;3;2;18;S;Trío;XTRA;Rubiós, As Neves;Pontevedra
+82159;3;2;18;S;Grupo;AMERICA SL;Rubiós, As Neves;Pontevedra
+82806;3;2;18;S;Grupo;ARAMIO;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
+82140;3;2;18;S;Orquesta;LA OLA ADN;S.F. Josfer, Mesón do Vento;A Coruña
+81797;3;2;18;S;Orquesta;LA FÓRMULA;S.F. La Flor, Montouto;A Coruña
+82117;3;2;18;S;Orquesta;LA OCABAND;S.F. Rosalar, Ribadeo;Lugo
+82147;3;2;18;S;Orquesta;OLYMPUS RED TOUR;S.F. Universo, Santa Comba;A Coruña
+80963;3;2;18;S;Solista;XILO;Sada;A Coruña
+82524;3;2;18;S;Grupo;FAMA;San Blas, Tapia de Casariego;Asturias
+82735;3;2;18;S;Orquesta;IPANEMA;San Blas, Viñas;Zamora
+82397;3;2;18;S;Charanga;EUROPA;San Cibrao de Las, San Amaro;Ourense
+82153;3;2;18;S;Charanga;TNT;San Cristovo de Reis, Teo;A Coruña
+81517;3;2;18;S;Orquesta;LA FAVORITA;San Millán de los Caballeros;León
+82841;3;2;18;S;Dúo;ESTRELLAS;San Pantaleón das Viñas, Paderne;A Coruña
+82308;3;2;18;S;Orquesta;TELEVISIÓN;San Salvador de Budiño, O Porriño;Pontevedra
+82309;3;2;18;S;Orquesta;LOS SATÉLITES;San Salvador de Budiño, O Porriño;Pontevedra
+82552;3;2;18;S;Solista;AIXA ROMAY;Santa Cecilia, Narón;A Coruña
+82243;3;2;18;S;Disco Móvil;IMPACTO;Santirso, Malpica de Bergantiños;A Coruña
+82242;3;2;18;S;Solista;JUDITH CUNDÍNS;Santirso, Malpica de Bergantiños;A Coruña
+81153;3;2;18;S;Orquesta;CINEMA;Sar, Santiago de Compostela;A Coruña
+82089;3;2;18;S;Grupo;ATENAS;Sendelle, Boimorto;A Coruña
+81453;3;2;18;S;Trío;SINTONÍA;Sigüeiro, Oroso;A Coruña
+82059;3;2;18;S;Orquesta;GRAN CASINO;Tabagón, O Rosal;Pontevedra
+82160;3;2;18;S;Orquesta;NEVADA;Tabagón, O Rosal;Pontevedra
+81631;3;2;18;S;Orquesta;FURIA JOVEN;Tejeda;Las Palmas
+82887;3;2;18;S;Orquesta;METRÓPOLIS;Valdoviño;A Coruña
+82593;3;2;18;S;Orquesta;PONTEVEDRA;Vega de Ouria, Boal;Asturias
+82177;3;2;18;S;Orquesta;DOMINÓ;Veganzones;Segovia
+82750;3;2;18;S;Orquesta;XACOBEO;Verducido de Xeve, Pontevedra;Pontevedra
+82452;3;2;18;S;Orquesta;LOS TROVADORES;Vilanova, A Pobra de Trives;Ourense
+82553;3;2;18;S;Solista;AIXA ROMAY;Vilar do Colo, Fene;A Coruña
+82695;3;2;18;S;Orquesta;PRINCIPAL;Vilariño, O Barco de Valdeorras;Ourense
+82656;3;2;18;S;Grupo;D´MODA;Vilariño, Teo;A Coruña
+81589;3;2;18;S;Charanga;MANÍA;Xinzo de Limia;Ourense
+81660;3;2;18;S;Trío;SINTONÍA;Zas;A Coruña
+82621;3;2;18;S;Dúo;KARMÍN;Zas;A Coruña
+82217;4;2;18;D;Trío;SINTONÍA;Angrois, Santiago de Compostela;A Coruña
+82650;4;2;18;D;Dúo;CHARADA;Brión;A Coruña
+82338;4;2;18;D;Dúo;EXPLOSIÓN;Bueu;Pontevedra
+82704;4;2;18;D;Trío;LA NOCHE DO GROVE;Carracedo, A Peroxa;Ourense
+82719;4;2;18;D;Orquesta;PARIS DE NOIA;Discoteca Habana 75, Lalín;Pontevedra
+82447;4;2;18;D;Orquesta;SAUDADE;Laroá, Xinzo de Limia;Ourense
+82696;4;2;18;D;Orquesta;OLYMPUS RED TOUR;Magdalena, Cangas;Pontevedra
+82757;4;2;18;D;Grupo;ACIREMA;Marcón, Pontevedra;Pontevedra
+82235;4;2;18;D;Solista;JUDITH CUNDÍNS;Neaño, Cabana de Bergantiños;A Coruña
+82415;4;2;18;D;Dúo;DE LA CRUZ SHOW;Noia;A Coruña
+82201;4;2;18;D;Disco Móvil;BOA FESTA;Outarelo, O Barco de Valdeorras;Ourense
+82636;4;2;18;D;Orquesta;ARMONÍA SHOW;Parque Santa Catalina, Las Palmas;Las Palmas
+82763;4;2;18;D;Orquesta;EL COMBO DOMINICANO;Puntagorda, La Palma;Tenerife
+81553;4;2;18;D;Orquesta;ABANICO;Rúa, Cervo;Lugo
+81686;4;2;18;D;Orquesta;SOLARA;S.F. Chamán, Goián;Pontevedra
+82814;4;2;18;D;Orquesta;NEW YORK;S.F. La Reina, Sanguiñeda;Pontevedra
+82453;4;2;18;D;Orquesta;LOS TROVADORES;S.F. Velvet, Monçao;Portugal
+82154;4;2;18;D;Charanga;TNT;San Cristovo de Reis, Teo;A Coruña
+82310;4;2;18;D;Orquesta;MARBELLA;San Salvador de Budiño, O Porriño;Pontevedra
+82311;4;2;18;D;Orquesta;MIRAMAR;San Salvador de Budiño, O Porriño;Pontevedra
+82554;4;2;18;D;Solista;AIXA ROMAY;Santa Cecilia, Narón;A Coruña
+82550;4;2;18;D;Orquesta;FANIA BLANCO SHOW;Santirso, Malpica de Bergantiños;A Coruña
+82807;4;2;18;D;Grupo;ARAMIO;Verín;Ourense
+82885;4;2;18;D;Dúo;ESTRELLAS;Vilariño, O Barco de Valdeorras;Ourense
+82751;4;2;18;D;Orquesta;XACOBEO;Vilariño, Teo;A Coruña
+82065;4;2;18;D;Dúo;D´ASES;Viós, Abegondo;A Coruña
+82732;8;2;18;J;Grupo;TEKILA;Café Teatro Première, Pola de Siero;Asturias
+82878;8;2;18;J;Grupo;ASSIA;S.F. Acapulco, Gijón;Asturias
+81063;8;2;18;J;Charanga;MIL9;Verín;Ourense
+82313;8;2;18;J;Charanga;EUROPA;Verín;Ourense
+82399;8;2;18;J;Orquesta;GRAN PARADA;Verín;Ourense
+82400;8;2;18;J;Charanga;LOS TÁMEGA;Verín;Ourense
+82401;8;2;18;J;Charanga;VA K PINTA;Verín;Ourense
+82779;8;2;18;J;Dúo;ECLIPSE;Viana do Bolo;Ourense
+82207;9;2;18;V;Charanga;CANTOS SOMOS;A Guarda;Pontevedra
+82915;9;2;18;V;Trío;D´NIKA MUSIC;Benade, Lugo;Lugo
+82985;9;2;18;V;Charanga;SANTA COMPAÑA;Cambre;A Coruña
+81410;9;2;18;V;Grupo;PUNTO CLAVE;Cedrón, Láncara;Lugo
+82856;9;2;18;V;Grupo;TEKILA;Ciaño, Langreo;Asturias
+82815;9;2;18;V;Orquesta;NEW YORK;Discoteca Habana 75, Lalín;Pontevedra
+82956;9;2;18;V;Disco Móvil;ALEFRAN;Fresno de la Ribera;Zamora
+82326;9;2;18;V;Orquesta;FURIA JOVEN;Gáldar;Las Palmas
+82697;9;2;18;V;Orquesta;OLYMPUS RED TOUR;Lobios Caldaria Hotel Balneario, Lobios;Ourense
+82936;9;2;18;V;Solista;XILO;Mercado de las Conchiñas, A Coruña;A Coruña
+81586;9;2;18;V;Dúo;ESTRELLAS;Momán, Xermade;Lugo
+82381;9;2;18;V;Orquesta;LOS SATÉLITES;Negreira;A Coruña
+82645;9;2;18;V;Dúo;CHARADA;Noia;A Coruña
+82513;9;2;18;V;Orquesta;CINEMA;O Freixo, Outes;A Coruña
+82924;9;2;18;V;Disco Móvil;CDC MINIDISC;O Freixo, Outes;A Coruña
+82726;9;2;18;V;Grupo;AMÉRICA DE VIGO;O Porriño;Pontevedra
+80978;9;2;18;V;Solista;XILO;Os Condes, Bergondo;A Coruña
+82294;9;2;18;V;Charanga;MEKANIKA;Ourense;Ourense
+82637;9;2;18;V;Orquesta;ARMONÍA SHOW;Parque Santa Catalina, Las Palmas;Las Palmas
+82910;9;2;18;V;Dúo;CALÚ;Pub Momo, Carral;A Coruña
+82420;9;2;18;V;Grupo;ALKAR;Rarís, Teo;A Coruña
+82785;9;2;18;V;Grupo;FAMA;Residencia Alvi Beade;Pontevedra
+82357;9;2;18;V;Orquesta;EL COMBO DOMINICANO;S.F. Dona Dana, Touro;A Coruña
+82720;9;2;18;V;Orquesta;PARIS DE NOIA;S.F. Zeus, Campolongo;A Coruña
+82258;9;2;18;V;Trío;SINTONÍA;Sada;A Coruña
+82879;9;2;18;V;Grupo;ASSIA;Tazones, Villaviciosa;Asturias
+82376;9;2;18;V;Orquesta;CICLOMANÍA;Torres, Vilarmaior;A Coruña
+82494;9;2;18;V;Grupo;CLAXXON;Verín;Ourense
+82644;10;2;18;S;Dúo;CHARADA;A Boliña, Boiro;A Coruña
+82916;10;2;18;S;Trío;D´NIKA MUSIC;A Pastoriza;Lugo
+82755;10;2;18;S;Dúo;KARMÍN;A Ponte do Porto, Camariñas;A Coruña
+82440;10;2;18;S;Grupo;NEBRASKA;Argujillo;Zamora
+82982;10;2;18;S;Disco Móvil;SONORA MUSIC;Aríns, Santiago de Compostela;A Coruña
+82555;10;2;18;S;Solista;AIXA ROMAY;Armentón, Arteixo;A Coruña
+82999;10;2;18;S;Disco Móvil;MAYGON;Barallobre, Fene;A Coruña
+82155;10;2;18;S;Charanga;TNT;Cacheiras, Teo;A Coruña
+82237;10;2;18;S;Solista;JUDITH CUNDÍNS;Callobre, Miño;A Coruña
+80601;10;2;18;S;Dúo;CHIC;Cambados;Pontevedra
+82495;10;2;18;S;Grupo;CLAXXON;Cangas del Narcea;Asturias
+81815;10;2;18;S;Orquesta;LA FAVORITA;Carballido, Vilalba;Lugo
+82324;10;2;18;S;Charanga;SANTA COMPAÑA;Cariño;A Coruña
+82573;10;2;18;S;Orquesta;CICLOMANÍA;Cariño;A Coruña
+82322;10;2;18;S;Orquesta;GÉNESIS;Carrión de los Condes;Palencia
+82808;10;2;18;S;Grupo;ARAMIO;Casino de Ribadavia, Ribadavia;Ourense
+82605;10;2;18;S;Charanga;MANÍA;Catedral de León;León
+82889;10;2;18;S;Orquesta;LA OCABAND;Cedeira;A Coruña
+82585;10;2;18;S;Orquesta;COMPOSTELA;Celanova;Ourense
+82880;10;2;18;S;Grupo;ASSIA;Circulo de las Artes, Lugo;Lugo
+82703;10;2;18;S;Grupo;D´MODA;Ciudad Rodrigo;Salamanca
+82925;10;2;18;S;Disco Móvil;CDC MINIDISC;Corcubión;A Coruña
+82955;10;2;18;S;Disco Móvil;ALEFRAN;Coreses;Zamora
+82945;10;2;18;S;Grupo;PUNTO CLAVE;Disco Cota 960, A Fonsagrada;Lugo
+82698;10;2;18;S;Orquesta;OLYMPUS RED TOUR;Discoteca Hermo, Muimenta;Lugo
+82413;10;2;18;S;Orquesta;NEW YORK;Discoteca Pazos, Laracha;A Coruña
+81990;10;2;18;S;Dúo;ESTRELLAS;Ferreiravella, Riotorto;Lugo
+82205;10;2;18;S;Dúo;EXPLOSIÓN;Francos, Castro de Rei;Lugo
+82857;10;2;18;S;Grupo;TEKILA;Gijón;Asturias
+82676;10;2;18;S;Grupo;AMERICA SL;Isla de Arosa;Pontevedra
+82796;10;2;18;S;Orquesta;CAPITOL;La Colmena, Narón;A Coruña
+82546;10;2;18;S;Orquesta;SANTIAGO D.C.;Liceo de Noia, Noia;A Coruña
+82327;10;2;18;S;Orquesta;FURIA JOVEN;Los Llanos, La Palma;Tenerife
+82638;10;2;18;S;Orquesta;ARMONÍA SHOW;Los Llanos, La Palma;Tenerife
+82601;10;2;18;S;Charanga;MANÍA;Mayorga;Valladolid
+82780;10;2;18;S;Dúo;ECLIPSE;Mesón do Loyo, Paradela;Lugo
+82764;10;2;18;S;Orquesta;NEVADA;Miño;A Coruña
+82922;10;2;18;S;Disco Móvil;CDC;Muxía;A Coruña
+82752;10;2;18;S;Orquesta;XACOBEO;Negreira;A Coruña
+82835;10;2;18;S;Dúo;DE LA CRUZ SHOW;Noia;A Coruña
+82932;10;2;18;S;Charanga;CANTOS SOMOS;O Porriño;Pontevedra
+82521;10;2;18;S;Orquesta;RITMO JOVEN;O Porto de Corme, Ponteceso;A Coruña
+82969;10;2;18;S;Grupo;ATENAS;Ortigueira;A Coruña
+80980;10;2;18;S;Solista;XILO;Os Condes, Bergondo;A Coruña
+82314;10;2;18;S;Charanga;EUROPA;Ourense;Ourense
+82428;10;2;18;S;Charanga;CASTRO BELLO;Ourense;Ourense
+82727;10;2;18;S;Grupo;AMÉRICA DE VIGO;Praza Maior, Ourense;Ourense
+82503;10;2;18;S;Trío;XTRA;Presqueiras, Forcarei;Pontevedra
+82976;10;2;18;S;Charanga;NBA;Puebla de Sanabria;Zamora
+82421;10;2;18;S;Grupo;ALKAR;Quireza, Cerdedo;Pontevedra
+82669;10;2;18;S;Orquesta;CHARLESTON BIG-BAND;Quireza, Cerdedo;Pontevedra
+82375;10;2;18;S;Orquesta;ABANICO;Recreo Artístico Guardés, A Guarda;Pontevedra
+82288;10;2;18;S;Dúo;D´ASES;Redes, Ares;A Coruña
+82694;10;2;18;S;Orquesta;PRINCIPAL;Restaurante A Lagoa, Vimianzo;A Coruña
+82547;10;2;18;S;Grupo;FAMA;Restaurante Balcobo, Arteixo;A Coruña
+82382;10;2;18;S;Orquesta;LOS SATÉLITES;Restaurante El Pantano, Abegondo;A Coruña
+82906;10;2;18;S;Orquesta;TRIUNFO;Restaurante Louzao, Viveiro;Lugo
+82219;10;2;18;S;Charanga;OS CHARANGOS;Ribadeo;Lugo
+82295;10;2;18;S;Charanga;MEKANIKA;Ribadeo;Lugo
+81687;10;2;18;S;Orquesta;SOLARA;Ribeira;A Coruña
+82614;10;2;18;S;Orquesta;GRAN PARADA;S.F. Bahía, Foz;Lugo
+82353;10;2;18;S;Orquesta;EL COMBO DOMINICANO;S.F. Chanteclair, Pontecesures;Pontevedra
+82424;10;2;18;S;Orquesta;MIRAMAR;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
+82748;10;2;18;S;Orquesta;LA OLA ADN;S.F. Josfer, Mesón do Vento;A Coruña
+81798;10;2;18;S;Orquesta;CINEMA;S.F. La Flor, Montouto;A Coruña
+82373;10;2;18;S;Orquesta;ESSENCIA;S.F. La Reina, Sanguiñeda;Pontevedra
+82594;10;2;18;S;Orquesta;PONTEVEDRA;S.F. Paulino, O Carballiño;Ourense
+82058;10;2;18;S;Orquesta;GRAN CASINO;S.F. Rosalar, Ribadeo;Lugo
+82148;10;2;18;S;Orquesta;PARIS DE NOIA;S.F. Universo, Santa Comba;A Coruña
+82705;10;2;18;S;Trío;LA NOCHE DO GROVE;S.F. Velvet, Monçao;Portugal
+82607;10;2;18;S;Charanga;MANÍA;Sahagún;León
+82392;10;2;18;S;Charanga;MIL9;Santa Comba;A Coruña
+82740;10;2;18;S;Grupo;GARIBALDI;Santa Cristina de la Polvorosa;Zamora
+82606;10;2;18;S;Charanga;MANÍA;Santa María del Páramo;León
+82448;10;2;18;S;Orquesta;SAUDADE;Sociedad Cultural y Deportiva de Mourente, Pontevedra;Pontevedra
+82680;10;2;18;S;Orquesta;MARBELLA;Sociedad La Obrera, Ponferrada;León
+82868;10;2;18;S;Orquesta;LOS TROVADORES;Tapia de Casariego;Asturias
+82844;10;2;18;S;Orquesta;METRÓPOLIS;Troitosende, A Baña;A Coruña
+80330;10;2;18;S;Orquesta;FANIA BLANCO SHOW;Verín;Ourense
+82836;10;2;18;S;Charanga;FUEGO;Verín;Ourense
+82468;10;2;18;S;Solista;BEGOÑA GARCÍA;Viadeiro, Miño;A Coruña
+82141;10;2;18;S;Orquesta;ISRAEL;Vigo;Pontevedra
+82758;10;2;18;S;Grupo;ACIREMA;Vila Nova de Cerveira;Portugal
+81663;10;2;18;S;Trío;SINTONÍA;Vilalonga, Sanxenxo;Pontevedra
+82862;10;2;18;S;Orquesta;DOMINÓ;Villacastín;Segovia
+82581;11;2;18;D;Orquesta;ISRAEL;A Laracha;A Coruña
+82765;11;2;18;D;Orquesta;NEVADA;A Seca, Poio;Pontevedra
+82293;11;2;18;D;Charanga;SANTA COMPAÑA;Abegondo;A Coruña
+82715;11;2;18;D;Orquesta;ABANICO;Alameda, A Guarda;Pontevedra
+82238;11;2;18;D;Solista;JUDITH CUNDÍNS;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+82156;11;2;18;D;Charanga;TNT;Cacheiras, Teo;A Coruña
+82646;11;2;18;D;Dúo;CHARADA;Cambados;Pontevedra
+82296;11;2;18;D;Charanga;MEKANIKA;Carballo;A Coruña
+82622;11;2;18;D;Dúo;KARMÍN;Carral;A Coruña
+82786;11;2;18;D;Orquesta;LA OCABAND;Corvillón, Cambados;Pontevedra
+82854;11;2;18;D;Orquesta;NEW YORK;Corvillón, Cambados;Pontevedra
+82749;11;2;18;D;Dúo;ESTRELLAS;Espasante, Ortigueira;A Coruña
+82756;11;2;18;D;Dúo;CHIC;Espasante, Ortigueira;A Coruña
+82505;11;2;18;D;Orquesta;OLYMPUS RED TOUR;Fornelos, O Rosal;Pontevedra
+82506;11;2;18;D;Trío;MAGIKAL;Fornelos, O Rosal;Pontevedra
+82728;11;2;18;D;Grupo;AMÉRICA DE VIGO;Goián, Tomiño;Pontevedra
+82753;11;2;18;D;Orquesta;XACOBEO;Goián, Tomiño;Pontevedra
+82602;11;2;18;D;Charanga;MANÍA;La Bañeza;León
+82721;11;2;18;D;Orquesta;PARIS DE NOIA;La Bañeza;León
+82858;11;2;18;D;Grupo;TEKILA;La Corredoria, Oviedo;Asturias
+82946;11;2;18;D;Grupo;PUNTO CLAVE;Láncara;Lugo
+82315;11;2;18;D;Charanga;EUROPA;Laza;Ourense
+82407;11;2;18;D;Orquesta;CAPITOL;Laza;Ourense
+82408;11;2;18;D;Orquesta;COMPOSTELA;Laza;Ourense
+82469;11;2;18;D;Solista;BEGOÑA GARCÍA;Luarca, Valdés;Asturias
+81732;11;2;18;D;Trío;SINTONÍA;Malpica de Bergantiños;A Coruña
+82977;11;2;18;D;Charanga;NBA;Malpica de Bergantiños;A Coruña
+82654;11;2;18;D;Charanga;MANÍA;Mayorga;Valladolid
+82163;11;2;18;D;Charanga;SANTA COMPAÑA;Muros;A Coruña
+80922;11;2;18;D;Charanga;MIL9;O Eixo, Santiago de Compostela;A Coruña
+82374;11;2;18;D;Orquesta;ESSENCIA;Ourense;Ourense
+82429;11;2;18;D;Charanga;CASTRO BELLO;Ourense;Ourense
+82917;11;2;18;D;Trío;D´NIKA MUSIC;Outeiro de Rei;Lugo
+82480;11;2;18;D;Grupo;NUEVA FUERZA;Parque Santa Catalina, Las Palmas;Las Palmas
+82556;11;2;18;D;Solista;AIXA ROMAY;Pontecesures;Pontevedra
+82416;11;2;18;D;Dúo;DE LA CRUZ SHOW;Restande, Trazo;A Coruña
+82691;11;2;18;D;Solista;ROCÍO PÉREZ;Restande, Trazo;A Coruña
+82707;11;2;18;D;Grupo;ARAMIO;S.F. Chamán, Goián;Pontevedra
+82657;11;2;18;D;Grupo;D´MODA;S.F. La Luna, Cerponzóns;Pontevedra
+82455;11;2;18;D;Orquesta;LOS TROVADORES;S.F. La Reina, Sanguiñeda;Pontevedra
+82805;11;2;18;D;Orquesta;EL COMBO DOMINICANO;S.F. Morango K.N, Lugo;Lugo
+81499;11;2;18;D;Orquesta;SOLARA;S.F. Velvet, Monçao;Portugal
+82332;11;2;18;D;Charanga;OS CHARANGOS;Sada;A Coruña
+82525;11;2;18;D;Grupo;FAMA;Salceda de Caselas;Pontevedra
+82383;11;2;18;D;Orquesta;LOS SATÉLITES;Salcedo, A Pobra do Brollón;Lugo
+82425;11;2;18;D;Orquesta;MIRAMAR;Santa Cristina de Cobres, Vilaboa;Pontevedra
+82688;11;2;18;D;Grupo;PEKADOS;Santa Marta de Fixós, Lugo;Lugo
+82434;11;2;18;D;Orquesta;RITMO JOVEN;Sarreaus;Ourense
+82967;11;2;18;D;Orquesta;PRINCIPAL;Sarria;Lugo
+82441;11;2;18;D;Grupo;NEBRASKA;Seixalbo, Ourense;Ourense
+82435;11;2;18;D;Orquesta;GRAN PARADA;Taboada;Lugo
+82845;11;2;18;D;Orquesta;METRÓPOLIS;Troitosende, A Baña;A Coruña
+82837;11;2;18;D;Charanga;FUEGO;Verín;Ourense
+82677;11;2;18;D;Grupo;AMERICA SL;Verín;Ourense
+82681;11;2;18;D;Orquesta;MARBELLA;Verín;Ourense
+82449;11;2;18;D;Orquesta;SAUDADE;Vilarnaz, Coles;Ourense
+82741;11;2;18;D;Grupo;GARIBALDI;Villaverde de la Abadía, Carracedelo;León
+82790;11;2;18;D;Charanga;BB+;Xinzo de Limia;Ourense
+82623;12;2;18;L;Dúo;KARMÍN;A Barcala, Cambre;A Coruña
+82863;12;2;18;L;Orquesta;CHARLESTON BIG-BAND;A Feira, Salceda de Caselas;Pontevedra
+82970;12;2;18;L;Grupo;ATENAS;A Feira, Salceda de Caselas;Pontevedra
+82318;12;2;18;L;Charanga;EUROPA;Alameda, Ourense;Ourense
+82978;12;2;18;L;Charanga;NBA;Ames;A Coruña
+82859;12;2;18;L;Grupo;TEKILA;Avilés;Asturias
+80786;12;2;18;L;Dúo;CACHÉ;Barcia, Melón;Ourense
+82867;12;2;18;L;Trío;LA NOCHE DO GROVE;Bravos, Ourol;Lugo
+82165;12;2;18;L;Dúo;CHIC;Cambados;Pontevedra
+81089;12;2;18;L;Charanga;MIL9;Cangas do Morrazo;Pontevedra
+82298;12;2;18;L;Charanga;MEKANIKA;Cariño;A Coruña
+82619;12;2;18;L;Orquesta;GRAN PARADA;Castro Barreiro, Salceda de Caselas;Pontevedra
+82692;12;2;18;L;Orquesta;TELEVISIÓN;Castro Barreiro, Salceda de Caselas;Pontevedra
+82787;12;2;18;L;Orquesta;LOS TROVADORES;Celas de Peiro, Culleredo;A Coruña
+83011;12;2;18;L;Orquesta;TREBOL;Centro Cívico de Cangas, Foz;Lugo
+82983;12;2;18;L;Disco Móvil;SONORA MUSIC;Disco Acero, Ordes;A Coruña
+82655;12;2;18;L;Orquesta;NEW YORK;Discoteca A Vieira, Ponteceso;A Coruña
+82442;12;2;18;L;Grupo;NEBRASKA;Escairón, O Saviñao;Lugo
+82729;12;2;18;L;Grupo;AMÉRICA DE VIGO;Fornelos, O Rosal;Pontevedra
+82809;12;2;18;L;Grupo;ARAMIO;Goián, Tomiño;Pontevedra
+82422;12;2;18;L;Grupo;ALKAR;Guimarei, A Estrada;Pontevedra
+82886;12;2;18;L;Orquesta;METRÓPOLIS;Guimarei, A Estrada;Pontevedra
+83021;12;2;18;L;Grupo;PRISMA;Guimarei, A Estrada;Pontevedra
+82769;12;2;18;L;Orquesta;LA FAVORITA;Irixoa;A Coruña
+82603;12;2;18;L;Charanga;MANÍA;La Bañeza;León
+82742;12;2;18;L;Grupo;GARIBALDI;La Corredoria, Oviedo;Asturias
+82316;12;2;18;L;Charanga;EUROPA;Laza;Ourense
+82410;12;2;18;L;Orquesta;ISRAEL;Laza;Ourense
+82788;12;2;18;L;Orquesta;SOLARA;Laza;Ourense
+82591;12;2;18;L;Orquesta;RITMO JOVEN;Llanera;Asturias
+81412;12;2;18;L;Grupo;PUNTO CLAVE;Louseiro, Sarria;Lugo
+82595;12;2;18;L;Orquesta;PONTEVEDRA;Marín;Pontevedra
+82781;12;2;18;L;Dúo;ECLIPSE;Meira;Lugo
+82297;12;2;18;L;Charanga;MEKANIKA;Mugardos;A Coruña
+82875;12;2;18;L;Disco Móvil;BOA FESTA;O Barco, O Barco de Valdeorras;Ourense
+82838;12;2;18;L;Charanga;FUEGO;Oimbra;Ourense
+82975;12;2;18;L;Dúo;D´ASES;Ordes;A Coruña
+80981;12;2;18;L;Solista;XILO;Os Condes, Bergondo;A Coruña
+82430;12;2;18;L;Charanga;CASTRO BELLO;Ourense;Ourense
+82797;12;2;18;L;Orquesta;CAPITOL;Ourense;Ourense
+82496;12;2;18;L;Grupo;CLAXXON;Pontedeume;A Coruña
+82328;12;2;18;L;Orquesta;FURIA JOVEN;Puerto del Rosario, Fuerteventura;Las Palmas
+82557;12;2;18;L;Solista;AIXA ROMAY;Rañobre, Arteixo;A Coruña
+82699;12;2;18;L;Orquesta;OLYMPUS RED TOUR;Restaurante A Carballeira, Santa Cruz de Arrabaldo;Ourense
+82630;12;2;18;L;Orquesta;CINEMA;Restaurante El Pantano, Abegondo;A Coruña
+82693;12;2;18;L;Orquesta;PRINCIPAL;Restaurante la Palloza, Lugo;Lugo
+81799;12;2;18;L;Orquesta;EL COMBO DOMINICANO;S.F. La Flor, Montouto;A Coruña
+81800;12;2;18;L;Orquesta;LOS SATÉLITES;S.F. La Flor, Montouto;A Coruña
+82470;12;2;18;L;Solista;BEGOÑA GARCÍA;Sada;A Coruña
+82658;12;2;18;L;Grupo;D´MODA;Sada;A Coruña
+82551;12;2;18;L;Orquesta;FANIA BLANCO SHOW;Salcedo, A Pobra do Brollón;Lugo
+82766;12;2;18;L;Orquesta;NEVADA;Salcedo, A Pobra do Brollón;Lugo
+82682;12;2;18;L;Orquesta;MARBELLA;Santa Cristina de Cobres, Vilaboa;Pontevedra
+82639;12;2;18;L;Orquesta;ARMONÍA SHOW;Santa Cruz de Tenerife;Tenerife
+82912;12;2;18;L;Dúo;CALÚ;Tabeaio, Carral;A Coruña
+82933;12;2;18;L;Charanga;CANTOS SOMOS;Tui;Pontevedra
+82960;12;2;18;L;Orquesta;SAUDADE;Tui;Pontevedra
+82722;12;2;18;L;Orquesta;PARIS DE NOIA;Urdilde, Rois;A Coruña
+82961;12;2;18;L;Disco Móvil;CDC MINIDISC;Urdilde, Rois;A Coruña
+82118;12;2;18;L;Orquesta;LA OCABAND;Verín;Ourense
+82223;12;2;18;L;Orquesta;MIRAMAR;Verín;Ourense
+82359;12;2;18;L;Grupo;PASIÓN;Vilachá, Monfero;A Coruña
+82921;12;2;18;L;Orquesta;XACOBEO;Vilalba;Lugo
+82784;12;2;18;L;Grupo;FAMA;Xermar, Cospeito;Lugo
+81549;12;2;18;L;Charanga;SANTA COMPAÑA;Xinzo de Limia;Ourense
+82791;12;2;18;L;Charanga;BB+;Xinzo de Limia;Ourense
+82996;13;2;18;M;Orquesta;CAPITOL;A Feira, Salceda de Caselas;Pontevedra
+83006;13;2;18;M;Grupo;FUNÇAO PUBLIKA;A Feira, Salceda de Caselas;Pontevedra
+83012;13;2;18;M;Orquesta;TREBOL;A Laracha;A Coruña
+82427;13;2;18;M;Charanga;CASTRO BELLO;A Peroxa;Ourense
+82067;13;2;18;M;Trío;SINTONÍA;Arzúa;A Coruña
+82937;13;2;18;M;Solista;XILO;Betanzos;A Coruña
+82239;13;2;18;M;Solista;JUDITH CUNDÍNS;Canduas, Cabana de Bergantiños;A Coruña
+82194;13;2;18;M;Charanga;OS CHARANGOS;Carballo;A Coruña
+81919;13;2;18;M;Orquesta;LA FÓRMULA;Castro Barreiro, Salceda de Caselas;Pontevedra
+82454;13;2;18;M;Orquesta;LOS TROVADORES;Chantada;Lugo
+81960;13;2;18;M;Orquesta;PARIS DE NOIA;Discoteca INK, Narón;A Coruña
+81961;13;2;18;M;Orquesta;EL COMBO DOMINICANO;Discoteca INK, Narón;A Coruña
+82471;13;2;18;M;Solista;BEGOÑA GARCÍA;Dolce Casino Bellagio, Ferrol;A Coruña
+82816;13;2;18;M;Orquesta;NEW YORK;Fene;A Coruña
+82508;13;2;18;M;Grupo;FAMA;Fornelos, O Rosal;Pontevedra
+82493;13;2;18;M;Orquesta;XACOBEO;Francos, Castro de Rei;Lugo
+82767;13;2;18;M;Orquesta;NEVADA;Goián, Tomiño;Pontevedra
+82810;13;2;18;M;Grupo;ARAMIO;Gondomar;Pontevedra
+82604;13;2;18;M;Charanga;MANÍA;La Bañeza;León
+82411;13;2;18;M;Orquesta;SAUDADE;Laza;Ourense
+82412;13;2;18;M;Disco Móvil;SPACE;Laza;Ourense
+82224;13;2;18;M;Orquesta;SOLARA;Liceo de Noia, Noia;A Coruña
+82299;13;2;18;M;Charanga;MEKANIKA;Llanera;Asturias
+82582;13;2;18;M;Orquesta;ISRAEL;Monforte de Lemos;Lugo
+82987;13;2;18;M;Orquesta;SANTIAGO D.C.;Monforte de Lemos;Lugo
+82876;13;2;18;M;Disco Móvil;BOA FESTA;O Barco, O Barco de Valdeorras;Ourense
+81863;13;2;18;M;Charanga;CANTOS SOMOS;Oímbra, Verín;Ourense
+82467;13;2;18;M;Dúo;EXPLOSIÓN;Ourense;Ourense
+81885;13;2;18;M;Grupo;NEBRASKA;Parada de Amoeiro, Amoeiro;Ourense
+82979;13;2;18;M;Charanga;NBA;Perillo, Oleiros;A Coruña
+82670;13;2;18;M;Orquesta;CHARLESTON BIG-BAND;Plató 1000, Teo;A Coruña
+82640;13;2;18;M;Orquesta;ARMONÍA SHOW;Plaza de la Candelaria, Santa Cruz de Tenerife;Tenerife
+82586;13;2;18;M;Orquesta;COMPOSTELA;Puerta del Sol, Vigo;Pontevedra
+82335;13;2;18;M;Grupo;PEKADOS;Rábade;Lugo
+82426;13;2;18;M;Orquesta;MIRAMAR;S.F. Paulino, O Carballiño;Ourense
+82558;13;2;18;M;Solista;AIXA ROMAY;Sada;A Coruña
+82615;13;2;18;M;Orquesta;GRAN PARADA;Salcedo, A Pobra do Brollón;Lugo
+82317;13;2;18;M;Charanga;EUROPA;Seixalbo, Ourense;Ourense
+81064;13;2;18;M;Charanga;MIL9;Verín;Ourense
+82659;13;2;18;M;Grupo;D´MODA;Verín;Ourense
+82743;13;2;18;M;Grupo;GARIBALDI;Verín;Ourense
+82884;13;2;18;M;Orquesta;LA OLA ADN;Villaralbo;Zamora
+81550;13;2;18;M;Charanga;SANTA COMPAÑA;Xinzo de Limia;Ourense
+82433;13;2;18;M;Orquesta;MARBELLA;Xinzo de Limia;Ourense
+82792;13;2;18;M;Charanga;BB+;Xinzo de Limia;Ourense
+82560;14;2;18;X;Solista;AIXA ROMAY;A Coruña;A Coruña
+83026;14;2;18;X;Dúo;VENDAVAL;Almeiras, Culleredo;A Coruña
+82980;14;2;18;X;Charanga;NBA;Betanzos;A Coruña
+82559;14;2;18;X;Solista;AIXA ROMAY;Narón;A Coruña
+82500;14;2;18;X;Charanga;CASTRO BELLO;O Carballiño;Ourense
+82206;14;2;18;X;Orquesta;EL COMBO DOMINICANO;Plaza del Rosario, Agüimes;Las Palmas
+82329;14;2;18;X;Orquesta;FURIA JOVEN;Plaza del Rosario, Agüimes;Las Palmas
+82736;14;2;18;X;Solista;JUDITH CUNDÍNS;Santa Cecilia, Narón;A Coruña
+82793;14;2;18;X;Charanga;BB+;Serra de Outes, Outes;A Coruña
+82132;14;2;18;X;Charanga;OS CHARANGOS;Vieiro, Viveiro;Lugo
+82963;15;2;18;J;Trío;SINTONÍA;Barrio do Castrillón, A Coruña;A Coruña
+82561;16;2;18;V;Solista;AIXA ROMAY;A Coruña;A Coruña
+83023;16;2;18;V;Solista;JUDITH CUNDÍNS;A Laracha;A Coruña
+82954;16;2;18;V;Orquesta;LA OCABAND;Discoteca Dilema, Silleda;Pontevedra
+82683;16;2;18;V;Orquesta;MARBELLA;Discoteca Habana 75, Lalín;Pontevedra
+80742;16;2;18;V;Orquesta;OLYMPUS RED TOUR;Discoteca Litmar, Sarria;Lugo
+82723;16;2;18;V;Orquesta;PARIS DE NOIA;Discoteca Zouk, Lugo;Lugo
+80840;16;2;18;V;Solista;BEGOÑA GARCÍA;Ferrol;A Coruña
+80899;16;2;18;V;Solista;XILO;Meirás, Valdoviño;A Coruña
+82384;16;2;18;V;Orquesta;LOS SATÉLITES;Pabellón de Santa Cruz, Oleiros;A Coruña
+82479;16;2;18;V;Orquesta;EL COMBO DOMINICANO;Parque Santa Catalina, Las Palmas;Las Palmas
+83070;16;2;18;V;Grupo;NUEVA FUERZA;Parque Santa Catalina, Las Palmas;Las Palmas
+82962;16;2;18;V;Orquesta;GRAN PARADA;Plató 1000, Teo;A Coruña
+83010;16;2;18;V;Dúo;ESTRELLAS;Plató 1000, Teo;A Coruña
+83073;16;2;18;V;Trío;D´NIKA MUSIC;Rábade;Lugo
+83031;16;2;18;V;Charanga;NBA;Renedo de Piélagos;Cantabria
+82733;16;2;18;V;Grupo;TEKILA;S.F. Estilo, Oviedo;Asturias
+82570;16;2;18;V;Orquesta;TRIUNFO;S.F. Velvet, Monçao;Portugal
+82360;16;2;18;V;Orquesta;CINEMA;San Valentín, Fene;A Coruña
+82361;16;2;18;V;Grupo;ALKAR;San Valentín, Fene;A Coruña
+82330;16;2;18;V;Orquesta;FURIA JOVEN;Santa Cruz de la Palma;Tenerife
+82641;16;2;18;V;Orquesta;ARMONÍA SHOW;Santa Cruz de la Palma;Tenerife
+82927;16;2;18;V;Dúo;EXPLOSIÓN;Sarria;Lugo
+82947;16;2;18;V;Grupo;PUNTO CLAVE;Vigo de Galegos, Láncara;Lugo
+83088;17;2;18;S;Solista;JUDITH CUNDÍNS;A Laracha;A Coruña
+82671;17;2;18;S;Orquesta;CHARLESTON BIG-BAND;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+82608;17;2;18;S;Charanga;MANÍA;Astorga;León
+82700;17;2;18;S;Orquesta;OLYMPUS RED TOUR;Astorga;León
+82926;17;2;18;S;Disco Móvil;CDC MINIDISC;Baíñas, Vimianzo;A Coruña
+82609;17;2;18;S;Charanga;MANÍA;Bembibre;León
+82760;17;2;18;S;Orquesta;CICLOMANÍA;Bembibre;León
+82923;17;2;18;S;Disco Móvil;CDC;Buño, Malpica de Bergantiños;A Coruña
+82794;17;2;18;S;Charanga;BB+;Camariñas;A Coruña
+82647;17;2;18;S;Dúo;CHARADA;Cambados;Pontevedra
+82567;17;2;18;S;Charanga;SANTA COMPAÑA;Cambre;A Coruña
+83013;17;2;18;S;Orquesta;TREBOL;Cambre;A Coruña
+82959;17;2;18;S;Orquesta;MIRAMAR;Cangas del Narcea;Asturias
+81610;17;2;18;S;Disco Móvil;MAYGON;Casino de Ares, Ares;A Coruña
+82562;17;2;18;S;Solista;AIXA ROMAY;Casino Mugardés, Mugardos;A Coruña
+81688;17;2;18;S;Orquesta;SOLARA;Celanova;Ourense
+82716;17;2;18;S;Orquesta;ABANICO;Centro Cívico de Cangas, Foz;Lugo
+82684;17;2;18;S;Orquesta;MARBELLA;Centro cultural de Salcedo, Pontevedra;Pontevedra
+82624;17;2;18;S;Dúo;KARMÍN;Cerceda;A Coruña
+82497;17;2;18;S;Grupo;CLAXXON;Circulo de las Artes, Lugo;Lugo
+82300;17;2;18;S;Charanga;MEKANIKA;Cubillos del Sil;León
+82839;17;2;18;S;Charanga;FUEGO;Cubillos del Sil;León
+82860;17;2;18;S;Grupo;TEKILA;Discoteca Aipol, Arriondas;Asturias
+82986;17;2;18;S;Trío;XTRA;Estadio Balaídos, Vigo;Pontevedra
+80854;17;2;18;S;Dúo;ESTRELLAS;Estraxiz, Samos;Lugo
+82472;17;2;18;S;Solista;BEGOÑA GARCÍA;Ferrol;A Coruña
+80993;17;2;18;S;Solista;XILO;Fisterra;A Coruña
+82770;17;2;18;S;Orquesta;LA FAVORITA;Hotel Casa Barreiro, Ordes;A Coruña
+82706;17;2;18;S;Trío;LA NOCHE DO GROVE;Leiro;Ourense
+82443;17;2;18;S;Grupo;NEBRASKA;Madridanos;Zamora
+82968;17;2;18;S;Orquesta;PRINCIPAL;Meder, Salvaterra de Miño;Pontevedra
+82782;17;2;18;S;Dúo;ECLIPSE;Mesón do Loyo, Paradela;Lugo
+82331;17;2;18;S;Orquesta;FURIA JOVEN;Mogán, Gran Canaria;Las Palmas
+82461;17;2;18;S;Grupo;PEKADOS;Neipín, A Pontenova;Lugo
+82900;17;2;18;S;Orquesta;DOMINÓ;Olombrada;Segovia
+82352;17;2;18;S;Orquesta;EL COMBO DOMINICANO;Plaza de la Candelaria, Santa Cruz de Tenerife;Tenerife
+82125;17;2;18;S;Orquesta;SALSARENA;Praza do Concello, Mondoñedo;Lugo
+82583;17;2;18;S;Orquesta;ISRAEL;Restaurante A Lagoa, Vimianzo;A Coruña
+82768;17;2;18;S;Orquesta;NEVADA;Restaurante Balcobo, Arteixo;A Coruña
+82798;17;2;18;S;Orquesta;CAPITOL;Restaurante El Pantano, Abegondo;A Coruña
+82881;17;2;18;S;Grupo;ASSIA;Restaurante Latores, Oviedo;Asturias
+80539;17;2;18;S;Orquesta;CINEMA;Restaurante O Piñeiral, A Fonsagrada;Lugo
+82385;17;2;18;S;Orquesta;LOS SATÉLITES;Restaurante Tino, Xermade;Lugo
+82079;17;2;18;S;Trío;SINTONÍA;Ribeira;A Coruña
+82708;17;2;18;S;Grupo;ACIREMA;S.F. Chamán, Goián;Pontevedra
+82724;17;2;18;S;Orquesta;PARIS DE NOIA;S.F. Chanteclair, Pontecesures;Pontevedra
+82730;17;2;18;S;Grupo;AMÉRICA DE VIGO;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
+81801;17;2;18;S;Orquesta;NEW YORK;S.F. La Flor, Montouto;A Coruña
+82450;17;2;18;S;Orquesta;SAUDADE;S.F. La Luna, Cerponzóns;Pontevedra
+82578;17;2;18;S;Orquesta;TRIUNFO;S.F. La Reina, Sanguiñeda;Pontevedra
+82616;17;2;18;S;Orquesta;GRAN PARADA;S.F. Paulino, O Carballiño;Ourense
+80331;17;2;18;S;Orquesta;FANIA BLANCO SHOW;S.F. Rosalar, Ribadeo;Lugo
+82304;17;2;18;S;Orquesta;LOS TROVADORES;S.F. Universo, Santa Comba;A Coruña
+82633;17;2;18;S;Orquesta;LA OLA ADN;San Román de Vilaestrofe, Cervo;Lugo
+82642;17;2;18;S;Orquesta;ARMONÍA SHOW;San Sebastián de La Gomera;Tenerife
+82362;17;2;18;S;Orquesta;ESSENCIA;San Valentín, Fene;A Coruña
+82363;17;2;18;S;Orquesta;PANAMA;San Valentín, Fene;A Coruña
+82002;17;2;18;S;Grupo;PUNTO CLAVE;Sarria;Lugo
+82587;17;2;18;S;Orquesta;COMPOSTELA;Sociedad Cultural y Deportiva de Mourente, Pontevedra;Pontevedra
+82592;17;2;18;S;Orquesta;RITMO JOVEN;Trevías, Valdés;Asturias
+82215;17;2;18;S;Dúo;EXPLOSIÓN;Tui;Pontevedra
+82660;17;2;18;S;Grupo;D´MODA;Valdoviño;A Coruña
+82913;17;2;18;S;Dúo;CALÚ;Vimianzo;A Coruña
+82648;18;2;18;D;Dúo;CHARADA;Abanqueiro, Boiro;A Coruña
+82240;18;2;18;D;Solista;JUDITH CUNDÍNS;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+82563;18;2;18;D;Solista;AIXA ROMAY;As Pontes de García Rodríguez;A Coruña
+83072;18;2;18;D;Charanga;OS CHARANGOS;Cacabelos;León
+83095;18;2;18;D;Charanga;MANÍA;Cacabelos;León
+82568;18;2;18;D;Charanga;SANTA COMPAÑA;Cambre;A Coruña
+81726;18;2;18;D;Trío;SINTONÍA;Carral;A Coruña
+83056;18;2;18;D;Orquesta;LA FÓRMULA;Castro Barreiro, Salceda de Caselas;Pontevedra
+82212;18;2;18;D;Orquesta;PARIS DE NOIA;Lestedo, Boqueixón;A Coruña
+82834;18;2;18;D;Charanga;TNT;Lestedo, Boqueixón;A Coruña
+83062;18;2;18;D;Charanga;EUROPA;Maceda;Ourense
+82301;18;2;18;D;Charanga;MEKANIKA;Malpica de Bergantiños;A Coruña
+82744;18;2;18;D;Dúo;DE LA CRUZ SHOW;Noia;A Coruña
+83058;18;2;18;D;Disco Móvil;BOA FESTA;O Barco, O Barco de Valdeorras;Ourense
+82501;18;2;18;D;Charanga;CASTRO BELLO;O Carballiño;Ourense
+82617;18;2;18;D;Orquesta;GRAN PARADA;O Carballiño;Ourense
+82799;18;2;18;D;Orquesta;CAPITOL;Polideportivo Municipal, Brion;A Coruña
+83065;18;2;18;D;Solista;TANIA Y SU ACORDEÓN;Restaurante A Pena, Ribadeo;Lugo
+82709;18;2;18;D;Grupo;NOCHE DE ESTRELLAS;S.F. Chamán, Goián;Pontevedra
+83014;18;2;18;D;Orquesta;TREBOL;S.F. La Reina, Sanguiñeda;Pontevedra
+82672;18;2;18;D;Orquesta;CHARLESTON BIG-BAND;S.F. Paulino, O Carballiño;Ourense
+82588;18;2;18;D;Orquesta;COMPOSTELA;S.F. Velvet, Monçao;Portugal
+82685;18;2;18;D;Orquesta;MARBELLA;S.F. Zeus, Campolongo;A Coruña
+82364;18;2;18;D;Grupo;ATENAS;San Valentín, Fene;A Coruña
+83003;18;2;18;D;Orquesta;PRINCIPAL;Sarria;Lugo
+83094;18;2;18;D;Dúo;EXPLOSIÓN;Tui;Pontevedra
+83096;18;2;18;D;Charanga;MANÍA;Vega de Espinareda;León
+82386;18;2;18;D;Orquesta;LOS SATÉLITES;Xinzo de Limia;Ourense
+83066;19;2;18;L;Solista;TANIA Y SU ACORDEÓN;Hotel Alfonso IX, Sarria;Lugo
+83121;22;2;18;J;Solista;BEGOÑA GARCÍA;A Coruña;A Coruña
+80826;23;2;18;V;Solista;BEGOÑA GARCÍA;Cervecería La Terraza, O Temple, Cambre;A Coruña
+80997;23;2;18;V;Solista;XILO;Cervecería O Lagar, Neda;A Coruña
+83074;23;2;18;V;Orquesta;CICLOMANÍA;Discoteca Dilema, Silleda;Pontevedra
+82802;23;2;18;V;Orquesta;EL COMBO DOMINICANO;Guía;Las Palmas
+82389;23;2;18;V;Orquesta;FURIA JOVEN;Haría, Lanzarote;Las Palmas
+83009;23;2;18;V;Orquesta;CHARLESTON BIG-BAND;Plató 1000, Teo;A Coruña
+82509;23;2;18;V;Orquesta;CINEMA;Pub Bora Bora Mambo, Ordes;A Coruña
+83085;23;2;18;V;Grupo;ASSIA;S.F. Velvet, Monçao;Portugal
+82111;24;2;18;S;Dúo;CHIC;A Laxe, Vilagarcía de Arousa;Pontevedra
+82457;24;2;18;S;Orquesta;LOS TROVADORES;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+82737;24;2;18;S;Solista;JUDITH CUNDÍNS;Ares;A Coruña
+82629;24;2;18;S;Grupo;NUEVA FUERZA;Arguineguín;Las Palmas
+82803;24;2;18;S;Orquesta;EL COMBO DOMINICANO;Arguineguín;Las Palmas
+82584;24;2;18;S;Orquesta;ISRAEL;Centro Cívico de Cangas, Foz;Lugo
+82444;24;2;18;S;Grupo;NEBRASKA;Cervás, Ares;A Coruña
+80827;24;2;18;S;Solista;BEGOÑA GARCÍA;Cervecería La Terraza, O Temple, Cambre;A Coruña
+82498;24;2;18;S;Grupo;CLAXXON;Cortegada;Ourense
+82631;24;2;18;S;Orquesta;CINEMA;Discoteca Dilema, Silleda;Pontevedra
+83001;24;2;18;S;Grupo;D´MODA;Discoteca Habana 75, Lalín;Pontevedra
+82731;24;2;18;S;Grupo;AMÉRICA DE VIGO;Discoteca Hermo, Muimenta;Lugo
+82387;24;2;18;S;Orquesta;LOS SATÉLITES;Discoteca Pazos, Laracha;A Coruña
+82289;24;2;18;S;Dúo;D´ASES;Espiñaredo, As Pontes de García Rodríguez;A Coruña
+82390;24;2;18;S;Orquesta;FURIA JOVEN;Haría, Lanzarote;Las Palmas
+80947;24;2;18;S;Solista;XILO;Hotel Narón, Narón;A Coruña
+82634;24;2;18;S;Orquesta;LA OLA ADN;Hotel Restaurante Casa Portuguesa, Meaño;Pontevedra
+82783;24;2;18;S;Dúo;ECLIPSE;Mesón do Loyo, Paradela;Lugo
+82572;24;2;18;S;Orquesta;SOLARA;Miñortos, Porto do Son;A Coruña
+82627;24;2;18;S;Dúo;KARMÍN;Oroso;A Coruña
+82811;24;2;18;S;Grupo;ARAMIO;Parada, Nigrán;Pontevedra
+82564;24;2;18;S;Solista;AIXA ROMAY;Parrillada Peiró, Cambre;A Coruña
+83254;24;2;18;S;Dúo;CALÚ;Pub Bora Bora Mambo, Ordes;A Coruña
+82686;24;2;18;S;Orquesta;MARBELLA;Restaurante El Pantano, Abegondo;A Coruña
+80816;24;2;18;S;Dúo;ESTRELLAS;Restaurante La Torre, Tabeaio, Carral;A Coruña
+83051;24;2;18;S;Orquesta;TRIUNFO;Restaurante Louzao, Viveiro;Lugo
+82652;24;2;18;S;Dúo;CHARADA;Ribeira;A Coruña
+82710;24;2;18;S;Trío;AZAR;S.F. Chamán, Goián;Pontevedra
+82800;24;2;18;S;Orquesta;CAPITOL;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
+82734;24;2;18;S;Orquesta;CHARLESTON BIG-BAND;S.F. Josfer, Mesón do Vento;A Coruña
+82701;24;2;18;S;Orquesta;OLYMPUS RED TOUR;S.F. La Concha, O Val;A Coruña
+82618;24;2;18;S;Orquesta;GRAN PARADA;S.F. La Flor, Montouto;A Coruña
+82377;24;2;18;S;Orquesta;CICLOMANÍA;S.F. La Reina, Sanguiñeda;Pontevedra
+83015;24;2;18;S;Orquesta;TREBOL;S.F. Rosalar, Ribadeo;Lugo
+82305;24;2;18;S;Orquesta;COMPOSTELA;S.F. Universo, Santa Comba;A Coruña
+82882;24;2;18;S;Grupo;ASSIA;S.F. Velvet, Monçao;Portugal
+82643;24;2;18;S;Orquesta;ARMONÍA SHOW;San Andrés y Sauces, La Palma;Tenerife
+83067;24;2;18;S;Solista;TANIA Y SU ACORDEÓN;Santa Cecilia, Narón;A Coruña
+82840;24;2;18;S;Charanga;FUEGO;Toreno;León
+82610;24;2;18;S;Charanga;MANÍA;Trobajo del Cercedo;León
+81661;24;2;18;S;Trío;SINTONÍA;Zas;A Coruña
+83142;25;2;18;D;Solista;BEGOÑA GARCÍA;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+82241;25;2;18;D;Solista;JUDITH CUNDÍNS;Carral;A Coruña
+81003;25;2;18;D;Solista;XILO;Centro Cívico de Caranza, Ferrol;A Coruña
+82653;25;2;18;D;Dúo;CHARADA;Centro Social de Escarabote, Boiro;A Coruña
+82759;25;2;18;D;Grupo;ACIREMA;Coron, Vilanova de Arousa;Pontevedra
+82745;25;2;18;D;Dúo;DE LA CRUZ SHOW;Noia;A Coruña
+82711;25;2;18;D;Orquesta;TREBOL;S.F. Chamán, Goián;Pontevedra
+82687;25;2;18;D;Orquesta;MARBELLA;S.F. La Reina, Sanguiñeda;Pontevedra
+82801;25;2;18;D;Orquesta;CAPITOL;S.F. Paulino, O Carballiño;Ourense
+82451;25;2;18;D;Orquesta;SAUDADE;S.F. Velvet, Monçao;Portugal
+82388;25;2;18;D;Orquesta;LOS SATÉLITES;S.F. Zeus, Campolongo;A Coruña
+83069;25;2;18;D;Solista;TANIA Y SU ACORDEÓN;Salas;Asturias
+82589;27;2;18;M;Orquesta;COMPOSTELA;Plató 1000, Teo;A Coruña
+82914;28;2;18;X;Dúo;CALÚ;Arteixo;A Coruña
+83523;1;3;18;J;Grupo;NOCHE DE ESTRELLAS;S.F. Bolero, Redondela;Pontevedra
+83659;2;3;18;V;Grupo;BOMBA;Corralejo, La Oliva;Las Palmas
+82919;2;3;18;V;Orquesta;CINEMA;Discoteca Zouk, Lugo;Lugo
+83414;2;3;18;V;Orquesta;EL COMBO DOMINICANO;Morro Jable, Pájara;Las Palmas
+83430;2;3;18;V;Orquesta;FINISTERRE;Plató 1000, Teo;A Coruña
+82510;2;3;18;V;Orquesta;NEW YORK;Pub Bora Bora Mambo, Ordes;A Coruña
+83525;3;3;18;S;Dúo;KARMÍN;A Barcala, Cambre;A Coruña
+82475;3;3;18;S;Solista;BEGOÑA GARCÍA;A Coruña;A Coruña
+83600;3;3;18;S;Grupo;ATENAS;A Milagrosa, Lugo;Lugo
+83306;3;3;18;S;Orquesta;ISRAEL;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+82391;3;3;18;S;Orquesta;FURIA JOVEN;Artenara;Las Palmas
+83296;3;3;18;S;Dúo;EXPLOSIÓN;Bieite, Leiro;Ourense
+83420;3;3;18;S;Dúo;URAKÁN;Brión;A Coruña
+83599;3;3;18;S;Grupo;ASSIA;Café Teatro Première, Pola de Siero;Asturias
+83089;3;3;18;S;Orquesta;LOS TROVADORES;Centro Cívico de Cangas, Foz;Lugo
+83441;3;3;18;S;Orquesta;ARMONÍA SHOW;Corralejo, La Oliva;Las Palmas
+83442;3;3;18;S;Grupo;BOMBA;Corralejo, La Oliva;Las Palmas
+81920;3;3;18;S;Orquesta;LA FÓRMULA;Discoteca Habana 75, Lalín;Pontevedra
+83220;3;3;18;S;Orquesta;OLYMPUS RED TOUR;Discoteca Pazos, Laracha;A Coruña
+83572;3;3;18;S;Grupo;ARAMIO;Folgoso de la Ribera;León
+83036;3;3;18;S;Orquesta;GRAN PARADA;Labrada, Guitiriz;Lugo
+83037;3;3;18;S;Orquesta;NEW YORK;Labrada, Guitiriz;Lugo
+83415;3;3;18;S;Orquesta;EL COMBO DOMINICANO;Morro Jable, Pájara;Las Palmas
+83118;3;3;18;S;Orquesta;FANIA BLANCO SHOW;O Cádavo, Cotobade;Pontevedra
+82504;3;3;18;S;Grupo;PEKADOS;Ortigueira;A Coruña
+82972;3;3;18;S;Trío;SINTONÍA;Piñeiro, Xermade;Lugo
+83447;3;3;18;S;Dúo;DIAMANTE;Ponteceso;A Coruña
+83362;3;3;18;S;Orquesta;SAUDADE;Restaurante A Lagoa, Vimianzo;A Coruña
+83194;3;3;18;S;Orquesta;LOS SATÉLITES;Restaurante El Pantano, Abegondo;A Coruña
+81009;3;3;18;S;Solista;XILO;Restaurante La Torre, Tabeaio, Carral;A Coruña
+83521;3;3;18;S;Grupo;NOCHE DE ESTRELLAS;S.F. Bolero, Redondela;Pontevedra
+83580;3;3;18;S;Grupo;TEKILA;S.F. Estilo, Oviedo;Asturias
+82771;3;3;18;S;Orquesta;LA FAVORITA;S.F. Josfer, Mesón do Vento;A Coruña
+83271;3;3;18;S;Orquesta;CHARLESTON BIG-BAND;S.F. La Flor, Montouto;A Coruña
+83384;3;3;18;S;Grupo;AMERICA SL;S.F. La Luna, Cerponzóns;Pontevedra
+83200;3;3;18;S;Orquesta;CAPITOL;S.F. Rosalar, Ribadeo;Lugo
+83187;3;3;18;S;Orquesta;PONTEVEDRA;S.F. Universo, Santa Comba;A Coruña
+82169;3;3;18;S;Orquesta;LA OCABAND;S.F. Velvet, Monçao;Portugal
+83289;3;3;18;S;Orquesta;TREBOL;San Miguel de Reinante, Barreiros;Lugo
+81623;3;3;18;S;Orquesta;CINEMA;San Pedro de Mera, Lugo;Lugo
+82004;3;3;18;S;Grupo;PUNTO CLAVE;San Pedro de Mera, Lugo;Lugo
+83267;3;3;18;S;Grupo;CLAXXON;Santa Baia, Catoira;Pontevedra
+82626;3;3;18;S;Dúo;KARMÍN;Santa Comba;A Coruña
+83465;3;3;18;S;Dúo;CHARADA;Zas;A Coruña

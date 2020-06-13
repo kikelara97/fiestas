@@ -1,0 +1,482 @@
+81193;1;12;17;V;Trío;SINTONÍA;A Coruña;A Coruña
+81192;1;12;17;V;Dúo;D´ASES;Carnoedo, Sada;A Coruña
+69060;1;12;17;V;Solista;AIXA ROMAY;Cervecería La Terraza, O Temple, Cambre;A Coruña
+81415;1;12;17;V;Orquesta;CHARLESTON BIG-BAND;Club de Campo, Ferrol;A Coruña
+80730;1;12;17;V;Orquesta;EL COMBO DOMINICANO;Discoteca Zouk, Lugo;Lugo
+81562;1;12;17;V;Grupo;TEKILA;La Tenderina, Oviedo;Asturias
+79954;1;12;17;V;Orquesta;TREBOL;Lourizan, Pontevedra;Pontevedra
+79955;1;12;17;V;Orquesta;CINEMA;Lourizan, Pontevedra;Pontevedra
+81423;1;12;17;V;Grupo;ARAMIO;Nande, Gondomar;Pontevedra
+81433;1;12;17;V;Orquesta;XACOBEO;Nande, Gondomar;Pontevedra
+71919;1;12;17;V;Solista;XILO;Os Condes, Bergondo;A Coruña
+80924;1;12;17;V;Grupo;PASIÓN;Parrillada Minuetto, Valdoviño;A Coruña
+80857;1;12;17;V;Orquesta;LOS SATÉLITES;Parroquia de San Francisco Javier;A Coruña
+81456;1;12;17;V;Grupo;ACIREMA;Portonovo, Sanxenxo;Pontevedra
+81198;1;12;17;V;Orquesta;NEW YORK;Portosín, Porto do Son;A Coruña
+81094;1;12;17;V;Dúo;URAKÁN;Pub Momo, Carral;A Coruña
+81110;2;12;17;S;Orquesta;RITMO JOVEN;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+81450;2;12;17;S;Trío;XTRA;Baiona;Pontevedra
+81287;2;12;17;S;Trío;SINTONÍA;Bandeira, Silleda;Pontevedra
+81563;2;12;17;S;Grupo;TEKILA;Barredos, Laviana;Asturias
+81132;2;12;17;S;Orquesta;FANIA BLANCO SHOW;Barrio del Ventorrillo, A Coruña;A Coruña
+80058;2;12;17;S;Dúo;CHIC;Cambados;Pontevedra
+81443;2;12;17;S;Orquesta;MIRAMAR;Castroverde;Lugo
+80864;2;12;17;S;Orquesta;LOS TROVADORES;Centro Cívico de Cangas, Foz;Lugo
+69061;2;12;17;S;Solista;AIXA ROMAY;Cervecería La Terraza, O Temple, Cambre;A Coruña
+81043;2;12;17;S;Orquesta;OLYMPUS RED TOUR;Discoteca Hermo, Muimenta;Lugo
+81301;2;12;17;S;Orquesta;CINEMA;Discoteca La Villar, Felechosa;Asturias
+81191;2;12;17;S;Dúo;URAKÁN;Discoteca Nova Slava, Cee;A Coruña
+80858;2;12;17;S;Orquesta;LOS SATÉLITES;Discoteca Pazos, Laracha;A Coruña
+79956;2;12;17;S;Orquesta;CHARLESTON BIG-BAND;Lourizan, Pontevedra;Pontevedra
+79957;2;12;17;S;Orquesta;SAUDADE;Lourizan, Pontevedra;Pontevedra
+81350;2;12;17;S;Orquesta;TREBOL;Masma, Mondoñedo;Lugo
+71920;2;12;17;S;Solista;XILO;Os Condes, Bergondo;A Coruña
+81156;2;12;17;S;Orquesta;SANTIAGO D.C.;Ourense;Ourense
+81199;2;12;17;S;Orquesta;LA OLA ADN;Portosín, Porto do Son;A Coruña
+80550;2;12;17;S;Dúo;EXPLOSIÓN;Redondela;Pontevedra
+81495;2;12;17;S;Grupo;GARIBALDI;Requejo, Sobrado;León
+81424;2;12;17;S;Grupo;ARAMIO;Restaurante A Lagoa, Vimianzo;A Coruña
+81311;2;12;17;S;Orquesta;MARBELLA;Restaurante El Pantano, Abegondo;A Coruña
+80702;2;12;17;S;Dúo;CALÚ;Restaurante La Torre, Tabeaio, Carral;A Coruña
+81138;2;12;17;S;Dúo;ECLIPSE;Ribadeo;Lugo
+80561;2;12;17;S;Orquesta;COSTA BLANCA;S.F. Chamán, Goián;Pontevedra
+81121;2;12;17;S;Orquesta;EL COMBO DOMINICANO;S.F. Chanteclair, Pontecesures;Pontevedra
+81122;2;12;17;S;Orquesta;PANORAMA;S.F. Chanteclair, Pontecesures;Pontevedra
+81271;2;12;17;S;Orquesta;NEW YORK;S.F. Dona Dana, Touro;A Coruña
+81390;2;12;17;S;Orquesta;GRAN PARADA;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
+81208;2;12;17;S;Orquesta;COMPOSTELA;S.F. Josfer, Mesón do Vento;A Coruña
+80617;2;12;17;S;Orquesta;PARIS DE NOIA;S.F. La Concha, O Val;A Coruña
+80482;2;12;17;S;Orquesta;NEVADA;S.F. La Flor, Montouto;A Coruña
+81427;2;12;17;S;Orquesta;TELEVISIÓN;S.F. Rosalar, Ribadeo;Lugo
+81125;2;12;17;S;Orquesta;FLORIDA SHOW;San Andrés de Montejos, Ponferrada;León
+81359;2;12;17;S;Orquesta;ARMONÍA SHOW;San Andrés, Santa Cruz de Tenerife;Tenerife
+69062;2;12;17;S;Solista;AIXA ROMAY;San Juan, Ferrol;A Coruña
+80545;2;12;17;S;Trío;SINTONÍA;Sigüeiro, Oroso;A Coruña
+81103;2;12;17;S;Dúo;ESTRELLAS;Temes, Carballedo;Lugo
+81561;2;12;17;S;Grupo;ASSIA;Tineo;Asturias
+67344;2;12;17;S;Solista;CRIS LÓPEZ;Valdoviño;A Coruña
+81240;2;12;17;S;Grupo;CLAXXON;Viveiro;Lugo
+81401;2;12;17;S;Dúo;CHARADA;Zas;A Coruña
+81183;3;12;17;D;Orquesta;FLORIDA SHOW;Albares de la Ribera, Torre del Bierzo;León
+81066;3;12;17;D;Orquesta;LOS TROVADORES;Bascoi, Mesía;A Coruña
+81402;3;12;17;D;Dúo;CHARADA;Brión;A Coruña
+81434;3;12;17;D;Solista;XILO;Cabanas;A Coruña
+80950;3;12;17;D;Orquesta;LA FÓRMULA;Discoteca Habana 75, Lalín;Pontevedra
+81209;3;12;17;D;Orquesta;COMPOSTELA;Naseiro, Viveiro;Lugo
+80189;3;12;17;D;Trío;SINTONÍA;Neaño, Cabana de Bergantiños;A Coruña
+80551;3;12;17;D;Dúo;EXPLOSIÓN;Redondela;Pontevedra
+80703;3;12;17;D;Dúo;CALÚ;Restaurante La Torre, Tabeaio, Carral;A Coruña
+80562;3;12;17;D;Orquesta;TREBOL;S.F. Chamán, Goián;Pontevedra
+81312;3;12;17;D;Orquesta;MARBELLA;S.F. La Reina, Sanguiñeda;Pontevedra
+81391;3;12;17;D;Orquesta;GRAN PARADA;S.F. Paulino, O Carballiño;Ourense
+81444;3;12;17;D;Orquesta;MIRAMAR;S.F. Velvet, Monçao;Portugal
+81157;3;12;17;D;Orquesta;LA OCABAND;S.F. Zeus, Campolongo;A Coruña
+81457;3;12;17;D;Grupo;ACIREMA;Salceda de Caselas;Pontevedra
+81564;4;12;17;L;Grupo;TEKILA;Cangas del Narcea;Asturias
+81136;5;12;17;M;Solista;AIXA ROMAY;Betanzos;A Coruña
+81155;5;12;17;M;Orquesta;LOS SATÉLITES;La Colmena, Narón;A Coruña
+80889;5;12;17;M;Solista;XILO;Meirás, Valdoviño;A Coruña
+81438;5;12;17;M;Solista;AIXA ROMAY;Pontedeume;A Coruña
+81302;5;12;17;M;Orquesta;CINEMA;Restaurante El Pantano, Abegondo;A Coruña
+80483;5;12;17;M;Orquesta;PARIS DE NOIA;S.F. La Flor, Montouto;A Coruña
+80797;5;12;17;M;Orquesta;EL COMBO DOMINICANO;S.F. La Reina, Sanguiñeda;Pontevedra
+80798;5;12;17;M;Orquesta;PANORAMA;S.F. La Reina, Sanguiñeda;Pontevedra
+81217;5;12;17;M;Orquesta;COMPOSTELA;San Salvador de Meis, Meis;Pontevedra
+81329;5;12;17;M;Orquesta;SAUDADE;San Salvador de Meis, Meis;Pontevedra
+81378;6;12;17;X;Orquesta;EL COMBO DOMINICANO;Disco Cota 960, A Fonsagrada;Lugo
+81573;6;12;17;X;Trío;LA NOCHE DO GROVE;Nantes, Sanxenxo;Pontevedra
+81303;6;12;17;X;Orquesta;CINEMA;Neda;A Coruña
+81558;6;12;17;X;Grupo;ASSIA;Noja;Cantabria
+81403;6;12;17;X;Dúo;CHARADA;Ribeira;A Coruña
+81068;6;12;17;X;Orquesta;LOS TROVADORES;Silván, Meis;Pontevedra
+81111;6;12;17;X;Orquesta;ISRAEL;Silván, Meis;Pontevedra
+81045;7;12;17;J;Orquesta;OLYMPUS RED TOUR;A Pousa, Xunqueira de Ambía;Ourense
+81387;7;12;17;J;Trío;SINTONÍA;Barrio Eiris, A Coruña;A Coruña
+81565;7;12;17;J;Grupo;TEKILA;Café Teatro Première, Pola de Siero;Asturias
+81137;7;12;17;J;Solista;AIXA ROMAY;Centro Cívico de Caranza, Ferrol;A Coruña
+80731;7;12;17;J;Orquesta;PARIS DE NOIA;Discoteca Zouk, Lugo;Lugo
+71921;7;12;17;J;Solista;XILO;Meirás, Valdoviño;A Coruña
+81559;7;12;17;J;Orquesta;VERSIÓN ORIGINAL;Noja;Cantabria
+81113;7;12;17;J;Orquesta;RITMO JOVEN;Restaurante El Pantano, Abegondo;A Coruña
+80618;7;12;17;J;Orquesta;PANORAMA;S.F. La Concha, O Val;A Coruña
+80456;7;12;17;J;Orquesta;EL COMBO DOMINICANO;S.F. La Flor, Montouto;A Coruña
+80484;7;12;17;J;Orquesta;CINEMA;S.F. La Flor, Montouto;A Coruña
+81352;7;12;17;J;Orquesta;TREBOL;Silván, Meis;Pontevedra
+81496;7;12;17;J;Grupo;GARIBALDI;Silván, Meis;Pontevedra
+81462;7;12;17;J;Dúo;CHARADA;Urdilde, Rois;A Coruña
+81416;7;12;17;J;Orquesta;CHARLESTON BIG-BAND;Xornes, Ponteceso;A Coruña
+81577;7;12;17;J;Grupo;ALKAR;Xornes, Ponteceso;A Coruña
+81264;8;12;17;V;Orquesta;PANORAMA;A Guarda;Pontevedra
+81046;8;12;17;V;Orquesta;CHARLESTON BIG-BAND;A Pousa, Xunqueira de Ambía;Ourense
+68768;8;12;17;V;Charanga;SANTA COMPAÑA;Arzúa;A Coruña
+71922;8;12;17;V;Dúo;XILO & CARLOS;Avilés;Asturias
+81047;8;12;17;V;Solista;CRIS LÓPEZ;Barallobre, Fene;A Coruña
+79487;8;12;17;V;Orquesta;CINEMA;Barrio Pena Redonda, Ourense;Ourense
+81556;8;12;17;V;Grupo;TEKILA;Blimea, San Martín del Rey Aurelio;Asturias
+81442;8;12;17;V;Orquesta;LA OLA ADN;Boiro;A Coruña
+81201;8;12;17;V;Disco Móvil;CDC MINIDISC;Cambeiro Outes;A Coruña
+81428;8;12;17;V;Orquesta;TELEVISIÓN;Casa do Pobo de Val-Sobral, Soutomaior;Pontevedra
+81210;8;12;17;V;Orquesta;COMPOSTELA;Centro Cívico de Cangas, Foz;Lugo
+80788;8;12;17;V;Trío;SINTONÍA;Culleredo;A Coruña
+81117;8;12;17;V;Orquesta;EL COMBO DOMINICANO;Discoteca Lennon, A Estrada;Pontevedra
+81508;8;12;17;V;Dúo;CALÚ;Discoteca Pazos, Laracha;A Coruña
+78884;8;12;17;V;Charanga;FURRUXA;Godos, Caldas de Reis;Pontevedra
+81504;8;12;17;V;Solista;AIXA ROMAY;Merza, Vila de Cruces;Pontevedra
+81425;8;12;17;V;Grupo;ARAMIO;Mestas de Ardisana, Llanes;Asturias
+81313;8;12;17;V;Orquesta;MARBELLA;Nantes, Sanxenxo;Pontevedra
+81469;8;12;17;V;Orquesta;PONTEVEDRA;Nantes, Sanxenxo;Pontevedra
+69881;8;12;17;V;Disco Móvil;HAVANA ESPECTÁCULO MUSICAL;Navia;Asturias
+81536;8;12;17;V;Charanga;NBA;O Barqueiro, Mañón;A Coruña
+81360;8;12;17;V;Orquesta;ARMONÍA SHOW;Plaza de Jinámar, Telde;Las Palmas
+81272;8;12;17;V;Orquesta;NEW YORK;Pub Momo, Carral;A Coruña
+80814;8;12;17;V;Orquesta;LOS SATÉLITES;Restaurante As Rodas, Espíritu Santo;A Coruña
+81482;8;12;17;V;Grupo;AMÉRICA DE VIGO;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
+81392;8;12;17;V;Orquesta;GRAN PARADA;S.F. La Reina, Sanguiñeda;Pontevedra
+81044;8;12;17;V;Orquesta;OLYMPUS RED TOUR;S.F. Paulino, O Carballiño;Ourense
+81353;8;12;17;V;Orquesta;TREBOL;S.F. Velvet, Monçao;Portugal
+81051;8;12;17;V;Orquesta;PARIS DE NOIA;Santaia de Probaos, Cesuras;A Coruña
+81052;8;12;17;V;Orquesta;LA FAVORITA;Santaia de Probaos, Cesuras;A Coruña
+81254;8;12;17;V;Dúo;EXPLOSIÓN;Viveiro;Lugo
+80692;8;12;17;V;Charanga;OT;Xeve;Pontevedra
+81388;9;12;17;S;Dúo;D´ASES;A Toca, As Somozas;A Coruña
+81331;9;12;17;S;Orquesta;SAUDADE;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+81041;9;12;17;S;Solista;CRIS LÓPEZ;Anca, Neda;A Coruña
+71923;9;12;17;S;Dúo;XILO & CARLOS;Avilés;Asturias
+81557;9;12;17;S;Grupo;ASSIA;Blimea, San Martín del Rey Aurelio;Asturias
+81506;9;12;17;S;Orquesta;LA OCABAND;Boiro;A Coruña
+81114;9;12;17;S;Orquesta;RITMO JOVEN;Brens, Cee;A Coruña
+81202;9;12;17;S;Disco Móvil;CDC MINIDISC;Brens, Cee;A Coruña
+81458;9;12;17;S;Grupo;ACIREMA;Cambados;Pontevedra
+80645;9;12;17;S;Trío;SINTONÍA;Cecebre, Cambre;A Coruña
+81566;9;12;17;S;Grupo;TEKILA;Discoteca La Villar, Felechosa;Asturias
+81178;9;12;17;S;Grupo;AMÉRICA DE VIGO;Discoteca Malizzia, A Guarda;Pontevedra
+81294;9;12;17;S;Orquesta;FANIA BLANCO SHOW;Discoteca Pazos, Laracha;A Coruña
+81249;9;12;17;S;Orquesta;PANORAMA;Feria Internacional, Silleda;Pontevedra
+81250;9;12;17;S;Orquesta;PARIS DE NOIA;Feria Internacional, Silleda;Pontevedra
+81251;9;12;17;S;Orquesta;MARBELLA;Feria Internacional, Silleda;Pontevedra
+81187;9;12;17;S;Orquesta;GRAN PARADA;La Colmena, Narón;A Coruña
+81361;9;12;17;S;Orquesta;ARMONÍA SHOW;La Lajita, Fuerteventura;Las Palmas
+81322;9;12;17;S;Orquesta;OLYMPUS RED TOUR;Magán, Cuntis;Pontevedra
+81354;9;12;17;S;Orquesta;TREBOL;Magán, Cuntis;Pontevedra
+81498;9;12;17;S;Orquesta;IPANEMA;Manganeses de la Polvorosa;Zamora
+81102;9;12;17;S;Orquesta;LA OLA ADN;Nantes, Sanxenxo;Pontevedra
+81537;9;12;17;S;Charanga;NBA;O Barqueiro, Mañón;A Coruña
+81304;9;12;17;S;Orquesta;CINEMA;Pola de Allande, Allande;Asturias
+81507;9;12;17;S;Grupo;FAMA;Programa Aqui Galicia;Pontevedra
+80793;9;12;17;S;Dúo;ECLIPSE;Rececende, A Pontenova;Lugo
+81417;9;12;17;S;Orquesta;CHARLESTON BIG-BAND;Restaurante As Rodas, Espíritu Santo;A Coruña
+81509;9;12;17;S;Dúo;CALÚ;Restaurante Avelino, Mesón do Vento;A Coruña
+81413;9;12;17;S;Orquesta;NEVADA;Restaurante Balcobo, Arteixo;A Coruña
+81592;9;12;17;S;Orquesta;ESSENCIA;Restaurante El Pantano, Abegondo;A Coruña
+81135;9;12;17;S;Solista;AIXA ROMAY;Restaurante Pastoriza, Arteixo;A Coruña
+81445;9;12;17;S;Orquesta;MIRAMAR;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
+81288;9;12;17;S;Orquesta;LA FAVORITA;S.F. Josfer, Mesón do Vento;A Coruña
+80610;9;12;17;S;Orquesta;EL COMBO DOMINICANO;S.F. La Concha, O Val;A Coruña
+80485;9;12;17;S;Orquesta;LOS TROVADORES;S.F. La Flor, Montouto;A Coruña
+80640;9;12;17;S;Grupo;NEBRASKA;S.F. La Luna, Cerponzóns;Pontevedra
+81211;9;12;17;S;Orquesta;COMPOSTELA;S.F. Rosalar, Ribadeo;Lugo
+81574;9;12;17;S;Trío;LA NOCHE DO GROVE;S.F. Velvet, Monçao;Portugal
+81194;9;12;17;S;Orquesta;TELEVISIÓN;Santa Cruz, Oleiros;A Coruña
+81195;9;12;17;S;Dúo;CALÚ;Santa Cruz, Oleiros;A Coruña
+81470;9;12;17;S;Orquesta;PONTEVEDRA;Santa María de Xeve, Pontevedra;Pontevedra
+81584;9;12;17;S;Orquesta;XACOBEO;Santa María de Xeve, Pontevedra;Pontevedra
+69063;9;12;17;S;Solista;AIXA ROMAY;Santaia de Probaos, Cesuras;A Coruña
+80884;9;12;17;S;Orquesta;LOS SATÉLITES;Santaia de Probaos, Cesuras;A Coruña
+81091;9;12;17;S;Grupo;PEKADOS;Silleda;Pontevedra
+81451;9;12;17;S;Grupo;FAMA;Xil, Meaño;Pontevedra
+81544;9;12;17;S;Orquesta;ISRAEL;Xil, Meaño;Pontevedra
+81404;9;12;17;S;Dúo;CHARADA;Zas;A Coruña
+81418;10;12;17;D;Orquesta;CHARLESTON BIG-BAND;A Estrada;Pontevedra
+81459;10;12;17;D;Grupo;ACIREMA;Cambados;Pontevedra
+80185;10;12;17;D;Trío;SINTONÍA;Carral;A Coruña
+80570;10;12;17;D;Orquesta;EL COMBO DOMINICANO;Casino Mugardés, Mugardos;A Coruña
+80571;10;12;17;D;Orquesta;PARIS DE NOIA;Casino Mugardés, Mugardos;A Coruña
+81262;10;12;17;D;Charanga;MIL9;Cea, Vilagarcía de Arousa;Pontevedra
+81184;10;12;17;D;Orquesta;FLORIDA SHOW;Dehesas, Ponferrada;León
+80212;10;12;17;D;Solista;AIXA ROMAY;Pontedeume;A Coruña
+80836;10;12;17;D;Solista;BEGOÑA GARCÍA;Restaurante A Escola, Oleiros;A Coruña
+81503;10;12;17;D;Orquesta;COMPOSTELA;S.F. La Luna, Cerponzóns;Pontevedra
+81305;10;12;17;D;Orquesta;CINEMA;S.F. La Reina, Sanguiñeda;Pontevedra
+81468;10;12;17;D;Orquesta;PONTEVEDRA;S.F. Paraíso, A Cañiza;Pontevedra
+81314;10;12;17;D;Orquesta;MARBELLA;S.F. Paulino, O Carballiño;Ourense
+81355;10;12;17;D;Orquesta;TREBOL;S.F. Zeus, Campolongo;A Coruña
+81196;10;12;17;D;Dúo;D´ASES;Santa Cruz, Oleiros;A Coruña
+80501;10;12;17;D;Solista;AIXA ROMAY;Santaia de Probaos, Cesuras;A Coruña
+81092;10;12;17;D;Grupo;PEKADOS;Silleda;Pontevedra
+71924;10;12;17;D;Solista;XILO;Tabeaio, Carral;A Coruña
+81164;13;12;17;X;Dúo;EXPLOSIÓN;Beade;Ourense
+81120;13;12;17;X;Charanga;CASTRO BELLO;Traveso, Castrelo de Miño;Ourense
+81377;14;12;17;J;Orquesta;EL COMBO DOMINICANO;Sala Apolo, Santiago de Compostela;A Coruña
+81608;15;12;17;V;Trío;SINTONÍA;Bergondo;A Coruña
+81050;15;12;17;V;Orquesta;EL COMBO DOMINICANO;Discoteca A Vieira, Ponteceso;A Coruña
+80732;15;12;17;V;Orquesta;PANORAMA;Discoteca Zouk, Lugo;Lugo
+81389;15;12;17;V;Dúo;D´ASES;F40 Gin Café, San Tirso de Mabegondo;A Coruña
+69534;15;12;17;V;Solista;BEGOÑA GARCÍA;Ferrol;A Coruña
+80813;15;12;17;V;Orquesta;LOS SATÉLITES;Hotel Casa Barreiro, Ordes;A Coruña
+71925;15;12;17;V;Solista;XILO;Hotel Narón, Narón;A Coruña
+81148;15;12;17;V;Orquesta;PRINCIPAL;Plató 1000, Teo;A Coruña
+81315;15;12;17;V;Orquesta;MARBELLA;Restaurante El Pantano, Abegondo;A Coruña
+81567;15;12;17;V;Grupo;TEKILA;S.F. Estilo, Oviedo;Asturias
+81621;15;12;17;V;Grupo;ASSIA;S.F. Velvet, Monçao;Portugal
+81048;15;12;17;V;Orquesta;PARIS DE NOIA;S.F. Zeus, Campolongo;A Coruña
+81049;15;12;17;V;Orquesta;NEW YORK;S.F. Zeus, Campolongo;A Coruña
+81123;15;12;17;V;Trío;XTRA;Vigo;Pontevedra
+81452;16;12;17;S;Grupo;FAMA;A Picoña, Salceda de Caselas;Pontevedra
+81212;16;12;17;S;Orquesta;COMPOSTELA;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+73106;16;12;17;S;Disco Móvil;FABRIK;Berdeogas, Dumbria;A Coruña
+80410;16;12;17;S;Orquesta;TREBOL;Berdeogas, Dumbria;A Coruña
+81501;16;12;17;S;Grupo;FUNÇAO PUBLIKA;Berdeogas, Dumbria;A Coruña
+80586;16;12;17;S;Dúo;EXPLOSIÓN;Castropol;Asturias
+81545;16;12;17;S;Orquesta;ISRAEL;Centro Cívico de Cangas, Foz;Lugo
+81429;16;12;17;S;Orquesta;TELEVISIÓN;Cepeda, Pazos de Borbén;Pontevedra
+81376;16;12;17;S;Orquesta;EL COMBO DOMINICANO;Discoteca Hermo, Muimenta;Lugo
+81035;16;12;17;S;Orquesta;RITMO JOVEN;Discoteca Nova Slava, Cee;A Coruña
+81568;16;12;17;S;Grupo;TEKILA;Discoteca Paradise, Teverga;Asturias
+81386;16;12;17;S;Grupo;AMERICA SL;Discoteca Pazos, Laracha;A Coruña
+81316;16;12;17;S;Orquesta;MARBELLA;Gargallóns, Campo Lameiro;Pontevedra
+81651;16;12;17;S;Grupo;ASSIA;Gijón;Asturias
+71926;16;12;17;S;Solista;XILO;Hotel Narón, Narón;A Coruña
+81273;16;12;17;S;Orquesta;NEW YORK;Infesta, Pontecesures;Pontevedra
+81188;16;12;17;S;Orquesta;LA FÓRMULA;La Colmena, Narón;A Coruña
+81265;16;12;17;S;Orquesta;PANORAMA;Moraña;Pontevedra
+81394;16;12;17;S;Orquesta;GRAN PARADA;Moraña;Pontevedra
+81295;16;12;17;S;Orquesta;FANIA BLANCO SHOW;Nantón, Cabana de Bergantiños;A Coruña
+81426;16;12;17;S;Grupo;ARAMIO;Nantón, Cabana de Bergantiños;A Coruña
+81166;16;12;17;S;Solista;AIXA ROMAY;Parrillada Menguxo, Vilarmaior;A Coruña
+80591;16;12;17;S;Orquesta;SANTIAGO D.C.;Restaurante A Lagoa, Vimianzo;A Coruña
+81471;16;12;17;S;Orquesta;PONTEVEDRA;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
+81289;16;12;17;S;Orquesta;ESSENCIA;S.F. Josfer, Mesón do Vento;A Coruña
+81284;16;12;17;S;Grupo;D´MODA;S.F. La Concha, O Val;A Coruña
+80486;16;12;17;S;Orquesta;OLYMPUS RED TOUR;S.F. La Flor, Montouto;A Coruña
+81641;16;12;17;S;Orquesta;SAUDADE;S.F. La Luna, Cerponzóns;Pontevedra
+81149;16;12;17;S;Orquesta;PRINCIPAL;S.F. Rosalar, Ribadeo;Lugo
+81306;16;12;17;S;Orquesta;CINEMA;S.F. Soco, Vimianzo;A Coruña
+81622;16;12;17;S;Dúo;NUEVA ERA;S.F. Velvet, Monçao;Portugal
+81439;16;12;17;S;Solista;AIXA ROMAY;Santo Estevo de Ribas de Sil, Nogueira de Ramuín;Ourense
+80031;16;12;17;S;Orquesta;PARIS DE NOIA;Sedes, Narón;A Coruña
+80626;16;12;17;S;Orquesta;LA FAVORITA;Sedes, Narón;A Coruña
+81286;16;12;17;S;Orquesta;CHARLESTON BIG-BAND;Sisto, Valga;Pontevedra
+80752;16;12;17;S;Orquesta;LOS SATÉLITES;Sisto, Valga;Pontevedra
+81070;16;12;17;S;Orquesta;LOS TROVADORES;Sociedad Cultural y Deportiva de Mourente, Pontevedra;Pontevedra
+81127;16;12;17;S;Orquesta;FLORIDA SHOW;Sociedad La Obrera, Ponferrada;León
+80641;16;12;17;S;Grupo;NEBRASKA;Soutopenedo, San Cibrao das Viñas;Ourense
+81528;16;12;17;S;Orquesta;LA OCABAND;Traveso, Castrelo de Miño;Ourense
+81241;16;12;17;S;Grupo;CLAXXON;Viascon, Cotobade;Pontevedra
+81293;16;12;17;S;Orquesta;MIRAMAR;Viascon, Cotobade;Pontevedra
+81124;16;12;17;S;Trío;XTRA;Vigo;Pontevedra
+81406;16;12;17;S;Dúo;CHARADA;Xuño, Porto do Son;A Coruña
+80637;16;12;17;S;Trío;SINTONÍA;Zas;A Coruña
+80215;17;12;17;D;Solista;AIXA ROMAY;A Coruña;A Coruña
+80838;17;12;17;D;Solista;BEGOÑA GARCÍA;A Coruña;A Coruña
+80639;17;12;17;D;Dúo;EXPLOSIÓN;Bueu;Pontevedra
+81502;17;12;17;D;Dúo;CHARADA;Cambados;Pontevedra
+81185;17;12;17;D;Orquesta;FLORIDA SHOW;Dehesas, Ponferrada;León
+81375;17;12;17;D;Orquesta;EL COMBO DOMINICANO;Discoteca Habana 75, Lalín;Pontevedra
+80186;17;12;17;D;Trío;SINTONÍA;Restaurante Pastoriza, Vimianzo;A Coruña
+81172;17;12;17;D;Orquesta;COMPOSTELA;S.F. Chamán, Goián;Pontevedra
+81420;17;12;17;D;Orquesta;CHARLESTON BIG-BAND;S.F. La Reina, Sanguiñeda;Pontevedra
+81446;17;12;17;D;Orquesta;MIRAMAR;S.F. Paraíso, A Cañiza;Pontevedra
+81077;17;12;17;D;Orquesta;LOS SATÉLITES;S.F. Paulino, O Carballiño;Ourense
+81546;17;12;17;D;Orquesta;ISRAEL;S.F. Velvet, Monçao;Portugal
+81317;17;12;17;D;Orquesta;MARBELLA;S.F. Zeus, Campolongo;A Coruña
+81539;18;12;17;L;Charanga;CASTRO BELLO;Sa, Boborás;Ourense
+81639;19;12;17;M;Dúo;XILO & CARLOS;Covas, Viveiro;Lugo
+81366;19;12;17;M;Solista;AIXA ROMAY;Orzán, A Coruña;A Coruña
+81437;20;12;17;X;Solista;XILO;Centroña, Pontedeume;A Coruña
+81367;20;12;17;X;Solista;AIXA ROMAY;Orzán, A Coruña;A Coruña
+81578;21;12;17;J;Grupo;ALKAR;Alvite, Negreira;A Coruña
+81603;21;12;17;J;Charanga;MIL9;Nogueira, Meis;Pontevedra
+81368;21;12;17;J;Solista;AIXA ROMAY;Orzán, A Coruña;A Coruña
+81318;21;12;17;J;Orquesta;MARBELLA;San Tomé de Piñeiro, Marín;Pontevedra
+81374;22;12;17;V;Orquesta;EL COMBO DOMINICANO;Arrecife;Las Palmas
+81235;22;12;17;V;Charanga;CASTRO BELLO;Boticas, Vila Real;Portugal
+81530;22;12;17;V;Dúo;CHIC;Cambados;Pontevedra
+81277;22;12;17;V;Orquesta;PARIS DE NOIA;Discoteca Hermo, Muimenta;Lugo
+80708;22;12;17;V;Orquesta;CINEMA;Discoteca Litmar, Sarria;Lugo
+81189;22;12;17;V;Orquesta;FANIA BLANCO SHOW;La Colmena, Narón;A Coruña
+81323;22;12;17;V;Orquesta;OLYMPUS RED TOUR;Laxe;A Coruña
+81710;22;12;17;V;Dúo;CALÚ;Ordes;A Coruña
+81705;22;12;17;V;Solista;XILO;Os Condes, Bergondo;A Coruña
+81569;22;12;17;V;Grupo;TEKILA;Palacio de la Magdalena, Soto del Barco;Asturias
+81266;22;12;17;V;Orquesta;PANORAMA;Recinto Ferial, Vegadeo;Asturias
+81078;22;12;17;V;Orquesta;LOS SATÉLITES;Restaurante El Pantano, Abegondo;A Coruña
+80620;22;12;17;V;Orquesta;MARBELLA;S.F. La Concha, O Val;A Coruña
+81274;22;12;17;V;Orquesta;NEW YORK;S.F. Morango K.N, Lugo;Lugo
+81395;22;12;17;V;Orquesta;GRAN PARADA;San Tomé de Piñeiro, Marín;Pontevedra
+81256;22;12;17;V;Dúo;EXPLOSIÓN;Sarria;Lugo
+81605;23;12;17;S;Grupo;AMERICA SL;A Ponte do Porto, Camariñas;A Coruña
+81071;23;12;17;S;Orquesta;LOS TROVADORES;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+81248;23;12;17;S;Charanga;FUEGO;Boticas, Vila Real;Portugal
+81275;23;12;17;S;Orquesta;NEW YORK;Castroverde;Lugo
+81379;23;12;17;S;Grupo;PUNTO CLAVE;Castroverde;Lugo
+81213;23;12;17;S;Orquesta;COMPOSTELA;Centro Cívico de Cangas, Foz;Lugo
+81570;23;12;17;S;Grupo;TEKILA;Colombres, Ribadedeva;Asturias
+81319;23;12;17;S;Orquesta;MARBELLA;Disco Cota 960, A Fonsagrada;Lugo
+81692;23;12;17;S;Disco Móvil;SONORA MUSIC;Discoteca Lennon, A Estrada;Pontevedra
+80882;23;12;17;S;Orquesta;RITMO JOVEN;Discoteca Litmar, Sarria;Lugo
+81278;23;12;17;S;Orquesta;PARIS DE NOIA;Discoteca Pazos, Laracha;A Coruña
+81548;23;12;17;S;Orquesta;LA FÓRMULA;Lalín;Pontevedra
+81472;23;12;17;S;Orquesta;PONTEVEDRA;Moucide, O Valadouro;Lugo
+81585;23;12;17;S;Dúo;DE LA CRUZ SHOW;Noia;A Coruña
+69064;23;12;17;S;Solista;AIXA ROMAY;Parrillada Peiró, Cambre;A Coruña
+81373;23;12;17;S;Orquesta;EL COMBO DOMINICANO;Plaza de Santiago, Gáldar;Las Palmas
+81598;23;12;17;S;Orquesta;PRINCIPAL;Restaurante A Lagoa, Vimianzo;A Coruña
+81079;23;12;17;S;Orquesta;LOS SATÉLITES;Restaurante El Pantano, Abegondo;A Coruña
+71927;23;12;17;S;Solista;XILO;Restaurante La Torre, Tabeaio, Carral;A Coruña
+81714;23;12;17;S;Trío;SINTONÍA;Ribeira;A Coruña
+81173;23;12;17;S;Trío;MAGIKAL;S.F. Chamán, Goián;Pontevedra
+81267;23;12;17;S;Orquesta;PANORAMA;S.F. Dona Dana, Touro;A Coruña
+81430;23;12;17;S;Orquesta;TELEVISIÓN;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
+81290;23;12;17;S;Orquesta;TREBOL;S.F. Josfer, Mesón do Vento;A Coruña
+80621;23;12;17;S;Orquesta;GRAN PARADA;S.F. La Concha, O Val;A Coruña
+80487;23;12;17;S;Orquesta;CINEMA;S.F. La Flor, Montouto;A Coruña
+81636;23;12;17;S;Orquesta;ISRAEL;S.F. La Luna, Cerponzóns;Pontevedra
+81296;23;12;17;S;Orquesta;FANIA BLANCO SHOW;S.F. Paulino, O Carballiño;Ourense
+81447;23;12;17;S;Orquesta;MIRAMAR;S.F. Paulino, O Carballiño;Ourense
+81324;23;12;17;S;Orquesta;OLYMPUS RED TOUR;S.F. Soco, Vimianzo;A Coruña
+81643;23;12;17;S;Orquesta;CHARLESTON BIG-BAND;S.F. Universo, Santa Comba;A Coruña
+81656;23;12;17;S;Grupo;BOMBA;S.F. Universo, Santa Comba;A Coruña
+81497;23;12;17;S;Grupo;GARIBALDI;Valle de Finolledo, Vega de Espinareda;León
+81483;23;12;17;S;Grupo;AMÉRICA DE VIGO;Vilalba;Lugo
+81638;23;12;17;S;Dúo;CHARADA;Zas;A Coruña
+81364;24;12;17;D;Orquesta;ARMONÍA SHOW;Gáldar;Las Palmas
+81161;24;12;17;D;Trío;SINTONÍA;Narón;A Coruña
+81320;25;12;17;L;Orquesta;MARBELLA;A Devesa, Pontevedra;Pontevedra
+81072;25;12;17;L;Orquesta;LOS TROVADORES;Anos, Cabana de Bergantiños;A Coruña
+81214;25;12;17;L;Orquesta;COMPOSTELA;Casino de Noia, Noia;A Coruña
+81279;25;12;17;L;Orquesta;PARIS DE NOIA;Discoteca Habana 75, Lalín;Pontevedra
+81396;25;12;17;L;Orquesta;GRAN PARADA;Discoteca Ramallosa 2000, A Ramallosa;Pontevedra
+81408;25;12;17;L;Dúo;CHARADA;Escarabote, Boiro;A Coruña
+81460;25;12;17;L;Grupo;ACIREMA;Pontevedra;Pontevedra
+81637;25;12;17;L;Grupo;NEBRASKA;S.F. Chamán, Goián;Pontevedra
+81036;25;12;17;L;Orquesta;RITMO JOVEN;S.F. La Luna, Cerponzóns;Pontevedra
+81325;25;12;17;L;Orquesta;OLYMPUS RED TOUR;S.F. La Reina, Sanguiñeda;Pontevedra
+81473;25;12;17;L;Orquesta;PONTEVEDRA;S.F. Paulino, O Carballiño;Ourense
+81356;25;12;17;L;Orquesta;TREBOL;S.F. Rosalar, Ribadeo;Lugo
+81657;25;12;17;L;Orquesta;PANORAMA;S.F. Universo, Santa Comba;A Coruña
+80653;25;12;17;L;Dúo;XILO & CARLOS;S.F. Zeus, Campolongo;A Coruña
+81441;25;12;17;L;Orquesta;SAUDADE;Villaralbo;Zamora
+81397;26;12;17;M;Orquesta;GRAN PARADA;Cans, O Porriño;Pontevedra
+81448;26;12;17;M;Orquesta;MIRAMAR;Cans, O Porriño;Pontevedra
+81555;26;12;17;M;Charanga;CASTRO BELLO;Castrelo de Miño;Ourense
+81626;26;12;17;M;Orquesta;TREBOL;Castrelo de Miño;Ourense
+67492;26;12;17;M;Orquesta;GÉNESIS;Navaleno;Soria
+80638;26;12;17;M;Orquesta;CHARLESTON BIG-BAND;Noalla, Sanxenxo;Pontevedra
+81533;26;12;17;M;Orquesta;SANTIAGO D.C.;Ourense;Ourense
+80589;26;12;17;M;Dúo;CHIC;Pontevedra;Pontevedra
+81711;26;12;17;M;Grupo;GARIBALDI;Santas Martas;León
+81308;26;12;17;M;Orquesta;CINEMA;Treos, Vimianzo;A Coruña
+81163;26;12;17;M;Dúo;EXPLOSIÓN;Vimianzo;A Coruña
+81260;26;12;17;M;Grupo;CLAXXON;Viñas de Aliste, Viñas;Zamora
+81431;27;12;17;X;Orquesta;TELEVISIÓN;Cans, O Porriño;Pontevedra
+81484;27;12;17;X;Grupo;AMÉRICA DE VIGO;Mougás, Oia;Pontevedra
+81162;27;12;17;X;Dúo;EXPLOSIÓN;Nigrán;Pontevedra
+81477;27;12;17;X;Orquesta;PONTEVEDRA;Pazo da Cultura, Pontevedra;Pontevedra
+71928;28;12;17;J;Solista;XILO;Centro Cívico de Caranza, Ferrol;A Coruña
+74876;29;12;17;V;Dúo;XILO & CARLOS;Cervecería O Lagar, Neda;A Coruña
+81280;29;12;17;V;Orquesta;PARIS DE NOIA;Disco Cota 960, A Fonsagrada;Lugo
+81309;29;12;17;V;Orquesta;CINEMA;Discoteca Dilema, Silleda;Pontevedra
+81579;29;12;17;V;Grupo;ALKAR;Loureda, Cesuras;A Coruña
+81380;29;12;17;V;Grupo;PUNTO CLAVE;Meira;Lugo
+81763;29;12;17;V;Dúo;EXPLOSIÓN;Melide;A Coruña
+81268;29;12;17;V;Orquesta;PANORAMA;Plaza de Parque Europa, Las Vegas, Corvera;Asturias
+81327;29;12;17;V;Orquesta;OLYMPUS RED TOUR;S.F. Paraíso, A Cañiza;Pontevedra
+81529;29;12;17;V;Trío;SINTONÍA;Sada;A Coruña
+81823;29;12;17;V;Orquesta;TRIUNFO;Tamallancos, Vilamarín;Ourense
+81259;29;12;17;V;Solista;AIXA ROMAY;Viveiro;Lugo
+81073;30;12;17;S;Orquesta;LOS TROVADORES;A Canicouva, Pontevedra;Pontevedra
+81479;30;12;17;S;Charanga;CANTOS SOMOS;A Guarda;Pontevedra
+81748;30;12;17;S;Orquesta;SAUDADE;Almaraz de Duero;Zamora
+81281;30;12;17;S;Orquesta;PARIS DE NOIA;Avilés;Asturias
+81357;30;12;17;S;Orquesta;TREBOL;Centro Cívico de Cangas, Foz;Lugo
+81694;30;12;17;S;Disco Móvil;SONORA MUSIC;Disco Acero, Ordes;A Coruña
+81369;30;12;17;S;Solista;AIXA ROMAY;Ferrol;A Coruña
+81588;30;12;17;S;Charanga;MANÍA;Herreros de Rueda, Cubillas de Rueda;León
+81691;30;12;17;S;Orquesta;NEVADA;Juarros de Voltoya;Segovia
+81269;30;12;17;S;Orquesta;PANORAMA;La Florida, Oviedo;Asturias
+81593;30;12;17;S;Orquesta;ESSENCIA;Loureda, Cesuras;A Coruña
+81160;30;12;17;S;Orquesta;LA FÓRMULA;Luarca, Valdés;Asturias
+81328;30;12;17;S;Orquesta;OLYMPUS RED TOUR;Mos;Pontevedra
+80794;30;12;17;S;Dúo;ECLIPSE;Orrea, Riotorto;Lugo
+81571;30;12;17;S;Grupo;TEKILA;Plaza de Parque Europa, Las Vegas, Corvera;Asturias
+81215;30;12;17;S;Orquesta;COMPOSTELA;Restaurante A Lagoa, Vimianzo;A Coruña
+81370;30;12;17;S;Solista;AIXA ROMAY;Riazor, A Coruña;A Coruña
+81575;30;12;17;S;Trío;LA NOCHE DO GROVE;S.F. Chamán, Goián;Pontevedra
+81644;30;12;17;S;Orquesta;CAPITOL;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
+81291;30;12;17;S;Orquesta;MARBELLA;S.F. Josfer, Mesón do Vento;A Coruña
+80488;30;12;17;S;Orquesta;LOS SATÉLITES;S.F. La Flor, Montouto;A Coruña
+81485;30;12;17;S;Grupo;AMÉRICA DE VIGO;S.F. La Luna, Cerponzóns;Pontevedra
+81398;30;12;17;S;Orquesta;GRAN PARADA;S.F. Rosalar, Ribadeo;Lugo
+81884;30;12;17;S;Orquesta;CINEMA;Treos, Vimianzo;A Coruña
+81263;30;12;17;S;Charanga;CASTRO BELLO;Vilarrubín, A Peroxa;Ourense
+81407;30;12;17;S;Dúo;CHARADA;Zas;A Coruña
+80839;31;12;17;D;Solista;BEGOÑA GARCÍA;A Coruña;A Coruña
+80796;31;12;17;D;Dúo;ECLIPSE;A Pobra do Brollón;Lugo
+81534;31;12;17;D;Orquesta;SANTIAGO D.C.;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+81629;31;12;17;D;Orquesta;FURIA JOVEN;Arguineguín;Las Palmas
+81040;31;12;17;D;Charanga;SANTA COMPAÑA;Arteixo;A Coruña
+81321;31;12;17;D;Orquesta;MARBELLA;Arteixo;A Coruña
+81552;31;12;17;D;Dúo;D´ASES;As Pontes de García Rodríguez;A Coruña
+81572;31;12;17;D;Grupo;D´MODA;As Pontes de García Rodríguez;A Coruña
+81399;31;12;17;D;Orquesta;GRAN PARADA;Avilés;Asturias
+81532;31;12;17;D;Dúo;CHIC;Carril, Vilagarcía de Arousa;Pontevedra
+81712;31;12;17;D;Grupo;GARIBALDI;Casaio, Carballeda de Valdeorras;Ourense
+81332;31;12;17;D;Orquesta;SAUDADE;Casino Espinho, Espinho;Portugal
+81831;31;12;17;D;Disco Móvil;EME MUSIC;Casino Mugardés, Mugardos;A Coruña
+80328;31;12;17;D;Orquesta;FANIA BLANCO SHOW;Cedeira;A Coruña
+81665;31;12;17;D;Orquesta;XACOBEO;Centro cultural de Salcedo, Pontevedra;Pontevedra
+81158;31;12;17;D;Orquesta;LA OCABAND;Circulo de las Artes, Lugo;Lugo
+81243;31;12;17;D;Grupo;CLAXXON;Club Artístico, Ribadavia;Ourense
+81130;31;12;17;D;Orquesta;FLORIDA SHOW;Cubillos del Sil;León
+81118;31;12;17;D;Orquesta;PANORAMA;Discoteca Lennon, A Estrada;Pontevedra
+76130;31;12;17;D;Grupo;PUNTO CLAVE;Discoteca Litmar, Sarria;Lugo
+80709;31;12;17;D;Grupo;ATENAS;Discoteca Litmar, Sarria;Lugo
+80683;31;12;17;D;Orquesta;PANAMA;Ferrol;A Coruña
+71930;31;12;17;D;Solista;XILO;Fisterra;A Coruña
+80753;31;12;17;D;Orquesta;LOS SATÉLITES;Hotel Casa Barreiro, Ordes;A Coruña
+81432;31;12;17;D;Orquesta;TELEVISIÓN;Hotel Casino Chaves, Chaves;Portugal
+81583;31;12;17;D;Orquesta;LA OLA ADN;Hotel Scala, Padrón;A Coruña
+81190;31;12;17;D;Orquesta;LA FAVORITA;La Colmena, Narón;A Coruña
+81239;31;12;17;D;Trío;SINTONÍA;La Unión, Sarria;Lugo
+81645;31;12;17;D;Orquesta;CAPITOL;Liceo de Noia, Noia;A Coruña
+81807;31;12;17;D;Grupo;NUEVA FUERZA;Los Llanos, La Palma;Tenerife
+81365;31;12;17;D;Orquesta;ARMONÍA SHOW;Los Llanos, La Palma;Tenerife
+81599;31;12;17;D;Orquesta;PRINCIPAL;Lourenzá;Lugo
+81474;31;12;17;D;Orquesta;PONTEVEDRA;Luarca, Valdés;Asturias
+81576;31;12;17;D;Trío;LA NOCHE DO GROVE;Melgaço;Portugal
+80937;31;12;17;D;Orquesta;LA FÓRMULA;Mieres;Asturias
+81628;31;12;17;D;Orquesta;FURIA JOVEN;Mogán, Gran Canaria;Las Palmas
+81611;31;12;17;D;Disco Móvil;MAYGON;Mugardos;A Coruña
+81606;31;12;17;D;Grupo;AMERICA SL;Multiusos de Marín;Pontevedra
+80926;31;12;17;D;Grupo;PASIÓN;Parrillada Minuetto, Valdoviño;A Coruña
+81422;31;12;17;D;Orquesta;CHARLESTON BIG-BAND;Piedras Blancas, Castrillon;Asturias
+81276;31;12;17;D;Orquesta;NEW YORK;Plaza de Galicia, Narón;A Coruña
+81547;31;12;17;D;Orquesta;ISRAEL;Plaza de Parque Europa, Las Vegas, Corvera;Asturias
+81449;31;12;17;D;Orquesta;MIRAMAR;Ponte Caldelas;Pontevedra
+81824;31;12;17;D;Orquesta;TRIUNFO;Pontedeume;A Coruña
+81358;31;12;17;D;Orquesta;TREBOL;Praza Maior, Ourense;Ourense
+81594;31;12;17;D;Orquesta;ESSENCIA;Restaurante A Carballeira, Santa Cruz de Arrabaldo;Ourense
+81074;31;12;17;D;Orquesta;LOS TROVADORES;Restaurante As Rodas, Espíritu Santo;A Coruña
+81310;31;12;17;D;Orquesta;CINEMA;Restaurante El Pantano, Abegondo;A Coruña
+80707;31;12;17;D;Solista;AIXA ROMAY;Restaurante los Robles, Lugar Saamasas;Lugo
+81216;31;12;17;D;Orquesta;COMPOSTELA;Restaurante los Robles, Santiago de Compostela;A Coruña
+81554;31;12;17;D;Orquesta;ABANICO;Restaurante Peña Mar, Castropol;Asturias
+81513;31;12;17;D;Dúo;CHARADA;Ribeira;A Coruña
+81175;31;12;17;D;Grupo;ARAMIO;S.F. Chamán, Goián;Pontevedra
+81282;31;12;17;D;Orquesta;PARIS DE NOIA;S.F. Chanteclair, Pontecesures;Pontevedra
+81372;31;12;17;D;Orquesta;EL COMBO DOMINICANO;S.F. Dona Dana, Touro;A Coruña
+81725;31;12;17;D;Orquesta;FIN DE SIGLO;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
+81245;31;12;17;D;Grupo;ASSIA;S.F. Estilo, Oviedo;Asturias
+81246;31;12;17;D;Grupo;TEKILA;S.F. Estilo, Oviedo;Asturias
+80622;31;12;17;D;Orquesta;OLYMPUS RED TOUR;S.F. La Concha, O Val;A Coruña
+80489;31;12;17;D;Orquesta;RITMO JOVEN;S.F. La Flor, Montouto;A Coruña
+81715;31;12;17;D;Orquesta;GRAN CASINO;S.F. La Luna, Cerponzóns;Pontevedra
+81486;31;12;17;D;Grupo;AMÉRICA DE VIGO;S.F. Paraíso, A Cañiza;Pontevedra
+81658;31;12;17;D;Grupo;M-3;S.F. Universo, Santa Comba;A Coruña
+81461;31;12;17;D;Grupo;ACIREMA;Santa María de Oia, Oia;Pontevedra
+81693;31;12;17;D;Disco Móvil;SONORA MUSIC;Sigüeiro, Oroso;A Coruña
+81236;31;12;17;D;Grupo;NEBRASKA;Sociedad Cultural y Deportiva de Mourente, Pontevedra;Pontevedra
+80729;31;12;17;D;Dúo;EXPLOSIÓN;Vigo;Pontevedra
+81713;31;12;17;D;Disco Móvil;SPACEMUSIC;Vigo;Pontevedra
+81414;31;12;17;D;Orquesta;NEVADA;Villaralbo;Zamora
+81512;31;12;17;D;Dúo;CALÚ;Vimianzo;A Coruña

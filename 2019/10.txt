@@ -1,740 +1,740 @@
-113348;1;10;19;M;Orquesta;LA OCABAND;PlatÛ 1000, Teo;A CoruÒa
-113406;1;10;19;M;Orquesta;MARBELLA;San RoquiÒo, Lousame;A CoruÒa
-113454;1;10;19;M;Orquesta;TREBOL;San RoquiÒo, Lousame;A CoruÒa
-113037;2;10;19;X;Orquesta;LOS TROVADORES;San RoquiÒo, Lousame;A CoruÒa
-113254;2;10;19;X;Orquesta;CHARLESTON BIG-BAND;San RoquiÒo, Lousame;A CoruÒa
+113348;1;10;19;M;Orquesta;LA OCABAND;Plat√≥ 1000, Teo;A Coru√±a
+113406;1;10;19;M;Orquesta;MARBELLA;San Roqui√±o, Lousame;A Coru√±a
+113454;1;10;19;M;Orquesta;TREBOL;San Roqui√±o, Lousame;A Coru√±a
+113037;2;10;19;X;Orquesta;LOS TROVADORES;San Roqui√±o, Lousame;A Coru√±a
+113254;2;10;19;X;Orquesta;CHARLESTON BIG-BAND;San Roqui√±o, Lousame;A Coru√±a
 113558;3;10;19;J;Orquesta;PANORAMA;Guadarrama;Madrid
-113124;3;10;19;J;Orquesta;PONTEVEDRA;San RoquiÒo, Lousame;A CoruÒa
-113148;3;10;19;J;Orquesta;GRAN PARADA;San RoquiÒo, Lousame;A CoruÒa
-113334;4;10;19;V;Orquesta;CINEMA;A GraÒa de Vilarente, AbadÌn;Lugo
+113124;3;10;19;J;Orquesta;PONTEVEDRA;San Roqui√±o, Lousame;A Coru√±a
+113148;3;10;19;J;Orquesta;GRAN PARADA;San Roqui√±o, Lousame;A Coru√±a
+113334;4;10;19;V;Orquesta;CINEMA;A Gra√±a de Vilarente, Abad√≠n;Lugo
 113639;4;10;19;V;Orquesta;KRONOS;Alba de Yeltes;Salamanca
-113155;4;10;19;V;Orquesta;LOS SAT…LITES;Alto do Cruceiro, Xove;Lugo
+113155;4;10;19;V;Orquesta;LOS SAT√âLITES;Alto do Cruceiro, Xove;Lugo
 112917;4;10;19;V;Grupo;CLAXXON;Barrio San Francisco, Ourense;Ourense
-113407;4;10;19;V;Orquesta;MARBELLA;CabaÒaquinta, Aller;Asturias
+113407;4;10;19;V;Orquesta;MARBELLA;Caba√±aquinta, Aller;Asturias
 113674;4;10;19;V;Orquesta;AZABACHE;Cabeza del Caballo;Salamanca
-113437;4;10;19;V;TrÌo;D¥LIDER;Canido, Vigo;Pontevedra
-113528;4;10;19;V;D˙o;ECLIPSE;Cereixa, A Pobra do BrollÛn;Lugo
-113294;4;10;19;V;Orquesta;PALLADIUM;CoaÒa;Asturias
-113715;4;10;19;V;Grupo;GARIBALDI;CoaÒa;Asturias
+113437;4;10;19;V;Tr√≠o;D¬¥LIDER;Canido, Vigo;Pontevedra
+113528;4;10;19;V;D√∫o;ECLIPSE;Cereixa, A Pobra do Broll√≥n;Lugo
+113294;4;10;19;V;Orquesta;PALLADIUM;Coa√±a;Asturias
+113715;4;10;19;V;Grupo;GARIBALDI;Coa√±a;Asturias
 113657;4;10;19;V;Orquesta;SAUDADE;Comboa, Soutomaior;Pontevedra
-113389;4;10;19;V;Orquesta;LA F”RMULA;Corneira, A BaÒa;A CoruÒa
-113507;4;10;19;V;Grupo;ALKAR;Corneira, A BaÒa;A CoruÒa
+113389;4;10;19;V;Orquesta;LA F√ìRMULA;Corneira, A Ba√±a;A Coru√±a
+113507;4;10;19;V;Grupo;ALKAR;Corneira, A Ba√±a;A Coru√±a
 113734;4;10;19;V;Grupo;XOLDRA;Desteriz, Padrenda;Ourense
 113652;4;10;19;V;Grupo;PIKANTE;Fuenterrebollo;Segovia
 113958;4;10;19;V;Grupo;BEATRIZ;Huerres, Colunga;Asturias
-113368;4;10;19;V;Orquesta;OLYMPUS RED TOUR;Infiesto, PiloÒa;Asturias
-113821;4;10;19;V;Orquesta;ANACONDA;Jaraicejo;C·ceres
+113368;4;10;19;V;Orquesta;OLYMPUS RED TOUR;Infiesto, Pilo√±a;Asturias
+113821;4;10;19;V;Orquesta;ANACONDA;Jaraicejo;C√°ceres
 113817;4;10;19;V;Grupo;ASSIA;La Pereda, Tineo;Asturias
 112774;4;10;19;V;Grupo;LUME;Lamas de Lor, Quiroga;Lugo
 113624;4;10;19;V;Grupo;TEKILA;Langreo;Asturias
-113482;4;10;19;V;Orquesta;CHARLESTON BIG-BAND;LaÒas, A BaÒa;A CoruÒa
-113644;4;10;19;V;Grupo;LA HUELLA;Maello;¡vila
-112792;4;10;19;V;Grupo;RADAR;Matanza de los Oteros;LeÛn
-111156;4;10;19;V;Charanga;MANÕA;Matilla de ArzÛn;Zamora
-113694;4;10;19;V;Orquesta;NUEVA BANDA;Matilla de ArzÛn;Zamora
+113482;4;10;19;V;Orquesta;CHARLESTON BIG-BAND;La√±as, A Ba√±a;A Coru√±a
+113644;4;10;19;V;Grupo;LA HUELLA;Maello;√Åvila
+112792;4;10;19;V;Grupo;RADAR;Matanza de los Oteros;Le√≥n
+111156;4;10;19;V;Charanga;MAN√çA;Matilla de Arz√≥n;Zamora
+113694;4;10;19;V;Orquesta;NUEVA BANDA;Matilla de Arz√≥n;Zamora
 113531;4;10;19;V;Orquesta;TANGO;Nou Barris, Barcelona;Barcelona
-112630;4;10;19;V;Grupo;PASI”N;O InferniÒo, Ferrol;A CoruÒa
-113450;4;10;19;V;Disco MÛvil;CDC;Oza, Carballo;A CoruÒa
-113451;4;10;19;V;Orquesta;PARIS DE NOIA;Oza, Carballo;A CoruÒa
-113597;4;10;19;V;Orquesta;FANIA BLANCO SHOW;Pacios de Veiga, A Pobra do BrollÛn;Lugo
-113663;4;10;19;V;Orquesta;TELEVISI”N;Paderne, MelgaÁo;Portugal
-102182;4;10;19;V;Charanga;LE—A VERDE;Pareizo, LalÌn;Pontevedra
-113210;4;10;19;V;Orquesta;ISRAEL;Pareizo, LalÌn;Pontevedra
-113311;4;10;19;V;Orquesta;NEW YORK;Pareizo, LalÌn;Pontevedra
-113501;4;10;19;V;Orquesta;LOS TROVADORES;PlatÛ 1000, Teo;A CoruÒa
-113384;4;10;19;V;Grupo;CLAN ZERO;Pr·dena;Segovia
-113522;4;10;19;V;Disco MÛvil;LA DUENDENETA;Praza do Campo Castelo, Lugo;Lugo
+112630;4;10;19;V;Grupo;PASI√ìN;O Inferni√±o, Ferrol;A Coru√±a
+113450;4;10;19;V;Disco M√≥vil;CDC;Oza, Carballo;A Coru√±a
+113451;4;10;19;V;Orquesta;PARIS DE NOIA;Oza, Carballo;A Coru√±a
+113597;4;10;19;V;Orquesta;FANIA BLANCO SHOW;Pacios de Veiga, A Pobra do Broll√≥n;Lugo
+113663;4;10;19;V;Orquesta;TELEVISI√ìN;Paderne, Melga√ßo;Portugal
+102182;4;10;19;V;Charanga;LE√ëA VERDE;Pareizo, Lal√≠n;Pontevedra
+113210;4;10;19;V;Orquesta;ISRAEL;Pareizo, Lal√≠n;Pontevedra
+113311;4;10;19;V;Orquesta;NEW YORK;Pareizo, Lal√≠n;Pontevedra
+113501;4;10;19;V;Orquesta;LOS TROVADORES;Plat√≥ 1000, Teo;A Coru√±a
+113384;4;10;19;V;Grupo;CLAN ZERO;Pr√°dena;Segovia
+113522;4;10;19;V;Disco M√≥vil;LA DUENDENETA;Praza do Campo Castelo, Lugo;Lugo
 113521;4;10;19;V;Orquesta;SUAVECITO;Praza Maior, Lugo;Lugo
 113536;4;10;19;V;Grupo;BOMBA;Puerto del Rosario, Fuerteventura;Las Palmas
-110273;4;10;19;V;Disco MÛvil;HAVANA ESPECT¡CULO MUSICAL;Quintanilla del Monte;LeÛn
+110273;4;10;19;V;Disco M√≥vil;HAVANA ESPECT√ÅCULO MUSICAL;Quintanilla del Monte;Le√≥n
 113146;4;10;19;V;Orquesta;GRAN PARADA;San Breixo, Barro;Pontevedra
-113147;4;10;19;V;Grupo;AM…RICA DE VIGO;San Breixo, Barro;Pontevedra
-113125;4;10;19;V;Orquesta;PONTEVEDRA;San Mamede de Carnota, Carnota;A CoruÒa
+113147;4;10;19;V;Grupo;AM√âRICA DE VIGO;San Breixo, Barro;Pontevedra
+113125;4;10;19;V;Orquesta;PONTEVEDRA;San Mamede de Carnota, Carnota;A Coru√±a
 113453;4;10;19;V;Orquesta;TREBOL;San Miguel de Reinante, Barreiros;Lugo
-113638;4;10;19;V;D˙o;…POCA;San Miguel de Reinante, Barreiros;Lugo
-113107;4;10;19;V;Orquesta;FINISTERRE;San RoquiÒo, Lousame;A CoruÒa
-113116;4;10;19;V;Orquesta;COMPOSTELA;San RoquiÒo, Lousame;A CoruÒa
-113101;4;10;19;V;Orquesta;IBIZA;Senra, Oroso;A CoruÒa
-113312;4;10;19;V;Orquesta;PANORAMA;Senra, Oroso;A CoruÒa
-113423;4;10;19;V;Orquesta;RITMO JOVEN;Torres, Vilarmaior;A CoruÒa
-109677;4;10;19;V;D˙o;CAL⁄;Trasanquelos, Cesuras;A CoruÒa
-113217;4;10;19;V;Orquesta;LA FAVORITA;Trasanquelos, Cesuras;A CoruÒa
-113598;4;10;19;V;Orquesta;ARMONÕA SHOW;Valsequillo, Gran Canaria;Las Palmas
-113257;4;10;19;V;Solista;JUDITH CUNDÕNS;Vila de Cruces;Pontevedra
-113493;4;10;19;V;Orquesta;EL COMBO DOMINICANO;Vilame·n, TomiÒo;Pontevedra
-110831;4;10;19;V;Orquesta;FOLIADA D¥ASES;Vilame·n, TomiÒo;Pontevedra
+113638;4;10;19;V;D√∫o;√âPOCA;San Miguel de Reinante, Barreiros;Lugo
+113107;4;10;19;V;Orquesta;FINISTERRE;San Roqui√±o, Lousame;A Coru√±a
+113116;4;10;19;V;Orquesta;COMPOSTELA;San Roqui√±o, Lousame;A Coru√±a
+113101;4;10;19;V;Orquesta;IBIZA;Senra, Oroso;A Coru√±a
+113312;4;10;19;V;Orquesta;PANORAMA;Senra, Oroso;A Coru√±a
+113423;4;10;19;V;Orquesta;RITMO JOVEN;Torres, Vilarmaior;A Coru√±a
+109677;4;10;19;V;D√∫o;CAL√ö;Trasanquelos, Cesuras;A Coru√±a
+113217;4;10;19;V;Orquesta;LA FAVORITA;Trasanquelos, Cesuras;A Coru√±a
+113598;4;10;19;V;Orquesta;ARMON√çA SHOW;Valsequillo, Gran Canaria;Las Palmas
+113257;4;10;19;V;Solista;JUDITH CUND√çNS;Vila de Cruces;Pontevedra
+113493;4;10;19;V;Orquesta;EL COMBO DOMINICANO;Vilame√°n, Tomi√±o;Pontevedra
+110831;4;10;19;V;Orquesta;FOLIADA D¬¥ASES;Vilame√°n, Tomi√±o;Pontevedra
 113372;5;10;19;S;Orquesta;DELUXE;A Balsa, Muras;Lugo
 100810;5;10;19;S;Orquesta;CHARLESTON BIG-BAND;A Balsa, Muras;Lugo
-113335;5;10;19;S;Orquesta;CINEMA;A Faeira, As Pontes de GarcÌa RodrÌguez;A CoruÒa
-113592;5;10;19;S;Orquesta;TREBOL;A Faeira, As Pontes de GarcÌa RodrÌguez;A CoruÒa
-113762;5;10;19;S;Grupo;LA BAMBA;A GraÒa de Vilarente, AbadÌn;Lugo
-113258;5;10;19;S;Solista;JUDITH CUNDÕNS;A Laracha;A CoruÒa
+113335;5;10;19;S;Orquesta;CINEMA;A Faeira, As Pontes de Garc√≠a Rodr√≠guez;A Coru√±a
+113592;5;10;19;S;Orquesta;TREBOL;A Faeira, As Pontes de Garc√≠a Rodr√≠guez;A Coru√±a
+113762;5;10;19;S;Grupo;LA BAMBA;A Gra√±a de Vilarente, Abad√≠n;Lugo
+113258;5;10;19;S;Solista;JUDITH CUND√çNS;A Laracha;A Coru√±a
 113196;5;10;19;S;Grupo;PEKADOS;Alto do Cruceiro, Xove;Lugo
 113197;5;10;19;S;Orquesta;COMPOSTELA;Alto do Cruceiro, Xove;Lugo
-112418;5;10;19;S;Solista;ROCÕO P…REZ;Anxeriz, Tordoia;A CoruÒa
-113518;5;10;19;S;Orquesta;LA OLA ADN;Anxeriz, Tordoia;A CoruÒa
-113720;5;10;19;S;Disco MÛvil;CDC;Arou, CamariÒas;A CoruÒa
-113902;5;10;19;S;Grupo;SAMBA;Arou, CamariÒas;A CoruÒa
-113730;5;10;19;S;Grupo;VAN BAND;As Cruces, Sobrado;A CoruÒa
+112418;5;10;19;S;Solista;ROC√çO P√âREZ;Anxeriz, Tordoia;A Coru√±a
+113518;5;10;19;S;Orquesta;LA OLA ADN;Anxeriz, Tordoia;A Coru√±a
+113720;5;10;19;S;Disco M√≥vil;CDC;Arou, Camari√±as;A Coru√±a
+113902;5;10;19;S;Grupo;SAMBA;Arou, Camari√±as;A Coru√±a
+113730;5;10;19;S;Grupo;VAN BAND;As Cruces, Sobrado;A Coru√±a
 113253;5;10;19;S;Orquesta;PRINCIPAL;Balmonte, Castropol;Asturias
 112641;5;10;19;S;Charanga;CLK;Bangueses de Abaixo, Verea;Ourense
-113259;5;10;19;S;Solista;JUDITH CUNDÕNS;BÈrtoa, Carballo;A CoruÒa
-111321;5;10;19;S;Grupo;CICL”N;Boado, MesÌa;A CoruÒa
-113227;5;10;19;S;Orquesta;IBIZA;CabaÒaquinta, Aller;Asturias
-113716;5;10;19;S;Grupo;GARIBALDI;CabaÒaquinta, Aller;Asturias
-113960;5;10;19;S;Grupo;BEATRIZ;CabaÒaquinta, Aller;Asturias
-113714;5;10;19;S;D˙o;ESTRELLAS;Cabreiros, Xermade;Lugo
-113178;5;10;19;S;TrÌo;XTRA;Cambados;Pontevedra
+113259;5;10;19;S;Solista;JUDITH CUND√çNS;B√©rtoa, Carballo;A Coru√±a
+111321;5;10;19;S;Grupo;CICL√ìN;Boado, Mes√≠a;A Coru√±a
+113227;5;10;19;S;Orquesta;IBIZA;Caba√±aquinta, Aller;Asturias
+113716;5;10;19;S;Grupo;GARIBALDI;Caba√±aquinta, Aller;Asturias
+113960;5;10;19;S;Grupo;BEATRIZ;Caba√±aquinta, Aller;Asturias
+113714;5;10;19;S;D√∫o;ESTRELLAS;Cabreiros, Xermade;Lugo
+113178;5;10;19;S;Tr√≠o;XTRA;Cambados;Pontevedra
 113149;5;10;19;S;Grupo;DILEMA;Carboentes, Rodeiro;Pontevedra
-113150;5;10;19;S;Orquesta;LOS ESPA—OLES;Carboentes, Rodeiro;Pontevedra
-113706;5;10;19;S;Orquesta;LA ”RBITA;Castrillo de San Pelayo, Villazala;LeÛn
+113150;5;10;19;S;Orquesta;LOS ESPA√ëOLES;Carboentes, Rodeiro;Pontevedra
+113706;5;10;19;S;Orquesta;LA √ìRBITA;Castrillo de San Pelayo, Villazala;Le√≥n
 112684;5;10;19;S;Grupo;PUNTO CLAVE;Castro de Rei de Lemos, Paradela;Lugo
-113039;5;10;19;S;Charanga;MANÕA;Catedral de LeÛn;LeÛn
+113039;5;10;19;S;Charanga;MAN√çA;Catedral de Le√≥n;Le√≥n
 113245;5;10;19;S;Charanga;BCB;Cea, San Cristovo de Cea;Ourense
-113719;5;10;19;S;D˙o;ARUME;Cea, San Cristovo de Cea;Ourense
-113214;5;10;19;S;Grupo;NEBRASKA;Cereo, Coristanco;A CoruÒa
-113347;5;10;19;S;Grupo;ATR…VETE;Cerqueda, Malpica de BergantiÒos;A CoruÒa
-113494;5;10;19;S;Orquesta;EL COMBO DOMINICANO;Cerqueda, Malpica de BergantiÒos;A CoruÒa
-113351;5;10;19;S;Orquesta;NEVADA;CoaÒa;Asturias
-113455;5;10;19;S;Orquesta;CAPITOL;CoaÒa;Asturias
+113719;5;10;19;S;D√∫o;ARUME;Cea, San Cristovo de Cea;Ourense
+113214;5;10;19;S;Grupo;NEBRASKA;Cereo, Coristanco;A Coru√±a
+113347;5;10;19;S;Grupo;ATR√âVETE;Cerqueda, Malpica de Berganti√±os;A Coru√±a
+113494;5;10;19;S;Orquesta;EL COMBO DOMINICANO;Cerqueda, Malpica de Berganti√±os;A Coru√±a
+113351;5;10;19;S;Orquesta;NEVADA;Coa√±a;Asturias
+113455;5;10;19;S;Orquesta;CAPITOL;Coa√±a;Asturias
 113236;5;10;19;S;Orquesta;SOLARA;Comboa, Soutomaior;Pontevedra
-113664;5;10;19;S;Orquesta;TELEVISI”N;Comboa, Soutomaior;Pontevedra
-113035;5;10;19;S;Orquesta;METR”POLIS;Corneira, A BaÒa;A CoruÒa
-113115;5;10;19;S;Grupo;ATENAS;Corneira, A BaÒa;A CoruÒa
-113375;5;10;19;S;Solista;PILI PAMPÕN;Couso, A Estrada;Pontevedra
+113664;5;10;19;S;Orquesta;TELEVISI√ìN;Comboa, Soutomaior;Pontevedra
+113035;5;10;19;S;Orquesta;METR√ìPOLIS;Corneira, A Ba√±a;A Coru√±a
+113115;5;10;19;S;Grupo;ATENAS;Corneira, A Ba√±a;A Coru√±a
+113375;5;10;19;S;Solista;PILI PAMP√çN;Couso, A Estrada;Pontevedra
 113428;5;10;19;S;Charanga;EUROPA;Curra, A Veiga;Ourense
-113185;5;10;19;S;Orquesta;CICLOMANÕA;Curr·s, San Cibrao das ViÒas;Ourense
-113283;5;10;19;S;Orquesta;ROYAL ESPECT¡CULO;Desteriz, Padrenda;Ourense
-99546;5;10;19;S;Orquesta;GRAN CASINO;DorrÛn, Sanxenxo;Pontevedra
-113502;5;10;19;S;Orquesta;LOS TROVADORES;DorrÛn, Sanxenxo;Pontevedra
-113688;5;10;19;S;D˙o;D¥ASES;Doso, NarÛn;A CoruÒa
-112557;5;10;19;S;Orquesta;OLYMPUS RED TOUR;D˙as Igrexas, Forcarei;Pontevedra
-112558;5;10;19;S;Grupo;AMERICA SL;D˙as Igrexas, Forcarei;Pontevedra
-113529;5;10;19;S;D˙o;ECLIPSE;Fe·s, Aranga;A CoruÒa
-104427;5;10;19;S;D˙o;CAL⁄;Filgueira de Traba, Cesuras;A CoruÒa
-113190;5;10;19;S;TrÌo;ORQUÕDEA;Fox·s, Touro;A CoruÒa
+113185;5;10;19;S;Orquesta;CICLOMAN√çA;Curr√°s, San Cibrao das Vi√±as;Ourense
+113283;5;10;19;S;Orquesta;ROYAL ESPECT√ÅCULO;Desteriz, Padrenda;Ourense
+99546;5;10;19;S;Orquesta;GRAN CASINO;Dorr√≥n, Sanxenxo;Pontevedra
+113502;5;10;19;S;Orquesta;LOS TROVADORES;Dorr√≥n, Sanxenxo;Pontevedra
+113688;5;10;19;S;D√∫o;D¬¥ASES;Doso, Nar√≥n;A Coru√±a
+112557;5;10;19;S;Orquesta;OLYMPUS RED TOUR;D√∫as Igrexas, Forcarei;Pontevedra
+112558;5;10;19;S;Grupo;AMERICA SL;D√∫as Igrexas, Forcarei;Pontevedra
+113529;5;10;19;S;D√∫o;ECLIPSE;Fe√°s, Aranga;A Coru√±a
+104427;5;10;19;S;D√∫o;CAL√ö;Filgueira de Traba, Cesuras;A Coru√±a
+113190;5;10;19;S;Tr√≠o;ORQU√çDEA;Fox√°s, Touro;A Coru√±a
 113645;5;10;19;S;Grupo;LA HUELLA;Fuenterrebollo;Segovia
-113156;5;10;19;S;Orquesta;LOS SAT…LITES;FurÌs, Castroverde;Lugo
-113340;5;10;19;S;Orquesta;PONTEVEDRA;FurÌs, Castroverde;Lugo
+113156;5;10;19;S;Orquesta;LOS SAT√âLITES;Fur√≠s, Castroverde;Lugo
+113340;5;10;19;S;Orquesta;PONTEVEDRA;Fur√≠s, Castroverde;Lugo
 113695;5;10;19;S;Orquesta;NUEVA BANDA;Gallegos;Segovia
-112775;5;10;19;S;Grupo;LUME;La Colmena, NarÛn;A CoruÒa
+112775;5;10;19;S;Grupo;LUME;La Colmena, Nar√≥n;A Coru√±a
 113633;5;10;19;S;Orquesta;NEW YORK;La Felguera, Langreo;Asturias
 113959;5;10;19;S;Grupo;BEATRIZ;La Felguera, Langreo;Asturias
 113625;5;10;19;S;Grupo;TEKILA;La Rubiera, Tineo;Asturias
 113740;5;10;19;S;Orquesta;SUAVECITO;Lamas de Lor, Quiroga;Lugo
 113497;5;10;19;S;Grupo;CLAXXON;Lamela, Silleda;Pontevedra
-112841;5;10;19;S;Orquesta;ABANICO;LaÒas, A BaÒa;A CoruÒa
-113723;5;10;19;S;Disco MÛvil;CDC MINIDISC;LaÒas, A BaÒa;A CoruÒa
+112841;5;10;19;S;Orquesta;ABANICO;La√±as, A Ba√±a;A Coru√±a
+113723;5;10;19;S;Disco M√≥vil;CDC MINIDISC;La√±as, A Ba√±a;A Coru√±a
 113640;5;10;19;S;Orquesta;KRONOS;Las Veguillas;Salamanca
-113403;5;10;19;S;Orquesta;LA DIMENSI”N;LledÌas, Llanes;Asturias
+113403;5;10;19;S;Orquesta;LA DIMENSI√ìN;Lled√≠as, Llanes;Asturias
 113675;5;10;19;S;Orquesta;AZABACHE;Lomoviejo;Valladolid
-113480;5;10;19;S;Charanga;NBA;Lourenz·;Lugo
+113480;5;10;19;S;Charanga;NBA;Lourenz√°;Lugo
 112834;5;10;19;S;Charanga;FESTICULTORES TROUPE;Lugo;Lugo
 113203;5;10;19;S;Charanga;OT;Lugo;Lugo
 113729;5;10;19;S;Grupo;VAN BAND;Lugo;Lugo
 113413;5;10;19;S;Orquesta;ACORDES;Matienzo, Ruesga;Cantabria
-113818;5;10;19;S;Grupo;ASSIA;Merodio, PeÒamellera Baja;Asturias
-113819;5;10;19;S;Orquesta;VERSI”N ORIGINAL;Merodio, PeÒamellera Baja;Asturias
+113818;5;10;19;S;Grupo;ASSIA;Merodio, Pe√±amellera Baja;Asturias
+113819;5;10;19;S;Orquesta;VERSI√ìN ORIGINAL;Merodio, Pe√±amellera Baja;Asturias
 113349;5;10;19;S;Orquesta;LA OCABAND;Nou Barris, Barcelona;Barcelona
 113456;5;10;19;S;Orquesta;TANGO;Nou Barris, Barcelona;Barcelona
 113102;5;10;19;S;Orquesta;FIN DE SIGLO;O Az, Rodeiro;Pontevedra
-110785;5;10;19;S;TrÌo;INNOVACI”N;O InferniÒo, Ferrol;A CoruÒa
+110785;5;10;19;S;Tr√≠o;INNOVACI√ìN;O Inferni√±o, Ferrol;A Coru√±a
 113653;5;10;19;S;Grupo;PIKANTE;Olombrada;Segovia
-113658;5;10;19;S;Orquesta;SAUDADE;Ourantes, PunxÌn;Ourense
-113452;5;10;19;S;D˙o;CHARADA;Oza, Carballo;A CoruÒa
-113623;5;10;19;S;Orquesta;SUPERFAMA;Pacios de Veiga, A Pobra do BrollÛn;Lugo
-113578;5;10;19;S;D˙o;CHARADA;Paiosaco, Laracha;A CoruÒa
-113218;5;10;19;S;Orquesta;LA FAVORITA;Pareizo, LalÌn;Pontevedra
-113313;5;10;19;S;Orquesta;MIRAMAR;Pareizo, LalÌn;Pontevedra
+113658;5;10;19;S;Orquesta;SAUDADE;Ourantes, Punx√≠n;Ourense
+113452;5;10;19;S;D√∫o;CHARADA;Oza, Carballo;A Coru√±a
+113623;5;10;19;S;Orquesta;SUPERFAMA;Pacios de Veiga, A Pobra do Broll√≥n;Lugo
+113578;5;10;19;S;D√∫o;CHARADA;Paiosaco, Laracha;A Coru√±a
+113218;5;10;19;S;Orquesta;LA FAVORITA;Pareizo, Lal√≠n;Pontevedra
+113313;5;10;19;S;Orquesta;MIRAMAR;Pareizo, Lal√≠n;Pontevedra
 113228;5;10;19;S;Orquesta;GRAN PARADA;Pazos, Ponte Caldelas;Pontevedra
 113582;5;10;19;S;Grupo;ARAMIO;Poveda de las Cintas;Salamanca
-113822;5;10;19;S;Orquesta;ANACONDA;Pr·dena;Segovia
-102497;5;10;19;S;Disco MÛvil;DECIBELIOS;Pravia;Asturias
+113822;5;10;19;S;Orquesta;ANACONDA;Pr√°dena;Segovia
+102497;5;10;19;S;Disco M√≥vil;DECIBELIOS;Pravia;Asturias
 113523;5;10;19;S;Grupo;ARIZONA;Praza Maior, Lugo;Lugo
 113029;5;10;19;S;Grupo;BOMBA;Puerto del Rosario, Fuerteventura;Las Palmas
-106835;5;10;19;S;Orquesta;LA F”RMULA;Quintanilla del Monte;LeÛn
-113648;5;10;19;S;Orquesta;ESSENCIA;Rebollar, DegaÒa;Asturias
-112958;5;10;19;S;Orquesta;FOLIADA D¥ASES;Rendal, Arz˙a;A CoruÒa
-113469;5;10;19;S;Grupo;EUREKA;RiobÛ, Vilar de Barrio;Ourense
+106835;5;10;19;S;Orquesta;LA F√ìRMULA;Quintanilla del Monte;Le√≥n
+113648;5;10;19;S;Orquesta;ESSENCIA;Rebollar, Dega√±a;Asturias
+112958;5;10;19;S;Orquesta;FOLIADA D¬¥ASES;Rendal, Arz√∫a;A Coru√±a
+113469;5;10;19;S;Grupo;EUREKA;Riob√≥, Vilar de Barrio;Ourense
 113572;5;10;19;S;Orquesta;IPANEMA;Roelos de Sayago;Zamora
 112870;5;10;19;S;Orquesta;FINISTERRE;San Breixo, Barro;Pontevedra
 113145;5;10;19;S;Orquesta;PALLADIUM;San Breixo, Barro;Pontevedra
-113377;5;10;19;S;Orquesta;PANAMA;San Rom·n de Montoxo, Cedeira;A CoruÒa
-113457;5;10;19;S;Grupo;FAMA;San Rom·n de Montoxo, Cedeira;A CoruÒa
-113739;5;10;19;S;Grupo;D¥MODA;San VerÌsimo de Ferreiros, O Pino;A CoruÒa
-113487;5;10;19;S;TrÌo;LA NOCHE DO GROVE;Santa MarÌa, Melide;A CoruÒa
-112950;5;10;19;S;D˙o;CHIC;Santa MariÒa, Guitiriz;Lugo
-112213;5;10;19;S;Grupo;CLAN ZERO;Santib·Òez de BÈjar;Salamanca
-113079;5;10;19;S;Orquesta;PARIS DE NOIA;Senra, Oroso;A CoruÒa
-113080;5;10;19;S;Orquesta;XACOBEO;Senra, Oroso;A CoruÒa
+113377;5;10;19;S;Orquesta;PANAMA;San Rom√°n de Montoxo, Cedeira;A Coru√±a
+113457;5;10;19;S;Grupo;FAMA;San Rom√°n de Montoxo, Cedeira;A Coru√±a
+113739;5;10;19;S;Grupo;D¬¥MODA;San Ver√≠simo de Ferreiros, O Pino;A Coru√±a
+113487;5;10;19;S;Tr√≠o;LA NOCHE DO GROVE;Santa Mar√≠a, Melide;A Coru√±a
+112950;5;10;19;S;D√∫o;CHIC;Santa Mari√±a, Guitiriz;Lugo
+112213;5;10;19;S;Grupo;CLAN ZERO;Santib√°√±ez de B√©jar;Salamanca
+113079;5;10;19;S;Orquesta;PARIS DE NOIA;Senra, Oroso;A Coru√±a
+113080;5;10;19;S;Orquesta;XACOBEO;Senra, Oroso;A Coru√±a
 107539;5;10;19;S;Orquesta;ISRAEL;Serantes, Tapia de Casariego;Asturias
-113431;5;10;19;S;Orquesta;FANIA BLANCO SHOW;Sergude, BoqueixÛn;A CoruÒa
-112122;5;10;19;S;Orquesta;MAGOS;Sobrada, TomiÒo;Pontevedra
-112960;5;10;19;S;D˙o;EXPLOSI”N;toldaos;Lugo
-113755;5;10;19;S;TrÌo;D¥NIKA MUSIC;Torres, Vilarmaior;A CoruÒa
-112972;5;10;19;S;D˙o;D¥VICIO;Trasanquelos, Cesuras;A CoruÒa
-113607;5;10;19;S;Orquesta;G…NESIS;Valbuena de Duero;Valladolid
+113431;5;10;19;S;Orquesta;FANIA BLANCO SHOW;Sergude, Boqueix√≥n;A Coru√±a
+112122;5;10;19;S;Orquesta;MAGOS;Sobrada, Tomi√±o;Pontevedra
+112960;5;10;19;S;D√∫o;EXPLOSI√ìN;toldaos;Lugo
+113755;5;10;19;S;Tr√≠o;D¬¥NIKA MUSIC;Torres, Vilarmaior;A Coru√±a
+112972;5;10;19;S;D√∫o;D¬¥VICIO;Trasanquelos, Cesuras;A Coru√±a
+113607;5;10;19;S;Orquesta;G√âNESIS;Valbuena de Duero;Valladolid
 112793;5;10;19;S;Grupo;RADAR;Valderrodrigo;Salamanca
 112088;5;10;19;S;Orquesta;FURIA JOVEN;Valleseco;Las Palmas
 113161;5;10;19;S;Grupo;NOCHE DE ESTRELLAS;Vila Nova de Cerveira;Portugal
-113726;5;10;19;S;Charanga;LOUBAND;VilamartÌn, VilamartÌn de Valdeorras;Ourense
-113408;5;10;19;S;Orquesta;MARBELLA;Vilame·n, TomiÒo;Pontevedra
-113458;5;10;19;S;Orquesta;PASSARELA;Vilame·n, TomiÒo;Pontevedra
+113726;5;10;19;S;Charanga;LOUBAND;Vilamart√≠n, Vilamart√≠n de Valdeorras;Ourense
+113408;5;10;19;S;Orquesta;MARBELLA;Vilame√°n, Tomi√±o;Pontevedra
+113458;5;10;19;S;Orquesta;PASSARELA;Vilame√°n, Tomi√±o;Pontevedra
 113559;5;10;19;S;Orquesta;PANORAMA;Vilar, Crecente;Pontevedra
 113175;5;10;19;S;Orquesta;ESCAPARATE;Vilares, Ourol;Lugo
-113424;5;10;19;S;Orquesta;RITMO JOVEN;VilariÒo, Poio;Pontevedra
-113549;5;10;19;S;Orquesta;TRIUNFO;VilariÒo, Poio;Pontevedra
-113733;5;10;19;S;Orquesta;KUBO;VilarrubÌn, A Peroxa;Ourense
+113424;5;10;19;S;Orquesta;RITMO JOVEN;Vilari√±o, Poio;Pontevedra
+113549;5;10;19;S;Orquesta;TRIUNFO;Vilari√±o, Poio;Pontevedra
+113733;5;10;19;S;Orquesta;KUBO;Vilarrub√≠n, A Peroxa;Ourense
 113619;5;10;19;S;Orquesta;MARSELLA;Villaldemiro;Burgos
-113573;5;10;19;S;Orquesta;COSTA DORADA;Villarejo de SalvanÈs;Madrid
-113510;5;10;19;S;TrÌo;FUSSION;Xinzo de Deva, Pontedeva;Ourense
-100811;6;10;19;D;Grupo;F…NIX;A Balsa, Muras;Lugo
-113610;6;10;19;D;Orquesta;COMPOSTELA;A Faeira, As Pontes de GarcÌa RodrÌguez;A CoruÒa
-113418;6;10;19;D;Orquesta;METR”POLIS;A GraÒa de Vilarente, AbadÌn;Lugo
-103085;6;10;19;D;TrÌo;INNOVACI”N;AguiÒo, Ribeira;A CoruÒa
-113018;6;10;19;D;D˙o;ESTRELLAS;Alba, Vilalba;Lugo
-113260;6;10;19;D;Solista;JUDITH CUNDÕNS;Aldeola Restaurante, Malpica de BergantiÒos;A CoruÒa
+113573;5;10;19;S;Orquesta;COSTA DORADA;Villarejo de Salvan√©s;Madrid
+113510;5;10;19;S;Tr√≠o;FUSSION;Xinzo de Deva, Pontedeva;Ourense
+100811;6;10;19;D;Grupo;F√âNIX;A Balsa, Muras;Lugo
+113610;6;10;19;D;Orquesta;COMPOSTELA;A Faeira, As Pontes de Garc√≠a Rodr√≠guez;A Coru√±a
+113418;6;10;19;D;Orquesta;METR√ìPOLIS;A Gra√±a de Vilarente, Abad√≠n;Lugo
+103085;6;10;19;D;Tr√≠o;INNOVACI√ìN;Agui√±o, Ribeira;A Coru√±a
+113018;6;10;19;D;D√∫o;ESTRELLAS;Alba, Vilalba;Lugo
+113260;6;10;19;D;Solista;JUDITH CUND√çNS;Aldeola Restaurante, Malpica de Berganti√±os;A Coru√±a
 113550;6;10;19;D;Orquesta;TRIUNFO;Alto de San Cosme, Mos;Pontevedra
-110971;6;10;19;D;D˙o;ZAFIRO;Alto do Cruceiro, Xove;Lugo
-113162;6;10;19;D;Grupo;NOCHE DE ESTRELLAS;Anxeriz, Tordoia;A CoruÒa
-106544;6;10;19;D;TrÌo;KARMA;Arteixo;A CoruÒa
+110971;6;10;19;D;D√∫o;ZAFIRO;Alto do Cruceiro, Xove;Lugo
+113162;6;10;19;D;Grupo;NOCHE DE ESTRELLAS;Anxeriz, Tordoia;A Coru√±a
+106544;6;10;19;D;Tr√≠o;KARMA;Arteixo;A Coru√±a
 113589;6;10;19;D;Charanga;CASTRO BELLO;Bangueses de Abaixo, Verea;Ourense
-113511;6;10;19;D;TrÌo;FUSSION;Barrio San Francisco, Ourense;Ourense
-99547;6;10;19;D;Orquesta;GRAN CASINO;BelÈn de la MontaÒa, ValdÈs;Asturias
+113511;6;10;19;D;Tr√≠o;FUSSION;Barrio San Francisco, Ourense;Ourense
+99547;6;10;19;D;Orquesta;GRAN CASINO;Bel√©n de la Monta√±a, Vald√©s;Asturias
 113169;6;10;19;D;Charanga;VAITE XA!!;Borreiros, Gondomar;Pontevedra
-113534;6;10;19;D;D˙o;CHARADA;BriÛn;A CoruÒa
+113534;6;10;19;D;D√∫o;CHARADA;Bri√≥n;A Coru√±a
 113768;6;10;19;D;Orquesta;XACOBEO;Campobecerros, Castrelo Do Val;Ourense
-113154;6;10;19;D;Charanga;LE—A VERDE;Carboentes, Rodeiro;Pontevedra
-113093;6;10;19;D;Grupo;FUSI”N;Castelo, Cervo;Lugo
-113109;6;10;19;D;Orquesta;LOS SAT…LITES;Castro de Rei de Lemos, Paradela;Lugo
+113154;6;10;19;D;Charanga;LE√ëA VERDE;Carboentes, Rodeiro;Pontevedra
+113093;6;10;19;D;Grupo;FUSI√ìN;Castelo, Cervo;Lugo
+113109;6;10;19;D;Orquesta;LOS SAT√âLITES;Castro de Rei de Lemos, Paradela;Lugo
 113142;6;10;19;D;Orquesta;PALLADIUM;Castro de Rei de Lemos, Paradela;Lugo
-113356;6;10;19;D;Orquesta;ISRAEL;Cereixa, A Pobra do BrollÛn;Lugo
-113532;6;10;19;D;D˙o;CHARADA;Corneira, A BaÒa;A CoruÒa
-113378;6;10;19;D;Orquesta;PANAMA;Curr·s, San Cibrao das ViÒas;Ourense
-113654;6;10;19;D;Grupo;PIKANTE;El MaÌllo;Salamanca
-112754;6;10;19;D;TrÌo;INNOVACI”N;Fox·s, Touro;A CoruÒa
-113472;6;10;19;D;D˙o;EXPLOSI”N;Lagos, L·ncara;Lugo
+113356;6;10;19;D;Orquesta;ISRAEL;Cereixa, A Pobra do Broll√≥n;Lugo
+113532;6;10;19;D;D√∫o;CHARADA;Corneira, A Ba√±a;A Coru√±a
+113378;6;10;19;D;Orquesta;PANAMA;Curr√°s, San Cibrao das Vi√±as;Ourense
+113654;6;10;19;D;Grupo;PIKANTE;El Ma√≠llo;Salamanca
+112754;6;10;19;D;Tr√≠o;INNOVACI√ìN;Fox√°s, Touro;A Coru√±a
+113472;6;10;19;D;D√∫o;EXPLOSI√ìN;Lagos, L√°ncara;Lugo
 113176;6;10;19;D;Orquesta;ESCAPARATE;Lamas de Lor, Quiroga;Lugo
-109541;6;10;19;D;Charanga;MEKANIKA;Lourenz·;Lugo
+109541;6;10;19;D;Charanga;MEKANIKA;Lourenz√°;Lugo
 113766;6;10;19;D;Charanga;OT;Lugo;Lugo
-113530;6;10;19;D;D˙o;ECLIPSE;Marcelle, Monforte de Lemos;Lugo
+113530;6;10;19;D;D√∫o;ECLIPSE;Marcelle, Monforte de Lemos;Lugo
 113620;6;10;19;D;Orquesta;MARSELLA;Medina de Pomar;Burgos
 113350;6;10;19;D;Orquesta;LA OCABAND;Nou Barris, Barcelona;Barcelona
-113659;6;10;19;D;Orquesta;SAUDADE;Paderne, MelgaÁo;Portugal
-113697;6;10;19;D;Orquesta;NUEVA BANDA;Palacios de la Valduerna;LeÛn
-113488;6;10;19;D;TrÌo;LA NOCHE DO GROVE;Plaza FefiÒ·ns, Cambados;Pontevedra
-113503;6;10;19;D;Orquesta;LOS TROVADORES;Polideportivo Os CampÛns, Cambre;A CoruÒa
+113659;6;10;19;D;Orquesta;SAUDADE;Paderne, Melga√ßo;Portugal
+113697;6;10;19;D;Orquesta;NUEVA BANDA;Palacios de la Valduerna;Le√≥n
+113488;6;10;19;D;Tr√≠o;LA NOCHE DO GROVE;Plaza Fefi√±√°ns, Cambados;Pontevedra
+113503;6;10;19;D;Orquesta;LOS TROVADORES;Polideportivo Os Camp√≥ns, Cambre;A Coru√±a
 113336;6;10;19;D;Orquesta;CINEMA;Praza Maior, Lugo;Lugo
 113030;6;10;19;D;Grupo;BOMBA;Puerto del Rosario, Fuerteventura;Las Palmas
-113662;6;10;19;D;Grupo;NIEVLA;S.F. Cham·n, Goi·n;Pontevedra
-113681;6;10;19;D;Grupo;LUME;S.F. La Luna, CerponzÛns;Pontevedra
-113352;6;10;19;D;Orquesta;NEVADA;S.F. Velvet, MonÁao;Portugal
-98640;6;10;19;D;D˙o;CHIC;San Rom·n de Montoxo, Cedeira;A CoruÒa
-113060;6;10;19;D;Orquesta;PRINCIPAL;Senra, Oroso;A CoruÒa
-113130;6;10;19;D;Orquesta;FINISTERRE;Sergude, BoqueixÛn;A CoruÒa
-113314;6;10;19;D;Orquesta;PANORAMA;Sergude, BoqueixÛn;A CoruÒa
-112891;6;10;19;D;TrÌo;XTRA;Sobrada, TomiÒo;Pontevedra
-113113;6;10;19;D;Grupo;ARAMIO;Sobrada, TomiÒo;Pontevedra
-99749;6;10;19;D;Grupo;VAN BAND;Teixeiro, Curtis;A CoruÒa
-112973;6;10;19;D;D˙o;D¥VICIO;Torres, Vilarmaior;A CoruÒa
+113662;6;10;19;D;Grupo;NIEVLA;S.F. Cham√°n, Goi√°n;Pontevedra
+113681;6;10;19;D;Grupo;LUME;S.F. La Luna, Cerponz√≥ns;Pontevedra
+113352;6;10;19;D;Orquesta;NEVADA;S.F. Velvet, Mon√ßao;Portugal
+98640;6;10;19;D;D√∫o;CHIC;San Rom√°n de Montoxo, Cedeira;A Coru√±a
+113060;6;10;19;D;Orquesta;PRINCIPAL;Senra, Oroso;A Coru√±a
+113130;6;10;19;D;Orquesta;FINISTERRE;Sergude, Boqueix√≥n;A Coru√±a
+113314;6;10;19;D;Orquesta;PANORAMA;Sergude, Boqueix√≥n;A Coru√±a
+112891;6;10;19;D;Tr√≠o;XTRA;Sobrada, Tomi√±o;Pontevedra
+113113;6;10;19;D;Grupo;ARAMIO;Sobrada, Tomi√±o;Pontevedra
+99749;6;10;19;D;Grupo;VAN BAND;Teixeiro, Curtis;A Coru√±a
+112973;6;10;19;D;D√∫o;D¬¥VICIO;Torres, Vilarmaior;A Coru√±a
 113483;6;10;19;D;Orquesta;CHARLESTON BIG-BAND;Torroso, Mos;Pontevedra
-112419;6;10;19;D;Solista;ROCÕO P…REZ;Troitosende, A BaÒa;A CoruÒa
-113649;6;10;19;D;Orquesta;ESSENCIA;VilamarÌn;Ourense
-112830;6;10;19;D;Orquesta;OLYMPUS RED TOUR;Vilame·n, TomiÒo;Pontevedra
-112842;6;10;19;D;Orquesta;GRAN PARADA;Vilame·n, TomiÒo;Pontevedra
-113402;6;10;19;D;Orquesta;LA DIMENSI”N;VilarrubÌn, A Peroxa;Ourense
-113187;6;10;19;D;Orquesta;CICLOMANÕA;Vilaxoan, VilagarcÌa de Arousa;Pontevedra
-113478;6;10;19;D;Grupo;AM…RICA DE VIGO;Vilaxoan, VilagarcÌa de Arousa;Pontevedra
-113438;6;10;19;D;TrÌo;D¥LIDER;Zam·ns, Vigo;Pontevedra
+112419;6;10;19;D;Solista;ROC√çO P√âREZ;Troitosende, A Ba√±a;A Coru√±a
+113649;6;10;19;D;Orquesta;ESSENCIA;Vilamar√≠n;Ourense
+112830;6;10;19;D;Orquesta;OLYMPUS RED TOUR;Vilame√°n, Tomi√±o;Pontevedra
+112842;6;10;19;D;Orquesta;GRAN PARADA;Vilame√°n, Tomi√±o;Pontevedra
+113402;6;10;19;D;Orquesta;LA DIMENSI√ìN;Vilarrub√≠n, A Peroxa;Ourense
+113187;6;10;19;D;Orquesta;CICLOMAN√çA;Vilaxoan, Vilagarc√≠a de Arousa;Pontevedra
+113478;6;10;19;D;Grupo;AM√âRICA DE VIGO;Vilaxoan, Vilagarc√≠a de Arousa;Pontevedra
+113438;6;10;19;D;Tr√≠o;D¬¥LIDER;Zam√°ns, Vigo;Pontevedra
 113143;7;10;19;L;Orquesta;PANORAMA;Castro de Rei de Lemos, Paradela;Lugo
 113144;7;10;19;L;Orquesta;MARBELLA;Castro de Rei de Lemos, Paradela;Lugo
-113744;7;10;19;L;D˙o;ECLIPSE;Castro de Rei de Lemos, Paradela;Lugo
-113621;7;10;19;L;Orquesta;MARSELLA;El MaÌllo;Salamanca
+113744;7;10;19;L;D√∫o;ECLIPSE;Castro de Rei de Lemos, Paradela;Lugo
+113621;7;10;19;L;Orquesta;MARSELLA;El Ma√≠llo;Salamanca
 113417;7;10;19;L;Charanga;MEKANIKA;Lugo;Lugo
 113823;7;10;19;L;Orquesta;ANACONDA;Medina de Pomar;Burgos
 113414;7;10;19;L;Orquesta;ACORDES;Praza Maior, Lugo;Lugo
 113626;7;10;19;L;Grupo;TEKILA;Riosa;Asturias
-112631;7;10;19;L;Grupo;PASI”N;San Rom·n de Montoxo, Cedeira;A CoruÒa
-113676;7;10;19;L;Orquesta;AZABACHE;Santib·Òez de BÈjar;Salamanca
-113574;7;10;19;L;Orquesta;COSTA DORADA;VilarrubÌn, A Peroxa;Ourense
-113390;7;10;19;L;Orquesta;LA F”RMULA;Vilaxoan, VilagarcÌa de Arousa;Pontevedra
-113611;8;10;19;M;Orquesta;COMPOSTELA;PlatÛ 1000, Teo;A CoruÒa
-113524;9;10;19;X;Orquesta;PARIS DE NOIA;Plaza de las Augas FÈrreas, Lugo;Lugo
-98350;10;10;19;J;Solista;XILO;Centro CÌvico de Caranza, Ferrol;A CoruÒa
-112420;10;10;19;J;Solista;ROCÕO P…REZ;O Tarambollo, Carballo;A CoruÒa
+112631;7;10;19;L;Grupo;PASI√ìN;San Rom√°n de Montoxo, Cedeira;A Coru√±a
+113676;7;10;19;L;Orquesta;AZABACHE;Santib√°√±ez de B√©jar;Salamanca
+113574;7;10;19;L;Orquesta;COSTA DORADA;Vilarrub√≠n, A Peroxa;Ourense
+113390;7;10;19;L;Orquesta;LA F√ìRMULA;Vilaxoan, Vilagarc√≠a de Arousa;Pontevedra
+113611;8;10;19;M;Orquesta;COMPOSTELA;Plat√≥ 1000, Teo;A Coru√±a
+113524;9;10;19;X;Orquesta;PARIS DE NOIA;Plaza de las Augas F√©rreas, Lugo;Lugo
+98350;10;10;19;J;Solista;XILO;Centro C√≠vico de Caranza, Ferrol;A Coru√±a
+112420;10;10;19;J;Solista;ROC√çO P√âREZ;O Tarambollo, Carballo;A Coru√±a
 113961;10;10;19;J;Grupo;BEATRIZ;Pola de Lena, Lena;Asturias
 113374;10;10;19;J;Orquesta;EL COMBO DOMINICANO;Praza Maior, Lugo;Lugo
 113132;10;10;19;J;Orquesta;PARIS DE NOIA;San Breixo, Barro;Pontevedra
 113133;10;10;19;J;Orquesta;MARBELLA;San Breixo, Barro;Pontevedra
-113425;11;10;19;V;Orquesta;RITMO JOVEN;A BaÌÒa, Agolada;Pontevedra
-112922;11;10;19;V;Orquesta;PARIS DE NOIA;A Barqueira, Cerdido;A CoruÒa
-113462;11;10;19;V;D˙o;D¥ASES;A Barqueira, Cerdido;A CoruÒa
+113425;11;10;19;V;Orquesta;RITMO JOVEN;A Ba√≠√±a, Agolada;Pontevedra
+112922;11;10;19;V;Orquesta;PARIS DE NOIA;A Barqueira, Cerdido;A Coru√±a
+113462;11;10;19;V;D√∫o;D¬¥ASES;A Barqueira, Cerdido;A Coru√±a
 113741;11;10;19;V;Orquesta;SUAVECITO;A Pontenova;Lugo
 113798;11;10;19;V;Grupo;ARIZONA;A Pontenova;Lugo
 113560;11;10;19;V;Orquesta;PANORAMA;Adina, Sanxenxo;Pontevedra
-113724;11;10;19;V;Disco MÛvil;CDC MINIDISC;Adina, Sanxenxo;Pontevedra
-113219;11;10;19;V;Orquesta;LA FAVORITA;Barrio de ChorÌs, Carballo;A CoruÒa
-113315;11;10;19;V;Orquesta;FINISTERRE;Barrio de ChorÌs, Carballo;A CoruÒa
-113223;11;10;19;V;Orquesta;LOS SAT…LITES;Barrio del Ventorrillo, A CoruÒa;A CoruÒa
-113557;11;10;19;V;Grupo;NEBRASKA;BoÒar;LeÛn
+113724;11;10;19;V;Disco M√≥vil;CDC MINIDISC;Adina, Sanxenxo;Pontevedra
+113219;11;10;19;V;Orquesta;LA FAVORITA;Barrio de Chor√≠s, Carballo;A Coru√±a
+113315;11;10;19;V;Orquesta;FINISTERRE;Barrio de Chor√≠s, Carballo;A Coru√±a
+113223;11;10;19;V;Orquesta;LOS SAT√âLITES;Barrio del Ventorrillo, A Coru√±a;A Coru√±a
+113557;11;10;19;V;Grupo;NEBRASKA;Bo√±ar;Le√≥n
 113295;11;10;19;V;Orquesta;PALLADIUM;Cabalo, Bueu;Pontevedra
 113593;11;10;19;V;Orquesta;TREBOL;Cabalo, Bueu;Pontevedra
-113237;11;10;19;V;Orquesta;SOLARA;CampaÒa, Valga;Pontevedra
-113749;11;10;19;V;Orquesta;CAPITOL;CampaÒÛ, Pontevedra;Pontevedra
-113843;11;10;19;V;Orquesta;MIRAMAR;CampaÒÛ, Pontevedra;Pontevedra
+113237;11;10;19;V;Orquesta;SOLARA;Campa√±a, Valga;Pontevedra
+113749;11;10;19;V;Orquesta;CAPITOL;Campa√±√≥, Pontevedra;Pontevedra
+113843;11;10;19;V;Orquesta;MIRAMAR;Campa√±√≥, Pontevedra;Pontevedra
 109542;11;10;19;V;Charanga;MEKANIKA;Campelo, Poio;Pontevedra
-113682;11;10;19;V;Orquesta;ST…REO;Cascantes de Alba, Cuadros;LeÛn
-112974;11;10;19;V;D˙o;D¥VICIO;Cesuras;A CoruÒa
-113229;11;10;19;V;Orquesta;GRAN PARADA;Cesuras;A CoruÒa
-113665;11;10;19;V;Orquesta;TELEVISI”N;Chapela, Redondela;Pontevedra
+113682;11;10;19;V;Orquesta;ST√âREO;Cascantes de Alba, Cuadros;Le√≥n
+112974;11;10;19;V;D√∫o;D¬¥VICIO;Cesuras;A Coru√±a
+113229;11;10;19;V;Orquesta;GRAN PARADA;Cesuras;A Coru√±a
+113665;11;10;19;V;Orquesta;TELEVISI√ìN;Chapela, Redondela;Pontevedra
 113770;11;10;19;V;Grupo;NOCHE DE ESTRELLAS;Coruxo, Vigo;Pontevedra
-113392;11;10;19;V;Orquesta;LA F”RMULA;Cristo da Esperanza, Mos;Pontevedra
+113392;11;10;19;V;Orquesta;LA F√ìRMULA;Cristo da Esperanza, Mos;Pontevedra
 113508;11;10;19;V;Orquesta;ESSENCIA;Cristo da Esperanza, Mos;Pontevedra
 113655;11;10;19;V;Grupo;PIKANTE;El Cubo de Don Sancho;Salamanca
-113489;11;10;19;V;TrÌo;LA NOCHE DO GROVE;Frankfurt, Alemania;Pontevedra
-113599;11;10;19;V;Orquesta;ARMONÕA SHOW;Guanarteme, Las Palmas;Las Palmas
+113489;11;10;19;V;Tr√≠o;LA NOCHE DO GROVE;Frankfurt, Alemania;Pontevedra
+113599;11;10;19;V;Orquesta;ARMON√çA SHOW;Guanarteme, Las Palmas;Las Palmas
 113916;11;10;19;V;Grupo;ASSIA;Infiesto;Asturias
-113635;11;10;19;V;Orquesta;NEW YORK;Infiesto, PiloÒa;Asturias
+113635;11;10;19;V;Orquesta;NEW YORK;Infiesto, Pilo√±a;Asturias
 112214;11;10;19;V;Grupo;CLAN ZERO;La Caridad, El Franco;Asturias
 113498;11;10;19;V;Grupo;CLAXXON;La Caridad, El Franco;Asturias
-113504;11;10;19;V;Orquesta;LOS TROVADORES;La Colmena, NarÛn;A CoruÒa
-113474;11;10;19;V;Grupo;AM…RICA DE VIGO;Leiro, Rianxo;A CoruÒa
+113504;11;10;19;V;Orquesta;LOS TROVADORES;La Colmena, Nar√≥n;A Coru√±a
+113474;11;10;19;V;Grupo;AM√âRICA DE VIGO;Leiro, Rianxo;A Coru√±a
 113824;11;10;19;V;Orquesta;ANACONDA;Liencres;Cantabria
-113470;11;10;19;V;Grupo;EUREKA;MundÌn, Nogueira de RamuÌn;Ourense
-113900;11;10;19;V;Grupo;SAMBA;O Pindo, Carnota;A CoruÒa
-113858;11;10;19;V;Disco MÛvil;SONORA MUSIC;O Pindo, Carnota;A CoruÒa
+113470;11;10;19;V;Grupo;EUREKA;Mund√≠n, Nogueira de Ramu√≠n;Ourense
+113900;11;10;19;V;Grupo;SAMBA;O Pindo, Carnota;A Coru√±a
+113858;11;10;19;V;Disco M√≥vil;SONORA MUSIC;O Pindo, Carnota;A Coru√±a
 113341;11;10;19;V;Orquesta;PONTEVEDRA;Oliveira, Ponteareas;Pontevedra
 113409;11;10;19;V;Orquesta;MARBELLA;Oliveira, Ponteareas;Pontevedra
-113089;11;10;19;V;Grupo;LUME;Ortigueira;A CoruÒa
-113432;11;10;19;V;Orquesta;FANIA BLANCO SHOW;Ortigueira;A CoruÒa
-98351;11;10;19;V;Solista;XILO;Os Condes, Bergondo;A CoruÒa
+113089;11;10;19;V;Grupo;LUME;Ortigueira;A Coru√±a
+113432;11;10;19;V;Orquesta;FANIA BLANCO SHOW;Ortigueira;A Coru√±a
+98351;11;10;19;V;Solista;XILO;Os Condes, Bergondo;A Coru√±a
 113612;11;10;19;V;Orquesta;COMPOSTELA;Ourense;Ourense
-113307;11;10;19;V;Orquesta;CINEMA;Paradela, Curtis;A CoruÒa
+113307;11;10;19;V;Orquesta;CINEMA;Paradela, Curtis;A Coru√±a
 113055;11;10;19;V;Charanga;CLK;Pereda, Cea;Ourense
-113485;11;10;19;V;Orquesta;LOS ESPA—OLES;PlatÛ 1000, Teo;A CoruÒa
+113485;11;10;19;V;Orquesta;LOS ESPA√ëOLES;Plat√≥ 1000, Teo;A Coru√±a
 113962;11;10;19;V;Grupo;BEATRIZ;Plaza de la Pontona, Laviana;Asturias
-113526;11;10;19;V;Disco MÛvil;LA DUENDENETA;Praza da Soidade, Lugo;Lugo
+113526;11;10;19;V;Disco M√≥vil;LA DUENDENETA;Praza da Soidade, Lugo;Lugo
 113525;11;10;19;V;Orquesta;COSTA DORADA;Praza Maior, Lugo;Lugo
-104428;11;10;19;V;D˙o;CAL⁄;Pub La Terraza, Ordes;A CoruÒa
-113535;11;10;19;V;D˙o;CHARADA;Queiruga, Porto do Son;A CoruÒa
-112123;11;10;19;V;Orquesta;MAGOS;San Adri·n de Calvos, Fornelos de Montes;Pontevedra
+104428;11;10;19;V;D√∫o;CAL√ö;Pub La Terraza, Ordes;A Coru√±a
+113535;11;10;19;V;D√∫o;CHARADA;Queiruga, Porto do Son;A Coru√±a
+112123;11;10;19;V;Orquesta;MAGOS;San Adri√°n de Calvos, Fornelos de Montes;Pontevedra
 113134;11;10;19;V;Orquesta;EL COMBO DOMINICANO;San Breixo, Barro;Pontevedra
 113646;11;10;19;V;Grupo;LA HUELLA;San Cristobal de Segovia;Segovia
-113627;11;10;19;V;Grupo;TEKILA;Santa MarÌa de CayÛn;Cantabria
-113780;11;10;19;V;Orquesta;WAYKAS FAMILY;Santa MarÌa de CayÛn;Cantabria
+113627;11;10;19;V;Grupo;TEKILA;Santa Mar√≠a de Cay√≥n;Cantabria
+113780;11;10;19;V;Orquesta;WAYKAS FAMILY;Santa Mar√≠a de Cay√≥n;Cantabria
 113698;11;10;19;V;Orquesta;NUEVA BANDA;Torre Val de San Pedro;Segovia
-113353;11;10;19;V;Orquesta;NEVADA;TorroÒa, Oia;Pontevedra
-113081;11;10;19;V;Grupo;D¥MODA;Trabe, Ponteceso;A CoruÒa
-113082;11;10;19;V;Disco MÛvil;IMPACTO;Trabe, Ponteceso;A CoruÒa
+113353;11;10;19;V;Orquesta;NEVADA;Torro√±a, Oia;Pontevedra
+113081;11;10;19;V;Grupo;D¬¥MODA;Trabe, Ponteceso;A Coru√±a
+113082;11;10;19;V;Disco M√≥vil;IMPACTO;Trabe, Ponteceso;A Coru√±a
 113031;11;10;19;V;Grupo;BOMBA;Tuineje, Fuerteventura;Las Palmas
 113846;11;10;19;V;Orquesta;XACOBEO;Vilaestrofe, Cervo;Lugo
-112923;12;10;19;S;Orquesta;PRINCIPAL;A Barqueira, Cerdido;A CoruÒa
-112924;12;10;19;S;Grupo;TEKILA;A Barqueira, Cerdido;A CoruÒa
-113758;12;10;19;S;Grupo;F…NIX;A Carid·, El Franco;Asturias
-113505;12;10;19;S;Orquesta;LOS TROVADORES;A EspiÒeira, Foz;Lugo
-104430;12;10;19;S;D˙o;CAL⁄;A Laracha;A CoruÒa
+112923;12;10;19;S;Orquesta;PRINCIPAL;A Barqueira, Cerdido;A Coru√±a
+112924;12;10;19;S;Grupo;TEKILA;A Barqueira, Cerdido;A Coru√±a
+113758;12;10;19;S;Grupo;F√âNIX;A Carid√°, El Franco;Asturias
+113505;12;10;19;S;Orquesta;LOS TROVADORES;A Espi√±eira, Foz;Lugo
+104430;12;10;19;S;D√∫o;CAL√ö;A Laracha;A Coru√±a
 113561;12;10;19;S;Orquesta;PANORAMA;A Pontenova;Lugo
-113562;12;10;19;S;Disco MÛvil;BLANCO Y NEGRO;A Pontenova;Lugo
+113562;12;10;19;S;Disco M√≥vil;BLANCO Y NEGRO;A Pontenova;Lugo
 113742;12;10;19;S;Orquesta;SUAVECITO;A Pontenova;Lugo
 111449;12;10;19;S;Orquesta;LA OLA ADN;Adina, Sanxenxo;Pontevedra
 113111;12;10;19;S;Orquesta;TRIUNFO;Adina, Sanxenxo;Pontevedra
-113471;12;10;19;S;Grupo;EUREKA;AgrÛn, Ames;A CoruÒa
-113725;12;10;19;S;Disco MÛvil;CDC MINIDISC;AgrÛn, Ames;A CoruÒa
-113398;12;10;19;S;Orquesta;LA ESTACI”N;AmorÌn, TomiÒo;Pontevedra
-98924;12;10;19;S;Orquesta;SOLARA;Anca, Neda;A CoruÒa
-98925;12;10;19;S;TrÌo;ANTHA;Anca, Neda;A CoruÒa
-111200;12;10;19;S;D˙o;ELIXIR;Arante, Ribadeo;Lugo
-113875;12;10;19;S;Solista;BEGO—A GARCÕA;Arteixo;A CoruÒa
-113354;12;10;19;S;Orquesta;NEVADA;As Salgueiras, Coristanco;A CoruÒa
-113189;12;10;19;S;Orquesta;OLYMPUS RED TOUR;Baroncelle, AbadÌn;Lugo
-113459;12;10;19;S;Orquesta;ALIANZA;Baroncelle, AbadÌn;Lugo
-113179;12;10;19;S;Orquesta;METR”POLIS;Barrio de ChorÌs, Carballo;A CoruÒa
-113183;12;10;19;S;Grupo;ALKAR;Barrio de ChorÌs, Carballo;A CoruÒa
-113117;12;10;19;S;Orquesta;CENIZA;Barrio del Ventorrillo, A CoruÒa;A CoruÒa
-113220;12;10;19;S;Orquesta;LA FAVORITA;BelÈn de la MontaÒa, ValdÈs;Asturias
-113316;12;10;19;S;Orquesta;TREBOL;BelÈn de la MontaÒa, ValdÈs;Asturias
-112925;12;10;19;S;Grupo;ASSIA;Belquirime, VilamarÌn;Ourense
-113835;12;10;19;S;Grupo;LA BAMBA;Boimorto;A CoruÒa
-113666;12;10;19;S;Orquesta;TELEVISI”N;Cabalo, Bueu;Pontevedra
+113471;12;10;19;S;Grupo;EUREKA;Agr√≥n, Ames;A Coru√±a
+113725;12;10;19;S;Disco M√≥vil;CDC MINIDISC;Agr√≥n, Ames;A Coru√±a
+113398;12;10;19;S;Orquesta;LA ESTACI√ìN;Amor√≠n, Tomi√±o;Pontevedra
+98924;12;10;19;S;Orquesta;SOLARA;Anca, Neda;A Coru√±a
+98925;12;10;19;S;Tr√≠o;ANTHA;Anca, Neda;A Coru√±a
+111200;12;10;19;S;D√∫o;ELIXIR;Arante, Ribadeo;Lugo
+113875;12;10;19;S;Solista;BEGO√ëA GARC√çA;Arteixo;A Coru√±a
+113354;12;10;19;S;Orquesta;NEVADA;As Salgueiras, Coristanco;A Coru√±a
+113189;12;10;19;S;Orquesta;OLYMPUS RED TOUR;Baroncelle, Abad√≠n;Lugo
+113459;12;10;19;S;Orquesta;ALIANZA;Baroncelle, Abad√≠n;Lugo
+113179;12;10;19;S;Orquesta;METR√ìPOLIS;Barrio de Chor√≠s, Carballo;A Coru√±a
+113183;12;10;19;S;Grupo;ALKAR;Barrio de Chor√≠s, Carballo;A Coru√±a
+113117;12;10;19;S;Orquesta;CENIZA;Barrio del Ventorrillo, A Coru√±a;A Coru√±a
+113220;12;10;19;S;Orquesta;LA FAVORITA;Bel√©n de la Monta√±a, Vald√©s;Asturias
+113316;12;10;19;S;Orquesta;TREBOL;Bel√©n de la Monta√±a, Vald√©s;Asturias
+112925;12;10;19;S;Grupo;ASSIA;Belquirime, Vilamar√≠n;Ourense
+113835;12;10;19;S;Grupo;LA BAMBA;Boimorto;A Coru√±a
+113666;12;10;19;S;Orquesta;TELEVISI√ìN;Cabalo, Bueu;Pontevedra
 113844;12;10;19;S;Orquesta;MIRAMAR;Cabalo, Bueu;Pontevedra
 113539;12;10;19;S;Grupo;BOMBA;Caleta de Fuste, Fuerteventura;Las Palmas
-113204;12;10;19;S;Charanga;OT;CampaÒÛ, Pontevedra;Pontevedra
-111030;12;10;19;S;Charanga;MEKANIKA;Carballo;A CoruÒa
+113204;12;10;19;S;Charanga;OT;Campa√±√≥, Pontevedra;Pontevedra
+111030;12;10;19;S;Charanga;MEKANIKA;Carballo;A Coru√±a
 113337;12;10;19;S;Orquesta;CINEMA;Carbia, Vila de Cruces;Pontevedra
-113463;12;10;19;S;Grupo;UNI”N Y FUERZA;Carbia, Vila de Cruces;Pontevedra
-113415;12;10;19;S;Orquesta;ACORDES;Cascantes de Alba, Cuadros;LeÛn
-113602;12;10;19;S;Orquesta;ARMONÕA SHOW;Caserones Altos, Telde;Las Palmas
-113040;12;10;19;S;Charanga;MANÕA;Castrillo de Villavega;Palencia
-112966;12;10;19;S;D˙o;ESTRELLAS;Caz·s, Xermade;Lugo
-113112;12;10;19;S;Orquesta;LOS ESPA—OLES;Caz·s, Xermade;Lugo
-113426;12;10;19;S;Orquesta;RITMO JOVEN;Cesuras;A CoruÒa
-113689;12;10;19;S;D˙o;D¥ASES;Cesuras;A CoruÒa
-113302;12;10;19;S;Orquesta;LA DIMENSI”N;Chapela, Redondela;Pontevedra
+113463;12;10;19;S;Grupo;UNI√ìN Y FUERZA;Carbia, Vila de Cruces;Pontevedra
+113415;12;10;19;S;Orquesta;ACORDES;Cascantes de Alba, Cuadros;Le√≥n
+113602;12;10;19;S;Orquesta;ARMON√çA SHOW;Caserones Altos, Telde;Las Palmas
+113040;12;10;19;S;Charanga;MAN√çA;Castrillo de Villavega;Palencia
+112966;12;10;19;S;D√∫o;ESTRELLAS;Caz√°s, Xermade;Lugo
+113112;12;10;19;S;Orquesta;LOS ESPA√ëOLES;Caz√°s, Xermade;Lugo
+113426;12;10;19;S;Orquesta;RITMO JOVEN;Cesuras;A Coru√±a
+113689;12;10;19;S;D√∫o;D¬¥ASES;Cesuras;A Coru√±a
+113302;12;10;19;S;Orquesta;LA DIMENSI√ìN;Chapela, Redondela;Pontevedra
 113317;12;10;19;S;Orquesta;SAUDADE;Chapela, Redondela;Pontevedra
-110984;12;10;19;S;Grupo;ACIREMA;Corz·ns, Salvaterra de MiÒo;Pontevedra
-113103;12;10;19;S;Orquesta;FIN DE SIGLO;Corz·ns, Salvaterra de MiÒo;Pontevedra
-113100;12;10;19;S;TrÌo;D¥LIDER;Cristelos, TomiÒo;Pontevedra
+110984;12;10;19;S;Grupo;ACIREMA;Corz√°ns, Salvaterra de Mi√±o;Pontevedra
+113103;12;10;19;S;Orquesta;FIN DE SIGLO;Corz√°ns, Salvaterra de Mi√±o;Pontevedra
+113100;12;10;19;S;Tr√≠o;D¬¥LIDER;Cristelos, Tomi√±o;Pontevedra
 113399;12;10;19;S;Orquesta;ABANICO;Cristo da Esperanza, Mos;Pontevedra
 113484;12;10;19;S;Orquesta;CHARLESTON BIG-BAND;Cristo da Esperanza, Mos;Pontevedra
-113622;12;10;19;S;Orquesta;MARSELLA;DoÒa Santos;Burgos
-113608;12;10;19;S;Orquesta;G…NESIS;Estremera;Madrid
-112992;12;10;19;S;Orquesta;FOLIADA D¥ASES;Folladela, Melide;A CoruÒa
-113901;12;10;19;S;Grupo;SAMBA;Folladela, Melide;A CoruÒa
-113191;12;10;19;S;Orquesta;PANAMA;Fox·s, Touro;A CoruÒa
-113192;12;10;19;S;Grupo;KALIMA 3.0;Fox·s, Touro;A CoruÒa
-113490;12;10;19;S;TrÌo;LA NOCHE DO GROVE;Frankfurt, Alemania;Pontevedra
+113622;12;10;19;S;Orquesta;MARSELLA;Do√±a Santos;Burgos
+113608;12;10;19;S;Orquesta;G√âNESIS;Estremera;Madrid
+112992;12;10;19;S;Orquesta;FOLIADA D¬¥ASES;Folladela, Melide;A Coru√±a
+113901;12;10;19;S;Grupo;SAMBA;Folladela, Melide;A Coru√±a
+113191;12;10;19;S;Orquesta;PANAMA;Fox√°s, Touro;A Coru√±a
+113192;12;10;19;S;Grupo;KALIMA 3.0;Fox√°s, Touro;A Coru√±a
+113490;12;10;19;S;Tr√≠o;LA NOCHE DO GROVE;Frankfurt, Alemania;Pontevedra
 113677;12;10;19;S;Orquesta;AZABACHE;Fuencaliente del Burgo, Fuentearmegil;Soria
 113499;12;10;19;S;Grupo;CLAXXON;Gulfariz, A Peroxa;Ourense
 113708;12;10;19;S;Charanga;CASTRO BELLO;Gulfariz, A Peroxa;Ourense
 113296;12;10;19;S;Orquesta;PALLADIUM;La Caridad, El Franco;Asturias
 102185;12;10;19;S;Grupo;LA NAVE;La Higuera, Espirdo;Segovia
 113357;12;10;19;S;Orquesta;ISRAEL;Ladra, Vilalba;Lugo
-113186;12;10;19;S;Orquesta;CICLOMANÕA;Leiro, Rianxo;A CoruÒa
-113387;12;10;19;S;Orquesta;LA F”RMULA;Leiro, Rianxo;A CoruÒa
+113186;12;10;19;S;Orquesta;CICLOMAN√çA;Leiro, Rianxo;A Coru√±a
+113387;12;10;19;S;Orquesta;LA F√ìRMULA;Leiro, Rianxo;A Coru√±a
 112835;12;10;19;S;Charanga;FESTICULTORES TROUPE;Lugo;Lugo
 113728;12;10;19;S;Charanga;LOUBAND;Lugo;Lugo
-98212;12;10;19;S;Charanga;ARDORES;MeixomÌn, LalÌn;Pontevedra
+98212;12;10;19;S;Charanga;ARDORES;Meixom√≠n, Lal√≠n;Pontevedra
 99251;12;10;19;S;Charanga;EUROPA;Montederramo;Ourense
 113481;12;10;19;S;Charanga;NBA;Montederramo, Montederramo;Ourense
-112975;12;10;19;S;D˙o;D¥VICIO;Monzo, Trazo;A CoruÒa
-113433;12;10;19;S;Orquesta;FANIA BLANCO SHOW;Monzo, Trazo;A CoruÒa
-112928;12;10;19;S;D˙o;EXPLOSI”N;mundil;Ourense
-113159;12;10;19;S;Orquesta;IBIZA;O Pindo, Carnota;A CoruÒa
-113182;12;10;19;S;Grupo;LIM”N;O Pindo, Carnota;A CoruÒa
-113342;12;10;19;S;Orquesta;PONTEVEDRA;O Sisto, DozÛn;Pontevedra
-113903;12;10;19;S;Solista;LUCÕA P…REZ;O Sisto, DozÛn;Pontevedra
-113552;12;10;19;S;D˙o;CHARADA;O Tremo, BriÛn;A CoruÒa
-113553;12;10;19;S;Grupo;AMERICA SL;O Tremo, BriÛn;A CoruÒa
+112975;12;10;19;S;D√∫o;D¬¥VICIO;Monzo, Trazo;A Coru√±a
+113433;12;10;19;S;Orquesta;FANIA BLANCO SHOW;Monzo, Trazo;A Coru√±a
+112928;12;10;19;S;D√∫o;EXPLOSI√ìN;mundil;Ourense
+113159;12;10;19;S;Orquesta;IBIZA;O Pindo, Carnota;A Coru√±a
+113182;12;10;19;S;Grupo;LIM√ìN;O Pindo, Carnota;A Coru√±a
+113342;12;10;19;S;Orquesta;PONTEVEDRA;O Sisto, Doz√≥n;Pontevedra
+113903;12;10;19;S;Solista;LUC√çA P√âREZ;O Sisto, Doz√≥n;Pontevedra
+113552;12;10;19;S;D√∫o;CHARADA;O Tremo, Bri√≥n;A Coru√±a
+113553;12;10;19;S;Grupo;AMERICA SL;O Tremo, Bri√≥n;A Coru√±a
 113767;12;10;19;S;Charanga;FESTICULTORES TROUPE;O Valadouro;Lugo
-113475;12;10;19;S;Grupo;AM…RICA DE VIGO;Oliveira, Ponteareas;Pontevedra
+113475;12;10;19;S;Grupo;AM√âRICA DE VIGO;Oliveira, Ponteareas;Pontevedra
 113897;12;10;19;S;Orquesta;PASSARELA;Oliveira, Ponteareas;Pontevedra
-113373;12;10;19;S;Orquesta;DELUXE;Ortigueira;A CoruÒa
+113373;12;10;19;S;Orquesta;DELUXE;Ortigueira;A Coru√±a
 113405;12;10;19;S;Orquesta;FINISTERRE;Parada, Ponte Caldelas;Pontevedra
 113410;12;10;19;S;Orquesta;MARBELLA;Parada, Ponte Caldelas;Pontevedra
-113308;12;10;19;S;TrÌo;MANHATTAN;Paradela, Curtis;A CoruÒa
-113309;12;10;19;S;Grupo;ATENAS;Paradela, Curtis;A CoruÒa
-97363;12;10;19;S;TrÌo;SINTONÕA;Parrillada PeirÛ, Cambre;A CoruÒa
+113308;12;10;19;S;Tr√≠o;MANHATTAN;Paradela, Curtis;A Coru√±a
+113309;12;10;19;S;Grupo;ATENAS;Paradela, Curtis;A Coru√±a
+97363;12;10;19;S;Tr√≠o;SINTON√çA;Parrillada Peir√≥, Cambre;A Coru√±a
 113131;12;10;19;S;Grupo;DILEMA;Pereda, Cea;Ourense
 113636;12;10;19;S;Orquesta;NEW YORK;Pola de Lena, Lena;Asturias
-113865;12;10;19;S;D˙o;ARUME;Pola de Lena, Lena;Asturias
-113527;12;10;19;S;Grupo;D¥MODA;Praza Maior, Lugo;Lugo
+113865;12;10;19;S;D√∫o;ARUME;Pola de Lena, Lena;Asturias
+113527;12;10;19;S;Grupo;D¬¥MODA;Praza Maior, Lugo;Lugo
 113781;12;10;19;S;Grupo;ARIZONA;Punxeiro, Viana do Bolo;Ourense
-113782;12;10;19;S;Grupo;LA MISI”N;Punxeiro, Viana do Bolo;Ourense
+113782;12;10;19;S;Grupo;LA MISI√ìN;Punxeiro, Viana do Bolo;Ourense
 113783;12;10;19;S;Charanga;FUEGO;Punxeiro, Viana do Bolo;Ourense
 113784;12;10;19;S;Charanga;ACHICORIA;Punxeiro, Viana do Bolo;Ourense
-113282;12;10;19;S;Orquesta;ROYAL ESPECT¡CULO;Quintana, Soba;Cantabria
-112893;12;10;19;S;TrÌo;XTRA;Quintela, Crecente;Pontevedra
-102520;12;10;19;S;Orquesta;GRAN PARADA;RaÒadoiro, MuÌÒos;Ourense
-112816;12;10;19;S;Charanga;TNT;Restaurante los Robles, Santiago de Compostela;A CoruÒa
+113282;12;10;19;S;Orquesta;ROYAL ESPECT√ÅCULO;Quintana, Soba;Cantabria
+112893;12;10;19;S;Tr√≠o;XTRA;Quintela, Crecente;Pontevedra
+102520;12;10;19;S;Orquesta;GRAN PARADA;Ra√±adoiro, Mu√≠√±os;Ourense
+112816;12;10;19;S;Charanga;TNT;Restaurante los Robles, Santiago de Compostela;A Coru√±a
 112845;12;10;19;S;Grupo;LUME;S.F. Rosalar, Ribadeo;Lugo
-113224;12;10;19;S;Orquesta;LOS SAT…LITES;SabarÌs, Pontevedra;Pontevedra
+113224;12;10;19;S;Orquesta;LOS SAT√âLITES;Sabar√≠s, Pontevedra;Pontevedra
 113135;12;10;19;S;Orquesta;ESSENCIA;San Breixo, Barro;Pontevedra
 113136;12;10;19;S;Grupo;PLATINUM;San Breixo, Barro;Pontevedra
 113656;12;10;19;S;Grupo;PIKANTE;San Cristobal de Segovia;Segovia
 113963;12;10;19;S;Grupo;BEATRIZ;San Emiliano, Allande;Asturias
-113583;12;10;19;S;Grupo;ARAMIO;San Rom·n de Vilaestrofe, Cervo;Lugo
-113613;12;10;19;S;Orquesta;COMPOSTELA;San Rom·n de Vilaestrofe, Cervo;Lugo
-112124;12;10;19;S;Orquesta;MAGOS;San TomÈ de PiÒeiro, MarÌn;Pontevedra
-113495;12;10;19;S;Orquesta;EL COMBO DOMINICANO;Santa Cruz de Montaos, Ordes;A CoruÒa
-113802;12;10;19;S;Orquesta;XACOBEO;Santa Cruz de Montaos, Ordes;A CoruÒa
-113700;12;10;19;S;Orquesta;NUEVA BANDA;Santa MarÌa de CayÛn;Cantabria
-113717;12;10;19;S;Grupo;GARIBALDI;Santa MarÌa de CayÛn;Cantabria
-113514;12;10;19;S;TrÌo;FUSSION;Sela, Arbo;Pontevedra
-113575;12;10;19;S;Orquesta;COSTA DORADA;Sil·n, Muras;Lugo
-113587;12;10;19;S;Orquesta;GRAN CASINO;Sil·n, Muras;Lugo
-113026;12;10;19;S;Grupo;CHASTTON SHOW;Suxo, MuxÌa;A CoruÒa
+113583;12;10;19;S;Grupo;ARAMIO;San Rom√°n de Vilaestrofe, Cervo;Lugo
+113613;12;10;19;S;Orquesta;COMPOSTELA;San Rom√°n de Vilaestrofe, Cervo;Lugo
+112124;12;10;19;S;Orquesta;MAGOS;San Tom√© de Pi√±eiro, Mar√≠n;Pontevedra
+113495;12;10;19;S;Orquesta;EL COMBO DOMINICANO;Santa Cruz de Montaos, Ordes;A Coru√±a
+113802;12;10;19;S;Orquesta;XACOBEO;Santa Cruz de Montaos, Ordes;A Coru√±a
+113700;12;10;19;S;Orquesta;NUEVA BANDA;Santa Mar√≠a de Cay√≥n;Cantabria
+113717;12;10;19;S;Grupo;GARIBALDI;Santa Mar√≠a de Cay√≥n;Cantabria
+113514;12;10;19;S;Tr√≠o;FUSSION;Sela, Arbo;Pontevedra
+113575;12;10;19;S;Orquesta;COSTA DORADA;Sil√°n, Muras;Lugo
+113587;12;10;19;S;Orquesta;GRAN CASINO;Sil√°n, Muras;Lugo
+113026;12;10;19;S;Grupo;CHASTTON SHOW;Suxo, Mux√≠a;A Coru√±a
 113647;12;10;19;S;Grupo;LA HUELLA;Torre Val de San Pedro;Segovia
-113555;12;10;19;S;Orquesta;LA OCABAND;TorroÒa, Oia;Pontevedra
-113750;12;10;19;S;Orquesta;CAPITOL;TorroÒa, Oia;Pontevedra
-113083;12;10;19;S;Orquesta;PARIS DE NOIA;Trabe, Ponteceso;A CoruÒa
-113084;12;10;19;S;Grupo;NOCHE DE ESTRELLAS;Trabe, Ponteceso;A CoruÒa
+113555;12;10;19;S;Orquesta;LA OCABAND;Torro√±a, Oia;Pontevedra
+113750;12;10;19;S;Orquesta;CAPITOL;Torro√±a, Oia;Pontevedra
+113083;12;10;19;S;Orquesta;PARIS DE NOIA;Trabe, Ponteceso;A Coru√±a
+113084;12;10;19;S;Grupo;NOCHE DE ESTRELLAS;Trabe, Ponteceso;A Coru√±a
 113032;12;10;19;S;Grupo;BOMBA;Tuineje, Fuerteventura;Las Palmas
-113707;12;10;19;S;Orquesta;LA ”RBITA;VillÌmar, Burgos;Burgos
+113707;12;10;19;S;Orquesta;LA √ìRBITA;Vill√≠mar, Burgos;Burgos
 113825;12;10;19;S;Orquesta;ANACONDA;Yudego;Burgos
-111690;13;10;19;D;D˙o;CAL⁄;A Barqueira, Cerdido;A CoruÒa
+111690;13;10;19;D;D√∫o;CAL√ö;A Barqueira, Cerdido;A Coru√±a
 113588;13;10;19;D;Orquesta;GRAN CASINO;A Pontenova;Lugo
 113594;13;10;19;D;Orquesta;TREBOL;A Pontenova;Lugo
 113584;13;10;19;D;Grupo;ARAMIO;Alto de San Cosme, Mos;Pontevedra
-98926;13;10;19;D;Orquesta;SOLARA;Anca, Neda;A CoruÒa
+98926;13;10;19;D;Orquesta;SOLARA;Anca, Neda;A Coru√±a
 113496;13;10;19;D;Orquesta;EL COMBO DOMINICANO;As Ribocias, Caldas de Reis;Pontevedra
-113614;13;10;19;D;Orquesta;COMPOSTELA;As Salgueiras, Coristanco;A CoruÒa
-113701;13;10;19;D;Orquesta;PRINCIPAL;Baroncelle, AbadÌn;Lugo
-113050;13;10;19;D;Orquesta;FOLIADA D¥ASES;Barrio del Ventorrillo, A CoruÒa;A CoruÒa
-112926;13;10;19;D;Grupo;NAZARET;Belquirime, VilamarÌn;Ourense
-113123;13;10;19;D;Grupo;TATTOO;Belquirime, VilamarÌn;Ourense
-113225;13;10;19;D;Orquesta;LOS SAT…LITES;Cabalo, Bueu;Pontevedra
-110987;13;10;19;D;Solista;ROCÕO P…REZ;Cabana de BergantiÒos;A CoruÒa
-113199;13;10;19;D;TrÌo;KARMA;Cambre;A CoruÒa
-113876;13;10;19;D;Solista;BEGO—A GARCÕA;Casa ToÒita, A Capela;A CoruÒa
+113614;13;10;19;D;Orquesta;COMPOSTELA;As Salgueiras, Coristanco;A Coru√±a
+113701;13;10;19;D;Orquesta;PRINCIPAL;Baroncelle, Abad√≠n;Lugo
+113050;13;10;19;D;Orquesta;FOLIADA D¬¥ASES;Barrio del Ventorrillo, A Coru√±a;A Coru√±a
+112926;13;10;19;D;Grupo;NAZARET;Belquirime, Vilamar√≠n;Ourense
+113123;13;10;19;D;Grupo;TATTOO;Belquirime, Vilamar√≠n;Ourense
+113225;13;10;19;D;Orquesta;LOS SAT√âLITES;Cabalo, Bueu;Pontevedra
+110987;13;10;19;D;Solista;ROC√çO P√âREZ;Cabana de Berganti√±os;A Coru√±a
+113199;13;10;19;D;Tr√≠o;KARMA;Cambre;A Coru√±a
+113876;13;10;19;D;Solista;BEGO√ëA GARC√çA;Casa To√±ita, A Capela;A Coru√±a
 113069;13;10;19;D;Orquesta;MARAZUL;Cristo da Esperanza, Mos;Pontevedra
-113479;13;10;19;D;Grupo;AM…RICA DE VIGO;Cristo da Esperanza, Mos;Pontevedra
-113519;13;10;19;D;Orquesta;LA OLA ADN;Folladela, Melide;A CoruÒa
-113193;13;10;19;D;Orquesta;METR”POLIS;Fox·s, Touro;A CoruÒa
-113194;13;10;19;D;Orquesta;CINEMA;Fox·s, Touro;A CoruÒa
-113195;13;10;19;D;Disco MÛvil;A GRAMOLA;Fox·s, Touro;A CoruÒa
-113491;13;10;19;D;TrÌo;LA NOCHE DO GROVE;Frankfurt, Alemania;Pontevedra
-113242;13;10;19;D;Orquesta;ABANICO;Leiro, Rianxo;A CoruÒa
-113318;13;10;19;D;Orquesta;PANAMA;Leiro, Rianxo;A CoruÒa
-113538;13;10;19;D;D˙o;CHARADA;Malpica de BergantiÒos;A CoruÒa
-113906;13;10;19;D;TrÌo;INNOVACI”N;O Pindo, Carnota;A CoruÒa
-112843;13;10;19;D;Orquesta;GRAN PARADA;O Sisto, DozÛn;Pontevedra
-113110;13;10;19;D;Orquesta;PALLADIUM;O Sisto, DozÛn;Pontevedra
+113479;13;10;19;D;Grupo;AM√âRICA DE VIGO;Cristo da Esperanza, Mos;Pontevedra
+113519;13;10;19;D;Orquesta;LA OLA ADN;Folladela, Melide;A Coru√±a
+113193;13;10;19;D;Orquesta;METR√ìPOLIS;Fox√°s, Touro;A Coru√±a
+113194;13;10;19;D;Orquesta;CINEMA;Fox√°s, Touro;A Coru√±a
+113195;13;10;19;D;Disco M√≥vil;A GRAMOLA;Fox√°s, Touro;A Coru√±a
+113491;13;10;19;D;Tr√≠o;LA NOCHE DO GROVE;Frankfurt, Alemania;Pontevedra
+113242;13;10;19;D;Orquesta;ABANICO;Leiro, Rianxo;A Coru√±a
+113318;13;10;19;D;Orquesta;PANAMA;Leiro, Rianxo;A Coru√±a
+113538;13;10;19;D;D√∫o;CHARADA;Malpica de Berganti√±os;A Coru√±a
+113906;13;10;19;D;Tr√≠o;INNOVACI√ìN;O Pindo, Carnota;A Coru√±a
+112843;13;10;19;D;Orquesta;GRAN PARADA;O Sisto, Doz√≥n;Pontevedra
+113110;13;10;19;D;Orquesta;PALLADIUM;O Sisto, Doz√≥n;Pontevedra
 113628;13;10;19;D;Grupo;TEKILA;Pola de Siero;Asturias
-113788;13;10;19;D;D˙o;EXPLOSI”N;Ponte Carreira, Frades;A CoruÒa
+113788;13;10;19;D;D√∫o;EXPLOSI√ìN;Ponte Carreira, Frades;A Coru√±a
 113164;13;10;19;D;Grupo;NOCHE DE ESTRELLAS;S.F. La Palmera Playa, Vigo;Pontevedra
 113434;13;10;19;D;Orquesta;FANIA BLANCO SHOW;S.F. Morango K.N, Lugo;Lugo
-113845;13;10;19;D;Orquesta;MIRAMAR;S.F. Paulino, O CarballiÒo;Ourense
-113660;13;10;19;D;Orquesta;SAUDADE;S.F. Velvet, MonÁao;Portugal
-102883;13;10;19;D;D˙o;XILO & CARLOS;S.F. Zeus, Campolongo;A CoruÒa
-113404;13;10;19;D;Orquesta;LA DIMENSI”N;San Pedro de Trones, Puente de Domingo FlÛrez;LeÛn
-113841;13;10;19;D;Charanga;CASTRO BELLO;San Vicente de ArgozÛn, Chantada;Lugo
-113683;13;10;19;D;Orquesta;ST…REO;Sil·n, Muras;Lugo
-113789;13;10;19;D;D˙o;EXPLOSI”N;torrevilariÒo;Lugo
-113085;13;10;19;D;D˙o;CHARADA;Trabe, Ponteceso;A CoruÒa
+113845;13;10;19;D;Orquesta;MIRAMAR;S.F. Paulino, O Carballi√±o;Ourense
+113660;13;10;19;D;Orquesta;SAUDADE;S.F. Velvet, Mon√ßao;Portugal
+102883;13;10;19;D;D√∫o;XILO & CARLOS;S.F. Zeus, Campolongo;A Coru√±a
+113404;13;10;19;D;Orquesta;LA DIMENSI√ìN;San Pedro de Trones, Puente de Domingo Fl√≥rez;Le√≥n
+113841;13;10;19;D;Charanga;CASTRO BELLO;San Vicente de Argoz√≥n, Chantada;Lugo
+113683;13;10;19;D;Orquesta;ST√âREO;Sil√°n, Muras;Lugo
+113789;13;10;19;D;D√∫o;EXPLOSI√ìN;torrevilari√±o;Lugo
+113085;13;10;19;D;D√∫o;CHARADA;Trabe, Ponteceso;A Coru√±a
 113551;13;10;19;D;Orquesta;TRIUNFO;Vilar de Barrio;Ourense
-113338;14;10;19;L;Orquesta;CINEMA;¡vila;¡vila
-113358;15;10;19;M;Orquesta;ISRAEL;PlatÛ 1000, Teo;A CoruÒa
-113361;17;10;19;J;Solista;ROCÕO P…REZ;Carballo;A CoruÒa
-113262;17;10;19;J;Solista;JUDITH CUNDÕNS;Casino Ferrolano, Ferrol;A CoruÒa
-113563;17;10;19;J;Orquesta;PANORAMA;MondoÒedo;Lugo
-113949;17;10;19;J;Grupo;BEATRIZ;MondoÒedo;Lugo
-113691;18;10;19;V;D˙o;D¥ASES;Abegondo;A CoruÒa
+113338;14;10;19;L;Orquesta;CINEMA;√Åvila;√Åvila
+113358;15;10;19;M;Orquesta;ISRAEL;Plat√≥ 1000, Teo;A Coru√±a
+113361;17;10;19;J;Solista;ROC√çO P√âREZ;Carballo;A Coru√±a
+113262;17;10;19;J;Solista;JUDITH CUND√çNS;Casino Ferrolano, Ferrol;A Coru√±a
+113563;17;10;19;J;Orquesta;PANORAMA;Mondo√±edo;Lugo
+113949;17;10;19;J;Grupo;BEATRIZ;Mondo√±edo;Lugo
+113691;18;10;19;V;D√∫o;D¬¥ASES;Abegondo;A Coru√±a
 113641;18;10;19;V;Orquesta;KRONOS;Alba de Tormes;Salamanca
-113077;18;10;19;V;Grupo;CLAXXON;Barrio do Vinte˙n, Ourense;Ourense
+113077;18;10;19;V;Grupo;CLAXXON;Barrio do Vinte√∫n, Ourense;Ourense
 113165;18;10;19;V;Grupo;NOCHE DE ESTRELLAS;Benade, Lugo;Lugo
-113950;18;10;19;V;Grupo;BEATRIZ;CafÈ Teatro PremiËre, Pola de Siero;Asturias
-113564;18;10;19;V;Orquesta;PANORAMA;CiaÒo, Langreo;Asturias
+113950;18;10;19;V;Grupo;BEATRIZ;Caf√© Teatro Premi√®re, Pola de Siero;Asturias
+113564;18;10;19;V;Orquesta;PANORAMA;Cia√±o, Langreo;Asturias
 113922;18;10;19;V;Orquesta;CINEMA;Discoteca Zouk, Lugo;Lugo
-113877;18;10;19;V;Solista;BEGO—A GARCÕA;Fene;A CoruÒa
-113230;18;10;19;V;Orquesta;GRAN PARADA;Ferrera de los Gavitos, ValdÈs;Asturias
-113629;18;10;19;V;Grupo;TEKILA;GijÛn;Asturias
-113606;18;10;19;V;Orquesta;ARMONÕA SHOW;La Naval, Las Palmas;Las Palmas
-113393;18;10;19;V;Orquesta;LA F”RMULA;Malvas, Tui;Pontevedra
-112831;18;10;19;V;Orquesta;OLYMPUS RED TOUR;MondoÒedo;Lugo
-113297;18;10;19;V;Orquesta;PALLADIUM;MondoÒedo;Lugo
-112741;18;10;19;V;Charanga;LE—A VERDE;O Castro, DozÛn;Pontevedra
+113877;18;10;19;V;Solista;BEGO√ëA GARC√çA;Fene;A Coru√±a
+113230;18;10;19;V;Orquesta;GRAN PARADA;Ferrera de los Gavitos, Vald√©s;Asturias
+113629;18;10;19;V;Grupo;TEKILA;Gij√≥n;Asturias
+113606;18;10;19;V;Orquesta;ARMON√çA SHOW;La Naval, Las Palmas;Las Palmas
+113393;18;10;19;V;Orquesta;LA F√ìRMULA;Malvas, Tui;Pontevedra
+112831;18;10;19;V;Orquesta;OLYMPUS RED TOUR;Mondo√±edo;Lugo
+113297;18;10;19;V;Orquesta;PALLADIUM;Mondo√±edo;Lugo
+112741;18;10;19;V;Charanga;LE√ëA VERDE;O Castro, Doz√≥n;Pontevedra
 113967;18;10;19;V;Orquesta;MARBELLA;O Mato, Chantada;Lugo
-113579;18;10;19;V;Orquesta;LOS SAT…LITES;PlatÛ 1000, Teo;A CoruÒa
+113579;18;10;19;V;Orquesta;LOS SAT√âLITES;Plat√≥ 1000, Teo;A Coru√±a
 113840;18;10;19;V;Charanga;FESTICULTORES TROUPE;Plaza do Corgo, O Grove;Pontevedra
-97986;18;10;19;V;TrÌo;KARMA;Pub La Terraza, Ordes;A CoruÒa
-113712;18;10;19;V;Orquesta;ST…REO;Queixeiro, Monfero;A CoruÒa
-113743;18;10;19;V;Orquesta;SUAVECITO;Queixeiro, Monfero;A CoruÒa
+97986;18;10;19;V;Tr√≠o;KARMA;Pub La Terraza, Ordes;A Coru√±a
+113712;18;10;19;V;Orquesta;ST√âREO;Queixeiro, Monfero;A Coru√±a
+113743;18;10;19;V;Orquesta;SUAVECITO;Queixeiro, Monfero;A Coru√±a
 113221;18;10;19;V;Orquesta;LA FAVORITA;Roimil, Friol;Lugo
-113580;18;10;19;V;Orquesta;PARIS DE NOIA;Trasufe, MuxÌa;A CoruÒa
-113721;18;10;19;V;Disco MÛvil;CDC;Trasufe, MuxÌa;A CoruÒa
-113181;18;10;19;V;TrÌo;TBM SHOW;Vila Praia de ¬ncora, Caminha;Portugal
-112247;19;10;19;S;Solista;ROCÕO P…REZ;A Tablilla, Cerceda;A CoruÒa
+113580;18;10;19;V;Orquesta;PARIS DE NOIA;Trasufe, Mux√≠a;A Coru√±a
+113721;18;10;19;V;Disco M√≥vil;CDC;Trasufe, Mux√≠a;A Coru√±a
+113181;18;10;19;V;Tr√≠o;TBM SHOW;Vila Praia de √Çncora, Caminha;Portugal
+112247;19;10;19;S;Solista;ROC√çO P√âREZ;A Tablilla, Cerceda;A Coru√±a
 113581;19;10;19;S;Orquesta;PARIS DE NOIA;Alba de Tormes;Salamanca
-113905;19;10;19;S;Orquesta;METR”POLIS;Aldeola Restaurante, Malpica de BergantiÒos;A CoruÒa
-111199;19;10;19;S;D˙o;ELIXIR;Alto da ValiÒa, Sarria;Lugo
-113246;19;10;19;S;Orquesta;LOS SAT…LITES;Arnois, A Estrada;Pontevedra
-113898;19;10;19;S;Orquesta;PASSARELA;Arteixo;A CoruÒa
-113570;19;10;19;S;TrÌo;INNOVACI”N;Baralla;Lugo
-113604;19;10;19;S;Orquesta;ARMONÕA SHOW;Barranquillo AndrÈs, Mog·n;Las Palmas
-113078;19;10;19;S;Orquesta;FINISTERRE;Barrio do Vinte˙n, Ourense;Ourense
-113684;19;10;19;S;Orquesta;ST…REO;Basauri;Vizcaya
+113905;19;10;19;S;Orquesta;METR√ìPOLIS;Aldeola Restaurante, Malpica de Berganti√±os;A Coru√±a
+111199;19;10;19;S;D√∫o;ELIXIR;Alto da Vali√±a, Sarria;Lugo
+113246;19;10;19;S;Orquesta;LOS SAT√âLITES;Arnois, A Estrada;Pontevedra
+113898;19;10;19;S;Orquesta;PASSARELA;Arteixo;A Coru√±a
+113570;19;10;19;S;Tr√≠o;INNOVACI√ìN;Baralla;Lugo
+113604;19;10;19;S;Orquesta;ARMON√çA SHOW;Barranquillo Andr√©s, Mog√°n;Las Palmas
+113078;19;10;19;S;Orquesta;FINISTERRE;Barrio do Vinte√∫n, Ourense;Ourense
+113684;19;10;19;S;Orquesta;ST√âREO;Basauri;Vizcaya
 113222;19;10;19;S;Orquesta;LA FAVORITA;Benade, Lugo;Lugo
 113319;19;10;19;S;Orquesta;ISRAEL;Benade, Lugo;Lugo
-104431;19;10;19;S;D˙o;CAL⁄;Benza, Trazo;A CoruÒa
-113928;19;10;19;S;D˙o;CARPE DIEM;Benza, Trazo;A CoruÒa
+104431;19;10;19;S;D√∫o;CAL√ö;Benza, Trazo;A Coru√±a
+113928;19;10;19;S;D√∫o;CARPE DIEM;Benza, Trazo;A Coru√±a
 113710;19;10;19;S;Orquesta;WAYKAS FAMILY;Bimenes;Asturias
-113630;19;10;19;S;Grupo;TEKILA;CafÈ Teatro PremiËre, Pola de Siero;Asturias
+113630;19;10;19;S;Grupo;TEKILA;Caf√© Teatro Premi√®re, Pola de Siero;Asturias
 113166;19;10;19;S;Grupo;NOCHE DE ESTRELLAS;Canido, Vigo;Pontevedra
-113241;19;10;19;S;Orquesta;ABANICO;CastrogudÌn, VilagarcÌa de Arousa;Pontevedra
-113320;19;10;19;S;Orquesta;ESSENCIA;CastrogudÌn, VilagarcÌa de Arousa;Pontevedra
-113411;19;10;19;S;Orquesta;MARBELLA;ChaÌn, Ponte Caldelas;Pontevedra
-113914;19;10;19;S;Orquesta;MARAZUL;ChaÌn, Ponte Caldelas;Pontevedra
-113231;19;10;19;S;Orquesta;GRAN PARADA;CiaÒo, Langreo;Asturias
-113951;19;10;19;S;Grupo;BEATRIZ;CiaÒo, Langreo;Asturias
-113722;19;10;19;S;Disco MÛvil;CDC;CorcubiÛn;A CoruÒa
-113799;19;10;19;S;Grupo;ARIZONA;CorcubiÛn;A CoruÒa
+113241;19;10;19;S;Orquesta;ABANICO;Castrogud√≠n, Vilagarc√≠a de Arousa;Pontevedra
+113320;19;10;19;S;Orquesta;ESSENCIA;Castrogud√≠n, Vilagarc√≠a de Arousa;Pontevedra
+113411;19;10;19;S;Orquesta;MARBELLA;Cha√≠n, Ponte Caldelas;Pontevedra
+113914;19;10;19;S;Orquesta;MARAZUL;Cha√≠n, Ponte Caldelas;Pontevedra
+113231;19;10;19;S;Orquesta;GRAN PARADA;Cia√±o, Langreo;Asturias
+113951;19;10;19;S;Grupo;BEATRIZ;Cia√±o, Langreo;Asturias
+113722;19;10;19;S;Disco M√≥vil;CDC;Corcubi√≥n;A Coru√±a
+113799;19;10;19;S;Grupo;ARIZONA;Corcubi√≥n;A Coru√±a
 113033;19;10;19;S;Grupo;BOMBA;Costa Calma;Las Palmas
-111286;19;10;19;S;D˙o;EXPLOSI”N;Covelas, Castroverde;Lugo
+111286;19;10;19;S;D√∫o;EXPLOSI√ìN;Covelas, Castroverde;Lugo
 113702;19;10;19;S;Orquesta;PRINCIPAL;Covelas, Castroverde;Lugo
-113801;19;10;19;S;Orquesta;GRAN CASINO;Cullergondo, Abegondo;A CoruÒa
-113256;19;10;19;S;D˙o;D¥VICIO;Curtis;A CoruÒa
+113801;19;10;19;S;Orquesta;GRAN CASINO;Cullergondo, Abegondo;A Coru√±a
+113256;19;10;19;S;D√∫o;D¬¥VICIO;Curtis;A Coru√±a
 113416;19;10;19;S;Orquesta;ACORDES;Donalbai, Begonte;Lugo
-113751;19;10;19;S;Orquesta;CAPITOL;Ferrera de los Gavitos, ValdÈs;Asturias
-113878;19;10;19;S;Solista;BEGO—A GARCÕA;Ferrol;A CoruÒa
-113298;19;10;19;S;Orquesta;PALLADIUM;Goente, As Pontes;A CoruÒa
-113595;19;10;19;S;Orquesta;TREBOL;Goente, As Pontes;A CoruÒa
-113832;19;10;19;S;D˙o;SON D¥CARACAS;La Colmena, NarÛn;A CoruÒa
-111037;19;10;19;S;Charanga;MEKANIKA;LanzÛs, Vilalba;Lugo
-113151;19;10;19;S;Orquesta;CINEMA;LanzÛs, Vilalba;Lugo
-113152;19;10;19;S;Orquesta;LA F”RMULA;LanzÛs, Vilalba;Lugo
-113637;19;10;19;S;Orquesta;NEW YORK;Lavacolla, Santiago de Compostela;A CoruÒa
-113785;19;10;19;S;Grupo;D¥MODA;Malvas, Tui;Pontevedra
-109227;19;10;19;S;Orquesta;CHARLESTON BIG-BAND;Mom·n, Xermade;Lugo
-109228;19;10;19;S;Orquesta;FANIA BLANCO SHOW;Mom·n, Xermade;Lugo
-113500;19;10;19;S;Grupo;CLAXXON;MondoÒedo;Lugo
-113509;19;10;19;S;Grupo;ARAMIO;MondoÒedo;Lugo
-112848;19;10;19;S;Grupo;LUME;Montoxo, Cedeira;A CoruÒa
-113565;19;10;19;S;Orquesta;PANORAMA;Moscoso, Pazos de BorbÈn;Pontevedra
-97485;19;10;19;S;Disco MÛvil;MAYGON;Neda;A CoruÒa
-113379;19;10;19;S;Orquesta;PANAMA;Nespereira, Pazos de BorbÈn;Pontevedra
-113667;19;10;19;S;Orquesta;TELEVISI”N;Nespereira, Pazos de BorbÈn;Pontevedra
-113920;19;10;19;S;D˙o;ECLIPSE;O Vicedo;Lugo
+113751;19;10;19;S;Orquesta;CAPITOL;Ferrera de los Gavitos, Vald√©s;Asturias
+113878;19;10;19;S;Solista;BEGO√ëA GARC√çA;Ferrol;A Coru√±a
+113298;19;10;19;S;Orquesta;PALLADIUM;Goente, As Pontes;A Coru√±a
+113595;19;10;19;S;Orquesta;TREBOL;Goente, As Pontes;A Coru√±a
+113832;19;10;19;S;D√∫o;SON D¬¥CARACAS;La Colmena, Nar√≥n;A Coru√±a
+111037;19;10;19;S;Charanga;MEKANIKA;Lanz√≥s, Vilalba;Lugo
+113151;19;10;19;S;Orquesta;CINEMA;Lanz√≥s, Vilalba;Lugo
+113152;19;10;19;S;Orquesta;LA F√ìRMULA;Lanz√≥s, Vilalba;Lugo
+113637;19;10;19;S;Orquesta;NEW YORK;Lavacolla, Santiago de Compostela;A Coru√±a
+113785;19;10;19;S;Grupo;D¬¥MODA;Malvas, Tui;Pontevedra
+109227;19;10;19;S;Orquesta;CHARLESTON BIG-BAND;Mom√°n, Xermade;Lugo
+109228;19;10;19;S;Orquesta;FANIA BLANCO SHOW;Mom√°n, Xermade;Lugo
+113500;19;10;19;S;Grupo;CLAXXON;Mondo√±edo;Lugo
+113509;19;10;19;S;Grupo;ARAMIO;Mondo√±edo;Lugo
+112848;19;10;19;S;Grupo;LUME;Montoxo, Cedeira;A Coru√±a
+113565;19;10;19;S;Orquesta;PANORAMA;Moscoso, Pazos de Borb√©n;Pontevedra
+97485;19;10;19;S;Disco M√≥vil;MAYGON;Neda;A Coru√±a
+113379;19;10;19;S;Orquesta;PANAMA;Nespereira, Pazos de Borb√©n;Pontevedra
+113667;19;10;19;S;Orquesta;TELEVISI√ìN;Nespereira, Pazos de Borb√©n;Pontevedra
+113920;19;10;19;S;D√∫o;ECLIPSE;O Vicedo;Lugo
 113215;19;10;19;S;Grupo;NEBRASKA;Oia;Pontevedra
-113440;19;10;19;S;TrÌo;D¥LIDER;Oia, Vigo;Pontevedra
-113540;19;10;19;S;D˙o;CHARADA;Orro, Noia;A CoruÒa
+113440;19;10;19;S;Tr√≠o;D¬¥LIDER;Oia, Vigo;Pontevedra
+113540;19;10;19;S;D√∫o;CHARADA;Orro, Noia;A Coru√±a
 112685;19;10;19;S;Grupo;PUNTO CLAVE;Oural, Sarria;Lugo
 112836;19;10;19;S;Charanga;FESTICULTORES TROUPE;Pontecesures;Pontevedra
 113556;19;10;19;S;Orquesta;LA OCABAND;Reiriz, Tapia de Casariego;Asturias
 113615;19;10;19;S;Orquesta;COMPOSTELA;Roimil, Friol;Lugo
 113853;19;10;19;S;Orquesta;MIRAMAR;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
-113759;19;10;19;S;Grupo;F…NIX;S.F. Rosalar, Ribadeo;Lugo
-113492;19;10;19;S;TrÌo;LA NOCHE DO GROVE;S.F. Velvet, MonÁao;Portugal
+113759;19;10;19;S;Grupo;F√âNIX;S.F. Rosalar, Ribadeo;Lugo
+113492;19;10;19;S;Tr√≠o;LA NOCHE DO GROVE;S.F. Velvet, Mon√ßao;Portugal
 113464;19;10;19;S;Orquesta;TANGO;Saiar, Caldas de Reis;Pontevedra
 113465;19;10;19;S;Orquesta;KUBO;Saiar, Caldas de Reis;Pontevedra
 113466;19;10;19;S;Charanga;FURRUXA;Saiar, Caldas de Reis;Pontevedra
-111292;19;10;19;S;D˙o;ESTRELLAS;San Cibrao, GuntÌn;Lugo
+111292;19;10;19;S;D√∫o;ESTRELLAS;San Cibrao, Gunt√≠n;Lugo
 114012;19;10;19;S;Orquesta;CUARTA CALLE;Torregamones;Zamora
-113548;19;10;19;S;Orquesta;PONTEVEDRA;Vilame·n, TomiÒo;Pontevedra
-113603;19;10;19;S;Orquesta;TRIUNFO;Vilame·n, TomiÒo;Pontevedra
-113264;19;10;19;S;Solista;JUDITH CUNDÕNS;XaviÒa, Coristanco;A CoruÒa
-113397;19;10;19;S;Charanga;CLK;Xunqueira de AmbÌa;Ourense
-113945;19;10;19;S;TrÌo;KARMA;Zas;A CoruÒa
-113422;20;10;19;D;TrÌo;D¥NIKA MUSIC;Benade, Lugo;Lugo
-113775;20;10;19;D;D˙o;CHARADA;Cambados;Pontevedra
-113856;20;10;19;D;D˙o;URAK¡N;Carballo;A CoruÒa
-113735;20;10;19;D;D˙o;CAL⁄;Cullergondo, Abegondo;A CoruÒa
-113703;20;10;19;D;Orquesta;PRINCIPAL;Goente, As Pontes;A CoruÒa
-113247;20;10;19;D;Orquesta;LOS SAT…LITES;MondoÒedo;Lugo
-113554;20;10;19;D;Orquesta;LA OCABAND;MondoÒedo;Lugo
-112849;20;10;19;D;Grupo;LUME;Montoxo, Cedeira;A CoruÒa
+113548;19;10;19;S;Orquesta;PONTEVEDRA;Vilame√°n, Tomi√±o;Pontevedra
+113603;19;10;19;S;Orquesta;TRIUNFO;Vilame√°n, Tomi√±o;Pontevedra
+113264;19;10;19;S;Solista;JUDITH CUND√çNS;Xavi√±a, Coristanco;A Coru√±a
+113397;19;10;19;S;Charanga;CLK;Xunqueira de Amb√≠a;Ourense
+113945;19;10;19;S;Tr√≠o;KARMA;Zas;A Coru√±a
+113422;20;10;19;D;Tr√≠o;D¬¥NIKA MUSIC;Benade, Lugo;Lugo
+113775;20;10;19;D;D√∫o;CHARADA;Cambados;Pontevedra
+113856;20;10;19;D;D√∫o;URAK√ÅN;Carballo;A Coru√±a
+113735;20;10;19;D;D√∫o;CAL√ö;Cullergondo, Abegondo;A Coru√±a
+113703;20;10;19;D;Orquesta;PRINCIPAL;Goente, As Pontes;A Coru√±a
+113247;20;10;19;D;Orquesta;LOS SAT√âLITES;Mondo√±edo;Lugo
+113554;20;10;19;D;Orquesta;LA OCABAND;Mondo√±edo;Lugo
+112849;20;10;19;D;Grupo;LUME;Montoxo, Cedeira;A Coru√±a
 113445;20;10;19;D;Orquesta;NEVADA;Moreda, Monforte de Lemos;Lugo
-110991;20;10;19;D;TrÌo;KARMA;NeaÒo, Cabana de BergantiÒos;A CoruÒa
-113983;20;10;19;D;D˙o;EXPLOSI”N;Pontevedra;Pontevedra
-112532;20;10;19;D;Solista;ROCÕO P…REZ;Restaurante Pastoriza, Vimianzo;A CoruÒa
+110991;20;10;19;D;Tr√≠o;KARMA;Nea√±o, Cabana de Berganti√±os;A Coru√±a
+113983;20;10;19;D;D√∫o;EXPLOSI√ìN;Pontevedra;Pontevedra
+112532;20;10;19;D;Solista;ROC√çO P√âREZ;Restaurante Pastoriza, Vimianzo;A Coru√±a
 113596;20;10;19;D;Orquesta;TREBOL;Roimil, Friol;Lugo
-113585;20;10;19;D;Grupo;ARAMIO;S.F. Cham·n, Goi·n;Pontevedra
-113935;20;10;19;D;Orquesta;PALLADIUM;S.F. La Luna, CerponzÛns;Pontevedra
-113343;20;10;19;D;Orquesta;PONTEVEDRA;S.F. Paulino, O CarballiÒo;Ourense
-113752;20;10;19;D;Orquesta;CAPITOL;S.F. Velvet, MonÁao;Portugal
-113380;20;10;19;D;Orquesta;PANAMA;S.F. Zeus, Campolongo;A CoruÒa
-113999;20;10;19;D;D˙o;EXPLOSI”N;Vigo;Pontevedra
-113964;20;10;19;D;D˙o;ESTRELLAS;Vilar da Vara, O Incio;Lugo
+113585;20;10;19;D;Grupo;ARAMIO;S.F. Cham√°n, Goi√°n;Pontevedra
+113935;20;10;19;D;Orquesta;PALLADIUM;S.F. La Luna, Cerponz√≥ns;Pontevedra
+113343;20;10;19;D;Orquesta;PONTEVEDRA;S.F. Paulino, O Carballi√±o;Ourense
+113752;20;10;19;D;Orquesta;CAPITOL;S.F. Velvet, Mon√ßao;Portugal
+113380;20;10;19;D;Orquesta;PANAMA;S.F. Zeus, Campolongo;A Coru√±a
+113999;20;10;19;D;D√∫o;EXPLOSI√ìN;Vigo;Pontevedra
+113964;20;10;19;D;D√∫o;ESTRELLAS;Vilar da Vara, O Incio;Lugo
 113631;21;10;19;L;Grupo;TEKILA;Bimenes;Asturias
 113678;25;10;19;V;Orquesta;AZABACHE;Aguilafuente;Segovia
-113339;25;10;19;V;Orquesta;CINEMA;BaiÛn, Vilanova de Arousa;Pontevedra
-113605;25;10;19;V;Grupo;AM…RICA DE VIGO;BaiÛn, Vilanova de Arousa;Pontevedra
-114006;25;10;19;V;Grupo;ATR…VETE;Discoteca Zouk, Lugo;Lugo
+113339;25;10;19;V;Orquesta;CINEMA;Bai√≥n, Vilanova de Arousa;Pontevedra
+113605;25;10;19;V;Grupo;AM√âRICA DE VIGO;Bai√≥n, Vilanova de Arousa;Pontevedra
+114006;25;10;19;V;Grupo;ATR√âVETE;Discoteca Zouk, Lugo;Lugo
 113952;25;10;19;V;Grupo;BEATRIZ;La Espina, Salas;Asturias
-113881;25;10;19;V;Solista;BEGO—A GARCÕA;Laraxe, Cabanas;A CoruÒa
-113616;25;10;19;V;Orquesta;COMPOSTELA;Llodio;¡lava
-113566;25;10;19;V;Orquesta;PANORAMA;Moscoso, Pazos de BorbÈn;Pontevedra
-113673;25;10;19;V;D˙o;ESTRELLAS;Noche ocupada;A CoruÒa
-98353;25;10;19;V;Solista;XILO;Os ¡nxeles, BriÛn;A CoruÒa
-113934;25;10;19;V;Orquesta;FANIA BLANCO SHOW;PlatÛ 1000, Teo;A CoruÒa
-113293;25;10;19;V;Orquesta;PALLADIUM;Presedo, Abegondo;A CoruÒa
+113881;25;10;19;V;Solista;BEGO√ëA GARC√çA;Laraxe, Cabanas;A Coru√±a
+113616;25;10;19;V;Orquesta;COMPOSTELA;Llodio;√Ålava
+113566;25;10;19;V;Orquesta;PANORAMA;Moscoso, Pazos de Borb√©n;Pontevedra
+113673;25;10;19;V;D√∫o;ESTRELLAS;Noche ocupada;A Coru√±a
+98353;25;10;19;V;Solista;XILO;Os √Ånxeles, Bri√≥n;A Coru√±a
+113934;25;10;19;V;Orquesta;FANIA BLANCO SHOW;Plat√≥ 1000, Teo;A Coru√±a
+113293;25;10;19;V;Orquesta;PALLADIUM;Presedo, Abegondo;A Coru√±a
 113763;25;10;19;V;Grupo;LA BAMBA;Rua de San Roque, Ribadeo;Lugo
-113090;25;10;19;V;Grupo;LUME;San Claudio, Ortigueira;A CoruÒa
-113381;25;10;19;V;Orquesta;PANAMA;San Claudio, Ortigueira;A CoruÒa
-113600;25;10;19;V;Orquesta;ARMONÕA SHOW;San Mateo, Gran Canaria;Las Palmas
-113386;25;10;19;V;Orquesta;LA F”RMULA;San Salvador de Tebra, TomiÒo;Pontevedra
-113461;25;10;19;V;Orquesta;TANGO;San Salvador de Tebra, TomiÒo;Pontevedra
-113915;25;10;19;V;D˙o;EXPLOSI”N;torre vilariÒo;Lugo
-113609;26;10;19;S;Orquesta;G…NESIS;Aguilafuente;Segovia
-114065;26;10;19;S;D˙o;ARUME;AguiÛns, A Estrada;Pontevedra
-113382;26;10;19;S;Orquesta;PANAMA;Aldeola Restaurante, Malpica de BergantiÒos;A CoruÒa
-100156;26;10;19;S;Grupo;VAN BAND;Andabao, Boimorto;A CoruÒa
-113679;26;10;19;S;Orquesta;AZABACHE;Arabayona de MÛgica;Salamanca
-113668;26;10;19;S;Orquesta;TELEVISI”N;Arcilla, Cospeito;Lugo
+113090;25;10;19;V;Grupo;LUME;San Claudio, Ortigueira;A Coru√±a
+113381;25;10;19;V;Orquesta;PANAMA;San Claudio, Ortigueira;A Coru√±a
+113600;25;10;19;V;Orquesta;ARMON√çA SHOW;San Mateo, Gran Canaria;Las Palmas
+113386;25;10;19;V;Orquesta;LA F√ìRMULA;San Salvador de Tebra, Tomi√±o;Pontevedra
+113461;25;10;19;V;Orquesta;TANGO;San Salvador de Tebra, Tomi√±o;Pontevedra
+113915;25;10;19;V;D√∫o;EXPLOSI√ìN;torre vilari√±o;Lugo
+113609;26;10;19;S;Orquesta;G√âNESIS;Aguilafuente;Segovia
+114065;26;10;19;S;D√∫o;ARUME;Agui√≥ns, A Estrada;Pontevedra
+113382;26;10;19;S;Orquesta;PANAMA;Aldeola Restaurante, Malpica de Berganti√±os;A Coru√±a
+100156;26;10;19;S;Grupo;VAN BAND;Andabao, Boimorto;A Coru√±a
+113679;26;10;19;S;Orquesta;AZABACHE;Arabayona de M√≥gica;Salamanca
+113668;26;10;19;S;Orquesta;TELEVISI√ìN;Arcilla, Cospeito;Lugo
 113837;26;10;19;S;Grupo;LECER;Arcilla, Cospeito;Lugo
-113359;26;10;19;S;Orquesta;ISRAEL;B·rcena del Monasterio, Tineo;Asturias
-114009;26;10;19;S;Grupo;IDEAS;B·rcena del Monasterio, Tineo;Asturias
-113310;26;10;19;S;Orquesta;CINEMA;Botos, LalÌn;Pontevedra
-114082;26;10;19;S;Grupo;ALKAR;Botos, LalÌn;Pontevedra
-113430;26;10;19;S;D˙o;EXPLOSI”N;Breixa;Pontevedra
+113359;26;10;19;S;Orquesta;ISRAEL;B√°rcena del Monasterio, Tineo;Asturias
+114009;26;10;19;S;Grupo;IDEAS;B√°rcena del Monasterio, Tineo;Asturias
+113310;26;10;19;S;Orquesta;CINEMA;Botos, Lal√≠n;Pontevedra
+114082;26;10;19;S;Grupo;ALKAR;Botos, Lal√≠n;Pontevedra
+113430;26;10;19;S;D√∫o;EXPLOSI√ìN;Breixa;Pontevedra
 113344;26;10;19;S;Orquesta;PONTEVEDRA;Campelo, O Corgo;Lugo
 113632;26;10;19;S;Grupo;TEKILA;Carrandi, Colunga;Asturias
-113718;26;10;19;S;Orquesta;FINISTERRE;Discoteca Pazos, Laracha;A CoruÒa
-113643;26;10;19;S;Orquesta;OLYMPUS RED TOUR;Discoteca Rv Disc, Betanzos;A CoruÒa
-113690;26;10;19;S;D˙o;D¥ASES;Discoteca Zouk, Lugo;Lugo
-98354;26;10;19;S;Solista;XILO;Hotel NarÛn, NarÛn;A CoruÒa
+113718;26;10;19;S;Orquesta;FINISTERRE;Discoteca Pazos, Laracha;A Coru√±a
+113643;26;10;19;S;Orquesta;OLYMPUS RED TOUR;Discoteca Rv Disc, Betanzos;A Coru√±a
+113690;26;10;19;S;D√∫o;D¬¥ASES;Discoteca Zouk, Lugo;Lugo
+98354;26;10;19;S;Solista;XILO;Hotel Nar√≥n, Nar√≥n;A Coru√±a
 113034;26;10;19;S;Grupo;BOMBA;Juan Gopar, Tuineje;Las Palmas
-113617;26;10;19;S;Orquesta;COMPOSTELA;Llodio;¡lava
-113441;26;10;19;S;TrÌo;D¥LIDER;LONDRES;Pontevedra
-113711;26;10;19;S;Orquesta;RITMO JOVEN;Loxo, Touro;A CoruÒa
-113601;26;10;19;S;Orquesta;ARMONÕA SHOW;Moya;Las Palmas
-113046;26;10;19;S;Grupo;ACIREMA;O Pedrouzo, O Pino;A CoruÒa
-112948;26;10;19;S;Solista;ROCÕO P…REZ;O Tarambollo, Carballo;A CoruÒa
-113541;26;10;19;S;D˙o;CHARADA;Paiosaco, Laracha;A CoruÒa
-113948;26;10;19;S;Charanga;SANTA COMPA—A;Ponteceso;A CoruÒa
+113617;26;10;19;S;Orquesta;COMPOSTELA;Llodio;√Ålava
+113441;26;10;19;S;Tr√≠o;D¬¥LIDER;LONDRES;Pontevedra
+113711;26;10;19;S;Orquesta;RITMO JOVEN;Loxo, Touro;A Coru√±a
+113601;26;10;19;S;Orquesta;ARMON√çA SHOW;Moya;Las Palmas
+113046;26;10;19;S;Grupo;ACIREMA;O Pedrouzo, O Pino;A Coru√±a
+112948;26;10;19;S;Solista;ROC√çO P√âREZ;O Tarambollo, Carballo;A Coru√±a
+113541;26;10;19;S;D√∫o;CHARADA;Paiosaco, Laracha;A Coru√±a
+113948;26;10;19;S;Charanga;SANTA COMPA√ëA;Ponteceso;A Coru√±a
 114039;26;10;19;S;Solista;COMPOTA Y SU RICURA;Pub Glass, Sarria;Lugo
-104432;26;10;19;S;D˙o;CAL⁄;Restaurante La Torre, Tabeaio, Carral;A CoruÒa
+104432;26;10;19;S;D√∫o;CAL√ö;Restaurante La Torre, Tabeaio, Carral;A Coru√±a
 113692;26;10;19;S;Orquesta;LA FAVORITA;Rioaveso, Cospeito;Lugo
 113704;26;10;19;S;Orquesta;PRINCIPAL;Rioaveso, Cospeito;Lugo
-113369;26;10;19;S;Orquesta;FIN DE SIGLO;Rom·n, Vilalba;Lugo
-113760;26;10;19;S;Grupo;F…NIX;Romariz, AbadÌn;Lugo
-113650;26;10;19;S;Orquesta;ESSENCIA;R˙a, Cervo;Lugo
-113167;26;10;19;S;Grupo;NOCHE DE ESTRELLAS;S.F. Cham·n, Goi·n;Pontevedra
+113369;26;10;19;S;Orquesta;FIN DE SIGLO;Rom√°n, Vilalba;Lugo
+113760;26;10;19;S;Grupo;F√âNIX;Romariz, Abad√≠n;Lugo
+113650;26;10;19;S;Orquesta;ESSENCIA;R√∫a, Cervo;Lugo
+113167;26;10;19;S;Grupo;NOCHE DE ESTRELLAS;S.F. Cham√°n, Goi√°n;Pontevedra
 113232;26;10;19;S;Orquesta;GRAN PARADA;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
 113953;26;10;19;S;Grupo;BEATRIZ;S.F. Estilo, Oviedo;Asturias
-113299;26;10;19;S;Orquesta;PALLADIUM;S.F. Josfer, MesÛn do Vento;A CoruÒa
-112976;26;10;19;S;D˙o;D¥VICIO;S.F. La Cueva del Pirata, Sada;A CoruÒa
-113882;26;10;19;S;Solista;BEGO—A GARCÕA;S.F. La Cueva del Pirata, Sada;A CoruÒa
+113299;26;10;19;S;Orquesta;PALLADIUM;S.F. Josfer, Mes√≥n do Vento;A Coru√±a
+112976;26;10;19;S;D√∫o;D¬¥VICIO;S.F. La Cueva del Pirata, Sada;A Coru√±a
+113882;26;10;19;S;Solista;BEGO√ëA GARC√çA;S.F. La Cueva del Pirata, Sada;A Coru√±a
 113753;26;10;19;S;Orquesta;CAPITOL;S.F. Rosalar, Ribadeo;Lugo
-113533;26;10;19;S;Orquesta;TANGO;San Claudio, Ortigueira;A CoruÒa
-113764;26;10;19;S;Grupo;LA BAMBA;San Claudio, Ortigueira;A CoruÒa
-102745;26;10;19;S;Charanga;FESTICULTORES TROUPE;San Miguel de SarandÛn, Vedra;A CoruÒa
-113429;26;10;19;S;D˙o;EXPLOSI”N;San Miguel do Campo, Nogueira de RamuÌn;Ourense
-113248;26;10;19;S;Orquesta;LOS SAT…LITES;San SimÛn da Costa, Vilalba;Lugo
-113506;26;10;19;S;Orquesta;LOS TROVADORES;San SimÛn da Costa, Vilalba;Lugo
-114070;26;10;19;S;D˙o;ESTRELLAS;San SimÛn da Costa, Vilalba;Lugo
-113396;26;10;19;S;Orquesta;LA F”RMULA;San SimÛn, Vilanova de Arousa;Pontevedra
-113486;26;10;19;S;Orquesta;CHARLESTON BIG-BAND;San SimÛn, Vilanova de Arousa;Pontevedra
-113669;26;10;19;S;D˙o;ESTRELLAS;Santalla de Alfoz, Triacastela;Lugo
-113266;26;10;19;S;Solista;JUDITH CUNDÕNS;Sig¸eiro, Oroso;A CoruÒa
-114066;26;10;19;S;Grupo;TATTOO;VilarrubÌn, A Peroxa;Ourense
+113533;26;10;19;S;Orquesta;TANGO;San Claudio, Ortigueira;A Coru√±a
+113764;26;10;19;S;Grupo;LA BAMBA;San Claudio, Ortigueira;A Coru√±a
+102745;26;10;19;S;Charanga;FESTICULTORES TROUPE;San Miguel de Sarand√≥n, Vedra;A Coru√±a
+113429;26;10;19;S;D√∫o;EXPLOSI√ìN;San Miguel do Campo, Nogueira de Ramu√≠n;Ourense
+113248;26;10;19;S;Orquesta;LOS SAT√âLITES;San Sim√≥n da Costa, Vilalba;Lugo
+113506;26;10;19;S;Orquesta;LOS TROVADORES;San Sim√≥n da Costa, Vilalba;Lugo
+114070;26;10;19;S;D√∫o;ESTRELLAS;San Sim√≥n da Costa, Vilalba;Lugo
+113396;26;10;19;S;Orquesta;LA F√ìRMULA;San Sim√≥n, Vilanova de Arousa;Pontevedra
+113486;26;10;19;S;Orquesta;CHARLESTON BIG-BAND;San Sim√≥n, Vilanova de Arousa;Pontevedra
+113669;26;10;19;S;D√∫o;ESTRELLAS;Santalla de Alfoz, Triacastela;Lugo
+113266;26;10;19;S;Solista;JUDITH CUND√çNS;Sig√ºeiro, Oroso;A Coru√±a
+114066;26;10;19;S;Grupo;TATTOO;Vilarrub√≠n, A Peroxa;Ourense
 113567;26;10;19;S;Orquesta;PANORAMA;Villamuriel de Cerrato;Palencia
 113800;26;10;19;S;Grupo;ARIZONA;Viveiro;Lugo
-113883;27;10;19;D;Solista;BEGO—A GARCÕA;A G·ndara, NarÛn;A CoruÒa
+113883;27;10;19;D;Solista;BEGO√ëA GARC√çA;A G√°ndara, Nar√≥n;A Coru√±a
 113446;27;10;19;D;Orquesta;NEVADA;Alto de San Cosme, Mos;Pontevedra
-113642;27;10;19;D;Orquesta;KRONOS;Arabayona de MÛgica;Salamanca
+113642;27;10;19;D;Orquesta;KRONOS;Arabayona de M√≥gica;Salamanca
 113838;27;10;19;D;Grupo;LECER;Arcilla, Cospeito;Lugo
 113854;27;10;19;D;Orquesta;MIRAMAR;Areas, Tui;Pontevedra
-113537;27;10;19;D;Orquesta;TANGO;BaiÛn, Vilanova de Arousa;Pontevedra
-113542;27;10;19;D;D˙o;CHARADA;Centro Social de Escarabote, Boiro;A CoruÒa
-113685;27;10;19;D;Orquesta;LOS SAT…LITES;Discoteca Rv Disc, Betanzos;A CoruÒa
-113063;27;10;19;D;D˙o;ESTRELLAS;Finca Galea, Alfoz;Lugo
-113696;27;10;19;D;D˙o;ECLIPSE;Loboso, Pastoriza;Lugo
-113442;27;10;19;D;TrÌo;D¥LIDER;LONDRES;Pontevedra
-113267;27;10;19;D;Solista;JUDITH CUNDÕNS;NeaÒo, Cabana de BergantiÒos;A CoruÒa
-113761;27;10;19;D;Grupo;F…NIX;Rioaveso, Cospeito;Lugo
-113168;27;10;19;D;Grupo;NOCHE DE ESTRELLAS;S.F. Cham·n, Goi·n;Pontevedra
+113537;27;10;19;D;Orquesta;TANGO;Bai√≥n, Vilanova de Arousa;Pontevedra
+113542;27;10;19;D;D√∫o;CHARADA;Centro Social de Escarabote, Boiro;A Coru√±a
+113685;27;10;19;D;Orquesta;LOS SAT√âLITES;Discoteca Rv Disc, Betanzos;A Coru√±a
+113063;27;10;19;D;D√∫o;ESTRELLAS;Finca Galea, Alfoz;Lugo
+113696;27;10;19;D;D√∫o;ECLIPSE;Loboso, Pastoriza;Lugo
+113442;27;10;19;D;Tr√≠o;D¬¥LIDER;LONDRES;Pontevedra
+113267;27;10;19;D;Solista;JUDITH CUND√çNS;Nea√±o, Cabana de Berganti√±os;A Coru√±a
+113761;27;10;19;D;Grupo;F√âNIX;Rioaveso, Cospeito;Lugo
+113168;27;10;19;D;Grupo;NOCHE DE ESTRELLAS;S.F. Cham√°n, Goi√°n;Pontevedra
 113954;27;10;19;D;Grupo;BEATRIZ;S.F. Estilo, Oviedo;Asturias
-114038;27;10;19;D;Orquesta;LOS TROVADORES;S.F. La Luna, CerponzÛns;Pontevedra
+114038;27;10;19;D;Orquesta;LOS TROVADORES;S.F. La Luna, Cerponz√≥ns;Pontevedra
 113590;27;10;19;D;Orquesta;FINISTERRE;S.F. Morango K.N, Lugo;Lugo
-113754;27;10;19;D;Orquesta;CAPITOL;S.F. Paulino, O CarballiÒo;Ourense
-113842;27;10;19;D;Orquesta;TELEVISI”N;S.F. Velvet, MonÁao;Portugal
-113435;27;10;19;D;Orquesta;FANIA BLANCO SHOW;S.F. Zeus, Campolongo;A CoruÒa
-113765;27;10;19;D;Grupo;LA BAMBA;San Claudio, Ortigueira;A CoruÒa
-113322;27;10;19;D;Orquesta;PRINCIPAL;San SimÛn da Costa, Vilalba;Lugo
-113651;27;10;19;D;Orquesta;ESSENCIA;San SimÛn, Vilanova de Arousa;Pontevedra
-113188;28;10;19;L;D˙o;LA HORA BRUJA;Las MÈdulas, Carucedo;LeÛn
-113443;28;10;19;L;TrÌo;D¥LIDER;LONDRES;Pontevedra
-113972;29;10;19;M;D˙o;D¥VICIO;Centro CÌvico de LabaÒou;A CoruÒa
-113591;29;10;19;M;Orquesta;FINISTERRE;PlatÛ 1000, Teo;A CoruÒa
-113790;31;10;19;J;Solista;ROCÕO P…REZ;A Laracha;A CoruÒa
-114026;31;10;19;J;D˙o;D¥VICIO;Abegondo;A CoruÒa
-114083;31;10;19;J;D˙o;CAL⁄;Castro de Rei de Lemos, Paradela;Lugo
-113693;31;10;19;J;Orquesta;LA FAVORITA;Discoteca Rv Disc, Betanzos;A CoruÒa
-114014;31;10;19;J;D˙o;URAK¡N;Discoteca Zouk, Lugo;Lugo
-114243;31;10;19;J;Grupo;ASSIA;GijÛn;Asturias
-113618;31;10;19;J;Orquesta;COMPOSTELA;La Colmena, NarÛn;A CoruÒa
-113436;31;10;19;J;Orquesta;FANIA BLANCO SHOW;LedoÒo, Culleredo;A CoruÒa
-114030;31;10;19;J;D˙o;ECLIPSE;Marcelle, Monforte de Lemos;Lugo
-98356;31;10;19;J;Solista;XILO;Os Condes, Bergondo;A CoruÒa
-113412;31;10;19;J;Orquesta;MARBELLA;Oza dos Rios;A CoruÒa
+113754;27;10;19;D;Orquesta;CAPITOL;S.F. Paulino, O Carballi√±o;Ourense
+113842;27;10;19;D;Orquesta;TELEVISI√ìN;S.F. Velvet, Mon√ßao;Portugal
+113435;27;10;19;D;Orquesta;FANIA BLANCO SHOW;S.F. Zeus, Campolongo;A Coru√±a
+113765;27;10;19;D;Grupo;LA BAMBA;San Claudio, Ortigueira;A Coru√±a
+113322;27;10;19;D;Orquesta;PRINCIPAL;San Sim√≥n da Costa, Vilalba;Lugo
+113651;27;10;19;D;Orquesta;ESSENCIA;San Sim√≥n, Vilanova de Arousa;Pontevedra
+113188;28;10;19;L;D√∫o;LA HORA BRUJA;Las M√©dulas, Carucedo;Le√≥n
+113443;28;10;19;L;Tr√≠o;D¬¥LIDER;LONDRES;Pontevedra
+113972;29;10;19;M;D√∫o;D¬¥VICIO;Centro C√≠vico de Laba√±ou;A Coru√±a
+113591;29;10;19;M;Orquesta;FINISTERRE;Plat√≥ 1000, Teo;A Coru√±a
+113790;31;10;19;J;Solista;ROC√çO P√âREZ;A Laracha;A Coru√±a
+114026;31;10;19;J;D√∫o;D¬¥VICIO;Abegondo;A Coru√±a
+114083;31;10;19;J;D√∫o;CAL√ö;Castro de Rei de Lemos, Paradela;Lugo
+113693;31;10;19;J;Orquesta;LA FAVORITA;Discoteca Rv Disc, Betanzos;A Coru√±a
+114014;31;10;19;J;D√∫o;URAK√ÅN;Discoteca Zouk, Lugo;Lugo
+114243;31;10;19;J;Grupo;ASSIA;Gij√≥n;Asturias
+113618;31;10;19;J;Orquesta;COMPOSTELA;La Colmena, Nar√≥n;A Coru√±a
+113436;31;10;19;J;Orquesta;FANIA BLANCO SHOW;Ledo√±o, Culleredo;A Coru√±a
+114030;31;10;19;J;D√∫o;ECLIPSE;Marcelle, Monforte de Lemos;Lugo
+98356;31;10;19;J;Solista;XILO;Os Condes, Bergondo;A Coru√±a
+113412;31;10;19;J;Orquesta;MARBELLA;Oza dos Rios;A Coru√±a
 112686;31;10;19;J;Grupo;PUNTO CLAVE;Poligono Industrial, O Corgo;Lugo
 113855;31;10;19;J;Orquesta;MIRAMAR;Poligono Industrial, O Corgo;Lugo
-114003;31;10;19;J;D˙o;ESTRELLAS;Ponte de Outeiro, Castro de Rei;Lugo
-113968;31;10;19;J;Orquesta;ISRAEL;Rendal, Arz˙a;A CoruÒa
-113249;31;10;19;J;Orquesta;LOS SAT…LITES;Restaurante El Pantano, Abegondo;A CoruÒa
+114003;31;10;19;J;D√∫o;ESTRELLAS;Ponte de Outeiro, Castro de Rei;Lugo
+113968;31;10;19;J;Orquesta;ISRAEL;Rendal, Arz√∫a;A Coru√±a
+113249;31;10;19;J;Orquesta;LOS SAT√âLITES;Restaurante El Pantano, Abegondo;A Coru√±a
 113568;31;10;19;J;Orquesta;PANORAMA;S.F. Estilo, Oviedo;Asturias
 114023;31;10;19;J;Grupo;TEKILA;S.F. Estilo, Oviedo;Asturias
-113747;31;10;19;J;Orquesta;LA F”RMULA;S.F. La Reina, SanguiÒeda;Pontevedra
-113419;31;10;19;J;Orquesta;OLYMPUS RED TOUR;S.F. Universo, Santa Comba;A CoruÒa
-113863;31;10;19;J;Grupo;AM…RICA DE VIGO;S.F. Velvet, MonÁao;Portugal
+113747;31;10;19;J;Orquesta;LA F√ìRMULA;S.F. La Reina, Sangui√±eda;Pontevedra
+113419;31;10;19;J;Orquesta;OLYMPUS RED TOUR;S.F. Universo, Santa Comba;A Coru√±a
+113863;31;10;19;J;Grupo;AM√âRICA DE VIGO;S.F. Velvet, Mon√ßao;Portugal
 113996;31;10;19;J;Orquesta;CAPITOL;San Clodio, Ribas de Sil;Lugo

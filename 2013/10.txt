@@ -1,0 +1,489 @@
+17816;1;10;13;M;Charanga;BB+;Lousame;A Coruña
+17774;1;10;13;M;Orquesta;CINEMA;Tállara, Lousame;A Coruña
+17775;1;10;13;M;Orquesta;MARBELLA;Tállara, Lousame;A Coruña
+18115;2;10;13;X;Grupo;ASSIA;Rúa A Coruña, Ferrol;A Coruña
+17776;2;10;13;X;Orquesta;CHARLESTON BIG-BAND;Tállara, Lousame;A Coruña
+18343;3;10;13;J;Dúo;KARAMBA;A Coruña;A Coruña
+17278;3;10;13;J;Orquesta;LOS SATÉLITES;Lañas, A Baña;A Coruña
+17778;3;10;13;J;Orquesta;GRAN PARADA;Tállara, Lousame;A Coruña
+17781;4;10;13;V;Orquesta;GALILEA;A Faeira, As Pontes de García Rodríguez;A Coruña
+17782;4;10;13;V;Grupo;CLAXXON;A Faeira, As Pontes de García Rodríguez;A Coruña
+18240;4;10;13;V;Orquesta;TELEVISIÓN;A Notaria, Padrenda;Ourense
+18326;4;10;13;V;Disco Móvil;BLANCO Y NEGRO;A Pontenova;Lugo
+17945;4;10;13;V;Grupo;AMÉRICA DE VIGO;A Torre, Vilagarcía de Arousa;Pontevedra
+18225;4;10;13;V;Orquesta;CAPITOL;A Torre, Vilagarcía de Arousa;Pontevedra
+18179;4;10;13;V;Grupo;CICLÓN;Amoexa, Antas de Ulla;Lugo
+18202;4;10;13;V;Orquesta;CINEMA;Anxeriz, Tordoia;A Coruña
+18203;4;10;13;V;Grupo;TEKILA;Anxeriz, Tordoia;A Coruña
+18398;4;10;13;V;Orquesta;TANGO;As Cortellas, Ponteareas;Pontevedra
+18093;4;10;13;V;Orquesta;PARIS DE NOIA;Barro;Pontevedra
+18094;4;10;13;V;Grupo;ALKAR;Barro;Pontevedra
+9293;4;10;13;V;Orquesta;CHARLESTON BIG-BAND;Cabañaquinta, Aller;Asturias
+9294;4;10;13;V;Orquesta;PALLADIUM;Cabañaquinta, Aller;Asturias
+18003;4;10;13;V;Dúo;ECLIPSE;Cereixa, A Pobra do Brollón;Lugo
+13480;4;10;13;V;Orquesta;OLYMPUS RED TOUR;Cerqueda, Malpica de Bergantiños;A Coruña
+18297;4;10;13;V;Orquesta;FANIA BLANCO SHOW;Coaña;Asturias
+18153;4;10;13;V;Orquesta;ABANICO;Corneira, A Baña;A Coruña
+18199;4;10;13;V;Grupo;LA SEÑAL;Fuentespreadas;Zamora
+18253;4;10;13;V;Orquesta;VERSIÓN ORIGINAL;Huerres, Colunga;Asturias
+18293;4;10;13;V;Grupo;ASSIA;Huerres, Colunga;Asturias
+18473;4;10;13;V;Orquesta;CUARTA CALLE;Infiesto, Piloña;Asturias
+18568;4;10;13;V;Grupo;IDEAS;La Pereda, Tineo;Asturias
+17593;4;10;13;V;Dúo;CALÚ;Loiba, Ortigueira;A Coruña
+17985;4;10;13;V;Dúo;KARAMBA;Loiba, Ortigueira;A Coruña
+17953;4;10;13;V;Solista;TANIA Y SU ACORDEÓN;Lourenzá;Lugo
+18454;4;10;13;V;Grupo;GARIBALDI;Matanza de los Oteros;León
+18266;4;10;13;V;Grupo;ARAMIO;O Inferniño, Ferrol;A Coruña
+17608;4;10;13;V;Charanga;O´SANTIAGUIÑO;Padrón;A Coruña
+17767;4;10;13;V;Orquesta;ANACONDA;Praza Maior, Lugo;Lugo
+17872;4;10;13;V;Orquesta;MARBELLA;Senra, Oroso;A Coruña
+18013;4;10;13;V;Orquesta;PANORAMA;Senra, Oroso;A Coruña
+18414;4;10;13;V;Orquesta;LOS TROVADORES;Sergude, Boqueixón;A Coruña
+17779;4;10;13;V;Orquesta;PRINCIPAL;Tállara, Lousame;A Coruña
+17780;4;10;13;V;Orquesta;TREBOL;Tállara, Lousame;A Coruña
+17901;4;10;13;V;Orquesta;PANAMA;Torres, Vilarmaior;A Coruña
+18290;4;10;13;V;Orquesta;NEVADA;Torroña, Oia;Pontevedra
+18390;4;10;13;V;Orquesta;NUEVA BANDA;Valderrodrigo;Salamanca
+18043;5;10;13;S;Orquesta;COSTA DORADA;A Balsa, Muras;Lugo
+18048;5;10;13;S;Orquesta;ESCAPARATE;A Balsa, Muras;Lugo
+17823;5;10;13;S;Dúo;MERENGUE;A Castiñeira, Pastoriza;Lugo
+17783;5;10;13;S;Orquesta;FANIA BLANCO SHOW;A Faeira, As Pontes de García Rodríguez;A Coruña
+17784;5;10;13;S;Orquesta;TELEVISIÓN;A Faeira, As Pontes de García Rodríguez;A Coruña
+18372;5;10;13;S;Orquesta;PALLADIUM;A Graña de Vilarente, Abadín;Lugo
+18336;5;10;13;S;Orquesta;CHARLESTON BIG-BAND;A Notaria, Padrenda;Ourense
+17947;5;10;13;S;Grupo;ASSIA;A Torre, Vilagarcía de Arousa;Pontevedra
+18200;5;10;13;S;Grupo;LA SEÑAL;Alfaraz de Sayago;Zamora
+18330;5;10;13;S;Orquesta;TRIUNFO;Arou, Camariñas;A Coruña
+18479;5;10;13;S;Grupo;CANELA;As Cortellas, Ponteareas;Pontevedra
+18046;5;10;13;S;Orquesta;EMPERADORES;Balmonte, Castropol;Asturias
+17979;5;10;13;S;Orquesta;PONTEVEDRA;Barro;Pontevedra
+17987;5;10;13;S;Orquesta;CINEMA;Barro;Pontevedra
+17343;5;10;13;S;Solista;TANIA Y SU ACORDEÓN;Bergame de Arriba, Cangas del Narcea;Asturias
+18167;5;10;13;S;Orquesta;VENEZIA;Boado, Mesía;A Coruña
+18168;5;10;13;S;Grupo;ALKAR;Boado, Mesía;A Coruña
+9295;5;10;13;S;Orquesta;PANORAMA;Cabañaquinta, Aller;Asturias
+9296;5;10;13;S;Grupo;TEKILA;Cabañaquinta, Aller;Asturias
+18216;5;10;13;S;Orquesta;PARAISO;Calvos, Bande;Ourense
+17480;5;10;13;S;Dúo;CALÚ;Carballo, Carballo;A Coruña
+18180;5;10;13;S;Grupo;CICLÓN;Carbia, Vila de Cruces;Pontevedra
+18399;5;10;13;S;Orquesta;ISRAEL;Carboentes, Rodeiro;Pontevedra
+17929;5;10;13;S;Trío;ALBA;Carcacía, Padrón;A Coruña
+18356;5;10;13;S;Charanga;BCB;Carracedo, Celanova;Ourense
+17660;5;10;13;S;Orquesta;MIRAMAR;Castro de Rei de Lemos, Paradela;Lugo
+18391;5;10;13;S;Orquesta;NUEVA BANDA;Cayuela;Burgos
+18388;5;10;13;S;Orquesta;MARAZUL;Cereo, Coristanco;A Coruña
+16897;5;10;13;S;Grupo;AMÉRICA DE VIGO;Cerqueda, Malpica de Bergantiños;A Coruña
+6726;5;10;13;S;Disco Móvil;BLANCO Y NEGRO;Coaña;Asturias
+18181;5;10;13;S;Orquesta;OLYMPUS RED TOUR;Corneira, A Baña;A Coruña
+17616;5;10;13;S;Orquesta;MARBELLA;Crecente;Pontevedra
+18466;5;10;13;S;Grupo;ACIREMA;Dormeá, Boimorto;A Coruña
+18381;5;10;13;S;Orquesta;LOS PLAYERS;Dorrón, Sanxenxo;Pontevedra
+18140;5;10;13;S;Grupo;LIMÓN;Dúas Igrexas, Forcarei;Pontevedra
+18000;5;10;13;S;Orquesta;FOLIADA D´ASES;Fión, O Saviñao;Lugo
+18136;5;10;13;S;Grupo;NEBRASKA;Foxás, Touro;A Coruña
+18357;5;10;13;S;Dúo;KARAMBA;Gundriz, Samos;Lugo
+18455;5;10;13;S;Grupo;GARIBALDI;La Devesa de Boñar, Boñar;León
+18064;5;10;13;S;Orquesta;PRINCIPAL;Lamela, Silleda;Pontevedra
+17840;5;10;13;S;Grupo;FUSIÓN;Loiba, Ortigueira;A Coruña
+18430;5;10;13;S;Orquesta;NEVADA;Losacino;Zamora
+17998;5;10;13;S;Charanga;MEKANIKA;Lugo;Lugo
+18254;5;10;13;S;Orquesta;VERSIÓN ORIGINAL;Merodio, Peñamellera Baja;Asturias
+18313;5;10;13;S;Orquesta;TRISQUEL;Merodio, Peñamellera Baja;Asturias
+18108;5;10;13;S;Dúo;ESTRELLAS;Mesón Aniceto, Lugo;Lugo
+18191;5;10;13;S;Grupo;CLAXXON;O Az, Rodeiro;Pontevedra
+18633;5;10;13;S;Orquesta;COSTA BLANCA;O Porriño;Pontevedra
+18634;5;10;13;S;Orquesta;SAUDADE;O Porriño;Pontevedra
+18201;5;10;13;S;Solista;PILI PAMPÍN;Padrón;A Coruña
+18393;5;10;13;S;Orquesta;CENIZA;Padrón;A Coruña
+18465;5;10;13;S;Orquesta;ESTRELLAMAR;Pareizo, Lalín;Pontevedra
+18171;5;10;13;S;Orquesta;XACOBEO;Pazos, Ponte Caldelas;Pontevedra
+18276;5;10;13;S;Orquesta;LOS SATÉLITES;Plaça de Nou Barris, Barcelona;Barcelona
+18569;5;10;13;S;Grupo;IDEAS;Pravia;Asturias
+18474;5;10;13;S;Orquesta;CUARTA CALLE;Praza Maior, Lugo;Lugo
+18475;5;10;13;S;Grupo;CAÑÓN;Praza Maior, Lugo;Lugo
+18444;5;10;13;S;Grupo;D´MODA;Rendal, Arzúa;A Coruña
+18481;5;10;13;S;Orquesta;LOS ESPAÑOLES;Rendal, Arzúa;A Coruña
+18285;5;10;13;S;Grupo;AMERICA SL;Restaurante Louzao, Viveiro;Lugo
+18248;5;10;13;S;Trío;AZAR;Restaurante Moises, Valadares, Vigo;Pontevedra
+18415;5;10;13;S;Orquesta;LOS TROVADORES;San Cosme de Outeiro, Outes;A Coruña
+18307;5;10;13;S;Orquesta;RITMO JOVEN;San Román de Montoxo, Cedeira;A Coruña
+18147;5;10;13;S;Orquesta;ABANICO;San Verísimo de Ferreiros, O Pino;A Coruña
+18095;5;10;13;S;Orquesta;PARIS DE NOIA;Senra, Oroso;A Coruña
+18096;5;10;13;S;Grupo;SAMBA;Senra, Oroso;A Coruña
+18035;5;10;13;S;Trío;AREAL;Soandres, A Laracha;A Coruña
+17899;5;10;13;S;Orquesta;FIN DE SIGLO;Torres, Vilarmaior;A Coruña
+18270;5;10;13;S;Grupo;ARAMIO;Torroña, Oia;Pontevedra
+18467;5;10;13;S;Orquesta;METRÓPOLIS;Trasanquelos, Cesuras;A Coruña
+17906;5;10;13;S;Orquesta;GRAN PARADA;Vilameán, Tomiño;Pontevedra
+17909;5;10;13;S;Orquesta;PANAMA;Vilameán, Tomiño;Pontevedra
+18204;5;10;13;S;Orquesta;GALILEA;Vilariño, Poio;Pontevedra
+17944;5;10;13;S;Orquesta;CAPITOL;Vilarrubín, A Peroxa;Ourense
+18263;5;10;13;S;Orquesta;SOLARA;Xove;Lugo
+17785;6;10;13;D;Grupo;FUSIÓN;A Faeira, As Pontes de García Rodríguez;A Coruña
+18044;6;10;13;D;Orquesta;COSTA DORADA;A Pontenova;Lugo
+18090;6;10;13;D;Orquesta;SOLARA;A Pontenova;Lugo
+17948;6;10;13;D;Orquesta;ABANICO;A Torre, Vilagarcía de Arousa;Pontevedra
+17949;6;10;13;D;Orquesta;OLYMPUS RED TOUR;A Torre, Vilagarcía de Arousa;Pontevedra
+18435;6;10;13;D;Trío;AZAR;Antas, A Lama;Pontevedra
+18468;6;10;13;D;Orquesta;METRÓPOLIS;Anxeriz, Tordoia;A Coruña
+18226;6;10;13;D;Grupo;TEKILA;Belén, Valdés;Asturias
+18567;6;10;13;D;Grupo;IDEAS;Belén, Valdés;Asturias
+18169;6;10;13;D;Orquesta;CINEMA;Boado, Mesía;A Coruña
+18476;6;10;13;D;Orquesta;CUARTA CALLE;Cantabria;Cantabria
+18400;6;10;13;D;Orquesta;LOS ESPAÑOLES;Carboentes, Rodeiro;Pontevedra
+18401;6;10;13;D;Grupo;NEBRASKA;Carboentes, Rodeiro;Pontevedra
+18299;6;10;13;D;Orquesta;FANIA BLANCO SHOW;Casateita, Muras;Lugo
+17670;6;10;13;D;Orquesta;GRAN PARADA;Castro de Rei de Lemos, Paradela;Lugo
+16898;6;10;13;D;Dúo;CALÚ;Cerqueda, Malpica de Bergantiños;A Coruña
+18205;6;10;13;D;Orquesta;GALILEA;Fión, O Saviñao;Lugo
+18308;6;10;13;D;Orquesta;RITMO JOVEN;Lores, Meaño;Pontevedra
+18416;6;10;13;D;Orquesta;LOS TROVADORES;Lores, Meaño;Pontevedra
+18469;6;10;13;D;Grupo;ACIREMA;O Grove;Pontevedra
+18172;6;10;13;D;Orquesta;XACOBEO;O Inferniño, Ferrol;A Coruña
+17609;6;10;13;D;Charanga;O´SANTIAGUIÑO;Padrón;A Coruña
+18118;6;10;13;D;Orquesta;PONTEVEDRA;Pareizo, Lalín;Pontevedra
+18124;6;10;13;D;Grupo;CICLÓN;Pareizo, Lalín;Pontevedra
+18277;6;10;13;D;Orquesta;LOS SATÉLITES;Plaça de Nou Barris, Barcelona;Barcelona
+17576;6;10;13;D;Dúo;LA HORA BRUJA;Rendal, Arzúa;A Coruña
+18337;6;10;13;D;Orquesta;CHARLESTON BIG-BAND;S.F. Nova Exágono, Lugo;Lugo
+18389;6;10;13;D;Orquesta;MARAZUL;S.F. Paulino, O Carballiño;Ourense
+18092;6;10;13;D;Orquesta;TELEVISIÓN;S.F. Zeus, Campolongo;A Coruña
+17863;6;10;13;D;Orquesta;MARBELLA;San Andrés de Xeve;Pontevedra
+18382;6;10;13;D;Orquesta;LOS PLAYERS;Sobrada, Tomiño;Pontevedra
+18445;6;10;13;D;Grupo;D´MODA;Sobrada, Tomiño;Pontevedra
+18070;6;10;13;D;Orquesta;PRINCIPAL;Toirán, Láncara;Lugo
+17902;6;10;13;D;Dúo;KARAMBA;Torres, Vilarmaior;A Coruña
+17967;6;10;13;D;Orquesta;CAPITOL;Torroso, Mos;Pontevedra
+18097;6;10;13;D;Orquesta;PARIS DE NOIA;Vilameán, Tomiño;Pontevedra
+18312;6;10;13;D;Orquesta;NEVADA;Vilarrubín, A Peroxa;Ourense
+18014;6;10;13;D;Orquesta;PANORAMA;Vilaxoan, Vilagarcía de Arousa;Pontevedra
+18091;7;10;13;L;Orquesta;COMPOSTELA;A Pontenova;Lugo
+17671;7;10;13;L;Orquesta;FANIA BLANCO SHOW;Castro de Rei de Lemos, Paradela;Lugo
+17672;7;10;13;L;Orquesta;PANORAMA;Castro de Rei de Lemos, Paradela;Lugo
+18241;7;10;13;L;Orquesta;TELEVISIÓN;Comboa, Soutomaior;Pontevedra
+18417;7;10;13;L;Orquesta;LOS TROVADORES;O Sisto, Dozón;Pontevedra
+18099;7;10;13;L;Orquesta;PARIS DE NOIA;Oza dos Rios, Oza dos Rios;A Coruña
+17768;7;10;13;L;Orquesta;EMPERADORES;Plaza Fontiñas, Lugo;Lugo
+18012;7;10;13;L;Orquesta;VERSIÓN ORIGINAL;Riosa;Asturias
+18045;7;10;13;L;Orquesta;COSTA DORADA;Vilarrubín, A Peroxa;Ourense
+17864;7;10;13;L;Orquesta;MARBELLA;Vilaxoan, Vilagarcía de Arousa;Pontevedra
+18235;7;10;13;L;Orquesta;GRAN PARADA;Vilaxoan, Vilagarcía de Arousa;Pontevedra
+17746;8;10;13;M;Orquesta;ACORDES;Praza Maior, Lugo;Lugo
+18490;10;10;13;J;Orquesta;NUEVA BANDA;Crespos;Ávila
+18132;10;10;13;J;Trío;AZAR;S.F. Olimpo, Vigo;Pontevedra
+9557;11;10;13;V;Grupo;BUMERANG;A Barqueira, Cerdido;A Coruña
+18192;11;10;13;V;Grupo;CLAXXON;A Espiñeira, Foz;Lugo
+18119;11;10;13;V;Orquesta;PONTEVEDRA;Agrón, Ames;A Coruña
+18532;11;10;13;V;Orquesta;VENEZIA;Barrio del Ventorrillo, A Coruña;A Coruña
+18016;11;10;13;V;Orquesta;PANORAMA;Barro;Pontevedra
+18344;11;10;13;V;Orquesta;PRINCIPAL;Beluso, Bueu;Pontevedra
+18214;11;10;13;V;Solista;TANIA Y SU ACORDEÓN;Cangas del Narcea;Asturias
+18065;11;10;13;V;Grupo;AMÉRICA DE VIGO;Carballo, Carballo;A Coruña
+18047;11;10;13;V;Orquesta;EMPERADORES;Cascantes de Alba, Cuadros;León
+18535;11;10;13;V;Grupo;IDEAS;Castro de Ayones, Valdés;Asturias
+18278;11;10;13;V;Orquesta;LOS SATÉLITES;Cesuras;A Coruña
+18086;11;10;13;V;Orquesta;TELEVISIÓN;Chapela, Redondela;Pontevedra
+18227;11;10;13;V;Grupo;TEKILA;Coañana, Quirós;Asturias
+18491;11;10;13;V;Orquesta;NUEVA BANDA;Infiesto, Piloña;Asturias
+18271;11;10;13;V;Grupo;ARAMIO;La Caridad, El Franco;Asturias
+18477;11;10;13;V;Orquesta;CUARTA CALLE;La Monxina, Oviedo;Asturias
+16206;11;10;13;V;Charanga;DGT;Lugo;Lugo
+17882;11;10;13;V;Dúo;LA HORA BRUJA;Ortigueira;A Coruña
+18141;11;10;13;V;Grupo;LIMÓN;Paradela, Curtis;A Coruña
+18459;11;10;13;V;Orquesta;PANAMA;Paradela, Curtis;A Coruña
+18500;11;10;13;V;Grupo;D´MODA;Piloño, Vila de Cruces;Pontevedra
+17950;11;10;13;V;Orquesta;FOLIADA D´ASES;Plaza de la Pontona, Laviana;Asturias
+18509;11;10;13;V;Orquesta;WAYKAS FAMILY;Pola de Lena, Lena;Asturias
+17749;11;10;13;V;Orquesta;OLYMPUS RED TOUR;Praza de Augas Férreas, Lugo;Lugo
+17748;11;10;13;V;Orquesta;ABANICO;Praza Maior, Lugo;Lugo
+18453;11;10;13;V;Solista;PILI PAMPÍN;Programa Luar, TVG;A Coruña
+18073;11;10;13;V;Orquesta;CINEMA;Queixeiro, Monfero;A Coruña
+17961;11;10;13;V;Charanga;TNT;Ribeira, A Estrada;Pontevedra
+18129;11;10;13;V;Orquesta;COSTA BLANCA;S.F. Olimpo, Vigo;Pontevedra
+17865;11;10;13;V;Orquesta;MARBELLA;Sabaris, Baiona;Pontevedra
+18300;11;10;13;V;Orquesta;FANIA BLANCO SHOW;Sabaris, Baiona;Pontevedra
+18331;11;10;13;V;Orquesta;TRIUNFO;San Adrián de Calvos, Fornelos de Montes;Pontevedra
+18338;11;10;13;V;Orquesta;CHARLESTON BIG-BAND;San Adrián de Calvos, Fornelos de Montes;Pontevedra
+17679;11;10;13;V;Grupo;ALVEIN;San Lourenzo de Oliveira, Ponteareas;Pontevedra
+18515;11;10;13;V;Orquesta;CAPITOL;San Tomé de Piñeiro, Marín;Pontevedra
+18236;11;10;13;V;Orquesta;GRAN PARADA;San Vicente de Argozón, Chantada;Lugo
+17914;11;10;13;V;Orquesta;SUPERFAMA;Tameiga, Mos;Pontevedra
+18525;11;10;13;V;Orquesta;METRÓPOLIS;Tella, Ponteceso;A Coruña
+18100;11;10;13;V;Orquesta;PARIS DE NOIA;Trabe, Ponteceso;A Coruña
+18425;12;10;13;S;Orquesta;MIRAMAR;A Espiñeira, Foz;Lugo
+18518;12;10;13;S;Dúo;CALÚ;A Laracha;A Coruña
+18286;12;10;13;S;Grupo;AMERICA SL;Agrón, Ames;A Coruña
+18327;12;10;13;S;Disco Móvil;BLANCO Y NEGRO;Allegue, Alfoz;Lugo
+18499;12;10;13;S;Grupo;UNIÓN Y FUERZA;Baldaio, Carballo;A Coruña
+18220;12;10;13;S;Orquesta;PALLADIUM;Baroncelle, Abadín;Lugo
+18066;12;10;13;S;Grupo;AMÉRICA DE VIGO;Barro;Pontevedra
+18510;12;10;13;S;Orquesta;CAPITOL;Barro;Pontevedra
+18206;12;10;13;S;Orquesta;GALILEA;Belén, Valdés;Asturias
+18264;12;10;13;S;Orquesta;SOLARA;Beluso, Bueu;Pontevedra
+18292;12;10;13;S;Orquesta;TANGO;Beluso, Bueu;Pontevedra
+17930;12;10;13;S;Trío;ALBA;Calo, Teo;A Coruña
+18212;12;10;13;S;Grupo;FUSIÓN;Cangas, Foz;Lugo
+17960;12;10;13;S;Charanga;TNT;Carballo, Carballo;A Coruña
+18494;12;10;13;S;Grupo;FUNÇAO PUBLIKA;Carballo, Carballo;A Coruña
+18033;12;10;13;S;Orquesta;ALIANZA;Centro Gallego de Vitoria;Álava
+18446;12;10;13;S;Grupo;D´MODA;Cesuras;A Coruña
+17866;12;10;13;S;Orquesta;MARBELLA;Chapela, Redondela;Pontevedra
+18339;12;10;13;S;Orquesta;CHARLESTON BIG-BAND;Chapela, Redondela;Pontevedra
+18368;12;10;13;S;Grupo;ASSIA;Cornellana, Salas;Asturias
+18173;12;10;13;S;Orquesta;XACOBEO;Corzáns, Salvaterra de Miño;Pontevedra
+18536;12;10;13;S;Grupo;IDEAS;El Pozón, Tineo;Asturias
+18418;12;10;13;S;Orquesta;LOS TROVADORES;Folladela, Melide;A Coruña
+18422;12;10;13;S;Orquesta;RITMO JOVEN;Folladela, Melide;A Coruña
+17212;12;10;13;S;Solista;TANIA Y SU ACORDEÓN;Fondos de Villa, Cangas del Narcea;Asturias
+18137;12;10;13;S;Orquesta;METRÓPOLIS;Foxás, Touro;A Coruña
+18139;12;10;13;S;Grupo;CICLÓN;Foxás, Touro;A Coruña
+18273;12;10;13;S;Grupo;ARAMIO;Frinxo, Tui;Pontevedra
+18354;12;10;13;S;Charanga;BCB;Ganceiros, Lobios;Ourense
+18537;12;10;13;S;Grupo;GARIBALDI;Infiesto, Piloña;Asturias
+18154;12;10;13;S;Orquesta;ABANICO;La Caridad, El Franco;Asturias
+18478;12;10;13;S;Orquesta;CUARTA CALLE;La Monxina, Oviedo;Asturias
+18030;12;10;13;S;Orquesta;ACORDES;Ladra, Vilalba;Lugo
+18101;12;10;13;S;Orquesta;PARIS DE NOIA;Monzo, Trazo;A Coruña
+18142;12;10;13;S;Grupo;LIMÓN;O Pindo, Carnota;A Coruña
+18394;12;10;13;S;Orquesta;CENIZA;O Pindo, Carnota;A Coruña
+18210;12;10;13;S;Orquesta;PANAMA;O Tremo, Brión;A Coruña
+17883;12;10;13;S;Dúo;LA HORA BRUJA;Ortigueira;A Coruña
+18383;12;10;13;S;Orquesta;LOS PLAYERS;Ortigueira;A Coruña
+18561;12;10;13;S;Orquesta;PASSARELA;Pasarela, Vimianzo;A Coruña
+18332;12;10;13;S;Orquesta;TRIUNFO;Plaza de la Pontona, Laviana;Asturias
+17473;12;10;13;S;Orquesta;FIN DE SIGLO;Plaza Sant Martí, Barcelona;Barcelona
+13200;12;10;13;S;Dúo;CHIC;Pontevedra;Pontevedra
+18492;12;10;13;S;Orquesta;NUEVA BANDA;Posada de Llanera, Llanera;Asturias
+17750;12;10;13;S;Orquesta;COSTA DORADA;Praza Maior, Lugo;Lugo
+17751;12;10;13;S;Orquesta;ISRAEL;Praza Maior, Lugo;Lugo
+13465;12;10;13;S;Charanga;MEKANIKA;Punxeiro, Viana do Bolo;Ourense
+17951;12;10;13;S;Orquesta;FOLIADA D´ASES;Punxeiro, Viana do Bolo;Ourense
+18228;12;10;13;S;Grupo;TEKILA;Punxeiro, Viana do Bolo;Ourense
+18301;12;10;13;S;Orquesta;FANIA BLANCO SHOW;Queixeiro, Monfero;A Coruña
+18310;12;10;13;S;Dúo;CARAMELO;Queixeiro, Monfero;A Coruña
+14472;12;10;13;S;Dúo;MERITXELL;Quiroga;Lugo
+17897;12;10;13;S;Orquesta;NEVADA;Restaurante El Pantano, Abegondo;A Coruña
+18470;12;10;13;S;Grupo;ACIREMA;S.F. Chamán, Goián;Pontevedra
+18255;12;10;13;S;Orquesta;VERSIÓN ORIGINAL;S.F. Estilo, Oviedo;Asturias
+18130;12;10;13;S;Grupo;CANELA;S.F. Olimpo, Vigo;Pontevedra
+17097;12;10;13;S;Orquesta;PANORAMA;Saiar, Caldas de Reis;Pontevedra
+17098;12;10;13;S;Orquesta;PONTEVEDRA;Saiar, Caldas de Reis;Pontevedra
+17716;12;10;13;S;Orquesta;MARAZUL;San Lourenzo de Oliveira, Ponteareas;Pontevedra
+18237;12;10;13;S;Orquesta;GRAN PARADA;San Román de Vilaestrofe, Cervo;Lugo
+18242;12;10;13;S;Orquesta;TELEVISIÓN;San Román de Vilaestrofe, Cervo;Lugo
+17818;12;10;13;S;Orquesta;ESTRELLAMAR;San Vicente de Argozón, Chantada;Lugo
+18183;12;10;13;S;Orquesta;OLYMPUS RED TOUR;Santa Cruz de Montaos, Ordes;A Coruña
+18346;12;10;13;S;Orquesta;PRINCIPAL;Santa Cruz de Montaos, Ordes;A Coruña
+18358;12;10;13;S;Dúo;KARAMBA;Sigüeiro, Oroso;A Coruña
+18061;12;10;13;S;Charanga;BB+;Suxo, Muxía;A Coruña
+17916;12;10;13;S;Orquesta;LOS SATÉLITES;Tameiga, Mos;Pontevedra
+17917;12;10;13;S;Orquesta;TREBOL;Tameiga, Mos;Pontevedra
+18502;12;10;13;S;Trío;ORQUÍDEA;Toques;A Coruña
+18559;12;10;13;S;Grupo;ATENAS;Trabe, Ponteceso;A Coruña
+18560;12;10;13;S;Grupo;SAMBA;Trabe, Ponteceso;A Coruña
+18193;12;10;13;S;Grupo;CLAXXON;Viladonga, Castro de Rei;Lugo
+18198;12;10;13;S;Orquesta;CINEMA;Viladonga, Castro de Rei;Lugo
+8583;12;10;13;S;Orquesta;D´NOCHE;Vilapedre, Vilalba;Lugo
+18504;12;10;13;S;Trío;AREAL;Vilar da Vara, O Incio;Lugo
+18029;12;10;13;S;Dúo;ESTRELLAS;Villanueva de Oscos;Asturias
+18566;12;10;13;S;Grupo;CAÑÓN;Yudego;Burgos
+18463;13;10;13;D;Charanga;ARDORES;A Baíña, Agolada;Pontevedra
+18355;13;10;13;D;Charanga;BCB;Bangueses de Abaixo, Verea;Ourense
+18221;13;10;13;D;Orquesta;FANIA BLANCO SHOW;Baroncelle, Abadín;Lugo
+18428;13;10;13;D;Dúo;CHIC;Cariño;A Coruña
+18034;13;10;13;D;Orquesta;ALIANZA;Centro Gallego de Vitoria;Álava
+18102;13;10;13;D;Orquesta;PARIS DE NOIA;Chapela, Redondela;Pontevedra
+17976;13;10;13;D;Charanga;DGT;Cuntis;Pontevedra
+18402;13;10;13;D;Orquesta;ISRAEL;Folladela, Melide;A Coruña
+17855;13;10;13;D;Charanga;BB+;Foxás, Touro;A Coruña
+17867;13;10;13;D;Orquesta;MARBELLA;Foxás, Touro;A Coruña
+18138;13;10;13;D;Orquesta;GALILEA;Foxás, Touro;A Coruña
+18174;13;10;13;D;Orquesta;XACOBEO;Frinxo, Tui;Pontevedra
+18503;13;10;13;D;Trío;ORQUÍDEA;Gijón;Asturias
+18540;13;10;13;D;Grupo;GARIBALDI;La Monxina, Oviedo;Asturias
+18036;13;10;13;D;Trío;AREAL;Ladra, Vilalba;Lugo
+17717;13;10;13;D;Orquesta;ABANICO;Leiro, Rianxo;A Coruña
+17734;13;10;13;D;Orquesta;OLYMPUS RED TOUR;Leiro, Rianxo;A Coruña
+18279;13;10;13;D;Orquesta;LOS SATÉLITES;Lores, Meaño;Pontevedra
+18120;13;10;13;D;Orquesta;PONTEVEDRA;Moimenta, Boiro;A Coruña
+17474;13;10;13;D;Orquesta;FIN DE SIGLO;Plaza Sant Martí, Barcelona;Barcelona
+18018;13;10;13;D;Orquesta;PANORAMA;Pola de Lena, Lena;Asturias
+16519;13;10;13;D;Solista;TANIA Y SU ACORDEÓN;Ribadeo;Lugo
+18516;13;10;13;D;Orquesta;CAPITOL;S.F. Mami, A Manchica;Ourense
+18456;13;10;13;D;Orquesta;CINEMA;S.F. Nova Exágono, Lugo;Lugo
+18131;13;10;13;D;Orquesta;TANGO;S.F. Olimpo, Vigo;Pontevedra
+18816;13;10;13;D;Orquesta;PALLADIUM;S.F. Zeus, Campolongo;A Coruña
+8822;13;10;13;D;Orquesta;LOS TROVADORES;Tameiga, Mos;Pontevedra
+17890;13;10;13;D;Trío;AZAR;Tomeza, Pontevedra;Pontevedra
+17895;13;10;13;D;Orquesta;TELEVISIÓN;Tomeza, Pontevedra;Pontevedra
+18031;13;10;13;D;Orquesta;ACORDES;Viladonga, Castro de Rei;Lugo
+18460;13;10;13;D;Orquesta;PANAMA;Vilaestrofe, Cervo;Lugo
+18345;13;10;13;D;Orquesta;PRINCIPAL;Vilar da Vara, O Incio;Lugo
+18217;14;10;13;L;Orquesta;PANORAMA;Infiesto, Piloña;Asturias
+18243;14;10;13;L;Orquesta;TELEVISIÓN;Moimenta, Boiro;A Coruña
+18419;14;10;13;L;Orquesta;LOS TROVADORES;Oviedo;Asturias
+17868;15;10;13;M;Orquesta;MARBELLA;Moimenta, Boiro;A Coruña
+18335;16;10;13;X;Orquesta;CHARLESTON BIG-BAND;Moimenta, Boiro;A Coruña
+18019;17;10;13;J;Orquesta;PANORAMA;Moimenta, Boiro;A Coruña
+18194;17;10;13;J;Grupo;CLAXXON;Mondoñedo;Lugo
+18197;17;10;13;J;Orquesta;CHARLESTON BIG-BAND;Mondoñedo;Lugo
+18602;17;10;13;J;Grupo;NIEVLA;S.F. Olimpo, Vigo;Pontevedra
+18069;18;10;13;V;Solista;ROCÍO PÉREZ;A Vila de Abade, Tordoia;A Coruña
+18538;18;10;13;V;Grupo;GARIBALDI;Benade, Lugo;Lugo
+11317;18;10;13;V;Disco Móvil;BLANCO Y NEGRO;Cangas del Narcea;Asturias
+17988;18;10;13;V;Orquesta;OLYMPUS RED TOUR;Discoteca INK, Narón;A Coruña
+17989;18;10;13;V;Grupo;AMÉRICA DE VIGO;Discoteca INK, Narón;A Coruña
+18103;18;10;13;V;Orquesta;PARIS DE NOIA;Grandal, Vilarmaior;A Coruña
+18151;18;10;13;V;Orquesta;FANIA BLANCO SHOW;Grandal, Vilarmaior;A Coruña
+18637;18;10;13;V;Orquesta;WAYKAS FAMILY;La Felguera, Langreo;Asturias
+18564;18;10;13;V;Orquesta;CHARLESTON BIG-BAND;Manselle, Dodro;A Coruña
+18571;18;10;13;V;Orquesta;TRIUNFO;Manselle, Dodro;A Coruña
+18431;18;10;13;V;Trío;AZAR;Monçao;Portugal
+18233;18;10;13;V;Orquesta;CINEMA;Mondoñedo;Lugo
+18234;18;10;13;V;Orquesta;GRAN PARADA;Mondoñedo;Lugo
+18600;18;10;13;V;Orquesta;CUARTA CALLE;Onda;Castellón
+18275;18;10;13;V;Grupo;ARAMIO;Queiruga, Porto do Son;A Coruña
+18486;18;10;13;V;Dúo;DE LA CRUZ SHOW;Rianxo;A Coruña
+18229;18;10;13;V;Grupo;TEKILA;Roimil, Friol;Lugo
+18426;18;10;13;V;Orquesta;MIRAMAR;Roimil, Friol;Lugo
+18514;18;10;13;V;Orquesta;DOMINÓ;Santa Eulalia de Tábara, Moreruela de Tábara;Zamora
+11354;18;10;13;V;Orquesta;PANORAMA;Vega, Cangas del Narcea;Asturias
+18175;18;10;13;V;Orquesta;MARBELLA;Vimianzo;A Coruña
+18420;19;10;13;S;Orquesta;LOS TROVADORES;A Carballa, Cedeira;A Coruña
+18421;19;10;13;S;Trío;ORQUÍDEA;A Carballa, Cedeira;A Coruña
+18659;19;10;13;S;Orquesta;SOLARA;Amandi, Sober;Lugo
+18316;19;10;13;S;Grupo;GARIBALDI;Arnois, A Estrada;Pontevedra
+18461;19;10;13;S;Orquesta;PANAMA;As Ribocias, Caldas de Reis;Pontevedra
+18195;19;10;13;S;Grupo;CLAXXON;Benade, Lugo;Lugo
+18196;19;10;13;S;Orquesta;PALLADIUM;Benade, Lugo;Lugo
+18592;19;10;13;S;Dúo;CALÚ;Benza, Trazo;A Coruña
+18397;19;10;13;S;Orquesta;TELEVISIÓN;Chaín, Ponte Caldelas;Pontevedra
+17931;19;10;13;S;Trío;ALBA;Dimo, Catoira;Pontevedra
+18364;19;10;13;S;Orquesta;CAPITOL;Discoteca INK, Narón;A Coruña
+18032;19;10;13;S;Orquesta;ACORDES;Donalbai, Begonte;Lugo
+18022;19;10;13;S;Orquesta;PANORAMA;EXPOCoruña, A Coruña;A Coruña
+18207;19;10;13;S;Orquesta;GALILEA;Ferrera de los Gavitos, Valdés;Asturias
+18245;19;10;13;S;Orquesta;CHARLESTON BIG-BAND;Ferrera de los Gavitos, Valdés;Asturias
+18037;19;10;13;S;Trío;AREAL;Galdo, Viveiro;Lugo
+18104;19;10;13;S;Orquesta;PARIS DE NOIA;Goente, As Pontes;A Coruña
+18105;19;10;13;S;Orquesta;FANIA BLANCO SHOW;Goente, As Pontes;A Coruña
+18238;19;10;13;S;Orquesta;GRAN PARADA;Malvas, Tui;Pontevedra
+18471;19;10;13;S;Grupo;ACIREMA;Monçao;Portugal
+18076;19;10;13;S;Grupo;TEKILA;Mondoñedo;Lugo
+18359;19;10;13;S;Dúo;KARAMBA;Montesalgueiro, Aranga;A Coruña
+15721;19;10;13;S;Trío;AZAR;Nespereira, Pazos de Borbén;Pontevedra
+18511;19;10;13;S;Grupo;AMÉRICA DE VIGO;Oíns, Arzúa;A Coruña
+17962;19;10;13;S;Charanga;TNT;Oza, Teo;A Coruña
+18274;19;10;13;S;Grupo;ARAMIO;Ponte Carreira, Frades;A Coruña
+18436;19;10;13;S;Orquesta;ABANICO;Ponteareas;Pontevedra
+18507;19;10;13;S;Grupo;UNIÓN Y FUERZA;Razo da Costa, Carballo;A Coruña
+18280;19;10;13;S;Orquesta;LOS SATÉLITES;S.F. Chanteclair, Pontecesures;Pontevedra
+18184;19;10;13;S;Orquesta;OLYMPUS RED TOUR;S.F. Dona Dana, Touro;A Coruña
+18287;19;10;13;S;Grupo;AMERICA SL;S.F. La Luna, Cerponzóns;Pontevedra
+18603;19;10;13;S;Orquesta;RITMO JOVEN;S.F. Olimpo, Vigo;Pontevedra
+18403;19;10;13;S;Orquesta;ISRAEL;Sabugueira, Santiago de Compostela;A Coruña
+18609;19;10;13;S;Dúo;ECLIPSE;San Mamede, Guntín;Lugo
+18624;19;10;13;S;Dúo;ESTRELLAS;San Martiño do Picato, Guntín;Lugo
+18660;19;10;13;S;Orquesta;VENEZIA;Santa Cristina, Antas de Ulla;Lugo
+16340;19;10;13;S;Orquesta;CINEMA;Serantes, Tapia de Casariego;Asturias
+17869;19;10;13;S;Orquesta;MARBELLA;Serantes, Tapia de Casariego;Asturias
+15949;19;10;13;S;Dúo;MERITXELL;Sigüeiro, Oroso;A Coruña
+12368;19;10;13;S;Solista;TANIA Y SU ACORDEÓN;Teverga;Asturias
+15656;19;10;13;S;Disco Móvil;BLANCO Y NEGRO;Vegadeo;Asturias
+18667;19;10;13;S;Grupo;SAMBA;Vilameán, Tomiño;Pontevedra
+18573;19;10;13;S;Orquesta;DOMINÓ;Villaturiel;León
+18661;20;10;13;D;Orquesta;CIUDADEVIGO;Bueu;Pontevedra
+16603;20;10;13;D;Solista;TANIA Y SU ACORDEÓN;Cangas del Narcea;Asturias
+18143;20;10;13;D;Grupo;LIMÓN;Cela, Mos;Pontevedra
+18021;20;10;13;D;Orquesta;PANORAMA;Crecente;Pontevedra
+18085;20;10;13;D;Trío;ALBA;Cullergondo, Abegondo;A Coruña
+18281;20;10;13;D;Orquesta;LOS SATÉLITES;Discoteca INK, Narón;A Coruña
+18365;20;10;13;D;Orquesta;ISRAEL;Discoteca INK, Narón;A Coruña
+17577;20;10;13;D;Dúo;LA HORA BRUJA;Fonteita, O Corgo;Lugo
+18298;20;10;13;D;Orquesta;FANIA BLANCO SHOW;Fonteita, O Corgo;Lugo
+18106;20;10;13;D;Orquesta;PARIS DE NOIA;Mondoñedo;Lugo
+18107;20;10;13;D;Orquesta;PALLADIUM;Mondoñedo;Lugo
+18666;20;10;13;D;Orquesta;VENEZIA;Roimil, Friol;Lugo
+18524;20;10;13;D;Orquesta;ABANICO;S.F. Chanteclair, Pontecesures;Pontevedra
+18457;20;10;13;D;Orquesta;CINEMA;S.F. La Luna, Cerponzóns;Pontevedra
+18616;20;10;13;D;Orquesta;CAPITOL;S.F. La Reina, Sanguiñeda;Pontevedra
+18750;20;10;13;D;Orquesta;NEVADA;S.F. Mami, A Manchica;Ourense
+18519;20;10;13;D;Orquesta;MARBELLA;S.F. Nova Exágono, Lugo;Lugo
+18265;20;10;13;D;Orquesta;SOLARA;S.F. Olimpo, Vigo;Pontevedra
+18350;20;10;13;D;Grupo;ARAMIO;Taborda, Tomiño;Pontevedra
+18038;20;10;13;D;Trío;AREAL;Tirimol, Lugo;Lugo
+18613;21;10;13;L;Orquesta;CUARTA CALLE;San Julián, Bimenes;Asturias
+18678;22;10;13;M;Dúo;MADASTUR;Cudillero;Asturias
+18744;25;10;13;V;Grupo;IDEAS;La Espina, Salas;Asturias
+18574;25;10;13;V;Orquesta;DOMINÓ;La Felguera, Langreo;Asturias
+18360;25;10;13;V;Dúo;KARAMBA;Laraxe, Cabanas;A Coruña
+18023;25;10;13;V;Orquesta;PANORAMA;O Outeiro das Camoiras, Lugo;Lugo
+18742;25;10;13;V;Orquesta;MARBELLA;Programa Luar, TVG;A Coruña
+18628;25;10;13;V;Orquesta;CHARLESTON BIG-BAND;Rodeiro;Pontevedra
+18427;25;10;13;V;Orquesta;MIRAMAR;San Simón da Costa, Vilalba;Lugo
+18267;25;10;13;V;Orquesta;SOLARA;San Simón, Vilanova de Arousa;Pontevedra
+18291;25;10;13;V;Orquesta;RITMO JOVEN;San Simón, Vilanova de Arousa;Pontevedra
+18067;25;10;13;V;Grupo;AMÉRICA DE VIGO;Toba, Cee;A Coruña
+18677;25;10;13;V;Dúo;MADASTUR;Viveiro;Lugo
+17977;26;10;13;S;Charanga;DGT;Adragonte, Paderne;A Coruña
+18268;26;10;13;S;Orquesta;SOLARA;Alba, Pontevedra;Pontevedra
+18288;26;10;13;S;Orquesta;TELEVISIÓN;Alba, Pontevedra;Pontevedra
+18753;26;10;13;S;Grupo;ACIREMA;Arcade, Soutomaior;Pontevedra
+18716;26;10;13;S;Orquesta;CHARLESTON BIG-BAND;Arcilla, Cospeito;Lugo
+18717;26;10;13;S;Orquesta;ESTRELLAMAR;Arcilla, Cospeito;Lugo
+18746;26;10;13;S;Grupo;IDEAS;Belmonte, Belmonte de Miranda;Asturias
+18642;26;10;13;S;Orquesta;FIN DE SIGLO;Berán, Leiro;Ourense
+18731;26;10;13;S;Orquesta;WAYKAS FAMILY;Bustantigo, Allande;Asturias
+18178;26;10;13;S;Orquesta;ABANICO;Discoteca INK, Narón;A Coruña
+17884;26;10;13;S;Dúo;LA HORA BRUJA;Ferrol;A Coruña
+18361;26;10;13;S;Dúo;KARAMBA;Ferrol;A Coruña
+18679;26;10;13;S;Dúo;MADASTUR;Foyedo, Valdes;Asturias
+18575;26;10;13;S;Orquesta;DOMINÓ;La Felguera, Langreo;Asturias
+17993;26;10;13;S;Grupo;FUSIÓN;Miño;A Coruña
+18752;26;10;13;S;Orquesta;RITMO JOVEN;Monçao;Portugal
+18484;26;10;13;S;Dúo;DE LA CRUZ SHOW;Muros;A Coruña
+18004;26;10;13;S;Dúo;ECLIPSE;Navia;Asturias
+17871;26;10;13;S;Orquesta;MARBELLA;Nespereira, Pazos de Borbén;Pontevedra
+18024;26;10;13;S;Orquesta;PANORAMA;Nespereira, Pazos de Borbén;Pontevedra
+18302;26;10;13;S;Orquesta;FANIA BLANCO SHOW;O Cruceiro de Roo, Outes;A Coruña
+18432;26;10;13;S;Orquesta;ISRAEL;O Xestal, Monfero;A Coruña
+18635;26;10;13;S;Charanga;NBA;Ourense;Ourense
+18606;26;10;13;S;Grupo;NIEVLA;Paredes, Samos;Lugo
+18751;26;10;13;S;Orquesta;NEVADA;Rebón, Moraña;Pontevedra
+18607;26;10;13;S;Orquesta;PALLADIUM;Rioaveso, Cospeito;Lugo
+18462;26;10;13;S;Orquesta;PANAMA;Rioaveso, Vilalba;Lugo
+18674;26;10;13;S;Grupo;CICLÓN;S.F. Dona Dana, Touro;A Coruña
+18698;26;10;13;S;Orquesta;CAPITOL;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
+18230;26;10;13;S;Grupo;TEKILA;S.F. Estilo, Oviedo;Asturias
+18028;26;10;13;S;Orquesta;OLYMPUS RED TOUR;S.F. Imperial, Narón;A Coruña
+18347;26;10;13;S;Orquesta;PONTEVEDRA;S.F. La Luna, Cerponzóns;Pontevedra
+18068;26;10;13;S;Grupo;AMÉRICA DE VIGO;San Simón, Vilanova de Arousa;Pontevedra
+18282;26;10;13;S;Orquesta;LOS SATÉLITES;San Simón, Vilanova de Arousa;Pontevedra
+18594;26;10;13;S;Dúo;CALÚ;Santa Cruz, Oleiros;A Coruña
+18730;26;10;13;S;Grupo;UNIÓN Y FUERZA;Sarria;Lugo
+18756;26;10;13;S;Grupo;GARIBALDI;Villamayor de los Montes;Burgos
+8565;26;10;13;S;Solista;TANIA Y SU ACORDEÓN;Villanueva de Oscos;Asturias
+18614;27;10;13;D;Orquesta;ESTRELLAMAR;A Mota, Arzúa;A Coruña
+18239;27;10;13;D;Orquesta;GRAN PARADA;Areas, Tui;Pontevedra
+18333;27;10;13;D;Orquesta;TRIUNFO;Cela, Mos;Pontevedra
+18025;27;10;13;D;Orquesta;PANORAMA;Paderne, Paderne de Allariz;Ourense
+18303;27;10;13;D;Orquesta;FANIA BLANCO SHOW;Rioaveso, Cospeito;Lugo
+18680;27;10;13;D;Dúo;MADASTUR;S.F. Estilo, Oviedo;Asturias
+18718;27;10;13;D;Orquesta;CHARLESTON BIG-BAND;S.F. La Luna, Cerponzóns;Pontevedra
+18269;27;10;13;D;Orquesta;SOLARA;S.F. La Reina, Sanguiñeda;Pontevedra
+18582;27;10;13;D;Orquesta;OLYMPUS RED TOUR;S.F. Mami, A Manchica;Ourense
+18691;27;10;13;D;Orquesta;MIRAMAR;S.F. Paulino, O Carballiño;Ourense
+18262;27;10;13;D;Orquesta;MARBELLA;S.F. Zeus, Campolongo;A Coruña
+18404;27;10;13;D;Orquesta;ISRAEL;San Simón, Vilanova de Arousa;Pontevedra
+18699;27;10;13;D;Orquesta;CAPITOL;San Simón, Vilanova de Arousa;Pontevedra
+18827;31;10;13;J;Dúo;MERITXELL;Aguada, Carballedo;Lugo
+18669;31;10;13;J;Grupo;IDEAS;Boal;Asturias
+18805;31;10;13;J;Grupo;TEKILA;Campomanes, Lena;Asturias
+18806;31;10;13;J;Orquesta;NUEVA BANDA;Campomanes, Lena;Asturias
+18638;31;10;13;J;Orquesta;PANORAMA;Coliseum, A Coruña;A Coruña
+18328;31;10;13;J;Disco Móvil;BLANCO Y NEGRO;Couxela, Ribadeo;Lugo
+18367;31;10;13;J;Grupo;ARAMIO;S.F. Olimpo, Vigo;Pontevedra
+18283;31;10;13;J;Orquesta;LOS SATÉLITES;S.F. Rosalar, Ribadeo;Lugo
+18802;31;10;13;J;Orquesta;CAPITOL;S.F. Rosalar, Ribadeo;Lugo
+18512;31;10;13;J;Grupo;AMÉRICA DE VIGO;San Claudio, Ortigueira;A Coruña
+18005;31;10;13;J;Dúo;ECLIPSE;Santalla, Paradela;Lugo

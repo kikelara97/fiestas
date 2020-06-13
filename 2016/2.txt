@@ -1,0 +1,488 @@
+50335;1;2;16;L;Orquesta;ARMONÍA SHOW;Alcalá, Guía de Isora;Tenerife
+49785;1;2;16;L;Orquesta;EL COMBO DOMINICANO;Plaza de la Candelaria, Ingenio;Las Palmas
+49270;2;2;16;M;Charanga;BB+;Castrelos, Vigo;Pontevedra
+50264;2;2;16;M;Orquesta;PARIS DE NOIA;San Salvador de Budiño, O Porriño;Pontevedra
+50265;2;2;16;M;Orquesta;LOS SATÉLITES;San Salvador de Budiño, O Porriño;Pontevedra
+50020;2;2;16;M;Orquesta;LOS TROVADORES;Vilamartín, Vilamartín de Valdeorras;Ourense
+50219;3;2;16;X;Orquesta;XACOBEO;Bembrive, Vigo;Pontevedra
+50522;3;2;16;X;Grupo;NIEVLA;Cabeiras, Arbo;Pontevedra
+50445;3;2;16;X;Orquesta;CHARLESTON BIG-BAND;Cabeiras, Arbo;Pontevedra
+49661;3;2;16;X;Charanga;BB+;Cuntis;Pontevedra
+49429;3;2;16;X;Orquesta;GÉNESIS;Geria;Valladolid
+50469;3;2;16;X;Orquesta;EL COMBO DOMINICANO;Las Palmas;Las Palmas
+50281;3;2;16;X;Charanga;CASTRO BELLO;Moreiras, Toén;Ourense
+50337;3;2;16;X;Orquesta;GRAN PARADA;San Salvador de Budiño, O Porriño;Pontevedra
+50524;3;2;16;X;Grupo;GARIBALDI;Villamandos;León
+50480;4;2;16;J;Solista;AIXA ROMAY;A Coruña;A Coruña
+50132;4;2;16;J;Charanga;TNT;O Milladoiro, Ames;A Coruña
+50167;4;2;16;J;Charanga;BB+;Oca, A Estrada;Pontevedra
+49248;4;2;16;J;Charanga;CASTRO BELLO;Ourense;Ourense
+50080;4;2;16;J;Solista;XILO;S.F. Imperial, Narón;A Coruña
+49222;4;2;16;J;Charanga;FUEGO;Verín;Ourense
+50358;4;2;16;J;Orquesta;CAPITOL;Verín;Ourense
+50156;5;2;16;V;Solista;AIXA ROMAY;A Coruña;A Coruña
+50512;5;2;16;V;Charanga;CANTOS SOMOS;A Guarda;Pontevedra
+50523;5;2;16;V;Disco Móvil;TRAFFIC;Betanzos;A Coruña
+50474;5;2;16;V;Grupo;AMERICA SL;Celadilla del Páramo, Villadangos del Páramo;León
+49774;5;2;16;V;Solista;CRIS LÓPEZ;Fene;A Coruña
+50383;5;2;16;V;Orquesta;ARMONÍA SHOW;Ingenio;Las Palmas
+50168;5;2;16;V;Grupo;LIMÓN;Mesego, Cuntis;Pontevedra
+50434;5;2;16;V;Grupo;NEBRASKA;Mesego, Cuntis;Pontevedra
+50557;5;2;16;V;Grupo;ARAMIO;O Tameirón, A Gudiña;Ourense
+50525;5;2;16;V;Charanga;OS ESCACHAPEITOS;Ourense;Ourense
+49698;5;2;16;V;Charanga;O´SANTIAGUIÑO;Ribeira;A Coruña
+50255;5;2;16;V;Orquesta;OLYMPUS RED TOUR;S.F. Dona Dana, Touro;A Coruña
+50256;5;2;16;V;Grupo;CICLÓN;S.F. Dona Dana, Touro;A Coruña
+49852;5;2;16;V;Orquesta;EL COMBO DOMINICANO;S.F. Zeus, Campolongo;A Coruña
+49854;5;2;16;V;Orquesta;PARIS DE NOIA;S.F. Zeus, Campolongo;A Coruña
+49673;5;2;16;V;Trío;LA NOCHE DO GROVE;Sante, Navia;Asturias
+50435;5;2;16;V;Grupo;KALIMA 3.0;Sante, Navia;Asturias
+49889;5;2;16;V;Dúo;NUEVA ERA;Sar, Santiago de Compostela;A Coruña
+50319;5;2;16;V;Grupo;ATENAS;Sar, Santiago de Compostela;A Coruña
+50493;5;2;16;V;Dúo;LA HORA BRUJA;Sobrado dos Monxes, Sobrado;A Coruña
+50145;5;2;16;V;Orquesta;GÉNESIS;Tariego de Cerrato;Palencia
+50128;5;2;16;V;Orquesta;PANAMA;Torres, Vilarmaior;A Coruña
+50065;5;2;16;V;Solista;XILO;Valdoviño;A Coruña
+49166;5;2;16;V;Grupo;PUNTO CLAVE;Vigo de Galegos, Láncara;Lugo
+50135;5;2;16;V;Dúo;CARAMELO;Viveiro;Lugo
+49352;6;2;16;S;Dúo;KARMÍN;A Barcala, Cambre;A Coruña
+50360;6;2;16;S;Dúo;CHARADA;A Boliña, Boiro;A Coruña
+50328;6;2;16;S;Charanga;OS CELTAS;A Pobra do Caramiñal;A Coruña
+50261;6;2;16;S;Solista;ROCÍO PÉREZ;A Vila de Abade, Tordoia;A Coruña
+50133;6;2;16;S;Charanga;TNT;As cancelas;A Coruña
+50137;6;2;16;S;Dúo;CARAMELO;As Pontes de García Rodríguez;A Coruña
+50532;6;2;16;S;Orquesta;PASITO SHOW;Avilés;Asturias
+50608;6;2;16;S;Trío;CAPRICHO;Barreiros;Lugo
+50495;6;2;16;S;Dúo;LA HORA BRUJA;Becerreá;Lugo
+50527;6;2;16;S;Dúo;KARMÍN;Begonte;Lugo
+49828;6;2;16;S;Charanga;DGT;Betanzos;A Coruña
+50503;6;2;16;S;Dúo;LA HORA BRUJA;Bóveda;Lugo
+50266;6;2;16;S;Orquesta;PARIS DE NOIA;Burgueira, Oia;Pontevedra
+50343;6;2;16;S;Grupo;CICLÓN;Camariñas;A Coruña
+49674;6;2;16;S;Trío;LA NOCHE DO GROVE;Cambados;Pontevedra
+50623;6;2;16;S;Dúo;DIAMANTE;Carballo;A Coruña
+49946;6;2;16;S;Orquesta;LOS TROVADORES;Carracedo, A Peroxa;Ourense
+50574;6;2;16;S;Orquesta;LOS PLAYERS;Carrión de los Condes;Palencia
+50391;6;2;16;S;Orquesta;FANIA BLANCO SHOW;Casas Novas, Cea;Ourense
+49867;6;2;16;S;Orquesta;GÉNESIS;Castrejón de la Peña;Palencia
+50003;6;2;16;S;Disco Móvil;CDC MINIDISC;Cedeira;A Coruña
+50370;6;2;16;S;Charanga;SANTA COMPAÑA;Cedeira;A Coruña
+50382;6;2;16;S;Orquesta;CHARLESTON BIG-BAND;Celadilla del Páramo, Villadangos del Páramo;León
+50368;6;2;16;S;Orquesta;ABANICO;Circulo de las Artes, Lugo;Lugo
+50475;6;2;16;S;Grupo;AMERICA SL;Club Artístico, Ribadavia;Ourense
+50491;6;2;16;S;Grupo;GARIBALDI;Corzáns, Salvaterra de Miño;Pontevedra
+50516;6;2;16;S;Orquesta;PALLADIUM;Corzáns, Salvaterra de Miño;Pontevedra
+50615;6;2;16;S;Dúo;CALÚ;Discoteca Golden Fish, Oleiros;A Coruña
+50465;6;2;16;S;Orquesta;OLYMPUS RED TOUR;Discoteca Hermo, Muimenta;Lugo
+49853;6;2;16;S;Orquesta;EL COMBO DOMINICANO;Discoteca Lennon, A Estrada;Pontevedra
+50282;6;2;16;S;Orquesta;LOS SATÉLITES;Discoteca Pazos, Laracha;A Coruña
+50251;6;2;16;S;Charanga;OS CELTAS;Fiopáns, A Baña;A Coruña
+50384;6;2;16;S;Orquesta;ARMONÍA SHOW;Gáldar;Las Palmas
+49965;6;2;16;S;Charanga;BCB;Luintra, Nogueira de Ramuín;Ourense
+50229;6;2;16;S;Orquesta;MARBELLA;Magdalena, Cangas;Pontevedra
+65869;6;2;16;S;Orquesta;TELEVISIÓN;Magdalena, Cangas;Pontevedra
+50545;6;2;16;S;Grupo;NEBRASKA;Monforte de Lemos;Lugo
+50534;6;2;16;S;Orquesta;ACORDES;Negreira;A Coruña
+50190;6;2;16;S;Orquesta;FIN DE SIGLO;Nigoi, A Estrada;Pontevedra
+49863;6;2;16;S;Solista;CRIS LÓPEZ;O Couto, Narón;A Coruña
+50572;6;2;16;S;Orquesta;NEVADA;O Porriño;Pontevedra
+49894;6;2;16;S;Dúo;NUEVA ERA;Oca, A Estrada;Pontevedra
+49033;6;2;16;S;Charanga;CASTRO BELLO;Ourense;Ourense
+50558;6;2;16;S;Grupo;ARAMIO;Palmeira, Ribeira;A Coruña
+49763;6;2;16;S;Solista;AIXA ROMAY;Parrillada Peiró, Cambre;A Coruña
+50541;6;2;16;S;Orquesta;SUAVECITO;Plaza Mayor, León;León
+49691;6;2;16;S;Grupo;SAMBA;Praza Maior, Ourense;Ourense
+50564;6;2;16;S;Orquesta;MIRAMAR;Praza Porta do Sol, Vigo;Pontevedra
+50191;6;2;16;S;Charanga;NBA;Puebla de Sanabria;Zamora
+49640;6;2;16;S;Grupo;FUSIÓN;Régoa, Cedeira;A Coruña
+50068;6;2;16;S;Solista;XILO;Restaurante A Carboeira, Miño;A Coruña
+50338;6;2;16;S;Orquesta;SAUDADE;Restaurante A Lagoa, Vimianzo;A Coruña
+50306;6;2;16;S;Orquesta;COMPOSTELA;Restaurante Balcobo, Arteixo;A Coruña
+49699;6;2;16;S;Charanga;O´SANTIAGUIÑO;Ribeira;A Coruña
+49744;6;2;16;S;Dúo;CARAMELO;Roupar, Xermade;Lugo
+50221;6;2;16;S;Orquesta;GRAN CASINO;Rubiós, As Neves;Pontevedra
+50536;6;2;16;S;Orquesta;CINEMA;S.F. Bahía, Foz;Lugo
+50373;6;2;16;S;Orquesta;PONTEVEDRA;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
+50547;6;2;16;S;Orquesta;ISRAEL;S.F. Josfer, Mesón do Vento;A Coruña
+50129;6;2;16;S;Orquesta;PANAMA;S.F. La Concha, O Val;A Coruña
+50578;6;2;16;S;Orquesta;PRINCIPAL;S.F. La Flor, Montouto;A Coruña
+50353;6;2;16;S;Orquesta;LA FÓRMULA;S.F. La Luna, Cerponzóns;Pontevedra
+50454;6;2;16;S;Orquesta;LA OCABAND;S.F. Rosalar, Ribadeo;Lugo
+49991;6;2;16;S;Grupo;KALIMA 3.0;Sante, Navia;Asturias
+50587;6;2;16;S;Grupo;CHANNEL;Santiago de Compostela;A Coruña
+50320;6;2;16;S;Grupo;ATENAS;Santirso, Malpica de Bergantiños;A Coruña
+50436;6;2;16;S;Orquesta;TRIUNFO;Santirso, Malpica de Bergantiños;A Coruña
+50218;6;2;16;S;Orquesta;XACOBEO;Sendelle, Boimorto;A Coruña
+50394;6;2;16;S;Orquesta;GRAN PARADA;Vega de Ouria, Boal;Asturias
+49223;6;2;16;S;Charanga;FUEGO;Verín;Ourense
+50120;6;2;16;S;Grupo;AMÉRICA DE VIGO;Verín;Ourense
+50679;6;2;16;S;Orquesta;TREBOL;Verín;Ourense
+49592;6;2;16;S;Dúo;CHIC;Vilanova de Arousa;Pontevedra
+49796;6;2;16;S;Dúo;ESTRELLAS;Vilarrube, Valdoviño;A Coruña
+48812;6;2;16;S;Charanga;BB+;Xinzo de Limia;Ourense
+50342;6;2;16;S;Charanga;OS ESCACHAPEITOS;Xunqueira de Ambía;Ourense
+50321;7;2;16;D;Grupo;ATENAS;A Laracha;A Coruña
+50594;7;2;16;D;Orquesta;ISRAEL;Arca, O Pino;A Coruña
+50361;7;2;16;D;Dúo;CHARADA;Brión;A Coruña
+50680;7;2;16;D;Orquesta;TREBOL;Carballo;A Coruña
+49947;7;2;16;D;Orquesta;COMPOSTELA;Carracedo, A Peroxa;Ourense
+49827;7;2;16;D;Charanga;DGT;Dumbría;A Coruña
+50121;7;2;16;D;Grupo;AMÉRICA DE VIGO;Fornelos, O Rosal;Pontevedra
+50559;7;2;16;D;Grupo;ARAMIO;Goián, Tomiño;Pontevedra
+50072;7;2;16;D;Dúo;NUEVA ERA;Illa de Arousa;Pontevedra
+50267;7;2;16;D;Orquesta;PARIS DE NOIA;La Bañeza;León
+50015;7;2;16;D;Grupo;PUNTO CLAVE;Láncara;Lugo
+50199;7;2;16;D;Disco Móvil;SPACE;Laza;Ourense
+50247;7;2;16;D;Charanga;OS CELTAS;Malpica de Bergantiños;A Coruña
+50641;7;2;16;D;Charanga;SANTA COMPAÑA;Muros;A Coruña
+50356;7;2;16;D;Disco Móvil;BOA FESTA;O Barco, O Barco de Valdeorras;Ourense
+49920;7;2;16;D;Charanga;TNT;O Eixo, Santiago de Compostela;A Coruña
+50676;7;2;16;D;Dúo;ESTRELLAS;Ortigueira;A Coruña
+49831;7;2;16;D;Charanga;CASTRO BELLO;Ourense;Ourense
+50325;7;2;16;D;Orquesta;NEW YORK;Pacios de Mondelo, Quiroga;Lugo
+50600;7;2;16;D;Orquesta;SAUDADE;Posada del Bierzo, Ponferrada;León
+49700;7;2;16;D;Charanga;O´SANTIAGUIÑO;Ribeira;A Coruña
+50520;7;2;16;D;Orquesta;CAPITOL;S.F. Chanteclair, Pontecesures;Pontevedra
+50316;7;2;16;D;Orquesta;ABANICO;S.F. La Luna, Cerponzóns;Pontevedra
+49669;7;2;16;D;Orquesta;EL COMBO DOMINICANO;S.F. Morango K.N, Lugo;Lugo
+50481;7;2;16;D;Grupo;ACIREMA;S.F. Paulino, O Carballiño;Ourense
+50517;7;2;16;D;Orquesta;PALLADIUM;S.F. Paulino, O Carballiño;Ourense
+50455;7;2;16;D;Orquesta;LA OCABAND;S.F. Zeus, Campolongo;A Coruña
+50492;7;2;16;D;Grupo;GARIBALDI;Salcedo, A Pobra do Brollón;Lugo
+50502;7;2;16;D;Dúo;LA HORA BRUJA;Salcedo, A Pobra do Brollón;Lugo
+50236;7;2;16;D;Orquesta;PRINCIPAL;Santirso, Malpica de Bergantiños;A Coruña
+50192;7;2;16;D;Charanga;NBA;Sarreaus;Ourense
+50374;7;2;16;D;Orquesta;PONTEVEDRA;Sarreaus;Ourense
+50170;7;2;16;D;Orquesta;NEVADA;Seixalbo, Ourense;Ourense
+50158;7;2;16;D;Dúo;ECLIPSE;Sociedad La Fraternal, Monforte de Lemos;Lugo
+50513;7;2;16;D;Charanga;CANTOS SOMOS;Soutelo de Montes, Forcarei;Pontevedra
+50283;7;2;16;D;Orquesta;LOS SATÉLITES;Taboada;Lugo
+50535;7;2;16;D;Orquesta;ACORDES;Troitosende, A Baña;A Coruña
+49224;7;2;16;D;Charanga;FUEGO;Verín;Ourense
+50601;7;2;16;D;Grupo;D´MODA;Verín;Ourense
+50537;7;2;16;D;Orquesta;CINEMA;Vilariño, Teo;A Coruña
+50446;7;2;16;D;Orquesta;CHARLESTON BIG-BAND;Vilarnaz, Coles;Ourense
+50624;7;2;16;D;Dúo;DIAMANTE;Xaviña, Camariñas;A Coruña
+48813;7;2;16;D;Charanga;BB+;Xinzo de Limia;Ourense
+50507;7;2;16;D;Grupo;NEBRASKA;Xinzo de Limia;Ourense
+49958;8;2;16;L;Dúo;KARMÍN;A Barcala, Cambre;A Coruña
+50476;8;2;16;L;Grupo;AMERICA SL;A Feira, Salceda de Caselas;Pontevedra
+50699;8;2;16;L;Dúo;CHARADA;Boiro;A Coruña
+49890;8;2;16;L;Dúo;NUEVA ERA;Cambados;Pontevedra
+50635;8;2;16;L;Orquesta;MIRAMAR;Castro Barreiro, Salceda de Caselas;Pontevedra
+50719;8;2;16;L;Orquesta;CINEMA;Castro Barreiro, Salceda de Caselas;Pontevedra
+50273;8;2;16;L;Grupo;TAPYÖKA;Cervo;Lugo
+49675;8;2;16;L;Trío;LA NOCHE DO GROVE;Cobres, Vilaboa;Pontevedra
+49922;8;2;16;L;Orquesta;ABANICO;Cobres, Vilaboa;Pontevedra
+50146;8;2;16;L;Orquesta;PARIS DE NOIA;Discoteca Troco, Vilalba;Lugo
+50560;8;2;16;L;Grupo;ARAMIO;Fornelos, O Rosal;Pontevedra
+49997;8;2;16;L;Grupo;D´MODA;Goián, Tomiño;Pontevedra
+50204;8;2;16;L;Grupo;ATENAS;Guimarei, A Estrada;Pontevedra
+50205;8;2;16;L;Orquesta;XACOBEO;Guimarei, A Estrada;Pontevedra
+50349;8;2;16;L;Grupo;GARIBALDI;Irixoa;A Coruña
+50385;8;2;16;L;Orquesta;ARMONÍA SHOW;Las Palmas;Las Palmas
+50201;8;2;16;L;Disco Móvil;SPACE;Laza;Ourense
+50579;8;2;16;L;Orquesta;PRINCIPAL;Liceo, As Pontes de García Rodríguez;A Coruña
+50159;8;2;16;L;Dúo;ECLIPSE;Louseiro, Sarria;Lugo
+49875;8;2;16;L;Orquesta;EL COMBO DOMINICANO;LP45, Ordes;A Coruña
+50622;8;2;16;L;Orquesta;TELEVISIÓN;Marín;Pontevedra
+50295;8;2;16;L;Orquesta;LA FÓRMULA;O Carballiño;Ourense
+50595;8;2;16;L;Orquesta;ISRAEL;O Milladoiro, Ames;A Coruña
+50193;8;2;16;L;Charanga;NBA;Oimbra, Oimbra;Ourense
+50681;8;2;16;L;Orquesta;TREBOL;Ortigueira;A Coruña
+50546;8;2;16;L;Solista;XILO;Os Condes, Bergondo;A Coruña
+50166;8;2;16;L;Charanga;BCB;Ourense;Ourense
+50464;8;2;16;L;Orquesta;CAPITOL;Plaza Mayor, Ourense;Ourense
+50609;8;2;16;L;Dúo;CALÚ;Polideportivo Municipal de Brexo Lema, Cambre;A Coruña
+50130;8;2;16;L;Orquesta;PANAMA;Pontedeume;A Coruña
+50230;8;2;16;L;Orquesta;MARBELLA;Restaurante El Pantano, Abegondo;A Coruña
+49701;8;2;16;L;Charanga;O´SANTIAGUIÑO;Ribeira;A Coruña
+50508;8;2;16;L;Grupo;NEBRASKA;Salceda de Caselas;Pontevedra
+50456;8;2;16;L;Orquesta;LA OCABAND;Salcedo, A Pobra do Brollón;Lugo
+49815;8;2;16;L;Grupo;PUNTO CLAVE;San Miguel de Neira de Rei, Baralla;Lugo
+49800;8;2;16;L;Grupo;LECER;San Pedro de Benquerencia, Barreiros;Lugo
+50514;8;2;16;L;Charanga;CANTOS SOMOS;Tui;Pontevedra
+50004;8;2;16;L;Disco Móvil;CDC MINIDISC;Urdilde, Rois;A Coruña
+50344;8;2;16;L;Grupo;CICLÓN;Urdilde, Rois;A Coruña
+50392;8;2;16;L;Orquesta;FANIA BLANCO SHOW;Veiga, Culleredo;A Coruña
+50307;8;2;16;L;Orquesta;COMPOSTELA;Verín;Ourense
+50359;8;2;16;L;Orquesta;LOS PLAYERS;Vilachá, Monfero;A Coruña
+50136;8;2;16;L;Dúo;CARAMELO;Viveiro;Lugo
+49493;8;2;16;L;Charanga;DGT;Xinzo de Limia;Ourense
+50682;9;2;16;M;Orquesta;TREBOL;A Feira, Salceda de Caselas;Pontevedra
+50733;9;2;16;M;Orquesta;TRIUNFO;A Laracha;A Coruña
+49271;9;2;16;M;Charanga;BB+;A Rúa;Ourense
+50299;9;2;16;M;Orquesta;CINEMA;Ansemar, Castro de Rei;Lugo
+50300;9;2;16;M;Grupo;GARIBALDI;Ansemar, Castro de Rei;Lugo
+50497;9;2;16;M;Dúo;LA HORA BRUJA;Arzúa;A Coruña
+50284;9;2;16;M;Orquesta;LOS SATÉLITES;Betanzos;A Coruña
+50698;9;2;16;M;Grupo;ALKAR;Castro Barreiro, Salceda de Caselas;Pontevedra
+50734;9;2;16;M;Orquesta;MARBELLA;Castro Barreiro, Salceda de Caselas;Pontevedra
+50509;9;2;16;M;Grupo;NEBRASKA;Chantada;Lugo
+49666;9;2;16;M;Orquesta;EL COMBO DOMINICANO;Discoteca INK, Narón;A Coruña
+50181;9;2;16;M;Orquesta;FIN DE SIGLO;Eiroás, Ourense;Ourense
+50202;9;2;16;M;Grupo;AMERICA SL;Laza;Ourense
+50203;9;2;16;M;Disco Móvil;SPACE;Laza;Ourense
+50131;9;2;16;M;Orquesta;PANAMA;Liceo de Noia, Noia;A Coruña
+50334;9;2;16;M;Charanga;BCB;Maceda;Ourense
+50339;9;2;16;M;Orquesta;SAUDADE;Monforte de Lemos;Lugo
+50529;9;2;16;M;Orquesta;COMPOSTELA;Monforte de Lemos;Lugo
+50730;9;2;16;M;Charanga;CASTRO BELLO;O Carballiño;Ourense
+50515;9;2;16;M;Charanga;CANTOS SOMOS;O Porriño;Pontevedra
+50194;9;2;16;M;Charanga;NBA;Oimbra, Oimbra;Ourense
+49034;9;2;16;M;Charanga;CASTRO BELLO;Ourense;Ourense
+50554;9;2;16;M;Grupo;CLAXXON;Parada de Amoeiro, Amoeiro;Ourense
+50371;9;2;16;M;Charanga;SANTA COMPAÑA;Perillo, Oleiros;A Coruña
+50250;9;2;16;M;Charanga;OS CELTAS;Porto do Son;A Coruña
+50268;9;2;16;M;Orquesta;PARIS DE NOIA;Praza Porta do Sol, Vigo;Pontevedra
+49702;9;2;16;M;Charanga;O´SANTIAGUIÑO;Ribeira;A Coruña
+50565;9;2;16;M;Orquesta;MIRAMAR;S.F. Paulino, O Carballiño;Ourense
+50154;9;2;16;M;Solista;AIXA ROMAY;Sada;A Coruña
+50375;9;2;16;M;Orquesta;PONTEVEDRA;Salcedo, A Pobra do Brollón;Lugo
+50526;9;2;16;M;Grupo;D´MODA;San Adrián de Cobres, Vilaboa;Pontevedra
+49940;9;2;16;M;Grupo;TAPYÖKA;San Cibrao, Cervo;Lugo
+47413;9;2;16;M;Charanga;FUEGO;San Cibrao, Oímbra;Ourense
+49961;9;2;16;M;Charanga;OS ESCACHAPEITOS;Sande, Cartelle;Ourense
+50722;9;2;16;M;Charanga;OS ATREVIDOS;Santiago de Compostela;A Coruña
+50141;9;2;16;M;Orquesta;NEVADA;Toro;Zamora
+50021;9;2;16;M;Orquesta;LOS TROVADORES;Verín;Ourense
+50345;9;2;16;M;Grupo;CICLÓN;Verín;Ourense
+49494;9;2;16;M;Charanga;DGT;Xinzo de Limia;Ourense
+50447;9;2;16;M;Orquesta;CHARLESTON BIG-BAND;Xinzo de Limia;Ourense
+50386;10;2;16;X;Orquesta;ARMONÍA SHOW;Agüimes;Las Palmas
+50075;10;2;16;X;Solista;XILO;Ares;A Coruña
+50195;10;2;16;X;Charanga;NBA;Betanzos;A Coruña
+50369;10;2;16;X;Orquesta;ABANICO;Fene;A Coruña
+49881;10;2;16;X;Charanga;CASTRO BELLO;O Carballiño;Ourense
+49703;10;2;16;X;Charanga;O´SANTIAGUIÑO;Ribeira;A Coruña
+50725;12;2;16;V;Grupo;PRISMA;Azzaro Pub, A Ramallosa;Pontevedra
+50232;12;2;16;V;Orquesta;MARBELLA;Centro cultural de Salcedo, Pontevedra;Pontevedra
+50616;12;2;16;V;Dúo;CALÚ;Cervecería La Terraza, O Temple, Cambre;A Coruña
+50376;12;2;16;V;Orquesta;PONTEVEDRA;Corvillón, Cambados;Pontevedra
+50566;12;2;16;V;Orquesta;MIRAMAR;Fornelos de Montes;Pontevedra
+50457;12;2;16;V;Orquesta;LA OCABAND;Noia;A Coruña
+50736;12;2;16;V;Orquesta;NEVADA;O Porriño;Pontevedra
+50269;12;2;16;V;Orquesta;PARIS DE NOIA;Piedras Blancas, Castrillon;Asturias
+50270;12;2;16;V;Grupo;TEKILA;Piedras Blancas, Castrillon;Asturias
+50073;12;2;16;V;Solista;XILO;Restaurante O Pincho, Cambre;A Coruña
+50285;12;2;16;V;Orquesta;LOS SATÉLITES;Santa Cruz, Oleiros;A Coruña
+51213;12;2;16;V;Grupo;ASSIA;Tazones, Villaviciosa;Asturias
+50803;13;2;16;S;Dúo;KARMÍN;A Barcala, Cambre;A Coruña
+50528;13;2;16;S;Dúo;KARMÍN;A Laracha;A Coruña
+50139;13;2;16;S;Dúo;CARAMELO;A Vila de Bares, Mañón;A Coruña
+49893;13;2;16;S;Dúo;NUEVA ERA;Adina, Sanxenxo;Pontevedra
+50778;13;2;16;S;Dúo;MERITXELL;Aguada, Carballedo;Lugo
+50510;13;2;16;S;Grupo;NEBRASKA;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+50757;13;2;16;S;Orquesta;ABANICO;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+49873;13;2;16;S;Trío;ANTHA;Anca, Neda;A Coruña
+50134;13;2;16;S;Charanga;TNT;Astorga;León
+50171;13;2;16;S;Charanga;BB+;Astorga;León
+50602;13;2;16;S;Grupo;D´MODA;Bergondo;A Coruña
+50575;13;2;16;S;Orquesta;LOS PLAYERS;Buño, Malpica de Bergantiños;A Coruña
+50588;13;2;16;S;Disco Móvil;CDC;Buño, Malpica de Bergantiños;A Coruña
+50372;13;2;16;S;Charanga;SANTA COMPAÑA;Cambre;A Coruña
+50625;13;2;16;S;Dúo;DIAMANTE;Carral;A Coruña
+50561;13;2;16;S;Grupo;ARAMIO;Casino Mugardés, Mugardos;A Coruña
+50610;13;2;16;S;Orquesta;CAPITOL;Celanova;Ourense
+50617;13;2;16;S;Dúo;CALÚ;Cervecería La Terraza, O Temple, Cambre;A Coruña
+49207;13;2;16;S;Orquesta;PARIS DE NOIA;Discoteca Litmar, Sarria;Lugo
+50393;13;2;16;S;Orquesta;FANIA BLANCO SHOW;Discoteca Pazos, Laracha;A Coruña
+50074;13;2;16;S;Solista;XILO;Fisterra;A Coruña
+49167;13;2;16;S;Grupo;PUNTO CLAVE;Gomean, O Corgo;Lugo
+49692;13;2;16;S;Orquesta;LOS SATÉLITES;Hotel Casa Barreiro, Ordes;A Coruña
+50714;13;2;16;S;Grupo;ASSIA;Hotel Castillo del Bosque La Zoreda, Oviedo;Asturias
+50142;13;2;16;S;Orquesta;NEVADA;La Bóveda de Toro;Zamora
+50022;13;2;16;S;Orquesta;LOS TROVADORES;Meder, Salvaterra de Miño;Pontevedra
+50482;13;2;16;S;Grupo;ACIREMA;Meder, Salvaterra de Miño;Pontevedra
+50161;13;2;16;S;Dúo;ECLIPSE;Mesón do Loyo, Paradela;Lugo
+50470;13;2;16;S;Orquesta;EL COMBO DOMINICANO;Mogán, Gran Canaria;Las Palmas
+50555;13;2;16;S;Grupo;CLAXXON;Mondoñedo;Lugo
+49978;13;2;16;S;Trío;LA NOCHE DO GROVE;Nantes, Sanxenxo;Pontevedra
+50498;13;2;16;S;Dúo;LA HORA BRUJA;Narón;A Coruña
+50726;13;2;16;S;Grupo;PRISMA;O Carballiño;Ourense
+50308;13;2;16;S;Orquesta;COMPOSTELA;O Vicedo;Lugo
+50618;13;2;16;S;Dúo;CALÚ;Olas, Mesía;A Coruña
+49797;13;2;16;S;Charanga;O´SANTIAGUIÑO;Padrón;A Coruña
+50448;13;2;16;S;Orquesta;CHARLESTON BIG-BAND;Padrón;A Coruña
+50155;13;2;16;S;Solista;AIXA ROMAY;Perlío, Fene;A Coruña
+50715;13;2;16;S;Disco Móvil;JONY LUARCA;Piedras Blancas, Castrillon;Asturias
+50716;13;2;16;S;Grupo;BEATRIZ;Piedras Blancas, Castrillon;Asturias
+50387;13;2;16;S;Orquesta;ARMONÍA SHOW;Puerto del Carmen, Tías;Las Palmas
+50233;13;2;16;S;Orquesta;MARBELLA;Quireza, Cerdedo;Pontevedra
+50821;13;2;16;S;Orquesta;TELEVISIÓN;Quireza, Cerdedo;Pontevedra
+50700;13;2;16;S;Orquesta;PASITO SHOW;Restaurante Amandi, Villaviciosa;Asturias
+50518;13;2;16;S;Orquesta;PALLADIUM;Restaurante El Pantano, Abegondo;A Coruña
+50599;13;2;16;S;Dúo;ESTRELLAS;Restaurante González, Outeiro de Rei;Lugo
+50596;13;2;16;S;Orquesta;ISRAEL;Restaurante Los Rosales, Almázcara;León
+50458;13;2;16;S;Orquesta;LA OCABAND;Restaurante Louzao, Viveiro;Lugo
+50466;13;2;16;S;Orquesta;OLYMPUS RED TOUR;Restaurante O Piñeiral, A Fonsagrada;Lugo
+49801;13;2;16;S;Grupo;LECER;Ribadeo;Lugo
+50326;13;2;16;S;Orquesta;NEW YORK;S.F. Chanteclair, Pontecesures;Pontevedra
+50395;13;2;16;S;Orquesta;GRAN PARADA;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
+49847;13;2;16;S;Orquesta;LA FÓRMULA;S.F. Kanalla, A Cañiza;Pontevedra
+50298;13;2;16;S;Orquesta;CINEMA;S.F. La Concha, O Val;A Coruña
+50683;13;2;16;S;Orquesta;TREBOL;S.F. La Flor, Montouto;A Coruña
+50340;13;2;16;S;Orquesta;SAUDADE;S.F. La Palmera Playa, Vigo;Pontevedra
+50504;13;2;16;S;Grupo;CANELA;S.F. La Reina, Sanguiñeda;Pontevedra
+49747;13;2;16;S;Orquesta;ESSENCIA;S.F. Rosalar, Ribadeo;Lugo
+50626;13;2;16;S;Dúo;DIAMANTE;Sada;A Coruña
+50377;13;2;16;S;Orquesta;PONTEVEDRA;Sociedad Cultural y Deportiva de Mourente, Pontevedra;Pontevedra
+50262;13;2;16;S;Solista;ROCÍO PÉREZ;Sofán, Carballo;A Coruña
+50322;13;2;16;S;Grupo;ATENAS;Trevías, Valdés;Asturias
+50580;13;2;16;S;Orquesta;PRINCIPAL;Vilalonga, Sanxenxo;Pontevedra
+49594;13;2;16;S;Dúo;CHIC;Vilanova de Arousa;Pontevedra
+50348;13;2;16;S;Dúo;CICLÓN;Viveiro;Lugo
+49941;13;2;16;S;Grupo;TAPYÖKA;Xove;Lugo
+50362;13;2;16;S;Dúo;CHARADA;Xuño, Porto do Son;A Coruña
+50792;14;2;16;D;Dúo;LA HORA BRUJA;Arzúa;A Coruña
+50363;14;2;16;D;Dúo;CHARADA;Cambados;Pontevedra
+50459;14;2;16;D;Orquesta;LA OCABAND;Carballiño, O Carballiño;Ourense
+48495;14;2;16;D;Charanga;TNT;Lestedo, Boqueixón;A Coruña
+49855;14;2;16;D;Orquesta;LOS SATÉLITES;Lestedo, Boqueixón;A Coruña
+49856;14;2;16;D;Orquesta;MARBELLA;Lestedo, Boqueixón;A Coruña
+49882;14;2;16;D;Charanga;CASTRO BELLO;O Carballiño;Ourense
+50613;14;2;16;D;Dúo;ECLIPSE;O Corgo;Lugo
+50463;14;2;16;D;Orquesta;CAPITOL;Polideportivo Municipal, Brion;A Coruña
+50324;14;2;16;D;Dúo;CARAMELO;Pontedeume;A Coruña
+50831;14;2;16;D;Orquesta;PALLADIUM;Restaurante El Pantano, Abegondo;A Coruña
+49906;14;2;16;D;Dúo;DE LA CRUZ SHOW;Rianxo;A Coruña
+50538;14;2;16;D;Orquesta;CINEMA;S.F. Chanteclair, Pontecesures;Pontevedra
+50271;14;2;16;D;Orquesta;PARIS DE NOIA;S.F. La Flor, Montouto;A Coruña
+50467;14;2;16;D;Orquesta;OLYMPUS RED TOUR;S.F. La Luna, Cerponzóns;Pontevedra
+50341;14;2;16;D;Orquesta;SAUDADE;S.F. La Palmera Playa, Vigo;Pontevedra
+50143;14;2;16;D;Orquesta;NEVADA;S.F. La Reina, Sanguiñeda;Pontevedra
+50396;14;2;16;D;Orquesta;GRAN PARADA;S.F. Zeus, Campolongo;A Coruña
+50001;14;2;16;D;Solista;AIXA ROMAY;Santa Cecilia, Narón;A Coruña
+50249;14;2;16;D;Charanga;OS CELTAS;Santa Minia, Brión;A Coruña
+50785;14;2;16;D;Charanga;CANTOS SOMOS;Tui;Pontevedra
+49810;14;2;16;D;Orquesta;LA FÓRMULA;Xinzo de Limia;Ourense
+64878;17;2;16;X;Orquesta;CINEMA;Discoteca Litmar, Sarria;Lugo
+49765;19;2;16;V;Solista;AIXA ROMAY;Cervecería La Terraza, O Temple, Cambre;A Coruña
+50892;19;2;16;V;Grupo;GARIBALDI;Corzáns, Salvaterra de Miño;Pontevedra
+50988;19;2;16;V;Orquesta;PALLADIUM;Corzáns, Salvaterra de Miño;Pontevedra
+50728;19;2;16;V;Orquesta;XACOBEO;Guimarei, A Estrada;Pontevedra
+50798;19;2;16;V;Grupo;ATENAS;Guimarei, A Estrada;Pontevedra
+50388;19;2;16;V;Orquesta;ARMONÍA SHOW;Las Palmas;Las Palmas
+50797;19;2;16;V;Orquesta;LA OCABAND;Noia;A Coruña
+50886;19;2;16;V;Orquesta;NEVADA;O Porriño;Pontevedra
+50081;19;2;16;V;Solista;XILO;Os Condes, Bergondo;A Coruña
+50869;19;2;16;V;Disco Móvil;JONY LUARCA;Oviñana, Cudillero;Asturias
+50879;19;2;16;V;Orquesta;PRINCIPAL;Plató 1000, Teo;A Coruña
+50787;19;2;16;V;Orquesta;MIRAMAR;Ponte Caldelas;Pontevedra
+50172;19;2;16;V;Disco Móvil;HAVANA ESPECTÁCULO MUSICAL;Ramales de la Victoria;Cantabria
+50488;19;2;16;V;Grupo;ACIREMA;S.F. Velvet, Monçao;Portugal
+50893;20;2;16;S;Grupo;GARIBALDI;A Cañiza;Pontevedra
+49825;20;2;16;S;Dúo;KARMÍN;A Laracha;A Coruña
+50023;20;2;16;S;Orquesta;LOS TROVADORES;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+50542;20;2;16;S;Orquesta;SUAVECITO;Bembibre;León
+50956;20;2;16;S;Dúo;DELUXE;Buño, Malpica de Bergantiños;A Coruña
+50748;20;2;16;S;Orquesta;LA OCABAND;Casa Maragata, Vilalba;Lugo
+50805;20;2;16;S;Grupo;FUSIÓN;Casino de Franza, Mugardos;A Coruña
+50684;20;2;16;S;Orquesta;TREBOL;Centro Cívico de Cangas, Foz;Lugo
+50603;20;2;16;S;Grupo;D´MODA;Cervás, Ares;A Coruña
+49766;20;2;16;S;Solista;AIXA ROMAY;Cervecería La Terraza, O Temple, Cambre;A Coruña
+50556;20;2;16;S;Grupo;CLAXXON;Cortegada;Ourense
+50836;20;2;16;S;Orquesta;SAUDADE;Cortegada;Ourense
+50983;20;2;16;S;Orquesta;PONTEVEDRA;Corvillón, Cambados;Pontevedra
+50987;20;2;16;S;Grupo;ALKAR;Corvillón, Cambados;Pontevedra
+50346;20;2;16;S;Grupo;CICLÓN;Discoteca Nova Slava, Cee;A Coruña
+50471;20;2;16;S;Orquesta;EL COMBO DOMINICANO;Las Palmas;Las Palmas
+50439;20;2;16;S;Dúo;CARAMELO;Limodre, Fene;A Coruña
+50781;20;2;16;S;Disco Móvil;JONY LUARCA;Luarca, Valdés;Asturias
+50241;20;2;16;S;Dúo;ECLIPSE;Mesón do Loyo, Paradela;Lugo
+50807;20;2;16;S;Orquesta;ACORDES;Negreira;A Coruña
+50731;20;2;16;S;Charanga;CANTOS SOMOS;O Porriño;Pontevedra
+50808;20;2;16;S;Orquesta;COMPOSTELA;O Vicedo;Lugo
+50082;20;2;16;S;Solista;XILO;Os Condes, Bergondo;A Coruña
+50553;20;2;16;S;Charanga;TNT;Oza, Teo;A Coruña
+50531;20;2;16;S;Orquesta;PASITO SHOW;Quintanarraya;Burgos
+50619;20;2;16;S;Dúo;CALÚ;Restaurante Casa Mela, Arteixo;A Coruña
+50007;20;2;16;S;Dúo;CHIC;Ribeira;A Coruña
+50489;20;2;16;S;Grupo;ACIREMA;S.F. Chamán, Goián;Pontevedra
+50226;20;2;16;S;Orquesta;LA FÓRMULA;S.F. Chanteclair, Pontecesures;Pontevedra
+50539;20;2;16;S;Orquesta;CINEMA;S.F. Coliseo, Pontedeume;A Coruña
+50462;20;2;16;S;Orquesta;CAPITOL;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
+50234;20;2;16;S;Orquesta;MARBELLA;S.F. Estilo, Oviedo;Asturias
+50519;20;2;16;S;Orquesta;PALLADIUM;S.F. Josfer, Mesón do Vento;A Coruña
+50297;20;2;16;S;Orquesta;NEW YORK;S.F. La Concha, O Val;A Coruña
+50449;20;2;16;S;Orquesta;CHARLESTON BIG-BAND;S.F. La Flor, Montouto;A Coruña
+50468;20;2;16;S;Orquesta;OLYMPUS RED TOUR;S.F. La Palmera Playa, Vigo;Pontevedra
+50567;20;2;16;S;Orquesta;MIRAMAR;S.F. La Reina, Sanguiñeda;Pontevedra
+50397;20;2;16;S;Orquesta;GRAN PARADA;S.F. Rosalar, Ribadeo;Lugo
+50993;20;2;16;S;Orquesta;TRIUNFO;S.F. Velvet, Monçao;Portugal
+50389;20;2;16;S;Orquesta;ARMONÍA SHOW;San Andrés y Sauces, La Palma;Tenerife
+50364;20;2;16;S;Dúo;CHARADA;Zas;A Coruña
+49848;21;2;16;D;Orquesta;LA FÓRMULA;A Feira, Salceda de Caselas;Pontevedra
+50138;21;2;16;D;Dúo;CARAMELO;Burela;Lugo
+50443;21;2;16;D;Dúo;CHARADA;Cambados;Pontevedra
+50732;21;2;16;D;Orquesta;MARBELLA;Castro Barreiro, Salceda de Caselas;Pontevedra
+49735;21;2;16;D;Dúo;CHIC;Centro Social de Escarabote, Boiro;A Coruña
+50809;21;2;16;D;Orquesta;COMPOSTELA;Monforte de Lemos;Lugo
+50490;21;2;16;D;Grupo;ACIREMA;S.F. Chamán, Goián;Pontevedra
+50460;21;2;16;D;Orquesta;LA OCABAND;S.F. Chanteclair, Pontecesures;Pontevedra
+50484;21;2;16;D;Orquesta;CAPITOL;S.F. La Luna, Cerponzóns;Pontevedra
+50543;21;2;16;D;Orquesta;SUAVECITO;S.F. La Palmera Playa, Vigo;Pontevedra
+50568;21;2;16;D;Orquesta;MIRAMAR;S.F. La Reina, Sanguiñeda;Pontevedra
+50450;21;2;16;D;Orquesta;CHARLESTON BIG-BAND;S.F. Paulino, O Carballiño;Ourense
+50994;21;2;16;D;Orquesta;TRIUNFO;S.F. Velvet, Monçao;Portugal
+50287;21;2;16;D;Orquesta;LOS SATÉLITES;S.F. Zeus, Campolongo;A Coruña
+50786;21;2;16;D;Charanga;CANTOS SOMOS;Tui;Pontevedra
+50583;26;2;16;V;Solista;AIXA ROMAY;Betanzos;A Coruña
+50045;26;2;16;V;Solista;XILO;Meirás, Valdoviño;A Coruña
+51214;26;2;16;V;Grupo;BOMBA;Morro Jable, Pájara;Las Palmas
+51211;26;2;16;V;Grupo;ASSIA;New TOM Corless´s, Gijón;Asturias
+51161;26;2;16;V;Dúo;ESTRELLAS;Plató 1000, Teo;A Coruña
+50451;26;2;16;V;Orquesta;CHARLESTON BIG-BAND;Programa Luar, TVG;A Coruña
+50620;26;2;16;V;Dúo;CALÚ;Pub Copeteo, Mesón do Vento;A Coruña
+49927;26;2;16;V;Orquesta;MARBELLA;S.F. Morango K.N, Lugo;Lugo
+51051;26;2;16;V;Grupo;FÉNIX;S.F. O Que Che Dixen 2, San Miguel de Reinante;Lugo
+50472;26;2;16;V;Orquesta;EL COMBO DOMINICANO;Teror;Las Palmas
+51201;26;2;16;V;Disco Móvil;BOA FESTA;Zamora;Zamora
+49768;27;2;16;S;Solista;AIXA ROMAY;A Coruña;A Coruña
+50581;27;2;16;S;Orquesta;PRINCIPAL;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+50440;27;2;16;S;Dúo;CARAMELO;Ares;A Coruña
+49817;27;2;16;S;Dúo;ESTRELLAS;Auditorio Carmen Estévez, Vilalba;Lugo
+50888;27;2;16;S;Orquesta;NEVADA;Celanova;Ourense
+51217;27;2;16;S;Grupo;GARIBALDI;Cubillos del Sil;León
+50739;27;2;16;S;Orquesta;FANIA BLANCO SHOW;Discoteca A Vieira, Ponteceso;A Coruña
+50815;27;2;16;S;Orquesta;TELEVISIÓN;Discoteca Pazos, Laracha;A Coruña
+50678;27;2;16;S;Solista;CRIS LÓPEZ;Fene;A Coruña
+50057;27;2;16;S;Solista;XILO;Hotel Narón, Narón;A Coruña
+50227;27;2;16;S;Orquesta;LA FÓRMULA;LP45, Ordes;A Coruña
+51132;27;2;16;S;Disco Móvil;JONY LUARCA;Luarca, Valdés;Asturias
+51152;27;2;16;S;Grupo;BEATRIZ;Luarca, Valdés;Asturias
+50390;27;2;16;S;Orquesta;ARMONÍA SHOW;Maspalomas;Las Palmas
+50242;27;2;16;S;Dúo;ECLIPSE;Mesón do Loyo, Paradela;Lugo
+50473;27;2;16;S;Orquesta;EL COMBO DOMINICANO;Morro Jable, Pájara;Las Palmas
+51215;27;2;16;S;Grupo;BOMBA;Morro Jable, Pájara;Las Palmas
+50627;27;2;16;S;Dúo;DIAMANTE;Muxía;A Coruña
+51212;27;2;16;S;Grupo;ASSIA;New TOM Corless´s, Gijón;Asturias
+50760;27;2;16;S;Dúo;CHIC;O Porto;Portugal
+49767;27;2;16;S;Solista;AIXA ROMAY;Oleiros;A Coruña
+51260;27;2;16;S;Trío;AZAR;Paredes, Ponteareas;Pontevedra
+50347;27;2;16;S;Grupo;CICLÓN;Pavillón Municipal, A Pontenova;Lugo
+51124;27;2;16;S;Grupo;PRISMA;Pontevedra;Pontevedra
+50540;27;2;16;S;Orquesta;CINEMA;Restaurante El Pantano, Abegondo;A Coruña
+50685;27;2;16;S;Orquesta;TREBOL;Restaurante Pastoriza, Vimianzo;A Coruña
+50562;27;2;16;S;Grupo;ARAMIO;S.F. Chamán, Goián;Pontevedra
+50296;27;2;16;S;Orquesta;OLYMPUS RED TOUR;S.F. La Concha, O Val;A Coruña
+50398;27;2;16;S;Orquesta;GRAN PARADA;S.F. La Flor, Montouto;A Coruña
+50577;27;2;16;S;Orquesta;LOS PLAYERS;S.F. La Luna, Cerponzóns;Pontevedra
+50452;27;2;16;S;Orquesta;CHARLESTON BIG-BAND;S.F. La Palmera Playa, Vigo;Pontevedra
+50485;27;2;16;S;Orquesta;CAPITOL;S.F. Rosalar, Ribadeo;Lugo
+49676;27;2;16;S;Trío;LA NOCHE DO GROVE;S.F. Velvet, Monçao;Portugal
+51202;27;2;16;S;Disco Móvil;BOA FESTA;Valladolid;Valladolid
+49769;28;2;16;D;Solista;AIXA ROMAY;As Pontes de García Rodríguez;A Coruña
+50107;28;2;16;D;Solista;XILO;Centro Cívico de Caranza, Ferrol;A Coruña
+49677;28;2;16;D;Trío;LA NOCHE DO GROVE;Coron, Vilanova de Arousa;Pontevedra
+50366;28;2;16;D;Dúo;CHARADA;Escarabote, Boiro;A Coruña
+50950;28;2;16;D;Orquesta;CAPITOL;Pazos de Borbén;Pontevedra
+50563;28;2;16;D;Grupo;ARAMIO;S.F. Chamán, Goián;Pontevedra
+50569;28;2;16;D;Orquesta;MIRAMAR;S.F. Chanteclair, Pontecesures;Pontevedra
+50544;28;2;16;D;Orquesta;SUAVECITO;S.F. La Luna, Cerponzóns;Pontevedra
+50453;28;2;16;D;Orquesta;CHARLESTON BIG-BAND;S.F. La Palmera Playa, Vigo;Pontevedra
+50309;28;2;16;D;Orquesta;COMPOSTELA;S.F. Paulino, O Carballiño;Ourense
+50461;28;2;16;D;Orquesta;LA OCABAND;S.F. Velvet, Monçao;Portugal
+50235;28;2;16;D;Orquesta;MARBELLA;S.F. Zeus, Campolongo;A Coruña
+51203;28;2;16;D;Disco Móvil;BOA FESTA;Sagunto;Zamora
+50771;28;2;16;D;Charanga;FUEGO;Toreno;León

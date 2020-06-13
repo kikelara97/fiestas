@@ -1,0 +1,162 @@
+117018;2;4;20;J;Trío;D´LIDER;Azzaro Pub, A Ramallosa;Pontevedra
+117166;3;4;20;V;Disco Móvil;CDC;A Baña;A Coruña
+117165;3;4;20;V;Disco Móvil;CDC;Arnois, A Estrada;Pontevedra
+117192;3;4;20;V;Orquesta;NEW YORK;Arnois, A Estrada;Pontevedra
+117194;3;4;20;V;Orquesta;LA OCABAND;Arnois, A Estrada;Pontevedra
+117361;3;4;20;V;Solista;JUDITH CUNDÍNS;Canduas, Cabana de Bergantiños;A Coruña
+117413;3;4;20;V;Orquesta;PANORAMA;Celeiro, Viveiro;Lugo
+117350;3;4;20;V;Orquesta;EL COMBO DOMINICANO;Discoteca Brandys, Guamasa;Tenerife
+117262;3;4;20;V;Grupo;ARIZONA;Expoverbena;Lugo
+114455;3;4;20;V;Charanga;MANÍA;Frómista;Palencia
+116694;3;4;20;V;Grupo;ASSIA;Gijón;Asturias
+117464;3;4;20;V;Disco Móvil;CHOCOLATE;O Couto de Arriba, Noia;A Coruña
+117465;3;4;20;V;Disco Móvil;CHOCOLATE;O Obre, Noia;A Coruña
+114812;3;4;20;V;Solista;XILO;Os Condes, Bergondo;A Coruña
+117382;3;4;20;V;Dúo;CALÚ;Pabellón de Teixeiro, Teixeiro;A Coruña
+116053;3;4;20;V;Dúo;ESTRELLAS;Sarria;Lugo
+117305;4;4;20;S;Dúo;ZAFIRO;Alfoz;Lugo
+117264;4;4;20;S;Dúo;LA HORA BRUJA;Ambasmestas, Vega de Valcarce;León
+117053;4;4;20;S;Orquesta;LA FÓRMULA;Amio, Santiago de Compostela;A Coruña
+117400;4;4;20;S;Trío;KARMA;Ardaña, Carballo;A Coruña
+117231;4;4;20;S;Solista;JUDITH CUNDÍNS;Buño, Malpica de Bergantiños;A Coruña
+117167;4;4;20;S;Disco Móvil;CDC;Carantoña, Vimianzo;A Coruña
+114456;4;4;20;S;Charanga;MANÍA;Frómista;Palencia
+116624;4;4;20;S;Orquesta;FURIA JOVEN;Gran Canaria;Las Palmas
+116530;4;4;20;S;Dúo;D´VICIO;Meicende, Arteixo;A Coruña
+117466;4;4;20;S;Disco Móvil;CHOCOLATE;O Couto de Arriba, Noia;A Coruña
+114813;4;4;20;S;Solista;XILO;Os Condes, Bergondo;A Coruña
+117365;4;4;20;S;Disco Móvil;CHOCOLATE;Porto do Son;A Coruña
+117383;4;4;20;S;Dúo;CALÚ;Restaurante Os Leóns, Coruña Centro;A Coruña
+116489;4;4;20;S;Charanga;SIN CONTROL;Santa María del Páramo;León
+117172;4;4;20;S;Disco Móvil;CDC MINIDISC;Soandres, A Laracha;A Coruña
+116865;4;4;20;S;Trío;SINTONÍA;Xermade;Lugo
+116435;4;4;20;S;Solista;ROCÍO PÉREZ;Zas;A Coruña
+116651;5;4;20;D;Grupo;TATTOO;Amoeiro;Ourense
+117065;5;4;20;D;Dúo;D´VICIO;Carral;A Coruña
+116031;5;4;20;D;Trío;SINTONÍA;Centro Cívico de Caranza, Ferrol;A Coruña
+114457;5;4;20;D;Charanga;MANÍA;Frómista;Palencia
+116092;5;4;20;D;Trío;MAR DE CAIÓN;Malpica de Bergantiños;A Coruña
+117232;5;4;20;D;Solista;JUDITH CUNDÍNS;Neaño, Cabana de Bergantiños;A Coruña
+115845;5;4;20;D;Charanga;SANTA COMPAÑA;O Burgo, Culleredo;A Coruña
+117468;5;4;20;D;Disco Móvil;CHOCOLATE;O Couto de Arriba, Noia;A Coruña
+117467;5;4;20;D;Disco Móvil;CHOCOLATE;O Obre, Noia;A Coruña
+112537;5;4;20;D;Solista;ROCÍO PÉREZ;Restaurante Pastoriza, Vimianzo;A Coruña
+117457;5;4;20;D;Trío;LA NOCHE DO GROVE;S.F. La Palmera Playa, Vigo;Pontevedra
+116513;5;4;20;D;Charanga;SIN CONTROL;Valencia de Don Juan;León
+115629;8;4;20;X;Charanga;ARDORES;Antas de Ulla;Lugo
+114937;9;4;20;J;Grupo;CHASTTON SHOW;A Pobra de Trives;Ourense
+117274;9;4;20;J;Grupo;NUEVA FUERZA;Malpica de Bergantiños;A Coruña
+117328;9;4;20;J;Charanga;MANÍA;Paredes de Nava;Palencia
+117019;9;4;20;J;Trío;D´LIDER;S.F La Hacienda, O Rosal;Pontevedra
+115978;9;4;20;J;Grupo;TANIA VEIRAS;Valonga, Pol;Lugo
+117338;10;4;20;V;Charanga;SIN CONTROL;Besande;León
+116754;10;4;20;V;Solista;ROCÍO PÉREZ;Carreira, Zas;A Coruña
+117265;10;4;20;V;Orquesta;FANIA BLANCO SHOW;Carreira, Zas;A Coruña
+116778;10;4;20;V;Dúo;ESTRELLAS;Grandas de Salime;Asturias
+115846;10;4;20;V;Charanga;SANTA COMPAÑA;O Burgo, Culleredo;A Coruña
+117479;10;4;20;V;Disco Móvil;CHOCOLATE;O Couto de Arriba, Noia;A Coruña
+117329;10;4;20;V;Charanga;MANÍA;Paredes de Nava;Palencia
+117480;10;4;20;V;Disco Móvil;CHOCOLATE;Ponte de San Francisco, Noia;A Coruña
+115244;11;4;20;S;Charanga;MANÍA;Bariones de la Vega, Cimanes de la Vega;León
+117184;11;4;20;S;Trío;XTRA;Buxán, A Guarda;Pontevedra
+115885;11;4;20;S;Charanga;SANTA COMPAÑA;Carnota;A Coruña
+117173;11;4;20;S;Disco Móvil;CDC MINIDISC;Fisterra;A Coruña
+116517;11;4;20;S;Dúo;LA HORA BRUJA;Mesón O Que Che Dixen, San Miguel de Reinante;Lugo
+117481;11;4;20;S;Disco Móvil;CHOCOLATE;O Couto de Arriba, Noia;A Coruña
+116265;11;4;20;S;Grupo;PUNTO CLAVE;Pereirama, Castroverde;Lugo
+117266;11;4;20;S;Orquesta;TREBOL;Pereirama, Castroverde;Lugo
+117482;11;4;20;S;Disco Móvil;CHOCOLATE;Ponte de San Francisco, Noia;A Coruña
+116033;11;4;20;S;Trío;SINTONÍA;Ribeira;A Coruña
+116539;11;4;20;S;Grupo;TANIA VEIRAS;Rubiás, Calvos de Randín;Ourense
+104673;11;4;20;S;Grupo;CHASTTON SHOW;S.F. Josfer, Mesón do Vento;A Coruña
+116625;11;4;20;S;Orquesta;FURIA JOVEN;Teror;Las Palmas
+117233;11;4;20;S;Solista;JUDITH CUNDÍNS;Trasmonte, Oroso;A Coruña
+117168;11;4;20;S;Disco Móvil;CDC;Trasufe, Muxía;A Coruña
+117384;11;4;20;S;Dúo;D´VICIO;Xove;Lugo
+115630;12;4;20;D;Charanga;ARDORES;Abades, Silleda;Pontevedra
+116763;12;4;20;D;Charanga;EUROPA;Bobadela a Pinta, Xunqueira de Ambía;Ourense
+114609;12;4;20;D;Trío;KARMA;Carral;A Coruña
+117234;12;4;20;D;Solista;JUDITH CUNDÍNS;Corme Aldea, Ponteceso;A Coruña
+117174;12;4;20;D;Disco Móvil;CDC MINIDISC;Fisterra;A Coruña
+117140;12;4;20;D;Charanga;OS BANDIÑOS;Grou, Lobios;Ourense
+115458;12;4;20;D;Charanga;MANÍA;Melgar de Fernamental;Burgos
+116823;12;4;20;D;Trío;SINTONÍA;O Alto do Castaño, Narón;A Coruña
+117235;12;4;20;D;Solista;JUDITH CUNDÍNS;Ponteceso;A Coruña
+115748;12;4;20;D;Charanga;LOUBAND;Quiroga;Lugo
+116873;12;4;20;D;Dúo;CRAZY;S.F. La Luna, Cerponzóns;Pontevedra
+117428;13;4;20;L;Orquesta;XACOBEO;Fisterra;A Coruña
+117357;13;4;20;L;Grupo;ACIREMA;Prevediños, Touro;A Coruña
+117458;17;4;20;V;Trío;LA NOCHE DO GROVE;Mieites, Boiro;A Coruña
+114796;17;4;20;V;Solista;XILO;Os Ánxeles, Brión;A Coruña
+117175;18;4;20;S;Disco Móvil;CDC;Artes, Carballo;A Coruña
+117236;18;4;20;S;Solista;JUDITH CUNDÍNS;Cabana de Bergantiños;A Coruña
+116343;18;4;20;S;Dúo;LA HORA BRUJA;Carballo;A Coruña
+114805;18;4;20;S;Dúo;XILO & CARLOS;Cervecería O Lagar, Neda;A Coruña
+117449;18;4;20;S;Orquesta;XACOBEO;Goá, Cospeito;Lugo
+116360;18;4;20;S;Charanga;ARDORES;Lalín;Pontevedra
+116509;18;4;20;S;Charanga;LEÑA VERDE;Lalín;Pontevedra
+116699;18;4;20;S;Charanga;CLK;Lobios;Ourense
+117358;18;4;20;S;Dúo;ZAFIRO;O Parque, Covas, Viveiro;Lugo
+117052;18;4;20;S;Solista;ROCÍO PÉREZ;Ponteceso;A Coruña
+116626;18;4;20;S;Orquesta;FURIA JOVEN;Santa Cruz de la Palma;Tenerife
+116652;18;4;20;S;Trío;SINTONÍA;Sigüeiro, Oroso;A Coruña
+117459;18;4;20;S;Trío;LA NOCHE DO GROVE;Vilar, Crecente;Pontevedra
+116191;18;4;20;S;Dúo;CALÚ;Visantoña, Santiso;A Coruña
+114978;19;4;20;D;Solista;ROCÍO PÉREZ;Cabana de Bergantiños;A Coruña
+114608;19;4;20;D;Trío;KARMA;Cambre;A Coruña
+117460;19;4;20;D;Trío;LA NOCHE DO GROVE;Casa da Cultura de Corón,Caleiro, Vilanova de Arousa;Pontevedra
+116192;19;4;20;D;Dúo;CALÚ;Iñás, Oleiros;A Coruña
+116824;19;4;20;D;Trío;SINTONÍA;Ponteceso;A Coruña
+114791;19;4;20;D;Solista;XILO;Pontedeume;A Coruña
+117309;19;4;20;D;Grupo;TATTOO;Punxín;Ourense
+117363;19;4;20;D;Charanga;FESTICULTORES TROUPE;San Miguel de Sarandón, Vedra;A Coruña
+115848;20;4;20;L;Charanga;CASTRO BELLO;Punxín;Ourense
+117324;24;4;20;V;Trío;KARMA;A Coruña meal coffe;A Coruña
+114828;24;4;20;V;Solista;XILO;Cervecería Campo García, Meirás;A Coruña
+117108;24;4;20;V;Solista;BEGOÑA GARCÍA;La Reserva, Ferrol;A Coruña
+115128;25;4;20;S;Grupo;ARENA;Arinaga;Las Palmas
+117109;25;4;20;S;Solista;BEGOÑA GARCÍA;Beseño, Touro;A Coruña
+115789;25;4;20;S;Charanga;BCB;Celanova;Ourense
+117238;25;4;20;S;Solista;JUDITH CUNDÍNS;Chaián, Trazo;A Coruña
+116254;25;4;20;S;Grupo;TANIA VEIRAS;Codeseda, Figueiras;A Coruña
+115631;25;4;20;S;Charanga;ARDORES;Cristimil, Lalín;Pontevedra
+116584;25;4;20;S;Orquesta;ACORDES;Folgueira, Outeiro de Rei;Lugo
+116627;25;4;20;S;Orquesta;FURIA JOVEN;Gran Canaria;Las Palmas
+114785;25;4;20;S;Solista;XILO;Hotel Narón, Narón;A Coruña
+117342;25;4;20;S;Charanga;LEÑA VERDE;Lamela, Silleda;Pontevedra
+116663;25;4;20;S;Orquesta;ABANICO;Lousada, Xermade;Lugo
+117321;25;4;20;S;Dúo;ESTRELLAS;O Vicedo;Lugo
+117450;25;4;20;S;Orquesta;XACOBEO;Pígara, Guitiriz;Lugo
+117127;25;4;20;S;Grupo;PUNTO CLAVE;Rebordaos, Castroverde;Lugo
+117456;25;4;20;S;Trío;LA NOCHE DO GROVE;S.F. Velvet, Monçao;Portugal
+117263;25;4;20;S;Grupo;ARIZONA;San marcos, Fene;A Coruña
+115838;25;4;20;S;Dúo;CALÚ;San Marcos, Oleiros;A Coruña
+113786;25;4;20;S;Charanga;SANTA COMPAÑA;San Román, Santiso;A Coruña
+115033;25;4;20;S;Orquesta;COMPOSTELA;San Román, Santiso;A Coruña
+117237;25;4;20;S;Solista;JUDITH CUNDÍNS;Trasmonte, Oroso;A Coruña
+117485;25;4;20;S;Dúo;CALÚ;Xermade;Lugo
+115716;26;4;20;D;Trío;SINTONÍA;Cambre;A Coruña
+114757;26;4;20;D;Solista;XILO;Centro Cívico de Caranza, Ferrol;A Coruña
+117239;26;4;20;D;Solista;JUDITH CUNDÍNS;Corme, Ponteceso;A Coruña
+116908;26;4;20;D;Orquesta;TOKIO;Lousada, Xermade;Lugo
+115534;26;4;20;D;Trío;KARMA;Malpica de Bergantiños;A Coruña
+117110;26;4;20;D;Solista;BEGOÑA GARCÍA;Por determinar;A Coruña
+116585;26;4;20;D;Orquesta;ACORDES;Sillobre, Fene;A Coruña
+112984;26;4;20;D;Dúo;D´VICIO;Vilanova oleiros;A Coruña
+114681;30;4;20;J;Dúo;ESTRELLAS;A Faeira, As Pontes de García Rodríguez;A Coruña
+117351;30;4;20;J;Orquesta;EL COMBO DOMINICANO;Cantodarea, Marín;Pontevedra
+117224;30;4;20;J;Orquesta;SAUDADE;Gondar, Sanxenxo;Pontevedra
+117225;30;4;20;J;Trío;LA NOCHE DO GROVE;Gondar, Sanxenxo;Pontevedra
+116267;30;4;20;J;Grupo;PUNTO CLAVE;Oural, Sarria;Lugo
+117461;30;4;20;J;Disco Móvil;CDC MINIDISC;Pontevedra;Pontevedra
+117426;30;4;20;J;Trío;KARMA;reservado a Coruña;A Coruña
+117296;1;5;20;V;Dúo;CALÚ;Bar Castroverde, Teixeiro;A Coruña
+116954;1;5;20;V;Charanga;CLK;Barrio Vista Hermosa, Ourense;Ourense
+116390;1;5;20;V;Orquesta;GALILEA;Guimarei, A Estrada;Pontevedra
+114854;1;5;20;V;Solista;XILO;Hannover;Null
+112985;1;5;20;V;Dúo;D´VICIO;Meicende, Arteixo;A Coruña
+117180;1;5;20;V;Orquesta;OLYMPUS RED TOUR;O Alto do Castaño, Narón;A Coruña
+117267;1;5;20;V;Orquesta;LOS SATÉLITES;O Alto do Castaño, Narón;A Coruña
+113207;1;5;20;V;Dúo;ESTRELLAS;Penamaior, Becerreá;Lugo
+117427;1;5;20;V;Trío;KARMA;reservado a Coruña;A Coruña
+117320;1;5;20;V;Charanga;CASTRO BELLO;San Xes da Peroxa, A Peroxa;Ourense

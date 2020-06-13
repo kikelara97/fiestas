@@ -1,0 +1,465 @@
+34015;1;2;15;D;Grupo;KALIMA 3.0;Boizán, Vilalba;Lugo
+34321;1;2;15;D;Dúo;CARAMELO;Centro Cívico de Monte Alto, A Coruña;A Coruña
+34562;1;2;15;D;Orquesta;SUAVECITO;Cudeiro, Ourense;Ourense
+33652;1;2;15;D;Dúo;CHARADA;Fisterra;A Coruña
+34504;1;2;15;D;Trío;LA NOCHE DO GROVE;Noalla, Sanxenxo;Pontevedra
+33812;1;2;15;D;Orquesta;LOS PLAYERS;O Mosteiro, O Porriño;Pontevedra
+33813;1;2;15;D;Orquesta;OLYMPUS RED TOUR;O Mosteiro, O Porriño;Pontevedra
+34335;1;2;15;D;Orquesta;PARIS DE NOIA;Pacios de Mondelo, Quiroga;Lugo
+34075;1;2;15;D;Charanga;MANÍA;Palencia;Palencia
+34135;1;2;15;D;Orquesta;EL COMBO DOMINICANO;Playa Club, A Coruña;A Coruña
+34377;1;2;15;D;Orquesta;ACORDES;Rúa, Cervo;Lugo
+33713;1;2;15;D;Orquesta;PONTEVEDRA;S.F. Chanteclair, Pontecesures;Pontevedra
+34343;1;2;15;D;Orquesta;FANIA BLANCO SHOW;S.F. La Reina, Sanguiñeda;Pontevedra
+33979;1;2;15;D;Orquesta;LOS SATÉLITES;S.F. Paulino, O Carballiño;Ourense
+34259;1;2;15;D;Orquesta;PANAMA;S.F. Zeus, Campolongo;A Coruña
+34188;1;2;15;D;Orquesta;ABANICO;Sala Capitol, Santiago de Compostela;A Coruña
+33929;1;2;15;D;Solista;TANIA Y SU ACORDEÓN;Salas;Asturias
+33893;1;2;15;D;Charanga;BB+;Santa Cruz de Ribadulla, Vedra;A Coruña
+33939;1;2;15;D;Charanga;XL;Xinzo de Limia;Ourense
+34142;1;2;15;D;Charanga;BCB;Xinzo de Limia;Ourense
+34108;2;2;15;L;Grupo;LIMÓN;Castrelos, Vigo;Pontevedra
+34379;2;2;15;L;Dúo;PUNTO ZERO;Hotel Restaurante Ardora, Sanxenxo;Pontevedra
+33814;2;2;15;L;Orquesta;CAPITOL;O Mosteiro, O Porriño;Pontevedra
+33815;2;2;15;L;Orquesta;SUPER HOLLYWOOD;O Mosteiro, O Porriño;Pontevedra
+34291;3;2;15;M;Orquesta;COMPOSTELA;Cabeiras, Arbo;Pontevedra
+34481;3;2;15;M;Orquesta;PONTEVEDRA;Castrelos, Vigo;Pontevedra
+34496;3;2;15;M;Orquesta;SAUDADE;Mañufe, Gondomar;Pontevedra
+33816;3;2;15;M;Orquesta;TREBOL;O Mosteiro, O Porriño;Pontevedra
+33817;3;2;15;M;Orquesta;ABANICO;O Mosteiro, O Porriño;Pontevedra
+34568;3;2;15;M;Orquesta;ACORDES;Villamandos;León
+34690;4;2;15;X;Orquesta;TREBOL;Luanco, Gozón;Asturias
+34721;5;2;15;J;Orquesta;DOMINÓ;Luanco, Gozón;Asturias
+34682;5;2;15;J;Trío;ORQUÍDEA;O Tameirón, A Gudiña;Ourense
+34429;5;2;15;J;Charanga;MANÍA;Paredes de Nava;Palencia
+34411;5;2;15;J;Charanga;LOS TÁMEGA;Verín;Ourense
+34614;6;2;15;V;Grupo;ASSIA;Cangas de Onís;Asturias
+34642;6;2;15;V;Orquesta;ISRAEL;Castrejón de la Peña;Palencia
+34755;6;2;15;V;Dúo;CALÚ;Cervecería La Terraza, O Temple, Cambre;A Coruña
+34466;6;2;15;V;Orquesta;CHARLESTON BIG-BAND;Darbo, Cangas do Morrazo;Pontevedra
+34490;6;2;15;V;Orquesta;MARBELLA;Darbo, Cangas do Morrazo;Pontevedra
+34495;6;2;15;V;Orquesta;EL COMBO DOMINICANO;Discoteca La Makro, Telde;Las Palmas
+34398;6;2;15;V;Charanga;NBA;Lalín;Pontevedra
+34722;6;2;15;V;Orquesta;CUARTA CALLE;Luanco, Gozón;Asturias
+32083;6;2;15;V;Orquesta;CINEMA;Muxa, Lugo;Lugo
+34602;6;2;15;V;Grupo;ACIREMA;O Grove;Pontevedra
+34625;6;2;15;V;Grupo;ARAMIO;O Tameirón, A Gudiña;Ourense
+34438;6;2;15;V;Orquesta;LOS SATÉLITES;O Xestal, Monfero;A Coruña
+34264;6;2;15;V;Charanga;MEKANIKA;Programa Luar, TVG;Pontevedra
+34388;6;2;15;V;Orquesta;ESSENCIA;S.F. Morango K.N, Lugo;Lugo
+34156;6;2;15;V;Grupo;CLAXXON;S.F. Zeus, Campolongo;A Coruña
+34271;6;2;15;V;Solista;AIXA ROMAY;S.F. Zeus, Campolongo;A Coruña
+34167;6;2;15;V;Solista;TANIA Y SU ACORDEÓN;Salas;Asturias
+34336;6;2;15;V;Orquesta;PARIS DE NOIA;Ujo, Mieres;Asturias
+34492;6;2;15;V;Grupo;FÉNIX;Vilaxoane, Foz;Lugo
+34182;7;2;15;S;Charanga;DGT;Aranga;A Coruña
+34514;7;2;15;S;Dúo;CARAMELO;As Pontes de García Rodríguez;A Coruña
+34193;7;2;15;S;Orquesta;ABANICO;Burgueira, Oia;Pontevedra
+34223;7;2;15;S;Orquesta;CAPITOL;Burgueira, Oia;Pontevedra
+33935;7;2;15;S;Grupo;PUNTO CLAVE;Castroverde;Lugo
+34756;7;2;15;S;Dúo;CALÚ;Cervecería La Terraza, O Temple, Cambre;A Coruña
+33653;7;2;15;S;Dúo;CHARADA;Cornes, Santiago de Compostela;A Coruña
+34409;7;2;15;S;Orquesta;TREBOL;Corzáns, Salvaterra de Miño;Pontevedra
+34272;7;2;15;S;Solista;AIXA ROMAY;Cutián, Cesuras;A Coruña
+34283;7;2;15;S;Orquesta;TELEVISIÓN;Darbo, Cangas do Morrazo;Pontevedra
+34508;7;2;15;S;Orquesta;OLYMPUS RED TOUR;Discoteca Eclipse, Salceda de Caselas;Pontevedra
+34201;7;2;15;S;Dúo;ECLIPSE;Mesón do Loyo, Paradela;Lugo
+34432;7;2;15;S;Orquesta;EL COMBO DOMINICANO;Mogán, Gran Canaria;Las Palmas
+34563;7;2;15;S;Orquesta;SUAVECITO;Moialde, Vilardevós;Ourense
+34380;7;2;15;S;Dúo;PUNTO ZERO;Oca, A Estrada;Pontevedra
+34615;7;2;15;S;Grupo;ASSIA;Ponteceso;A Coruña
+34634;7;2;15;S;Grupo;AMERICA SL;Ponteceso;A Coruña
+34097;7;2;15;S;Charanga;TNT;Pontevea, Teo;A Coruña
+34534;7;2;15;S;Orquesta;TRIUNFO;Quireza, Cerdedo;Pontevedra
+34535;7;2;15;S;Orquesta;MIRAMAR;Quireza, Cerdedo;Pontevedra
+34643;7;2;15;S;Orquesta;ISRAEL;Restaurante Balcobo, Arteixo;A Coruña
+34467;7;2;15;S;Orquesta;CHARLESTON BIG-BAND;Restaurante El Pantano, Abegondo;A Coruña
+34480;7;2;15;S;Orquesta;PONTEVEDRA;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
+25310;7;2;15;S;Orquesta;LOS SATÉLITES;S.F. Josfer, Mesón do Vento;A Coruña
+34337;7;2;15;S;Orquesta;PARIS DE NOIA;S.F. La Concha, O Val;A Coruña
+34523;7;2;15;S;Grupo;GARIBALDI;S.F. La Luna, Cerponzóns;Pontevedra
+34497;7;2;15;S;Orquesta;SAUDADE;S.F. La Palmera Playa, Vigo;Pontevedra
+34353;7;2;15;S;Orquesta;XACOBEO;S.F. Rosalar, Ribadeo;Lugo
+34603;7;2;15;S;Grupo;ACIREMA;S.F. Velvet, Monçao;Portugal
+33894;7;2;15;S;Charanga;BB+;San Mamede de Ribadulla, Vedra;A Coruña
+34569;7;2;15;S;Orquesta;ACORDES;Sante, Navia;Asturias
+34730;7;2;15;S;Disco Móvil;DECIBELIOS;Sante, Trabada;Lugo
+34280;7;2;15;S;Orquesta;FANIA BLANCO SHOW;Santirso, Malpica de Bergantiños;A Coruña
+34347;7;2;15;S;Grupo;ATENAS;Santirso, Malpica de Bergantiños;A Coruña
+34215;7;2;15;S;Orquesta;PALLADIUM;Sendelle, Boimorto;A Coruña
+34683;7;2;15;S;Trío;ORQUÍDEA;Toques;A Coruña
+34540;7;2;15;S;Orquesta;MARBELLA;Vega de Ouria, Boal;Asturias
+33337;7;2;15;S;Charanga;NOVA;Vilanova, A Pobra de Trives;Ourense
+34619;7;2;15;S;Orquesta;NEVADA;Vilanova, A Pobra de Trives;Ourense
+34572;7;2;15;S;Orquesta;PRINCIPAL;Vilariño, O Barco de Valdeorras;Ourense
+34168;7;2;15;S;Solista;TANIA Y SU ACORDEÓN;Vilela, Ribadeo;Lugo
+34161;7;2;15;S;Orquesta;CINEMA;Xaviña, Camariñas;A Coruña
+33940;7;2;15;S;Charanga;XL;Xinzo de Limia;Ourense
+34143;7;2;15;S;Charanga;BCB;Xinzo de Limia;Ourense
+34381;8;2;15;D;Dúo;PUNTO ZERO;Boiro;A Coruña
+33654;8;2;15;D;Dúo;CHARADA;Illa de Arousa;Pontevedra
+34286;8;2;15;D;Orquesta;PARIS DE NOIA;Lalín Arena, Lalín;Pontevedra
+33895;8;2;15;D;Charanga;BB+;Merza, Vila de Cruces;Pontevedra
+34527;8;2;15;D;Dúo;ECLIPSE;Nadela, Lugo;Lugo
+34757;8;2;15;D;Dúo;CALÚ;Pazo da Cultura de Carballo, Carballo;A Coruña
+34515;8;2;15;D;Dúo;CARAMELO;Pontedeume;A Coruña
+34098;8;2;15;D;Charanga;TNT;Pontevea, Teo;A Coruña
+34273;8;2;15;D;Solista;AIXA ROMAY;Restaurante La Torre, Tabeaio, Carral;A Coruña
+34169;8;2;15;D;Solista;TANIA Y SU ACORDEÓN;Ribadeo;Lugo
+34435;8;2;15;D;Grupo;ATENAS;S.F. Chanteclair, Pontecesures;Pontevedra
+34221;8;2;15;D;Orquesta;PONTEVEDRA;S.F. La Reina, Sanguiñeda;Pontevedra
+34564;8;2;15;D;Orquesta;SUAVECITO;S.F. Paulino, O Carballiño;Ourense
+34573;8;2;15;D;Orquesta;PRINCIPAL;S.F. Velvet, Monçao;Portugal
+34439;8;2;15;D;Orquesta;LOS SATÉLITES;S.F. Zeus, Campolongo;A Coruña
+34189;8;2;15;D;Orquesta;CAPITOL;Sala Capitol, Santiago de Compostela;A Coruña
+34588;8;2;15;D;Orquesta;CIUDADEVIGO;Santirso, Malpica de Bergantiños;A Coruña
+34412;8;2;15;D;Orquesta;CINEMA;Verín;Ourense
+34413;8;2;15;D;Charanga;LOS TÁMEGA;Verín;Ourense
+33339;8;2;15;D;Charanga;NOVA;Vilanova, A Pobra de Trives;Ourense
+34088;8;2;15;D;Orquesta;ABANICO;Vilariño, Teo;A Coruña
+33941;8;2;15;D;Charanga;XL;Xinzo de Limia;Ourense
+34144;8;2;15;D;Charanga;BCB;Xinzo de Limia;Ourense
+34616;12;2;15;J;Grupo;ASSIA;Gijón;Asturias
+34174;12;2;15;J;Grupo;LIMÓN;Laza;Ourense
+34267;12;2;15;J;Charanga;FUEGO;Verín;Ourense
+34414;12;2;15;J;Orquesta;MARBELLA;Verín;Ourense
+34416;12;2;15;J;Charanga;LOS TÁMEGA;Verín;Ourense
+34700;12;2;15;J;Charanga;NBA;Viana do Bolo;Ourense
+34274;13;2;15;V;Solista;AIXA ROMAY;A Coruña;A Coruña
+34263;13;2;15;V;Disco Móvil;CDC;A Picota, Mazaricos;A Coruña
+34285;13;2;15;V;Orquesta;FANIA BLANCO SHOW;A Picota, Mazaricos;A Coruña
+34382;13;2;15;V;Dúo;PUNTO ZERO;Bandeira, Silleda;Pontevedra
+34677;13;2;15;V;Charanga;MEKANIKA;Cedeira;A Coruña
+34338;13;2;15;V;Orquesta;PARIS DE NOIA;Ferrol;A Coruña
+34208;13;2;15;V;Charanga;TNT;O Milladoiro, Ames;A Coruña
+34322;13;2;15;V;Dúo;CARAMELO;O Vicedo;Lugo
+34440;13;2;15;V;Orquesta;LOS SATÉLITES;Paseo Begoña, Gijon;Asturias
+34509;13;2;15;V;Orquesta;OLYMPUS RED TOUR;Praza Concello, Negreira;A Coruña
+34194;13;2;15;V;Charanga;O´SANTIAGUIÑO;Ribeira;A Coruña
+34410;13;2;15;V;Orquesta;EL COMBO DOMINICANO;S.F. Chanteclair, Pontecesures;Pontevedra
+34876;13;2;15;V;Orquesta;TRIUNFO;S.F. Chanteclair, Pontecesures;Pontevedra
+34541;13;2;15;V;Orquesta;MARBELLA;S.F. Morango K.N, Lugo;Lugo
+32977;13;2;15;V;Grupo;ASSIA;San Valentín, Fene;A Coruña
+34557;13;2;15;V;Orquesta;LOS PLAYERS;Tazones, Villaviciosa;Asturias
+34260;13;2;15;V;Orquesta;PANAMA;Torres, Vilarmaior;A Coruña
+34626;13;2;15;V;Grupo;ARAMIO;Urdilde, Rois;A Coruña
+34417;13;2;15;V;Grupo;TEKILA;Verín;Ourense
+34418;13;2;15;V;Charanga;LOS TÁMEGA;Verín;Ourense
+33942;13;2;15;V;Charanga;XL;Xinzo de Limia;Ourense
+34106;13;2;15;V;Charanga;DGT;Xinzo de Limia;Ourense
+34145;13;2;15;V;Charanga;BCB;Xinzo de Limia;Ourense
+34604;14;2;15;S;Grupo;ACIREMA;A Guarda;Pontevedra
+34644;14;2;15;S;Orquesta;ISRAEL;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+34888;14;2;15;S;Trío;ANTHA;Anca, Neda;A Coruña
+34837;14;2;15;S;Grupo;UNIÓN Y FUERZA;Baldaio, Carballo;A Coruña
+34323;14;2;15;S;Dúo;CARAMELO;Bares;A Coruña
+34131;14;2;15;S;Charanga;DGT;Betanzos;A Coruña
+34344;14;2;15;S;Orquesta;FANIA BLANCO SHOW;Carballido, Vilalba;Lugo
+34475;14;2;15;S;Orquesta;ABANICO;Cedeira;A Coruña
+34516;14;2;15;S;Orquesta;CAPITOL;Cedeira;A Coruña
+34486;14;2;15;S;Orquesta;IPANEMA;Ciudad Rodrigo;Salamanca
+34893;14;2;15;S;Grupo;M-3;Cobres, Vilaboa;Pontevedra
+34512;14;2;15;S;Orquesta;TELEVISIÓN;Corme, Ponteceso;A Coruña
+34592;14;2;15;S;Orquesta;GRAN PARADA;Corvillón, Cambados;Pontevedra
+34836;14;2;15;S;Orquesta;XACOBEO;Corvillón, Cambados;Pontevedra
+34339;14;2;15;S;Orquesta;PARIS DE NOIA;Disco Cota 960, A Fonsagrada;Lugo
+34627;14;2;15;S;Grupo;ARAMIO;Discoteca Eclipse, Salceda de Caselas;Pontevedra
+34154;14;2;15;S;Dúo;MERITXELL;Discoteca IDEA, Monforte de Lemos;Lugo
+34275;14;2;15;S;Solista;AIXA ROMAY;Esmelle, Ferrol;A Coruña
+33916;14;2;15;S;Grupo;PUNTO CLAVE;Hotel Alfonso IX, Sarria;Lugo
+34441;14;2;15;S;Orquesta;LOS SATÉLITES;Hotel Casa Barreiro, Ordes;A Coruña
+34768;14;2;15;S;Grupo;ATENAS;Hotel Scala, Padrón;A Coruña
+34570;14;2;15;S;Orquesta;ACORDES;Luarca, Valdés;Asturias
+34476;14;2;15;S;Charanga;OS ESCACHAPEITOS;Luintra, Nogueira de Ramuín;Ourense
+34202;14;2;15;S;Dúo;ECLIPSE;Mesón do Loyo, Paradela;Lugo
+26152;14;2;15;S;Charanga;NOVA;Muíños;Ourense
+34678;14;2;15;S;Charanga;MEKANIKA;Negreira;A Coruña
+33714;14;2;15;S;Grupo;LECER;O Folgueiro, O Vicedo;Lugo
+34383;14;2;15;S;Dúo;PUNTO ZERO;Oca, A Estrada;Pontevedra
+34170;14;2;15;S;Solista;TANIA Y SU ACORDEÓN;Palacio de Cristal, Burela;Lugo
+34498;14;2;15;S;Orquesta;SAUDADE;Palmeira, Ribeira;A Coruña
+34580;14;2;15;S;Orquesta;CENIZA;Plaza María Pita;A Coruña
+34617;14;2;15;S;Grupo;ASSIA;Pola de Laviana;Asturias
+34558;14;2;15;S;Orquesta;LOS PLAYERS;Pontedeume;A Coruña
+34399;14;2;15;S;Charanga;NBA;Puebla de Sanabria;Zamora
+34666;14;2;15;S;Orquesta;RITMO JOVEN;Restaurante Avelino, Mesón do Vento;A Coruña
+34522;14;2;15;S;Orquesta;SUPERFAMA;Restaurante Balcobo, Arteixo;A Coruña
+34758;14;2;15;S;Dúo;CALÚ;Restaurante Casa Mela, Arteixo;A Coruña
+34454;14;2;15;S;Orquesta;PALLADIUM;Restaurante El Pantano, Abegondo;A Coruña
+34885;14;2;15;S;Trío;ORQUÍDEA;Restaurante González, Outeiro de Rei;Lugo
+34691;14;2;15;S;Orquesta;TREBOL;Restaurante Louzao, Viveiro;Lugo
+34222;14;2;15;S;Dúo;DE LA CRUZ SHOW;Rianxo;A Coruña
+34159;14;2;15;S;Charanga;BB+;Ribadeo;Lugo
+34195;14;2;15;S;Charanga;O´SANTIAGUIÑO;Ribeira;A Coruña
+34575;14;2;15;S;Orquesta;PRINCIPAL;Rubiós, As Neves;Pontevedra
+34533;14;2;15;S;Orquesta;MARBELLA;S.F. Bahía, Foz;Lugo
+34649;14;2;15;S;Orquesta;CINEMA;S.F. Chanteclair, Pontecesures;Pontevedra
+34434;14;2;15;S;Orquesta;EL COMBO DOMINICANO;S.F. Dona Dana, Touro;A Coruña
+34565;14;2;15;S;Orquesta;SUAVECITO;S.F. Kanalla, A Cañiza;Pontevedra
+33564;14;2;15;S;Orquesta;PANAMA;S.F. La Concha, O Val;A Coruña
+34668;14;2;15;S;Orquesta;MIRAMAR;S.F. La Luna, Cerponzóns;Pontevedra
+34237;14;2;15;S;Orquesta;ESSENCIA;S.F. Rosalar, Ribadeo;Lugo
+32978;14;2;15;S;Orquesta;OLYMPUS RED TOUR;San Valentín, Fene;A Coruña
+32979;14;2;15;S;Grupo;ALKAR;San Valentín, Fene;A Coruña
+34076;14;2;15;S;Charanga;MANÍA;Santa María del Páramo;León
+34823;14;2;15;S;Orquesta;NEVADA;Sanzoles;Zamora
+34187;14;2;15;S;Dúo;ESTRELLAS;Sarria;Lugo
+34482;14;2;15;S;Orquesta;PONTEVEDRA;Sociedad Cultural y Deportiva de Mourente, Pontevedra;Pontevedra
+34723;14;2;15;S;Orquesta;CUARTA CALLE;Tazones, Villaviciosa;Asturias
+34724;14;2;15;S;Orquesta;DOMINÓ;Tazones, Villaviciosa;Asturias
+34268;14;2;15;S;Charanga;FUEGO;Verín;Ourense
+34419;14;2;15;S;Charanga;LOS TÁMEGA;Verín;Ourense
+34420;14;2;15;S;Grupo;CLAXXON;Verín;Ourense
+34421;14;2;15;S;Orquesta;TRIUNFO;Verín;Ourense
+34458;14;2;15;S;Orquesta;PASSARELA;Vilalonga, Sanxenxo;Pontevedra
+33655;14;2;15;S;Dúo;CHARADA;Vimianzo;A Coruña
+33719;14;2;15;S;Charanga;TNT;Xinzo de Limia;Ourense
+33943;14;2;15;S;Charanga;XL;Xinzo de Limia;Ourense
+34146;14;2;15;S;Charanga;BCB;Xinzo de Limia;Ourense
+34731;14;2;15;S;Disco Móvil;DECIBELIOS;Xove;Lugo
+34645;15;2;15;D;Orquesta;ISRAEL;A Laracha;A Coruña
+34294;15;2;15;D;Orquesta;FIN DE SIGLO;A Xironda, Cualedro;Ourense
+33656;15;2;15;D;Dúo;CHARADA;Abanqueiro, Boiro;A Coruña
+34477;15;2;15;D;Charanga;OS ESCACHAPEITOS;Carballiño, O Carballiño;Ourense
+34692;15;2;15;D;Orquesta;TREBOL;Carballo;A Coruña
+34487;15;2;15;D;Orquesta;IPANEMA;Ciudad Rodrigo;Salamanca
+34894;15;2;15;D;Orquesta;COSTA BLANCA;Cobres, Vilaboa;Pontevedra
+34843;15;2;15;D;Orquesta;FANIA BLANCO SHOW;Discoteca Sambar, Vila de Cruces;Pontevedra
+34912;15;2;15;D;Orquesta;SUPERFAMA;Espasante, Ortigueira;A Coruña
+34506;15;2;15;D;Grupo;D´MODA;Fornelos, O Rosal;Pontevedra
+34984;15;2;15;D;Orquesta;ANDURIÑA;Fornelos, O Rosal;Pontevedra
+34384;15;2;15;D;Dúo;PUNTO ZERO;Isla de Arosa;Pontevedra
+34536;15;2;15;D;Orquesta;TRIUNFO;Laza;Ourense
+34537;15;2;15;D;Orquesta;MARBELLA;Laza;Ourense
+34077;15;2;15;D;Charanga;MANÍA;Mayorga;Valladolid
+34528;15;2;15;D;Dúo;ECLIPSE;Monforte de Lemos;Lugo
+34639;15;2;15;D;Grupo;CLAXXON;Mos;Pontevedra
+34650;15;2;15;D;Orquesta;CINEMA;Praza Maior, Ourense;Ourense
+34196;15;2;15;D;Charanga;O´SANTIAGUIÑO;Ribeira;A Coruña
+34732;15;2;15;D;Disco Móvil;DECIBELIOS;S.F. Bahía, Foz;Lugo
+34455;15;2;15;D;Orquesta;PALLADIUM;S.F. Chanteclair, Pontecesures;Pontevedra
+33562;15;2;15;D;Orquesta;EL COMBO DOMINICANO;S.F. Morango K.N, Lugo;Lugo
+34628;15;2;15;D;Grupo;ARAMIO;S.F. Paulino, O Carballiño;Ourense
+34499;15;2;15;D;Orquesta;SAUDADE;Salceda de Caselas;Pontevedra
+34340;15;2;15;D;Orquesta;PARIS DE NOIA;Salcedo, A Pobra do Brollón;Lugo
+33897;15;2;15;D;Charanga;BB+;Santa Lucia;A Coruña
+34898;15;2;15;D;Orquesta;GRAN PARADA;Sarreaus;Ourense
+34620;15;2;15;D;Orquesta;NEVADA;Seixalbo, Ourense;Ourense
+34483;15;2;15;D;Orquesta;PONTEVEDRA;Taboada;Lugo
+34571;15;2;15;D;Orquesta;ACORDES;Toro;Zamora
+34517;15;2;15;D;Orquesta;CAPITOL;Troitosende, A Baña;A Coruña
+34838;15;2;15;D;Grupo;UNIÓN Y FUERZA;Troitosende, A Baña;A Coruña
+34269;15;2;15;D;Charanga;FUEGO;Verín;Ourense
+34422;15;2;15;D;Charanga;LOS TÁMEGA;Verín;Ourense
+34424;15;2;15;D;Orquesta;CHARLESTON BIG-BAND;Verín;Ourense
+34425;15;2;15;D;Grupo;GARIBALDI;Verín;Ourense
+34890;15;2;15;D;Orquesta;COMPOSTELA;Vilarnaz, Coles;Ourense
+34911;15;2;15;D;Grupo;ATENAS;Villamartín de la Abadía;León
+23933;15;2;15;D;Charanga;NOVA;Xinzo de Limia;Ourense
+33720;15;2;15;D;Charanga;TNT;Xinzo de Limia;Ourense
+33944;15;2;15;D;Charanga;XL;Xinzo de Limia;Ourense
+34147;15;2;15;D;Charanga;BCB;Xinzo de Limia;Ourense
+34400;15;2;15;D;Charanga;NBA;Xinzo de Limia;Ourense
+34679;15;2;15;D;Charanga;MEKANIKA;Xinzo de Limia;Ourense
+34787;15;2;15;D;Orquesta;RITMO JOVEN;Xinzo de Limia;Ourense
+34538;16;2;15;L;Orquesta;TRIUNFO;A Feira, Salceda de Caselas;Pontevedra
+34788;16;2;15;L;Orquesta;RITMO JOVEN;A Guarda;Pontevedra
+34727;16;2;15;L;Charanga;OS ESCACHAPEITOS;Barrio da Ponte, Ourense;Ourense
+34199;16;2;15;L;Charanga;BB+;Bertamiráns, Ames;A Coruña
+34559;16;2;15;L;Orquesta;LOS PLAYERS;Bertamiráns, Ames;A Coruña
+34903;16;2;15;L;Orquesta;MIRAMAR;Castro Barreiro, Salceda de Caselas;Pontevedra
+34978;16;2;15;L;Orquesta;PALLADIUM;Castro Barreiro, Salceda de Caselas;Pontevedra
+34646;16;2;15;L;Orquesta;ISRAEL;Centro Cívico de Cangas, Foz;Lugo
+34292;16;2;15;L;Orquesta;NEVADA;Cobres, Vilaboa;Pontevedra
+34895;16;2;15;L;Trío;AZAR;Cobres, Vilaboa;Pontevedra
+34651;16;2;15;L;Orquesta;CINEMA;Discoteca Troco, Vilalba;Lugo
+34500;16;2;15;L;Orquesta;SAUDADE;Fornelos, O Rosal;Pontevedra
+34583;16;2;15;L;Orquesta;SOLARA;Fornelos, O Rosal;Pontevedra
+34566;16;2;15;L;Orquesta;SUAVECITO;Gijón;Asturias
+34629;16;2;15;L;Grupo;ARAMIO;Goián, Tomiño;Pontevedra
+34553;16;2;15;L;Grupo;LIMÓN;Guimarei, A Estrada;Pontevedra
+34078;16;2;15;L;Charanga;MANÍA;La Bañeza;León
+34295;16;2;15;L;Orquesta;FIN DE SIGLO;Laza;Ourense
+34524;16;2;15;L;Grupo;GARIBALDI;Laza;Ourense
+34795;16;2;15;L;Dúo;ECLIPSE;Louseiro, Sarria;Lugo
+34796;16;2;15;L;Grupo;PUNTO CLAVE;Louseiro, Sarria;Lugo
+34433;16;2;15;L;Orquesta;EL COMBO DOMINICANO;LP45, Ordes;A Coruña
+34447;16;2;15;L;Orquesta;XACOBEO;Marín;Pontevedra
+34430;16;2;15;L;Solista;TANIA Y SU ACORDEÓN;Meira;Lugo
+34554;16;2;15;L;Grupo;ATENAS;O Carballiño;Ourense
+34593;16;2;15;L;Orquesta;GRAN PARADA;O Carballiño;Ourense
+34680;16;2;15;L;Charanga;MEKANIKA;Oimbra;Ourense
+34468;16;2;15;L;Orquesta;CHARLESTON BIG-BAND;Plaza da Mariña, Burela;Lugo
+34689;16;2;15;L;Dúo;CICLÓN;Polideportivo Municipal de Brexo Lema, Cambre;A Coruña
+34693;16;2;15;L;Orquesta;TREBOL;Praza Maior, Ourense;Ourense
+34982;16;2;15;L;Solista;AIXA ROMAY;Rañobre, Arteixo;A Coruña
+34542;16;2;15;L;Orquesta;MARBELLA;Restaurante El Pantano, Abegondo;A Coruña
+34197;16;2;15;L;Charanga;O´SANTIAGUIÑO;Ribeira;A Coruña
+34395;16;2;15;L;Orquesta;ESSENCIA;Salcedo, A Pobra do Brollón;Lugo
+34974;16;2;15;L;Grupo;ALKAR;Salcedo, A Pobra do Brollón;Lugo
+34510;16;2;15;L;Orquesta;OLYMPUS RED TOUR;Urdilde, Rois;A Coruña
+34345;16;2;15;L;Orquesta;FANIA BLANCO SHOW;Veiga, Culleredo;A Coruña
+34341;16;2;15;L;Orquesta;PARIS DE NOIA;Verín;Ourense
+34261;16;2;15;L;Orquesta;PANAMA;Vilachá, Monfero;A Coruña
+34725;16;2;15;L;Dúo;CARAMELO;Vilachá, Monfero;A Coruña
+34733;16;2;15;L;Disco Móvil;DECIBELIOS;Viveiro;Lugo
+23934;16;2;15;L;Charanga;NOVA;Xinzo de Limia;Ourense
+33721;16;2;15;L;Charanga;TNT;Xinzo de Limia;Ourense
+33945;16;2;15;L;Charanga;XL;Xinzo de Limia;Ourense
+34149;16;2;15;L;Charanga;BCB;Xinzo de Limia;Ourense
+34401;16;2;15;L;Charanga;NBA;Xinzo de Limia;Ourense
+34469;17;2;15;M;Orquesta;CHARLESTON BIG-BAND;A Feira, Salceda de Caselas;Pontevedra
+34979;17;2;15;M;Orquesta;PARIS DE NOIA;A Feira, Salceda de Caselas;Pontevedra
+34445;17;2;15;M;Orquesta;PASSARELA;A Guarda;Pontevedra
+34694;17;2;15;M;Orquesta;TREBOL;A Laracha;A Coruña
+34324;17;2;15;M;Dúo;CARAMELO;Arzúa;A Coruña
+34525;17;2;15;M;Grupo;GARIBALDI;Burela;Lugo
+33596;17;2;15;M;Orquesta;PONTEVEDRA;Castro Barreiro, Salceda de Caselas;Pontevedra
+34513;17;2;15;M;Orquesta;TELEVISIÓN;Castro Barreiro, Salceda de Caselas;Pontevedra
+34507;17;2;15;M;Grupo;D´MODA;Chantada;Lugo
+34630;17;2;15;M;Grupo;ARAMIO;Gondomar;Pontevedra
+34079;17;2;15;M;Charanga;MANÍA;La Bañeza;León
+34892;17;2;15;M;Grupo;ALKAR;Laza;Ourense
+34389;17;2;15;M;Orquesta;ESSENCIA;Liceo de Noia, Noia;A Coruña
+34824;17;2;15;M;Orquesta;NEVADA;Maceda;Ourense
+34605;17;2;15;M;Grupo;ACIREMA;Monforte de Lemos;Lugo
+23935;17;2;15;M;Charanga;NOVA;Ourense;Ourense
+34578;17;2;15;M;Orquesta;PRINCIPAL;Puerta del Sol, Vigo;Pontevedra
+34107;17;2;15;M;Charanga;BB+;Ribeira;A Coruña
+34198;17;2;15;M;Charanga;O´SANTIAGUIÑO;Ribeira;A Coruña
+34632;17;2;15;M;Orquesta;MIRAMAR;S.F. Paulino, O Carballiño;Ourense
+34346;17;2;15;M;Orquesta;FANIA BLANCO SHOW;Salcedo, A Pobra do Brollón;Lugo
+34567;17;2;15;M;Orquesta;SUAVECITO;San Cibrao, Cervo;Lugo
+34129;17;2;15;M;Grupo;LECER;San Pedro de Benquerencia, Barreiros;Lugo
+34863;17;2;15;M;Charanga;OS ESCACHAPEITOS;Sande, Cartelle;Ourense
+34501;17;2;15;M;Orquesta;SAUDADE;Toro;Zamora
+34906;17;2;15;M;Charanga;CANTOS SOMOS;Tui;Pontevedra
+34427;17;2;15;M;Orquesta;PALLADIUM;Verín;Ourense
+33722;17;2;15;M;Charanga;TNT;Xinzo de Limia;Ourense
+33946;17;2;15;M;Charanga;XL;Xinzo de Limia;Ourense
+34150;17;2;15;M;Charanga;BCB;Xinzo de Limia;Ourense
+34183;17;2;15;M;Charanga;DGT;Xinzo de Limia;Ourense
+34327;17;2;15;M;Orquesta;ABANICO;Xinzo de Limia;Ourense
+34402;17;2;15;M;Charanga;NBA;Xinzo de Limia;Ourense
+34681;17;2;15;M;Charanga;MEKANIKA;Xinzo de Limia;Ourense
+34403;18;2;15;X;Charanga;NBA;Betanzos;A Coruña
+34983;18;2;15;X;Solista;AIXA ROMAY;Ferrol;A Coruña
+34254;18;2;15;X;Charanga;BB+;Muros;A Coruña
+34212;18;2;15;X;Charanga;O´SANTIAGUIÑO;Ribeira;A Coruña
+33947;18;2;15;X;Charanga;XL;Xinzo de Limia;Ourense
+34845;20;2;15;V;Orquesta;MARBELLA;Celanova;Ourense
+33094;20;2;15;V;Orquesta;MIRAMAR;Fornelos de Montes;Pontevedra
+33139;20;2;15;V;Orquesta;PARIS DE NOIA;Fornelos de Montes;Pontevedra
+34325;20;2;15;V;Dúo;CARAMELO;O Barqueiro, Mañón;A Coruña
+34262;20;2;15;V;Orquesta;PANAMA;Pabellón Municipal, Neda;A Coruña
+35054;20;2;15;V;Dúo;ECLIPSE;Rubián, Bóveda;Lugo
+34484;20;2;15;V;Orquesta;PONTEVEDRA;S.F. Morango K.N, Lugo;Lugo
+34985;20;2;15;V;Trío;AZAR;S.F. Velvet, Monçao;Portugal
+35005;20;2;15;V;Solista;TANIA Y SU ACORDEÓN;San Miguel de Reinante, Barreiros;Lugo
+34442;20;2;15;V;Orquesta;LOS SATÉLITES;Santa Cruz, Oleiros;A Coruña
+34995;20;2;15;V;Dúo;CALÚ;Sobrado;A Coruña
+34276;21;2;15;S;Solista;AIXA ROMAY;A Coruña;A Coruña
+34997;21;2;15;S;Orquesta;OLYMPUS RED TOUR;A Guarda;Pontevedra
+33896;21;2;15;S;Charanga;BB+;Aldán, Cangas do Morrazo;Pontevedra
+34840;21;2;15;S;Grupo;UNIÓN Y FUERZA;Baldaio, Carballo;A Coruña
+34326;21;2;15;S;Dúo;CARAMELO;Barallobre, Fene;A Coruña
+34080;21;2;15;S;Charanga;MANÍA;Bembibre;León
+34479;21;2;15;S;Orquesta;PANAMA;Buño, Malpica de Bergantiños;A Coruña
+34555;21;2;15;S;Grupo;ATENAS;Cambre;A Coruña
+34622;21;2;15;S;Orquesta;GRAN CASINO;Casino Mugardés, Mugardos;A Coruña
+34579;21;2;15;S;Orquesta;PRINCIPAL;Casino Puerto de Vega, Navia;Asturias
+34385;21;2;15;S;Dúo;PUNTO ZERO;Castrogudín, Vilagarcía de Arousa;Pontevedra
+34390;21;2;15;S;Orquesta;ESSENCIA;Celanova;Ourense
+34443;21;2;15;S;Orquesta;LOS SATÉLITES;Centro Cívico de Cangas, Foz;Lugo
+34594;21;2;15;S;Orquesta;GRAN PARADA;Chapela, Redondela;Pontevedra
+35053;21;2;15;S;Orquesta;SAUDADE;Cubillos del Sil;León
+34352;21;2;15;S;Grupo;PUNTO CLAVE;Disco Pub Jaguar 2, Becerreá;Lugo
+34543;21;2;15;S;Orquesta;MARBELLA;Discoteca Eclipse, Salceda de Caselas;Pontevedra
+34896;21;2;15;S;Grupo;D´MODA;Isorna, Rianxo;A Coruña
+34734;21;2;15;S;Disco Móvil;DECIBELIOS;La Caridad, El Franco;Asturias
+34986;21;2;15;S;Trío;AZAR;Meder, Salvaterra de Miño;Pontevedra
+34996;21;2;15;S;Orquesta;LOS PLAYERS;Meder, Salvaterra de Miño;Pontevedra
+34470;21;2;15;S;Orquesta;CHARLESTON BIG-BAND;O Porriño;Pontevedra
+34728;21;2;15;S;Charanga;O´SANTIAGUIÑO;Padrón;A Coruña
+35052;21;2;15;S;Orquesta;ABANICO;Pontedeume;A Coruña
+33657;21;2;15;S;Dúo;CHARADA;Porto do Son;A Coruña
+33953;21;2;15;S;Orquesta;PARIS DE NOIA;Pub F&K, As Pontes de García Rodríguez;A Coruña
+34980;21;2;15;S;Grupo;BOMBA;Puerto del Carmen, Tías;Las Palmas
+34695;21;2;15;S;Orquesta;TREBOL;Restaurante A Lagoa, Vimianzo;A Coruña
+34574;21;2;15;S;Orquesta;ACORDES;Restaurante Balcobo, Arteixo;A Coruña
+34652;21;2;15;S;Orquesta;CINEMA;Restaurante El Pantano, Abegondo;A Coruña
+34669;21;2;15;S;Orquesta;MIRAMAR;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
+34526;21;2;15;S;Grupo;GARIBALDI;S.F. Estilo, Oviedo;Asturias
+34485;21;2;15;S;Orquesta;PONTEVEDRA;S.F. Josfer, Mesón do Vento;A Coruña
+34647;21;2;15;S;Orquesta;ISRAEL;S.F. La Palmera Playa, Vigo;Pontevedra
+34354;21;2;15;S;Orquesta;COMPOSTELA;S.F. Rosalar, Ribadeo;Lugo
+34034;21;2;15;S;Charanga;MEKANIKA;Sada;A Coruña
+34303;21;2;15;S;Charanga;NBA;Sada;A Coruña
+35048;21;2;15;S;Grupo;ALKAR;Salceda de Caselas;Pontevedra
+34171;21;2;15;S;Solista;TANIA Y SU ACORDEÓN;San Antolin de Ibias;Asturias
+34436;21;2;15;S;Orquesta;EL COMBO DOMINICANO;Santa Cruz de Tenerife;Tenerife
+34606;21;2;15;S;Grupo;ACIREMA;Sociedad Cultural y Deportiva de Mourente, Pontevedra;Pontevedra
+34640;21;2;15;S;Grupo;CLAXXON;Trevías, Valdés;Asturias
+34456;21;2;15;S;Orquesta;PALLADIUM;Vilaestrofe, Cervo;Lugo
+34277;22;2;15;D;Solista;AIXA ROMAY;A Mera, Ortigueira;A Coruña
+33658;22;2;15;D;Dúo;CHARADA;A Pobra do Caramiñal;A Coruña
+34909;22;2;15;D;Orquesta;PASSARELA;Brión;A Coruña
+34839;22;2;15;D;Grupo;UNIÓN Y FUERZA;Carcacía, Padrón;A Coruña
+34905;22;2;15;D;Solista;TANIA Y SU ACORDEÓN;La Braña, El Franco;Asturias
+33723;22;2;15;D;Charanga;TNT;Lestedo, Boqueixón;A Coruña
+34544;22;2;15;D;Orquesta;MARBELLA;Lestedo, Boqueixón;A Coruña
+34404;22;2;15;D;Charanga;NBA;Malpica de Bergantiños;A Coruña
+34913;22;2;15;D;Orquesta;PONTEVEDRA;O Carballiño;Ourense
+34081;22;2;15;D;Charanga;MANÍA;Osorno;Palencia
+34556;22;2;15;D;Grupo;ACIREMA;Pazos de Borbén;Pontevedra
+34392;22;2;15;D;Orquesta;ESSENCIA;S.F. Chanteclair, Pontecesures;Pontevedra
+34653;22;2;15;D;Orquesta;CINEMA;S.F. La Luna, Cerponzóns;Pontevedra
+34638;22;2;15;D;Grupo;ARAMIO;S.F. Velvet, Monçao;Portugal
+34899;22;2;15;D;Orquesta;GRAN PARADA;S.F. Zeus, Campolongo;A Coruña
+34035;22;2;15;D;Charanga;MEKANIKA;Sada;A Coruña
+34190;22;2;15;D;Orquesta;SUAVECITO;Sala Capitol, Santiago de Compostela;A Coruña
+34577;22;2;15;D;Orquesta;ACORDES;Trobajo del Cercedo;León
+34907;22;2;15;D;Charanga;CANTOS SOMOS;Tui;Pontevedra
+33948;22;2;15;D;Charanga;XL;Xinzo de Limia;Ourense
+34521;22;2;15;D;Orquesta;CAPITOL;Xinzo de Limia;Ourense
+34278;27;2;15;V;Solista;AIXA ROMAY;A Coruña;A Coruña
+34318;27;2;15;V;Orquesta;EL COMBO DOMINICANO;Haría, Lanzarote;Las Palmas
+34904;27;2;15;V;Orquesta;MIRAMAR;Ponte Caldelas;Pontevedra
+34071;27;2;15;V;Orquesta;ABANICO;S.F. Morango K.N, Lugo;Lugo
+34759;28;2;15;S;Dúo;CALÚ;A Coruña;A Coruña
+34431;28;2;15;S;Solista;TANIA Y SU ACORDEÓN;Cangas del Narcea;Asturias
+33936;28;2;15;S;Grupo;PUNTO CLAVE;Castroverde;Lugo
+34529;28;2;15;S;Dúo;ECLIPSE;Centro Cívico, Xove;Lugo
+35086;28;2;15;S;Orquesta;RITMO JOVEN;Cervás, Ares;A Coruña
+34595;28;2;15;S;Orquesta;GRAN PARADA;Discoteca Eclipse, Salceda de Caselas;Pontevedra
+34155;28;2;15;S;Dúo;MERITXELL;Discoteca IDEA, Monforte de Lemos;Lugo
+34618;28;2;15;S;Grupo;ASSIA;Gijón;Asturias
+34279;28;2;15;S;Solista;AIXA ROMAY;Loureda, Arteixo;A Coruña
+34459;28;2;15;S;Orquesta;PASSARELA;O Cádavo, Cotobade;Pontevedra
+34489;28;2;15;S;Orquesta;CAPITOL;O Cádavo, Cotobade;Pontevedra
+34881;28;2;15;S;Charanga;TNT;Oza, Teo;A Coruña
+34511;28;2;15;S;Orquesta;OLYMPUS RED TOUR;Recinto Ferial Luis Adaro, Gijón;Asturias
+34648;28;2;15;S;Orquesta;ISRAEL;Restaurante A Lagoa, Vimianzo;A Coruña
+33659;28;2;15;S;Dúo;CHARADA;Ribeira;A Coruña
+34545;28;2;15;S;Orquesta;MARBELLA;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
+34696;28;2;15;S;Orquesta;TREBOL;S.F. Josfer, Mesón do Vento;A Coruña
+34478;28;2;15;S;Orquesta;ABANICO;S.F. Kanalla, A Cañiza;Pontevedra
+34444;28;2;15;S;Orquesta;LOS SATÉLITES;S.F. La Concha, O Val;A Coruña
+35064;28;2;15;S;Orquesta;PONTEVEDRA;S.F. La Palmera Playa, Vigo;Pontevedra
+34437;28;2;15;S;Orquesta;EL COMBO DOMINICANO;San Andrés y Sauces, La Palma;Tenerife
+34451;28;2;15;S;Orquesta;PRINCIPAL;Torneiros, O Porriño;Pontevedra
+34857;28;2;15;S;Grupo;LECER;Trabada;Lugo
+35072;28;2;15;S;Charanga;MANÍA;Vega de Espinareda;León
+34841;28;2;15;S;Grupo;UNIÓN Y FUERZA;Xornes, Ponteceso;A Coruña
+35087;1;3;15;D;Charanga;MEKANIKA;Arzúa;A Coruña
+35239;1;3;15;D;Dúo;PUNTO ZERO;Boiro;A Coruña
+34866;1;3;15;D;Dúo;CHARADA;Brión;A Coruña
+34998;1;3;15;D;Solista;TANIA Y SU ACORDEÓN;La Caridad, El Franco;Asturias
+35154;1;3;15;D;Grupo;ATENAS;Mazaricos;A Coruña
+35031;1;3;15;D;Orquesta;GRAN PARADA;S.F. Chanteclair, Pontecesures;Pontevedra
+35171;1;3;15;D;Orquesta;MARBELLA;S.F. La Luna, Cerponzóns;Pontevedra
+35103;1;3;15;D;Orquesta;CHARLESTON BIG-BAND;S.F. La Reina, Sanguiñeda;Pontevedra
+35110;1;3;15;D;Orquesta;SOLARA;S.F. Paulino, O Carballiño;Ourense
+35138;1;3;15;D;Orquesta;CAPITOL;S.F. Velvet, Monçao;Portugal
+34900;1;3;15;D;Orquesta;LOS SATÉLITES;Sala Capitol, Santiago de Compostela;A Coruña
+34763;3;3;15;M;Dúo;ESTRELLAS;Vigo;Pontevedra
