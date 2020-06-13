@@ -1,0 +1,392 @@
+113731;1;11;19;V;Solista;ROCÍO PÉREZ;A Vila de Abade, Tordoia;A Coruña
+114128;1;11;19;V;Solista;JUDITH CUNDÍNS;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+114157;1;11;19;V;Grupo;NOCHE DE ESTRELLAS;Canido, Vigo;Pontevedra
+114098;1;11;19;V;Dúo;ACHERIZA2;Cebreiro, O Pino;A Coruña
+113420;1;11;19;V;Charanga;ARDORES;Cercio, Lalín;Pontevedra
+100207;1;11;19;V;Solista;BEGOÑA GARCÍA;Cervecería La Terraza, O Temple, Cambre;A Coruña
+98357;1;11;19;V;Solista;XILO;Cervecería O Lagar, Neda;A Coruña
+114172;1;11;19;V;Dúo;D´VICIO;Discoteca Hermo, Muimenta;Lugo
+113926;1;11;19;V;Orquesta;PANORAMA;Discoteca Queen, Mos;Pontevedra
+113955;1;11;19;V;Grupo;BEATRIZ;Fresneda, Siero;Asturias
+114241;1;11;19;V;Grupo;TEKILA;Gijón;Asturias
+114075;1;11;19;V;Trío;LA NOCHE DO GROVE;Maceira, Covelo;Pontevedra
+114229;1;11;19;V;Orquesta;COMPOSTELA;Plató 1000, Teo;A Coruña
+114089;1;11;19;V;Orquesta;LOS SATÉLITES;S.F. Josfer, Mesón do Vento;A Coruña
+114110;1;11;19;V;Grupo;AMÉRICA DE VIGO;S.F. Velvet, Monçao;Portugal
+109680;2;11;19;S;Dúo;CALÚ;A Coruña;A Coruña
+113778;2;11;19;S;Trío;XTRA;A Garrida, Vigo;Pontevedra
+113803;2;11;19;S;Orquesta;CAPITOL;A Garrida, Vigo;Pontevedra
+114227;2;11;19;S;Grupo;ATENAS;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+114240;2;11;19;S;Dúo;EXPLOSIÓN;Barrela;Lugo
+114025;2;11;19;S;Dúo;D´VICIO;Canduas, Cabana de Bergantiños;A Coruña
+114207;2;11;19;S;Grupo;GARIBALDI;Casaio, Carballeda de Valdeorras;Ourense
+114265;2;11;19;S;Trío;LA NOCHE DO GROVE;Casaio, Carballeda de Valdeorras;Ourense
+114129;2;11;19;S;Solista;JUDITH CUNDÍNS;Casino de Franza, Mugardos;A Coruña
+114031;2;11;19;S;Dúo;ECLIPSE;Castelo, Taboada;Lugo
+109543;2;11;19;S;Charanga;MEKANIKA;Chantada;Lugo
+114086;2;11;19;S;Orquesta;ISRAEL;Disco Cota 960, A Fonsagrada;Lugo
+111496;2;11;19;S;Dúo;ESTRELLAS;Eirexalba, O Incio;Lugo
+114242;2;11;19;S;Orquesta;PASITO SHOW;Gijón;Asturias
+113839;2;11;19;S;Grupo;LECER;Gontán, Abadín;Lugo
+106924;2;11;19;S;Charanga;EUROPA;Hermisende;Zamora
+114020;2;11;19;S;Orquesta;FANIA BLANCO SHOW;La Colmena, Narón;A Coruña
+113956;2;11;19;S;Grupo;BEATRIZ;Moreda, Aller;Asturias
+114007;2;11;19;S;Grupo;ATRÉVETE;O Esto, Cabana de Bergantiños;A Coruña
+113543;2;11;19;S;Dúo;CHARADA;Orro, Noia;A Coruña
+113997;2;11;19;S;Orquesta;GRAN PARADA;Ortigueira;A Coruña
+114013;2;11;19;S;Orquesta;PRINCIPAL;Ortigueira;A Coruña
+97385;2;11;19;S;Trío;SINTONÍA;Parrillada Peiró, Cambre;A Coruña
+114094;2;11;19;S;Orquesta;LOS TROVADORES;Restaurante Amandi, Villaviciosa;Asturias
+98358;2;11;19;S;Solista;XILO;Restaurante La Torre, Tabeaio, Carral;A Coruña
+97108;2;11;19;S;Dúo;ESTRELLAS;Ribeira, Palas de Rei;Lugo
+114046;2;11;19;S;Grupo;FAMA;S.F. Chamán, Goián;Pontevedra
+113927;2;11;19;S;Orquesta;PANORAMA;S.F. Chanteclair, Pontecesures;Pontevedra
+114249;2;11;19;S;Orquesta;NEVADA;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
+113886;2;11;19;S;Solista;BEGOÑA GARCÍA;S.F. La Cueva del Pirata, Sada;A Coruña
+114010;2;11;19;S;Grupo;TANIA VEIRAS;S.F. La Luna, Cerponzóns;Pontevedra
+113866;2;11;19;S;Orquesta;MIRAMAR;S.F. Rosalar, Ribadeo;Lugo
+114090;2;11;19;S;Orquesta;LOS SATÉLITES;S.F. Rosalar, Ribadeo;Lugo
+114111;2;11;19;S;Grupo;AMÉRICA DE VIGO;San Martiño de Moaña;Pontevedra
+114200;2;11;19;S;Trío;INNOVACIÓN;Seoane do Courel, Folgoso do Courel;Lugo
+114158;2;11;19;S;Grupo;NOCHE DE ESTRELLAS;Vila Nova de Cerveira;Portugal
+114144;2;11;19;S;Charanga;BCB;Xunqueira de Espadanedo;Ourense
+113686;2;11;19;S;Solista;ROCÍO PÉREZ;Zas;A Coruña
+114032;3;11;19;D;Dúo;ECLIPSE;A Laxe, O Valadouro;Lugo
+113887;3;11;19;D;Solista;BEGOÑA GARCÍA;As Casillas, Guitiriz;Lugo
+113544;3;11;19;D;Dúo;CHARADA;Brión;A Coruña
+114076;3;11;19;D;Trío;LA NOCHE DO GROVE;Dena, Meaño;Pontevedra
+114217;3;11;19;D;Orquesta;FANIA BLANCO SHOW;Discoteca Rv Disc, Betanzos;A Coruña
+114202;3;11;19;D;Trío;INNOVACIÓN;Escarabote, Boiro;A Coruña
+114159;3;11;19;D;Grupo;NOCHE DE ESTRELLAS;Moaña;Pontevedra
+114230;3;11;19;D;Orquesta;COMPOSTELA;Oleiros;A Coruña
+114130;3;11;19;D;Solista;JUDITH CUNDÍNS;Ponteceso;A Coruña
+98359;3;11;19;D;Solista;XILO;Restaurante La Torre, Tabeaio, Carral;A Coruña
+114047;3;11;19;D;Grupo;FAMA;S.F. Chamán, Goián;Pontevedra
+113957;3;11;19;D;Grupo;BEATRIZ;S.F. Estilo, Oviedo;Asturias
+114101;3;11;19;D;Orquesta;CAPITOL;S.F. La Luna, Cerponzóns;Pontevedra
+114091;3;11;19;D;Orquesta;LOS SATÉLITES;S.F. La Reina, Sanguiñeda;Pontevedra
+114087;3;11;19;D;Orquesta;ISRAEL;S.F. Paulino, O Carballiño;Ourense
+113867;3;11;19;D;Orquesta;MIRAMAR;S.F. Velvet, Monçao;Portugal
+114253;7;11;19;J;Trío;D´LIDER;Azzaro Pub, A Ramallosa;Pontevedra
+114131;7;11;19;J;Solista;JUDITH CUNDÍNS;Vila de Cruces;Pontevedra
+114067;8;11;19;V;Dúo;ECLIPSE;A Rúa;Ourense
+98360;8;11;19;V;Solista;XILO;Cervecería La Terraza, O Temple, Cambre;A Coruña
+114258;8;11;19;V;Dúo;CARAMELO;Corvelle, A Pastoriza;Lugo
+114112;8;11;19;V;Grupo;AMÉRICA DE VIGO;Galans, Vilagarcía;Pontevedra
+114267;8;11;19;V;Orquesta;SAUDADE;Galans, Vilagarcía;Pontevedra
+114235;8;11;19;V;Orquesta;TRIUNFO;Pino, Cospeito;Lugo
+114088;8;11;19;V;Orquesta;ISRAEL;Plató 1000, Teo;A Coruña
+108305;8;11;19;V;Dúo;ESTRELLAS;San Martín do Porto, Cabañas;A Coruña
+114244;8;11;19;V;Orquesta;METRÓPOLIS;San Martiño de Asperelo, Rodeiro;Pontevedra
+114376;8;11;19;V;Grupo;FÉNIX;San Martiño, Foz;Lugo
+114102;8;11;19;V;Orquesta;CAPITOL;Vilar de Gomareite, Vilar de Barrio;Ourense
+114248;9;11;19;S;Orquesta;VENEZIA;A Mata, Cabana de Bergantiños;A Coruña
+114231;9;11;19;S;Orquesta;COMPOSTELA;A Picoña, Salceda de Caselas;Pontevedra
+114276;9;11;19;S;Grupo;EUREKA;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+104841;9;11;19;S;Grupo;VAN BAND;Andrade, Pontedeume;A Coruña
+113984;9;11;19;S;Grupo;RIAZOR;Andrade, Pontedeume;A Coruña
+112977;9;11;19;S;Dúo;D´VICIO;Armentón, Arteixo;A Coruña
+114383;9;11;19;S;Disco Móvil;SONORA MUSIC;Armentón, Arteixo;A Coruña
+114279;9;11;19;S;Trío;MAR DE CAIÓN;Cances, Carballo;A Coruña
+114218;9;11;19;S;Orquesta;FANIA BLANCO SHOW;Cerceda;A Coruña
+98361;9;11;19;S;Solista;XILO;Cervecería La Terraza, O Temple, Cambre;A Coruña
+113732;9;11;19;S;Solista;ROCÍO PÉREZ;Chamín, Arteixo;A Coruña
+113977;9;11;19;S;Grupo;M-3;Cortiguera, Cabañas Raras;León
+114259;9;11;19;S;Grupo;FÉNIX;Corvelle, A Pastoriza;Lugo
+114113;9;11;19;S;Grupo;AMÉRICA DE VIGO;Currás, Tomiño;Pontevedra
+113826;9;11;19;S;Grupo;ACIREMA;Discoteca Pazos, Laracha;A Coruña
+114250;9;11;19;S;Orquesta;NEVADA;Figueiras, Mondoñedo;Lugo
+114163;9;11;19;S;Grupo;NOCHE DE ESTRELLAS;Figueiró, Tomiño;Pontevedra
+114236;9;11;19;S;Orquesta;TRIUNFO;Figueiró, Tomiño;Pontevedra
+114362;9;11;19;S;Orquesta;CHARLESTON BIG-BAND;Galans, Vilagarcía;Pontevedra
+114387;9;11;19;S;Grupo;ALKAR;Galans, Vilagarcía;Pontevedra
+114275;9;11;19;S;Dúo;ESTRELLAS;Galdo, Viveiro;Lugo
+114109;9;11;19;S;Trío;XTRA;Gomariz, Baltar;Ourense
+114288;9;11;19;S;Grupo;CHASTTON SHOW;La Colmena, Narón;A Coruña
+98845;9;11;19;S;Orquesta;ABANICO;Lanzós, Vilalba;Lugo
+114405;9;11;19;S;Trío;D´NIKA MUSIC;Lanzós, Vilalba;Lugo
+113545;9;11;19;S;Dúo;CHARADA;Laraño, Santiago de Compostela;A Coruña
+113917;9;11;19;S;Grupo;ATENAS;Lariño, Carnota;A Coruña
+113852;9;11;19;S;Orquesta;METRÓPOLIS;Lariño, Carnota;A Coruña
+114356;9;11;19;S;Disco Móvil;IMPACTO;Lariño, Carnota;A Coruña
+113727;9;11;19;S;Charanga;LOUBAND;Loseiro;Lugo
+114341;9;11;19;S;Grupo;LA BAMBA;Miñortos, Porto do Son;A Coruña
+114077;9;11;19;S;Trío;LA NOCHE DO GROVE;Moreira, Ponteareas;Pontevedra
+113444;9;11;19;S;Trío;D´LIDER;Nigrán;Pontevedra
+114061;9;11;19;S;Orquesta;SAUDADE;O Grove;Pontevedra
+114062;9;11;19;S;Orquesta;KUBO;O Grove;Pontevedra
+113325;9;11;19;S;Dúo;LA HORA BRUJA;O Incio;Lugo
+99847;9;11;19;S;Grupo;VAN BAND;O Roxal, Neda;A Coruña
+114210;9;11;19;S;Grupo;GARIBALDI;Olmillos de Castro;Zamora
+112945;9;11;19;S;Dúo;ELIXIR;Ombreiro, Lugo;Lugo
+111395;9;11;19;S;Trío;KARMA;Ourense;Ourense
+114103;9;11;19;S;Orquesta;CAPITOL;Pino, Cospeito;Lugo
+114317;9;11;19;S;Orquesta;TREBOL;Pino, Cospeito;Lugo
+114201;9;11;19;S;Trío;INNOVACIÓN;Porta do Conde, Portas;Pontevedra
+114011;9;11;19;S;Dúo;URAKÁN;Restaurante Canta la Rana, Buño;A Coruña
+113868;9;11;19;S;Orquesta;MIRAMAR;Restaurante El Pantano, Abegondo;A Coruña
+114334;9;11;19;S;Grupo;ARAMIO;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
+112851;9;11;19;S;Grupo;LUME;S.F. Josfer, Mesón do Vento;A Coruña
+113238;9;11;19;S;Orquesta;SOLARA;Salcedo, Pontevedra;Pontevedra
+114118;9;11;19;S;Orquesta;PRINCIPAL;Salcedo, Pontevedra;Pontevedra
+114392;9;11;19;S;Orquesta;STÉREO;San Martín de Luiña, Cudillero;Asturias
+114302;9;11;19;S;Orquesta;ISRAEL;San Martín do Porto, Cabañas;A Coruña
+113998;9;11;19;S;Orquesta;GRAN PARADA;San Martiño de Meis, Meis;Pontevedra
+114226;9;11;19;S;Grupo;AMERICA SL;San Martiño de Meis, Meis;Pontevedra
+112125;9;11;19;S;Orquesta;MAGOS;San Martiño de Moaña;Pontevedra
+113577;9;11;19;S;Orquesta;LOS SATÉLITES;San Martiño de Moaña;Pontevedra
+114033;9;11;19;S;Dúo;ECLIPSE;San Tomé, Cartelle;Ourense
+114099;9;11;19;S;Dúo;ACHERIZA2;San Xoán de Pena, Lugo;Lugo
+113736;9;11;19;S;Dúo;CALÚ;Tabeaio, Carral;A Coruña
+114095;9;11;19;S;Orquesta;LOS TROVADORES;Tiobre, Betanzos;A Coruña
+114161;9;11;19;S;Orquesta;MARBELLA;Verducido de Xeve, Pontevedra;Pontevedra
+112697;9;11;19;S;Charanga;BCB;Verea;Ourense
+114378;9;11;19;S;Orquesta;LA OLA ADN;Vilaseco, Vimianzo;A Coruña
+114179;9;11;19;S;Orquesta;LA OCABAND;Zaparín, Cortegada;Ourense
+103086;10;11;19;D;Trío;INNOVACIÓN;Aguiño, Ribeira;A Coruña
+113269;10;11;19;D;Solista;JUDITH CUNDÍNS;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+114208;10;11;19;D;Trío;INNOVACIÓN;Andabao, Boimorto;A Coruña
+114280;10;11;19;D;Trío;MAR DE CAIÓN;Bueu;Pontevedra
+110988;10;11;19;D;Solista;ROCÍO PÉREZ;Cabana de Bergantiños;A Coruña
+112978;10;11;19;D;Dúo;D´VICIO;Cabanas;A Coruña
+113888;10;11;19;D;Solista;BEGOÑA GARCÍA;Cambre;A Coruña
+113546;10;11;19;D;Dúo;CHARADA;Centro Social de Escarabote, Boiro;A Coruña
+114333;10;11;19;D;Orquesta;TRIUNFO;Cortiguera, Cabañas Raras;León
+114301;10;11;19;D;Orquesta;ISRAEL;Discoteca Rv Disc, Betanzos;A Coruña
+114406;10;11;19;D;Trío;D´NIKA MUSIC;Lanzós, Vilalba;Lugo
+114096;10;11;19;D;Orquesta;LOS TROVADORES;Laraño, Santiago de Compostela;A Coruña
+112817;10;11;19;D;Charanga;TNT;Lariño, Carnota;A Coruña
+114063;10;11;19;D;Orquesta;CHARLESTON BIG-BAND;O Grove;Pontevedra
+114034;10;11;19;D;Dúo;ECLIPSE;O Páramo;Lugo
+114117;10;11;19;D;Orquesta;PRINCIPAL;Pino, Cospeito;Lugo
+98362;10;11;19;D;Solista;XILO;Pontedeume;A Coruña
+114345;10;11;19;D;Orquesta;LA OCABAND;S.F. La Luna, Cerponzóns;Pontevedra
+114232;10;11;19;D;Orquesta;COMPOSTELA;S.F. La Reina, Sanguiñeda;Pontevedra
+114318;10;11;19;D;Orquesta;TREBOL;S.F. Paulino, O Carballiño;Ourense
+114335;10;11;19;D;Grupo;ARAMIO;S.F. Velvet, Monçao;Portugal
+114277;10;11;19;D;Grupo;EUREKA;S.F. Zeus, Campolongo;A Coruña
+114268;10;11;19;D;Orquesta;SAUDADE;Salcedo, Pontevedra;Pontevedra
+114078;10;11;19;D;Trío;LA NOCHE DO GROVE;San Martiño de Meis, Meis;Pontevedra
+113870;10;11;19;D;Orquesta;MIRAMAR;San Martiño de Moaña;Pontevedra
+113918;10;11;19;D;Orquesta;GRAN PARADA;San Martiño de Moaña;Pontevedra
+114162;10;11;19;D;Orquesta;MARBELLA;San Martiño, Poio;Pontevedra
+114016;10;11;19;D;Charanga;OS CHARANGOS;Sobrado dos Monxes, Sobrado;A Coruña
+113737;10;11;19;D;Dúo;CALÚ;Tabeaio, Carral;A Coruña
+114166;10;11;19;D;Grupo;NOCHE DE ESTRELLAS;Tui;Pontevedra
+114211;10;11;19;D;Grupo;GARIBALDI;Vilela, Verín;Ourense
+114164;11;11;19;L;Orquesta;MARBELLA;Bueu;Pontevedra
+114212;11;11;19;L;Grupo;GARIBALDI;Faramontanos de Tábara;Zamora
+114173;11;11;19;L;Dúo;D´VICIO;Laraño, Santiago de Compostela;A Coruña
+114064;11;11;19;L;Orquesta;VERSIÓN ORIGINAL;O Grove;Pontevedra
+114079;11;11;19;L;Trío;LA NOCHE DO GROVE;Salcedo, Pontevedra;Pontevedra
+114219;11;11;19;L;Orquesta;FANIA BLANCO SHOW;Salcedo, Pontevedra;Pontevedra
+114104;11;11;19;L;Orquesta;CAPITOL;San Martiño de Moaña;Pontevedra
+114180;11;11;19;L;Orquesta;LA OCABAND;San Martiño de Moaña;Pontevedra
+110885;11;11;19;L;Trío;INNOVACIÓN;Vilar de Infesta, Redondela;Pontevedra
+114269;11;11;19;L;Orquesta;SAUDADE;Vilarrubín, A Peroxa;Ourense
+114396;14;11;19;J;Trío;D´LIDER;Azzaro Pub, A Ramallosa;Pontevedra
+114150;14;11;19;J;Solista;ROCÍO PÉREZ;O Tarambollo, Carballo;A Coruña
+114448;15;11;19;V;Dúo;XILO & CARLOS;Cervecería Campo García, Meirás;A Coruña
+114332;15;11;19;V;Grupo;NOCHE DE ESTRELLAS;Coruxo, Vigo;Pontevedra
+113864;15;11;19;V;Solista;ROCÍO PÉREZ;Entrecruces Baja, Carballo;A Coruña
+114068;15;11;19;V;Dúo;ECLIPSE;Vilamartín, Vilamartín de Valdeorras;Ourense
+114245;16;11;19;S;Orquesta;METRÓPOLIS;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+114225;16;11;19;S;Grupo;UNIÓN Y FUERZA;Andeiro, Cambre;A Coruña
+112887;16;11;19;S;Solista;ROCÍO PÉREZ;Ardaña, Carballo;A Coruña
+114108;16;11;19;S;Dúo;LA HORA BRUJA;Baleira;Lugo
+113779;16;11;19;S;Trío;XTRA;Bértola, Vilaboa;Pontevedra
+114388;16;11;19;S;Grupo;ALKAR;Besnes, Peñamellera Alta;Asturias
+114472;16;11;19;S;Orquesta;XACOBEO;Borela, Cotobade;Pontevedra
+114336;16;11;19;S;Grupo;ARAMIO;Borreiros, Gondomar;Pontevedra
+114447;16;11;19;S;Solista;XILO;Cabanas;A Coruña
+114206;16;11;19;S;Trío;INNOVACIÓN;Camanzo, Vila de Cruces;Pontevedra
+114237;16;11;19;S;Orquesta;TRIUNFO;Carantoña, Vimianzo;A Coruña
+114443;16;11;19;S;Disco Móvil;CDC MINIDISC;Carantoña, Vimianzo;A Coruña
+113756;16;11;19;S;Trío;D´NIKA MUSIC;Caraño, Pol;Lugo
+114343;16;11;19;S;Grupo;LUME;Centro Cívico de Cangas, Foz;Lugo
+114141;16;11;19;S;Orquesta;ARMONÍA SHOW;Cruce de Sardina, Vecindario;Las Palmas
+114015;16;11;19;S;Dúo;URAKÁN;Fiestras, Silleda;Pontevedra
+113908;16;11;19;S;Solista;XILO;Fisterra;A Coruña
+114019;16;11;19;S;Dúo;ZAFIRO;Friol;Lugo
+114184;16;11;19;S;Dúo;SON D´CARACAS;Iñás, Oleiros;A Coruña
+114021;16;11;19;S;Orquesta;SAUDADE;La Colmena, Narón;A Coruña
+114417;16;11;19;S;Orquesta;EL COMBO DOMINICANO;Liechtenstein;Liechtenstein
+114442;16;11;19;S;Disco Móvil;CDC;Liechtenstein;Liechtenstein
+114233;16;11;19;S;Orquesta;COMPOSTELA;Mosteiro, Pol;Lugo
+98499;16;11;19;S;Charanga;EUROPA;Muíños;Ourense
+113869;16;11;19;S;Orquesta;MIRAMAR;Noche, Vilalba;Lugo
+113919;16;11;19;S;Orquesta;TREBOL;Noche, Vilalba;Lugo
+113284;16;11;19;S;Dúo;ESTRELLAS;O Viveiró, Muras;Lugo
+114482;16;11;19;S;Solista;CRIS LÓPEZ;Paiosaco, Laracha;A Coruña
+113973;16;11;19;S;Dúo;D´VICIO;Paradela;Lugo
+114203;16;11;19;S;Trío;INNOVACIÓN;Pezobre, Santiso;A Coruña
+113857;16;11;19;S;Dúo;URAKÁN;Pub Glass, Sarria;Lugo
+113571;16;11;19;S;Trío;D´LIDER;Rande, Redondela;Pontevedra
+114228;16;11;19;S;Grupo;ATENAS;Restaurante A Lagoa, Vimianzo;A Coruña
+114132;16;11;19;S;Solista;JUDITH CUNDÍNS;Restaurante Canta la Rana, Buño;A Coruña
+114151;16;11;19;S;Orquesta;SOLARA;Restaurante El Pantano, Abegondo;A Coruña
+114105;16;11;19;S;Orquesta;CAPITOL;Restaurante El Pantano, Abegondo;A Coruña
+114316;16;11;19;S;Dúo;CALÚ;Restaurante Pastoriza, Arteixo;A Coruña
+114441;16;11;19;S;Disco Móvil;CDC;Restaurante Pastoriza, Vimianzo;A Coruña
+114490;16;11;19;S;Grupo;AMERICA SL;Rus, Zas;A Coruña
+114213;16;11;19;S;Grupo;GARIBALDI;Rus, Zas;A Coruña
+114167;16;11;19;S;Grupo;NOCHE DE ESTRELLAS;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
+114116;16;11;19;S;Orquesta;PRINCIPAL;S.F. Josfer, Mesón do Vento;A Coruña
+113889;16;11;19;S;Solista;BEGOÑA GARCÍA;S.F. La Cueva del Pirata, Sada;A Coruña
+114119;16;11;19;S;Orquesta;ESSENCIA;S.F. La Flor, Montouto;A Coruña
+114379;16;11;19;S;Orquesta;LA OLA ADN;S.F. La Luna, Cerponzóns;Pontevedra
+114220;16;11;19;S;Orquesta;FANIA BLANCO SHOW;S.F. Rosalar, Ribadeo;Lugo
+113270;16;11;19;S;Solista;JUDITH CUNDÍNS;Sigüeiro, Oroso;A Coruña
+113965;16;11;19;S;Grupo;TANIA VEIRAS;Soñar, Lugo;Lugo
+114299;16;11;19;S;Dúo;ACHERIZA2;Vilanova de Arousa;Pontevedra
+114284;16;11;19;S;Orquesta;LA OCABAND;Vilarrube, Valdoviño;A Coruña
+114126;16;11;19;S;Orquesta;FIN DE SIGLO;Vilarrube, Valdoviño;A Coruña
+108321;16;11;19;S;Trío;KARMA;Xoane, Carballo;A Coruña
+114355;17;11;19;D;Solista;ROCÍO PÉREZ;A Laracha;A Coruña
+113909;17;11;19;D;Solista;XILO;A Mera, Ortigueira;A Coruña
+111058;17;11;19;D;Dúo;CALÚ;Andeiro, Cambre;A Coruña
+113970;17;11;19;D;Trío;KARMA;Carral;A Coruña
+113974;17;11;19;D;Dúo;D´VICIO;Centro Cívico de Monte Alto, A Coruña;A Coruña
+114350;17;11;19;D;Grupo;ALKAR;Discoteca Rv Disc, Betanzos;A Coruña
+114187;17;11;19;D;Charanga;LEÑA VERDE;Dozón;Pontevedra
+114069;17;11;19;D;Dúo;ECLIPSE;Noche, Vilalba;Lugo
+114133;17;11;19;D;Solista;JUDITH CUNDÍNS;Restaurante A Lagoa, Vimianzo;A Coruña
+112533;17;11;19;D;Solista;ROCÍO PÉREZ;Restaurante Pastoriza, Vimianzo;A Coruña
+114189;17;11;19;D;Charanga;ARDORES;Rodeiro;Pontevedra
+114048;17;11;19;D;Orquesta;SOLARA;S.F. Chamán, Goián;Pontevedra
+114221;17;11;19;D;Orquesta;FANIA BLANCO SHOW;S.F. La Reina, Sanguiñeda;Pontevedra
+114106;17;11;19;D;Orquesta;CAPITOL;S.F. Morango K.N, Lugo;Lugo
+114181;17;11;19;D;Orquesta;LA OCABAND;S.F. Paulino, O Carballiño;Ourense
+114270;17;11;19;D;Orquesta;SAUDADE;S.F. Velvet, Monçao;Portugal
+114320;17;11;19;D;Orquesta;TREBOL;S.F. Zeus, Campolongo;A Coruña
+114205;17;11;19;D;Trío;INNOVACIÓN;Saxamonde, Redondela;Pontevedra
+114169;17;11;19;D;Grupo;NOCHE DE ESTRELLAS;Vigo;Pontevedra
+114234;17;11;19;D;Orquesta;COMPOSTELA;Vilarrube, Valdoviño;A Coruña
+114222;19;11;19;M;Orquesta;FANIA BLANCO SHOW;Plató 1000, Teo;A Coruña
+114254;21;11;19;J;Trío;D´LIDER;Azzaro Pub, A Ramallosa;Pontevedra
+113890;22;11;19;V;Solista;BEGOÑA GARCÍA;Ferrol;A Coruña
+114339;22;11;19;V;Dúo;ESTRELLAS;Monforte de Lemos;Lugo
+110601;22;11;19;V;Grupo;VAN BAND;Neda;A Coruña
+114470;22;11;19;V;Grupo;TANIA VEIRAS;Plató 1000, Teo;A Coruña
+113910;22;11;19;V;Solista;XILO;Pub La Terraza, Ordes;A Coruña
+113861;22;11;19;V;Dúo;URAKÁN;Rodeiro;Pontevedra
+109681;23;11;19;S;Dúo;CALÚ;A Coruña;A Coruña
+114223;23;11;19;S;Orquesta;FANIA BLANCO SHOW;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+114142;23;11;19;S;Orquesta;ARMONÍA SHOW;Cruce de Arinaga, Agüimes;Las Palmas
+113271;23;11;19;S;Solista;JUDITH CUNDÍNS;Delémont;Suiza
+114440;23;11;19;S;Solista;COMPOTA Y SU RICURA;Discoteca INK, Narón;A Coruña
+114390;23;11;19;S;Dúo;SON D´CARACAS;Discoteca Rv Disc, Betanzos;A Coruña
+114022;23;11;19;S;Orquesta;SOLARA;La Colmena, Narón;A Coruña
+114035;23;11;19;S;Dúo;ECLIPSE;Maniños, Fene;A Coruña
+114410;23;11;19;S;Charanga;NBA;O Incio;Lugo
+114214;23;11;19;S;Grupo;GARIBALDI;Ordes;A Coruña
+113993;23;11;19;S;Dúo;ESTRELLAS;Oural, Sarria;Lugo
+114324;23;11;19;S;Solista;CRIS LÓPEZ;Paiosaco, Laracha;A Coruña
+114286;23;11;19;S;Trío;SINTONÍA;Perlío, Fene;A Coruña
+106574;23;11;19;S;Dúo;EXPLOSIÓN;Pontevedra;Pontevedra
+114407;23;11;19;S;Trío;INNOVACIÓN;Portas;Pontevedra
+114347;23;11;19;S;Orquesta;LA OCABAND;Portonovo, Sanxenxo;Pontevedra
+113126;23;11;19;S;Solista;XILO;Restaurante A Escola, Oleiros;A Coruña
+114389;23;11;19;S;Grupo;ALKAR;Restaurante A Lagoa, Vimianzo;A Coruña
+113746;23;11;19;S;Trío;KARMA;Restaurante As Rodas, Espíritu Santo;A Coruña
+114321;23;11;19;S;Orquesta;TREBOL;Restaurante El Pantano, Abegondo;A Coruña
+114271;23;11;19;S;Orquesta;SAUDADE;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
+113367;23;11;19;S;Grupo;TANIA VEIRAS;S.F. Josfer, Mesón do Vento;A Coruña
+114534;23;11;19;S;Grupo;ATENAS;S.F. La Flor, Montouto;A Coruña
+114337;23;11;19;S;Grupo;ARAMIO;S.F. La Luna, Cerponzóns;Pontevedra
+114246;23;11;19;S;Orquesta;METRÓPOLIS;S.F. Rosalar, Ribadeo;Lugo
+114498;23;11;19;S;Dúo;ARUME;San Xusto, Barreiros;Lugo
+112852;23;11;19;S;Grupo;LUME;Santa Cecilia, Foz;Lugo
+114545;23;11;19;S;Orquesta;XACOBEO;Sisán, Ribadumia;Pontevedra
+114266;23;11;19;S;Charanga;EUROPA;Souteliño, Laza;Ourense
+114391;23;11;19;S;Charanga;ARDORES;Toques;A Coruña
+114285;23;11;19;S;Trío;SINTONÍA;Trasmonte, Oroso;A Coruña
+113212;23;11;19;S;Solista;ROCÍO PÉREZ;Valenza, Coristanco;A Coruña
+114587;24;11;19;D;Trío;SINTONÍA;Bueu;Pontevedra
+114520;24;11;19;D;Charanga;CLK;Cabanelas, O Carballiño;Ourense
+113198;24;11;19;D;Trío;KARMA;Cambre;A Coruña
+113911;24;11;19;D;Solista;XILO;Centro Cívico de Caranza, Ferrol;A Coruña
+114351;24;11;19;D;Orquesta;ESSENCIA;Discoteca Rv Disc, Betanzos;A Coruña
+113272;24;11;19;D;Solista;JUDITH CUNDÍNS;Neaño, Cabana de Bergantiños;A Coruña
+114325;24;11;19;D;Solista;CRIS LÓPEZ;Paiosaco, Laracha;A Coruña
+114049;24;11;19;D;Orquesta;SAUDADE;S.F. Chamán, Goián;Pontevedra
+114224;24;11;19;D;Orquesta;FANIA BLANCO SHOW;S.F. La Luna, Cerponzóns;Pontevedra
+114322;24;11;19;D;Orquesta;TREBOL;S.F. La Reina, Sanguiñeda;Pontevedra
+114315;24;11;19;D;Dúo;CALÚ;S.F. Morango K.N, Lugo;Lugo
+114152;24;11;19;D;Orquesta;SOLARA;S.F. Paulino, O Carballiño;Ourense
+114346;24;11;19;D;Orquesta;LA OCABAND;S.F. Velvet, Monçao;Portugal
+109326;24;11;19;D;Dúo;CARPE DIEM;Santa Cecilia, Foz;Lugo
+114558;24;11;19;D;Dúo;EXPLOSIÓN;Vigo;Pontevedra
+114298;25;11;19;L;Charanga;CLK;A Saceda, Cualedro;Ourense
+114611;25;11;19;L;Dúo;D´VICIO;Monelos, A Coruña;A Coruña
+114134;27;11;19;X;Solista;JUDITH CUNDÍNS;Arteixo;A Coruña
+114398;28;11;19;J;Trío;D´LIDER;Azzaro Pub, A Ramallosa;Pontevedra
+114552;28;11;19;J;Charanga;SIN CONTROL;Zamora;Zamora
+113986;29;11;19;V;Solista;ROCÍO PÉREZ;Bértoa, Carballo;A Coruña
+114080;29;11;19;V;Trío;LA NOCHE DO GROVE;Cures, Boiro;A Coruña
+114097;29;11;19;V;Orquesta;EL COMBO DOMINICANO;Discoteca Rv Disc, Betanzos;A Coruña
+114703;29;11;19;V;Orquesta;PARIS DE NOIA;Discoteca Zouk, Lugo;Lugo
+113912;29;11;19;V;Dúo;XILO & CARLOS;Ferreira, O Valadouro;Lugo
+98848;29;11;19;V;Trío;MARACUYÁ;Lanzós, Vilalba;Lugo
+114140;29;11;19;V;Orquesta;DOMINÓ;Mieres;Asturias
+114591;29;11;19;V;Orquesta;XACOBEO;Nande, Gondomar;Pontevedra
+114537;29;11;19;V;Dúo;ESTRELLAS;Noite ocupada;A Coruña
+114717;29;11;19;V;Dúo;EXPLOSIÓN;O Porriño;Pontevedra
+114073;29;11;19;V;Dúo;URAKÁN;Os Ánxeles, Brión;A Coruña
+114475;29;11;19;V;Orquesta;PANAMA;Os Praceres, Lourizán;Pontevedra
+114278;29;11;19;V;Grupo;EUREKA;Os Praceres, Pontevedra;Pontevedra
+114165;29;11;19;V;Orquesta;MARBELLA;Portosín, Porto do Son;A Coruña
+114384;29;11;19;V;Disco Móvil;SONORA MUSIC;Portosín, Porto do Son;A Coruña
+109684;29;11;19;V;Dúo;CALÚ;Pub La Terraza, Ordes;A Coruña
+114092;29;11;19;V;Orquesta;LOS SATÉLITES;Viladonelle, Neda;A Coruña
+114729;29;11;19;V;Dúo;D´VICIO;Viladonelle, Neda;A Coruña
+99180;29;11;19;V;Charanga;BCB;Zamora;Zamora
+114215;30;11;19;S;Grupo;GARIBALDI;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
+113273;30;11;19;S;Solista;JUDITH CUNDÍNS;Baiona;Pontevedra
+105007;30;11;19;S;Dúo;EXPLOSIÓN;Bendia, Castro De Rei;Lugo
+113989;30;11;19;S;Dúo;ZAFIRO;Burela;Lugo
+114190;30;11;19;S;Charanga;CLK;Campo Redondo, Ribadavia;Ourense
+114197;30;11;19;S;Trío;XTRA;Campo Redondo, Ribadavia;Ourense
+114397;30;11;19;S;Trío;D´LIDER;Canido, Vigo;Pontevedra
+114419;30;11;19;S;Solista;CRIS LÓPEZ;Carballo;A Coruña
+114115;30;11;19;S;Dúo;SON D´CARACAS;Chanteiro, Ares;A Coruña
+113975;30;11;19;S;Dúo;D´VICIO;Crendes, Abegondo;A Coruña
+114592;30;11;19;S;Orquesta;XACOBEO;Cures, Boiro;A Coruña
+114093;30;11;19;S;Orquesta;LOS SATÉLITES;Discoteca Pazos, Laracha;A Coruña
+114610;30;11;19;S;Dúo;EXPLOSIÓN;Ferrol;A Coruña
+114174;30;11;19;S;Dúo;ECLIPSE;Gaibor, Begonte;Lugo
+114247;30;11;19;S;Orquesta;METRÓPOLIS;Golmar, A Laracha;A Coruña
+113235;30;11;19;S;Grupo;LUME;Hotel Casa Barreiro, Ordes;A Coruña
+98365;30;11;19;S;Solista;XILO;Hotel Narón, Narón;A Coruña
+113745;30;11;19;S;Grupo;TANIA VEIRAS;La Colmena, Narón;A Coruña
+98849;30;11;19;S;Orquesta;CHARLESTON BIG-BAND;Lanzós, Vilalba;Lugo
+98850;30;11;19;S;Orquesta;PANAMA;Lanzós, Vilalba;Lugo
+114323;30;11;19;S;Orquesta;TREBOL;Masma, Mondoñedo;Lugo
+100107;30;11;19;S;Grupo;VAN BAND;Melide;A Coruña
+114342;30;11;19;S;Grupo;ARAMIO;Nande, Gondomar;Pontevedra
+114168;30;11;19;S;Orquesta;MARBELLA;Nande, Gondomar;Pontevedra
+114272;30;11;19;S;Orquesta;SAUDADE;Os Praceres, Pontevedra;Pontevedra
+114385;30;11;19;S;Disco Móvil;SONORA MUSIC;Portosín, Porto do Son;A Coruña
+114454;30;11;19;S;Orquesta;GRAN PARADA;Portosín, Porto do Son;A Coruña
+114496;30;11;19;S;Grupo;AMERICA SL;Rante, San Cibrao das Viñas;Ourense
+114153;30;11;19;S;Orquesta;SOLARA;Restaurante A Lagoa, Vimianzo;A Coruña
+114352;30;11;19;S;Orquesta;CINEMA;Restaurante El Pantano, Abegondo;A Coruña
+104433;30;11;19;S;Dúo;CALÚ;Restaurante La Torre, Tabeaio, Carral;A Coruña
+113547;30;11;19;S;Dúo;CHARADA;Ribeira;A Coruña
+114535;30;11;19;S;Orquesta;PARIS DE NOIA;S.F. Chanteclair, Pontecesures;Pontevedra
+114416;30;11;19;S;Orquesta;EL COMBO DOMINICANO;S.F. Chanteclair, Pontecesures;Pontevedra
+114377;30;11;19;S;Orquesta;FANIA BLANCO SHOW;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
+114170;30;11;19;S;Grupo;NOCHE DE ESTRELLAS;S.F. Josfer, Mesón do Vento;A Coruña
+114121;30;11;19;S;Orquesta;LA OCABAND;S.F. La Flor, Montouto;A Coruña
+114175;30;11;19;S;Orquesta;MIRAMAR;S.F. La Luna, Cerponzóns;Pontevedra
+114251;30;11;19;S;Orquesta;NEVADA;S.F. Rosalar, Ribadeo;Lugo
+114081;30;11;19;S;Trío;LA NOCHE DO GROVE;S.F. Velvet, Monçao;Portugal
+114731;30;11;19;S;Orquesta;CUARTA CALLE;Sahagún;León
+114143;30;11;19;S;Orquesta;ARMONÍA SHOW;San Andrés, Santa Cruz de Tenerife;Tenerife
+113913;30;11;19;S;Trío;KARMA;San Juan de Piñeiro, Mugardos;A Coruña
+114616;30;11;19;S;Solista;AIXA ROMAY;San Juan, Ferrol;A Coruña
+114559;30;11;19;S;Charanga;SIN CONTROL;Vega de Espinareda;León
+114553;30;11;19;S;Orquesta;ISRAEL;Viladonelle, Neda;A Coruña
+114199;30;11;19;S;Trío;FUSSION;Vilavidal, Ramirás;Ourense
+114618;30;11;19;S;Solista;AIXA ROMAY;Xesteda, Cerceda;A Coruña
+114744;30;11;19;S;Trío;MAR DE CAIÓN;Zas;A Coruña
