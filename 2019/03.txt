@@ -1,740 +1,740 @@
-99868;1;3;19;V;Disco MÛvil;TRAFFIC;A CoruÒa;A CoruÒa
+99868;1;3;19;V;Disco M√≥vil;TRAFFIC;A Coru√±a;A Coru√±a
 98888;1;3;19;V;Charanga;CANTOS SOMOS;A Guarda;Pontevedra
 98665;1;3;19;V;Orquesta;MARBELLA;Aguas Santas, Palas de Rei;Lugo
-99243;1;3;19;V;Orquesta;SUPER HOLLYWOOD;AvilÈs;Asturias
-99404;1;3;19;V;Charanga;MEKANIKA;Barbad·s;Ourense
+99243;1;3;19;V;Orquesta;SUPER HOLLYWOOD;Avil√©s;Asturias
+99404;1;3;19;V;Charanga;MEKANIKA;Barbad√°s;Ourense
 99062;1;3;19;V;Charanga;VAITE XA!!;Castrelos, Vigo;Pontevedra
-98302;1;3;19;V;Solista;XILO;CervecerÌa La Terraza, O Temple, Cambre;A CoruÒa
-99225;1;3;19;V;D˙o;ESTRELLAS;Cospeito;Lugo
+98302;1;3;19;V;Solista;XILO;Cervecer√≠a La Terraza, O Temple, Cambre;A Coru√±a
+99225;1;3;19;V;D√∫o;ESTRELLAS;Cospeito;Lugo
 99548;1;3;19;V;Orquesta;RITMO JOVEN;Discoteca Daniel, Pontevedra;Pontevedra
-99782;1;3;19;V;Orquesta;PARIS DE NOIA;Discoteca Rv Disc, Betanzos;A CoruÒa
-99214;1;3;19;V;Charanga;SANTA COMPA—A;O Milladoiro, Ames;A CoruÒa
-98648;1;3;19;V;Solista;BEGO—A GARCÕA;Orro, Culleredo;A CoruÒa
+99782;1;3;19;V;Orquesta;PARIS DE NOIA;Discoteca Rv Disc, Betanzos;A Coru√±a
+99214;1;3;19;V;Charanga;SANTA COMPA√ëA;O Milladoiro, Ames;A Coru√±a
+98648;1;3;19;V;Solista;BEGO√ëA GARC√çA;Orro, Culleredo;A Coru√±a
 99405;1;3;19;V;Charanga;MEKANIKA;Ourense;Ourense
-99518;1;3;19;V;Orquesta;LOS SAT…LITES;PabellÛn de Santa Cruz, Oleiros;A CoruÒa
-99594;1;3;19;V;Orquesta;LA OCABAND;PlatÛ 1000, Teo;A CoruÒa
-99260;1;3;19;V;Orquesta;ARMONÕA SHOW;Plaza de la Candelaria, Santa Cruz de Tenerife;Tenerife
-99161;1;3;19;V;Orquesta;LA F”RMULA;Recinto Ferial IFEVI, Vigo;Pontevedra
-98705;1;3;19;V;Solista;JUDITH CUNDÕNS;Restaurante Canta la Rana, BuÒo;A CoruÒa
-99156;1;3;19;V;Orquesta;OLYMPUS RED TOUR;S.F. Dona Dana, Touro;A CoruÒa
-99284;1;3;19;V;Orquesta;EL COMBO DOMINICANO;S.F. Dona Dana, Touro;A CoruÒa
-99027;1;3;19;V;Orquesta;SOLARA;S.F. Velvet, MonÁao;Portugal
-98489;1;3;19;V;D˙o;ZAFIRO;San Rom·n do Val, O Vicedo;Lugo
-99717;1;3;19;V;Disco MÛvil;CDC;Serra de Outes, Outes;A CoruÒa
+99518;1;3;19;V;Orquesta;LOS SAT√âLITES;Pabell√≥n de Santa Cruz, Oleiros;A Coru√±a
+99594;1;3;19;V;Orquesta;LA OCABAND;Plat√≥ 1000, Teo;A Coru√±a
+99260;1;3;19;V;Orquesta;ARMON√çA SHOW;Plaza de la Candelaria, Santa Cruz de Tenerife;Tenerife
+99161;1;3;19;V;Orquesta;LA F√ìRMULA;Recinto Ferial IFEVI, Vigo;Pontevedra
+98705;1;3;19;V;Solista;JUDITH CUND√çNS;Restaurante Canta la Rana, Bu√±o;A Coru√±a
+99156;1;3;19;V;Orquesta;OLYMPUS RED TOUR;S.F. Dona Dana, Touro;A Coru√±a
+99284;1;3;19;V;Orquesta;EL COMBO DOMINICANO;S.F. Dona Dana, Touro;A Coru√±a
+99027;1;3;19;V;Orquesta;SOLARA;S.F. Velvet, Mon√ßao;Portugal
+98489;1;3;19;V;D√∫o;ZAFIRO;San Rom√°n do Val, O Vicedo;Lugo
+99717;1;3;19;V;Disco M√≥vil;CDC;Serra de Outes, Outes;A Coru√±a
 99734;1;3;19;V;Grupo;TEKILA;Sisterna, Ibias;Asturias
-99499;1;3;19;V;Orquesta;PANAMA;Torres, Vilarmaior;A CoruÒa
-99089;1;3;19;V;Disco MÛvil;SPACE;VerÌn;Ourense
-99090;1;3;19;V;Grupo;CLAXXON;VerÌn;Ourense
-99718;1;3;19;V;Disco MÛvil;CDC;Xallas, Cee;A CoruÒa
-99814;2;3;19;S;D˙o;SON D¥CARACAS;A CoruÒa;A CoruÒa
-99525;2;3;19;S;Orquesta;GRAN CASINO;A Lagoa, Vimianzo;A CoruÒa
-98524;2;3;19;S;D˙o;CARPE DIEM;A Laracha;A CoruÒa
-99335;2;3;19;S;Grupo;CLAN ZERO;Aguilar de CampoÛ;Palencia
-99327;2;3;19;S;Orquesta;ABANICO;Aldeola Restaurante, Malpica de BergantiÒos;A CoruÒa
-99517;2;3;19;S;D˙o;NUEVA ERA;Amio, Santiago de Compostela;A CoruÒa
+99499;1;3;19;V;Orquesta;PANAMA;Torres, Vilarmaior;A Coru√±a
+99089;1;3;19;V;Disco M√≥vil;SPACE;Ver√≠n;Ourense
+99090;1;3;19;V;Grupo;CLAXXON;Ver√≠n;Ourense
+99718;1;3;19;V;Disco M√≥vil;CDC;Xallas, Cee;A Coru√±a
+99814;2;3;19;S;D√∫o;SON D¬¥CARACAS;A Coru√±a;A Coru√±a
+99525;2;3;19;S;Orquesta;GRAN CASINO;A Lagoa, Vimianzo;A Coru√±a
+98524;2;3;19;S;D√∫o;CARPE DIEM;A Laracha;A Coru√±a
+99335;2;3;19;S;Grupo;CLAN ZERO;Aguilar de Campo√≥;Palencia
+99327;2;3;19;S;Orquesta;ABANICO;Aldeola Restaurante, Malpica de Berganti√±os;A Coru√±a
+99517;2;3;19;S;D√∫o;NUEVA ERA;Amio, Santiago de Compostela;A Coru√±a
 99426;2;3;19;S;Orquesta;FURIA JOVEN;Artenara;Las Palmas
-99244;2;3;19;S;Orquesta;SUAVECITO;AvilÈs;Asturias
-98564;2;3;19;S;D˙o;EXPLOSI”N;Caldelas de Tui, Tui;Pontevedra
-99720;2;3;19;S;Disco MÛvil;CDC;CamariÒas;A CoruÒa
-99212;2;3;19;S;Charanga;SANTA COMPA—A;Cambre;A CoruÒa
-98706;2;3;19;S;Solista;JUDITH CUNDÕNS;Camelle, CamariÒas;A CoruÒa
+99244;2;3;19;S;Orquesta;SUAVECITO;Avil√©s;Asturias
+98564;2;3;19;S;D√∫o;EXPLOSI√ìN;Caldelas de Tui, Tui;Pontevedra
+99720;2;3;19;S;Disco M√≥vil;CDC;Camari√±as;A Coru√±a
+99212;2;3;19;S;Charanga;SANTA COMPA√ëA;Cambre;A Coru√±a
+98706;2;3;19;S;Solista;JUDITH CUND√çNS;Camelle, Camari√±as;A Coru√±a
 99750;2;3;19;S;Orquesta;LA FAVORITA;Carballido, Vilalba;Lugo
-99406;2;3;19;S;Charanga;MEKANIKA;CariÒo;A CoruÒa
-99765;2;3;19;S;Orquesta;MARBELLA;CariÒo;A CoruÒa
-99610;2;3;19;S;Orquesta;LA OLA ADN;Casino Ferrolano, Ferrol;A CoruÒa
-99222;2;3;19;S;TrÌo;XTRA;Cea, San Cristovo de Cea;Ourense
-99461;2;3;19;S;Orquesta;ISRAEL;Cedeira;A CoruÒa
+99406;2;3;19;S;Charanga;MEKANIKA;Cari√±o;A Coru√±a
+99765;2;3;19;S;Orquesta;MARBELLA;Cari√±o;A Coru√±a
+99610;2;3;19;S;Orquesta;LA OLA ADN;Casino Ferrolano, Ferrol;A Coru√±a
+99222;2;3;19;S;Tr√≠o;XTRA;Cea, San Cristovo de Cea;Ourense
+99461;2;3;19;S;Orquesta;ISRAEL;Cedeira;A Coru√±a
 99443;2;3;19;S;Grupo;NEBRASKA;Celanova;Ourense
-99151;2;3;19;S;Orquesta;OLYMPUS RED TOUR;Centro Multiusos, Melide;A CoruÒa
-98303;2;3;19;S;Solista;XILO;CervecerÌa La Terraza, O Temple, Cambre;A CoruÒa
+99151;2;3;19;S;Orquesta;OLYMPUS RED TOUR;Centro Multiusos, Melide;A Coru√±a
+98303;2;3;19;S;Solista;XILO;Cervecer√≠a La Terraza, O Temple, Cambre;A Coru√±a
 99895;2;3;19;S;Orquesta;TANGO;Circulo de las Artes, Lugo;Lugo
-98718;2;3;19;S;Grupo;TANIA VEIRAS;Club ArtÌstico, Ribadavia;Ourense
+98718;2;3;19;S;Grupo;TANIA VEIRAS;Club Art√≠stico, Ribadavia;Ourense
 99453;2;3;19;S;Orquesta;XACOBEO;Cobres, Vilaboa;Pontevedra
-99721;2;3;19;S;Disco MÛvil;CDC;CorcubiÛn;A CoruÒa
-99645;2;3;19;S;Orquesta;TREBOL;Corme, Ponteceso;A CoruÒa
-99152;2;3;19;S;Orquesta;CINEMA;Discoteca INK, NarÛn;A CoruÒa
-99188;2;3;19;S;Orquesta;FANIA BLANCO SHOW;Discoteca Pazos, Laracha;A CoruÒa
-99033;2;3;19;S;D˙o;EXPLOSI”N;Esgos;Ourense
-98490;2;3;19;S;D˙o;ZAFIRO;Espasante, Ortigueira;A CoruÒa
-99073;2;3;19;S;D˙o;D¥VICIO;Espasante, Ortigueira;A CoruÒa
-99448;2;3;19;S;Charanga;LOUBAND;Fabero;LeÛn
-99281;2;3;19;S;Grupo;PASI”N;Fene;A CoruÒa
-99938;2;3;19;S;Grupo;ASSIA;GijÛn;Asturias
-99165;2;3;19;S;Grupo;VAN BAND;Hotel Casa Barreiro, Ordes;A CoruÒa
+99721;2;3;19;S;Disco M√≥vil;CDC;Corcubi√≥n;A Coru√±a
+99645;2;3;19;S;Orquesta;TREBOL;Corme, Ponteceso;A Coru√±a
+99152;2;3;19;S;Orquesta;CINEMA;Discoteca INK, Nar√≥n;A Coru√±a
+99188;2;3;19;S;Orquesta;FANIA BLANCO SHOW;Discoteca Pazos, Laracha;A Coru√±a
+99033;2;3;19;S;D√∫o;EXPLOSI√ìN;Esgos;Ourense
+98490;2;3;19;S;D√∫o;ZAFIRO;Espasante, Ortigueira;A Coru√±a
+99073;2;3;19;S;D√∫o;D¬¥VICIO;Espasante, Ortigueira;A Coru√±a
+99448;2;3;19;S;Charanga;LOUBAND;Fabero;Le√≥n
+99281;2;3;19;S;Grupo;PASI√ìN;Fene;A Coru√±a
+99938;2;3;19;S;Grupo;ASSIA;Gij√≥n;Asturias
+99165;2;3;19;S;Grupo;VAN BAND;Hotel Casa Barreiro, Ordes;A Coru√±a
 99580;2;3;19;S;Grupo;AMERICA SL;Illa de Arousa;Pontevedra
-99601;2;3;19;S;Orquesta;LA F”RMULA;La BaÒeza;LeÛn
-99852;2;3;19;S;Orquesta;CAPITOL;La Colmena, NarÛn;A CoruÒa
+99601;2;3;19;S;Orquesta;LA F√ìRMULA;La Ba√±eza;Le√≥n
+99852;2;3;19;S;Orquesta;CAPITOL;La Colmena, Nar√≥n;A Coru√±a
 98013;2;3;19;S;Charanga;VAITE XA!!;Laza;Ourense
 98913;2;3;19;S;Orquesta;NEVADA;Laza;Ourense
-99678;2;3;19;S;Grupo;FUN«AO PUBLIKA;LeÛn;LeÛn
-99680;2;3;19;S;Charanga;MANÕA;LeÛn;LeÛn
-99395;2;3;19;S;Orquesta;LOS TROVADORES;Liceo de Noia, Noia;A CoruÒa
+99678;2;3;19;S;Grupo;FUN√áAO PUBLIKA;Le√≥n;Le√≥n
+99680;2;3;19;S;Charanga;MAN√çA;Le√≥n;Le√≥n
+99395;2;3;19;S;Orquesta;LOS TROVADORES;Liceo de Noia, Noia;A Coru√±a
 99285;2;3;19;S;Grupo;NUEVA FUERZA;Los Llanos, La Palma;Tenerife
 99273;2;3;19;S;Charanga;ERAVISTO;Lugo;Lugo
 98418;2;3;19;S;Charanga;BCB;Maceda;Ourense
-99630;2;3;19;S;Grupo;GARIBALDI;Maello;¡vila
-97583;2;3;19;S;TrÌo;FUSSION;Matam·, Laza;Ourense
-98583;2;3;19;S;Charanga;MANÕA;Mayorga;Valladolid
-99771;2;3;19;S;Orquesta;TRIUNFO;MiÒo;A CoruÒa
-96990;2;3;19;S;TrÌo;KARMA;MiÒotos, Ourol;Lugo
+99630;2;3;19;S;Grupo;GARIBALDI;Maello;√Åvila
+97583;2;3;19;S;Tr√≠o;FUSSION;Matam√°, Laza;Ourense
+98583;2;3;19;S;Charanga;MAN√çA;Mayorga;Valladolid
+99771;2;3;19;S;Orquesta;TRIUNFO;Mi√±o;A Coru√±a
+96990;2;3;19;S;Tr√≠o;KARMA;Mi√±otos, Ourol;Lugo
 98935;2;3;19;S;Grupo;PUNTO CLAVE;Navia de Suarna;Lugo
-99703;2;3;19;S;Orquesta;CICLOMANÕA;Negreira;A CoruÒa
-99181;2;3;19;S;Orquesta;RITMO JOVEN;O C·davo, Cotobade;Pontevedra
-99182;2;3;19;S;Orquesta;LA OCABAND;O C·davo, Cotobade;Pontevedra
-98729;2;3;19;S;Charanga;CLK;O CarballiÒo;Ourense
-98768;2;3;19;S;Charanga;ARDORES;O CarballiÒo;Ourense
-99219;2;3;19;S;TrÌo;INNOVACI”N;O Incio;Lugo
-99880;2;3;19;S;D˙o;CARPE DIEM;O Porto de Espasante, Ortigueira;A CoruÒa
-99903;2;3;19;S;D˙o;CHARADA;Orro, Noia;A CoruÒa
-99304;2;3;19;S;D˙o;VENDAVAL;Ortigueira;A CoruÒa
-99495;2;3;19;S;Orquesta;ESCAPARATE;Ortigueira;A CoruÒa
+99703;2;3;19;S;Orquesta;CICLOMAN√çA;Negreira;A Coru√±a
+99181;2;3;19;S;Orquesta;RITMO JOVEN;O C√°davo, Cotobade;Pontevedra
+99182;2;3;19;S;Orquesta;LA OCABAND;O C√°davo, Cotobade;Pontevedra
+98729;2;3;19;S;Charanga;CLK;O Carballi√±o;Ourense
+98768;2;3;19;S;Charanga;ARDORES;O Carballi√±o;Ourense
+99219;2;3;19;S;Tr√≠o;INNOVACI√ìN;O Incio;Lugo
+99880;2;3;19;S;D√∫o;CARPE DIEM;O Porto de Espasante, Ortigueira;A Coru√±a
+99903;2;3;19;S;D√∫o;CHARADA;Orro, Noia;A Coru√±a
+99304;2;3;19;S;D√∫o;VENDAVAL;Ortigueira;A Coru√±a
+99495;2;3;19;S;Orquesta;ESCAPARATE;Ortigueira;A Coru√±a
 98558;2;3;19;S;Charanga;CASTRO BELLO;Ourense;Ourense
 98572;2;3;19;S;Charanga;EUROPA;Ourense;Ourense
-99036;2;3;19;S;Charanga;TNT;Oza, Teo;A CoruÒa
-99228;2;3;19;S;Orquesta;GRAN PARADA;Palmeira, Ribeira;A CoruÒa
-99917;2;3;19;S;TrÌo;SINTONÕA;PerlÌo, Fene;A CoruÒa
-99261;2;3;19;S;Orquesta;ARMONÕA SHOW;Plaza de la Candelaria, Santa Cruz de Tenerife;Tenerife
-98587;2;3;19;S;Orquesta;FOLIADA D¥ASES;Plaza MarÌa Pita;A CoruÒa
-99697;2;3;19;S;Charanga;FURRUXA;Praza do Obradoiro, Santiago de Compostela;A CoruÒa
+99036;2;3;19;S;Charanga;TNT;Oza, Teo;A Coru√±a
+99228;2;3;19;S;Orquesta;GRAN PARADA;Palmeira, Ribeira;A Coru√±a
+99917;2;3;19;S;Tr√≠o;SINTON√çA;Perl√≠o, Fene;A Coru√±a
+99261;2;3;19;S;Orquesta;ARMON√çA SHOW;Plaza de la Candelaria, Santa Cruz de Tenerife;Tenerife
+98587;2;3;19;S;Orquesta;FOLIADA D¬¥ASES;Plaza Mar√≠a Pita;A Coru√±a
+99697;2;3;19;S;Charanga;FURRUXA;Praza do Obradoiro, Santiago de Compostela;A Coru√±a
 99144;2;3;19;S;Orquesta;NEW YORK;Praza Maior, Ourense;Ourense
 99686;2;3;19;S;Charanga;NBA;Puebla de Sanabria;Zamora
-99590;2;3;19;S;Grupo;AM…RICA DE VIGO;Puxeiros, Mos;Pontevedra
-98528;2;3;19;S;Solista;ROCÕO P…REZ;Restande, Trazo;A CoruÒa
-99826;2;3;19;S;Orquesta;SOLARA;Restande, Trazo;A CoruÒa
-99774;2;3;19;S;Orquesta;CHARLESTON BIG-BAND;Restaurante El Pantano, Abegondo;A CoruÒa
-99719;2;3;19;S;Disco MÛvil;CDC;Restaurante Pastoriza, Vimianzo;A CoruÒa
-99925;2;3;19;S;Grupo;NAZARET;S.F. BahÌa, Foz;Lugo
-99658;2;3;19;S;Orquesta;FINISTERRE;S.F. BahÌa, Foz;Lugo
-99710;2;3;19;S;TrÌo;LA NOCHE DO GROVE;S.F. Cham·n, Goi·n;Pontevedra
+99590;2;3;19;S;Grupo;AM√âRICA DE VIGO;Puxeiros, Mos;Pontevedra
+98528;2;3;19;S;Solista;ROC√çO P√âREZ;Restande, Trazo;A Coru√±a
+99826;2;3;19;S;Orquesta;SOLARA;Restande, Trazo;A Coru√±a
+99774;2;3;19;S;Orquesta;CHARLESTON BIG-BAND;Restaurante El Pantano, Abegondo;A Coru√±a
+99719;2;3;19;S;Disco M√≥vil;CDC;Restaurante Pastoriza, Vimianzo;A Coru√±a
+99925;2;3;19;S;Grupo;NAZARET;S.F. Bah√≠a, Foz;Lugo
+99658;2;3;19;S;Orquesta;FINISTERRE;S.F. Bah√≠a, Foz;Lugo
+99710;2;3;19;S;Tr√≠o;LA NOCHE DO GROVE;S.F. Cham√°n, Goi√°n;Pontevedra
 99337;2;3;19;S;Orquesta;EL COMBO DOMINICANO;S.F. Chanteclair, Pontecesures;Pontevedra
 99672;2;3;19;S;Orquesta;PONTEVEDRA;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
-99827;2;3;19;S;Orquesta;COMPOSTELA;S.F. Josfer, MesÛn do Vento;A CoruÒa
-99255;2;3;19;S;Orquesta;PANAMA;S.F. La Concha, O Val;A CoruÒa
-99313;2;3;19;S;Orquesta;LOS SAT…LITES;S.F. La Flor, Montouto;A CoruÒa
-99870;2;3;19;S;Grupo;ARAMIO;S.F. La Luna, CerponzÛns;Pontevedra
+99827;2;3;19;S;Orquesta;COMPOSTELA;S.F. Josfer, Mes√≥n do Vento;A Coru√±a
+99255;2;3;19;S;Orquesta;PANAMA;S.F. La Concha, O Val;A Coru√±a
+99313;2;3;19;S;Orquesta;LOS SAT√âLITES;S.F. La Flor, Montouto;A Coru√±a
+99870;2;3;19;S;Grupo;ARAMIO;S.F. La Luna, Cerponz√≥ns;Pontevedra
 99664;2;3;19;S;Orquesta;PRINCIPAL;S.F. Rosalar, Ribadeo;Lugo
-98903;2;3;19;S;Orquesta;PARIS DE NOIA;S.F. Universo, Santa Comba;A CoruÒa
-98656;2;3;19;S;D˙o;ESTRELLAS;San MartÌn do Porto, CabaÒas;A CoruÒa
+98903;2;3;19;S;Orquesta;PARIS DE NOIA;S.F. Universo, Santa Comba;A Coru√±a
+98656;2;3;19;S;D√∫o;ESTRELLAS;San Mart√≠n do Porto, Caba√±as;A Coru√±a
 99436;2;3;19;S;Grupo;LUME;San Miguel de Reinante, Barreiros;Lugo
-99451;2;3;19;S;Orquesta;TELEVISI”N;San Miguel de Reinante, Barreiros;Lugo
-99377;2;3;19;S;Charanga;MEKANIKA;Santa Comba;A CoruÒa
-99924;2;3;19;S;D˙o;ARUME;Sarria;Lugo
+99451;2;3;19;S;Orquesta;TELEVISI√ìN;San Miguel de Reinante, Barreiros;Lugo
+99377;2;3;19;S;Charanga;MEKANIKA;Santa Comba;A Coru√±a
+99924;2;3;19;S;D√∫o;ARUME;Sarria;Lugo
 99735;2;3;19;S;Grupo;TEKILA;Selorio, Villaviciosa;Asturias
-99916;2;3;19;S;TrÌo;SINTONÕA;Sig¸eiro, Oroso;A CoruÒa
+99916;2;3;19;S;Tr√≠o;SINTON√çA;Sig√ºeiro, Oroso;A Coru√±a
 99583;2;3;19;S;Orquesta;SAUDADE;Sociedad Cultural y Deportiva de Mourente, Pontevedra;Pontevedra
-99558;2;3;19;S;D˙o;ECLIPSE;Sociedad La Fraternal, Monforte de Lemos;Lugo
-98626;2;3;19;S;Orquesta;FLORIDA SHOW;Turienzo CastaÒero, Castropodame;LeÛn
+99558;2;3;19;S;D√∫o;ECLIPSE;Sociedad La Fraternal, Monforte de Lemos;Lugo
+98626;2;3;19;S;Orquesta;FLORIDA SHOW;Turienzo Casta√±ero, Castropodame;Le√≥n
 98668;2;3;19;S;Charanga;CASTRO BELLO;Vences, Monterrei;Ourense
-99051;2;3;19;S;Charanga;FUEGO;VerÌn;Ourense
-99091;2;3;19;S;Charanga;VA K PINTA;VerÌn;Ourense
-99092;2;3;19;S;Charanga;LOS T¡MEGA;VerÌn;Ourense
-99093;2;3;19;S;Orquesta;MIRAMAR;VerÌn;Ourense
-99094;2;3;19;S;Grupo;D¥MODA;VerÌn;Ourense
-98675;2;3;19;S;Charanga;SANTA COMPA—A;Vimianzo;A CoruÒa
+99051;2;3;19;S;Charanga;FUEGO;Ver√≠n;Ourense
+99091;2;3;19;S;Charanga;VA K PINTA;Ver√≠n;Ourense
+99092;2;3;19;S;Charanga;LOS T√ÅMEGA;Ver√≠n;Ourense
+99093;2;3;19;S;Orquesta;MIRAMAR;Ver√≠n;Ourense
+99094;2;3;19;S;Grupo;D¬¥MODA;Ver√≠n;Ourense
+98675;2;3;19;S;Charanga;SANTA COMPA√ëA;Vimianzo;A Coru√±a
 99687;2;3;19;S;Charanga;NBA;Xinzo de Limia;Ourense
 99197;2;3;19;S;Charanga;OS CHARANGOS;Xove;Lugo
-98997;2;3;19;S;Disco MÛvil;NUEVO ORIGEN;Zamora;Zamora
-99363;3;3;19;D;Grupo;D¥MODA;A Guarda;Pontevedra
-99871;3;3;19;D;Grupo;ARAMIO;A Laracha;A CoruÒa
-99559;3;3;19;D;D˙o;ECLIPSE;A Pastoriza;Lugo
-99808;3;3;19;D;Orquesta;METR”POLIS;A Xironda, Cualedro;Ourense
-98809;3;3;19;D;TrÌo;INNOVACI”N;AguiÒo, Ribeira;A CoruÒa
-98707;3;3;19;D;Solista;JUDITH CUNDÕNS;Aldeola Restaurante, Malpica de BergantiÒos;A CoruÒa
+98997;2;3;19;S;Disco M√≥vil;NUEVO ORIGEN;Zamora;Zamora
+99363;3;3;19;D;Grupo;D¬¥MODA;A Guarda;Pontevedra
+99871;3;3;19;D;Grupo;ARAMIO;A Laracha;A Coru√±a
+99559;3;3;19;D;D√∫o;ECLIPSE;A Pastoriza;Lugo
+99808;3;3;19;D;Orquesta;METR√ìPOLIS;A Xironda, Cualedro;Ourense
+98809;3;3;19;D;Tr√≠o;INNOVACI√ìN;Agui√±o, Ribeira;A Coru√±a
+98707;3;3;19;D;Solista;JUDITH CUND√çNS;Aldeola Restaurante, Malpica de Berganti√±os;A Coru√±a
 99521;3;3;19;D;Grupo;PUNTO CLAVE;Baralla;Lugo
-99258;3;3;19;D;Orquesta;FOLIADA D¥ASES;Betanzos;A CoruÒa
-99407;3;3;19;D;Charanga;MEKANIKA;Carballo;A CoruÒa
-99646;3;3;19;D;Orquesta;TREBOL;Carballo;A CoruÒa
+99258;3;3;19;D;Orquesta;FOLIADA D¬¥ASES;Betanzos;A Coru√±a
+99407;3;3;19;D;Charanga;MEKANIKA;Carballo;A Coru√±a
+99646;3;3;19;D;Orquesta;TREBOL;Carballo;A Coru√±a
 99454;3;3;19;D;Orquesta;TRIUNFO;Cobres, Vilaboa;Pontevedra
-99187;3;3;19;D;D˙o;CARPE DIEM;Corrubedo, Ribeira;A CoruÒa
+99187;3;3;19;D;D√∫o;CARPE DIEM;Corrubedo, Ribeira;A Coru√±a
 99850;3;3;19;D;Orquesta;LA FAVORITA;Disco Damo, Viana Do Bolo;Ourense
-98933;3;3;19;D;Charanga;LE—A VERDE;DumbrÌa;A CoruÒa
-99329;3;3;19;D;D˙o;ESTRELLAS;Espasante, Ortigueira;A CoruÒa
-99519;3;3;19;D;Orquesta;LOS SAT…LITES;Fornelos, O Rosal;Pontevedra
-99602;3;3;19;D;Orquesta;LA F”RMULA;Garab·s, Maside;Ourense
-99589;3;3;19;D;Grupo;AM…RICA DE VIGO;Goi·n, TomiÒo;Pontevedra
-97425;3;3;19;D;Charanga;MANÕA;La BaÒeza;LeÛn
-99783;3;3;19;D;Orquesta;PARIS DE NOIA;La BaÒeza;LeÛn
+98933;3;3;19;D;Charanga;LE√ëA VERDE;Dumbr√≠a;A Coru√±a
+99329;3;3;19;D;D√∫o;ESTRELLAS;Espasante, Ortigueira;A Coru√±a
+99519;3;3;19;D;Orquesta;LOS SAT√âLITES;Fornelos, O Rosal;Pontevedra
+99602;3;3;19;D;Orquesta;LA F√ìRMULA;Garab√°s, Maside;Ourense
+99589;3;3;19;D;Grupo;AM√âRICA DE VIGO;Goi√°n, Tomi√±o;Pontevedra
+97425;3;3;19;D;Charanga;MAN√çA;La Ba√±eza;Le√≥n
+99783;3;3;19;D;Orquesta;PARIS DE NOIA;La Ba√±eza;Le√≥n
 99736;3;3;19;D;Grupo;TEKILA;La Corredoria, Oviedo;Asturias
-99421;3;3;19;D;Grupo;TANIA VEIRAS;L·ncara;Lugo
+99421;3;3;19;D;Grupo;TANIA VEIRAS;L√°ncara;Lugo
 97889;3;3;19;D;Charanga;EUROPA;Laza;Ourense
 98014;3;3;19;D;Charanga;VAITE XA!!;Laza;Ourense
 98856;3;3;19;D;Orquesta;ISRAEL;Laza;Ourense
 98991;3;3;19;D;Orquesta;GRAN PARADA;Laza;Ourense
-98584;3;3;19;D;Charanga;MANÕA;Mayorga;Valladolid
-99913;3;3;19;D;Grupo;AMERICA SL;O Pedrouzo, O Pino;A CoruÒa
+98584;3;3;19;D;Charanga;MAN√çA;Mayorga;Valladolid
+99913;3;3;19;D;Grupo;AMERICA SL;O Pedrouzo, O Pino;A Coru√±a
 98559;3;3;19;D;Charanga;CASTRO BELLO;Ourense;Ourense
 98678;3;3;19;D;Charanga;CLK;Ourense;Ourense
 98900;3;3;19;D;Charanga;LOUBAND;Ourense;Ourense
-99262;3;3;19;D;Orquesta;ARMONÕA SHOW;Parque Santa Catalina, Las Palmas;Las Palmas
+99262;3;3;19;D;Orquesta;ARMON√çA SHOW;Parque Santa Catalina, Las Palmas;Las Palmas
 99775;3;3;19;D;Orquesta;CHARLESTON BIG-BAND;Ponteareas;Pontevedra
-99696;3;3;19;D;Charanga;FURRUXA;Praza do Obradoiro, Santiago de Compostela;A CoruÒa
+99696;3;3;19;D;Charanga;FURRUXA;Praza do Obradoiro, Santiago de Compostela;A Coru√±a
 99145;3;3;19;D;Orquesta;CAPITOL;Praza Maior, Ourense;Ourense
-98530;3;3;19;D;TrÌo;KARMA;Quiroga;Lugo
-99003;3;3;19;D;D˙o;EXPLOSI”N;Quiroga;Lugo
-99931;3;3;19;D;Charanga;BB+;Ribeira;A CoruÒa
-98562;3;3;19;D;Orquesta;SOLARA;S.F. Cham·n, Goi·n;Pontevedra
-99611;3;3;19;D;Orquesta;LA OLA ADN;S.F. La Luna, CerponzÛns;Pontevedra
-99509;3;3;19;D;Orquesta;NEVADA;S.F. La Reina, SanguiÒeda;Pontevedra
+98530;3;3;19;D;Tr√≠o;KARMA;Quiroga;Lugo
+99003;3;3;19;D;D√∫o;EXPLOSI√ìN;Quiroga;Lugo
+99931;3;3;19;D;Charanga;BB+;Ribeira;A Coru√±a
+98562;3;3;19;D;Orquesta;SOLARA;S.F. Cham√°n, Goi√°n;Pontevedra
+99611;3;3;19;D;Orquesta;LA OLA ADN;S.F. La Luna, Cerponz√≥ns;Pontevedra
+99509;3;3;19;D;Orquesta;NEVADA;S.F. La Reina, Sangui√±eda;Pontevedra
 99338;3;3;19;D;Orquesta;EL COMBO DOMINICANO;S.F. Morango K.N, Lugo;Lugo
-98995;3;3;19;D;Orquesta;MIRAMAR;S.F. Paulino, O CarballiÒo;Ourense
-99685;3;3;19;D;Orquesta;SUAVECITO;S.F. Velvet, MonÁao;Portugal
-99500;3;3;19;D;Orquesta;PANAMA;S.F. Zeus, Campolongo;A CoruÒa
-99311;3;3;19;D;Orquesta;LOS TROVADORES;Salcedo, A Pobra do BrollÛn;Lugo
+98995;3;3;19;D;Orquesta;MIRAMAR;S.F. Paulino, O Carballi√±o;Ourense
+99685;3;3;19;D;Orquesta;SUAVECITO;S.F. Velvet, Mon√ßao;Portugal
+99500;3;3;19;D;Orquesta;PANAMA;S.F. Zeus, Campolongo;A Coru√±a
+99311;3;3;19;D;Orquesta;LOS TROVADORES;Salcedo, A Pobra do Broll√≥n;Lugo
 99437;3;3;19;D;Grupo;LUME;San Miguel de Reinante, Barreiros;Lugo
 99659;3;3;19;D;Orquesta;FINISTERRE;Sarreaus;Ourense
 99688;3;3;19;D;Charanga;NBA;Sarreaus;Ourense
 99631;3;3;19;D;Grupo;GARIBALDI;Sarria;Lugo
 99113;3;3;19;D;Grupo;NEBRASKA;Seixalbo, Ourense;Ourense
-99141;3;3;19;D;Orquesta;OLYMPUS RED TOUR;Sergude, BoqueixÛn;A CoruÒa
+99141;3;3;19;D;Orquesta;OLYMPUS RED TOUR;Sergude, Boqueix√≥n;A Coru√±a
 99828;3;3;19;D;Orquesta;COMPOSTELA;Taboada;Lugo
-99455;3;3;19;D;D˙o;D¥VICIO;Trasmonte, Oroso;A CoruÒa
-98541;3;3;19;D;Orquesta;SAUDADE;Troitosende, A BaÒa;A CoruÒa
-99408;3;3;19;D;Charanga;OS CHARANGOS;Vega de Espinareda;LeÛn
-99053;3;3;19;D;Charanga;FUEGO;VerÌn;Ourense
-99095;3;3;19;D;Charanga;VA K PINTA;VerÌn;Ourense
-99096;3;3;19;D;Charanga;LOS T¡MEGA;VerÌn;Ourense
-99097;3;3;19;D;Orquesta;PRINCIPAL;VerÌn;Ourense
-99098;3;3;19;D;Orquesta;RITMO JOVEN;VerÌn;Ourense
+99455;3;3;19;D;D√∫o;D¬¥VICIO;Trasmonte, Oroso;A Coru√±a
+98541;3;3;19;D;Orquesta;SAUDADE;Troitosende, A Ba√±a;A Coru√±a
+99408;3;3;19;D;Charanga;OS CHARANGOS;Vega de Espinareda;Le√≥n
+99053;3;3;19;D;Charanga;FUEGO;Ver√≠n;Ourense
+99095;3;3;19;D;Charanga;VA K PINTA;Ver√≠n;Ourense
+99096;3;3;19;D;Charanga;LOS T√ÅMEGA;Ver√≠n;Ourense
+99097;3;3;19;D;Orquesta;PRINCIPAL;Ver√≠n;Ourense
+99098;3;3;19;D;Orquesta;RITMO JOVEN;Ver√≠n;Ourense
 99766;3;3;19;D;Orquesta;MARBELLA;Vilanova de Arousa;Pontevedra
 98198;3;3;19;D;Charanga;ARDORES;Vilarnaz, Coles;Ourense
 99595;3;3;19;D;Orquesta;LA OCABAND;Vilarnaz, Coles;Ourense
-99485;3;3;19;D;Orquesta;FLORIDA SHOW;Villadepalos, Carracedelo;LeÛn
+99485;3;3;19;D;Orquesta;FLORIDA SHOW;Villadepalos, Carracedelo;Le√≥n
 97801;3;3;19;D;Charanga;BCB;Xinzo de Limia;Ourense
 99673;3;3;19;D;Orquesta;PONTEVEDRA;Xinzo de Limia;Ourense
 99689;3;3;19;D;Charanga;NBA;Xinzo de Limia;Ourense
-99869;4;3;19;L;Disco MÛvil;TRAFFIC;A CoruÒa;A CoruÒa
+99869;4;3;19;L;Disco M√≥vil;TRAFFIC;A Coru√±a;A Coru√±a
 99896;4;3;19;L;Orquesta;TANGO;A Feira, Salceda de Caselas;Pontevedra
 97820;4;3;19;L;Grupo;CHASTTON SHOW;Alfoz;Lugo
-99245;4;3;19;L;Grupo;TEKILA;AvilÈs;Asturias
-99155;4;3;19;L;TrÌo;KARMA;Becerre·;Lugo
+99245;4;3;19;L;Grupo;TEKILA;Avil√©s;Asturias
+99155;4;3;19;L;Tr√≠o;KARMA;Becerre√°;Lugo
 99350;4;3;19;L;Grupo;PEKADOS;Bravos, Ourol;Lugo
-98959;4;3;19;L;Charanga;SANTA COMPA—A;CariÒo;A CoruÒa
-99723;4;3;19;L;Orquesta;NEW YORK;CariÒo;A CoruÒa
-99560;4;3;19;L;D˙o;ECLIPSE;CÌrculo Victoria, Monforte de Lemos;Lugo
+98959;4;3;19;L;Charanga;SANTA COMPA√ëA;Cari√±o;A Coru√±a
+99723;4;3;19;L;Orquesta;NEW YORK;Cari√±o;A Coru√±a
+99560;4;3;19;L;D√∫o;ECLIPSE;C√≠rculo Victoria, Monforte de Lemos;Lugo
 99441;4;3;19;L;Orquesta;PRINCIPAL;Cobres, Vilaboa;Pontevedra
 99229;4;3;19;L;Orquesta;GRAN PARADA;Fornelos, O Rosal;Pontevedra
 99238;4;3;19;L;Orquesta;LA OCABAND;Fornelos, O Rosal;Pontevedra
-99776;4;3;19;L;Orquesta;CHARLESTON BIG-BAND;Goi·n, TomiÒo;Pontevedra
+99776;4;3;19;L;Orquesta;CHARLESTON BIG-BAND;Goi√°n, Tomi√±o;Pontevedra
 99794;4;3;19;L;Grupo;AMERICA SL;Guimarei, A Estrada;Pontevedra
 99797;4;3;19;L;Grupo;GARIBALDI;Guimarei, A Estrada;Pontevedra
-99142;4;3;19;L;Grupo;D¥MODA;Irixoa;A CoruÒa
-97426;4;3;19;L;Charanga;MANÕA;La BaÒeza;LeÛn
+99142;4;3;19;L;Grupo;D¬¥MODA;Irixoa;A Coru√±a
+97426;4;3;19;L;Charanga;MAN√çA;La Ba√±eza;Le√≥n
 97890;4;3;19;L;Charanga;EUROPA;Laza;Ourense
 98015;4;3;19;L;Charanga;VAITE XA!!;Laza;Ourense
 98914;4;3;19;L;Orquesta;PONTEVEDRA;Laza;Ourense
 98915;4;3;19;L;Orquesta;RITMO JOVEN;Laza;Ourense
-99829;4;3;19;L;Orquesta;COMPOSTELA;Liceo, As Pontes de GarcÌa RodrÌguez;A CoruÒa
+99829;4;3;19;L;Orquesta;COMPOSTELA;Liceo, As Pontes de Garc√≠a Rodr√≠guez;A Coru√±a
 98936;4;3;19;L;Grupo;PUNTO CLAVE;Louseiro, Sarria;Lugo
-98992;4;3;19;L;D˙o;ECLIPSE;Louseiro, Sarria;Lugo
+98992;4;3;19;L;D√∫o;ECLIPSE;Louseiro, Sarria;Lugo
 99122;4;3;19;L;Charanga;LOUBAND;Lugo;Lugo
-99184;4;3;19;L;D˙o;EXPLOSI”N;Lugo;Lugo
-99881;4;3;19;L;Orquesta;MIRAMAR;MarÌn;Pontevedra
+99184;4;3;19;L;D√∫o;EXPLOSI√ìN;Lugo;Lugo
+99881;4;3;19;L;Orquesta;MIRAMAR;Mar√≠n;Pontevedra
 99744;4;3;19;L;Charanga;CASTRO BELLO;Maside;Ourense
-99162;4;3;19;L;Disco MÛvil;BOA FESTA;O Barco, O Barco de Valdeorras;Ourense
-99402;4;3;19;L;Orquesta;OLYMPUS RED TOUR;O CarballiÒo;Ourense
-99328;4;3;19;L;Charanga;CANTOS SOMOS;O PorriÒo;Pontevedra
+99162;4;3;19;L;Disco M√≥vil;BOA FESTA;O Barco, O Barco de Valdeorras;Ourense
+99402;4;3;19;L;Orquesta;OLYMPUS RED TOUR;O Carballi√±o;Ourense
+99328;4;3;19;L;Charanga;CANTOS SOMOS;O Porri√±o;Pontevedra
 99052;4;3;19;L;Charanga;FUEGO;Oimbra;Ourense
 99816;4;3;19;L;Charanga;MEKANIKA;Oimbra;Ourense
 98560;4;3;19;L;Charanga;CASTRO BELLO;Ourense;Ourense
 98573;4;3;19;L;Charanga;EUROPA;Ourense;Ourense
 99148;4;3;19;L;Orquesta;PARIS DE NOIA;Parada de Amoeiro, Amoeiro;Ourense
-99263;4;3;19;L;Orquesta;ARMONÕA SHOW;Parque Santa Catalina, Las Palmas;Las Palmas
-99520;4;3;19;L;Orquesta;LOS SAT…LITES;Paseo BegoÒa, Gijon;Asturias
-99269;4;3;19;L;D˙o;D¥VICIO;Polideportivo Municipal de Brexo Lema, Cambre;A CoruÒa
-99189;4;3;19;L;Orquesta;FANIA BLANCO SHOW;Ponteceso;A CoruÒa
+99263;4;3;19;L;Orquesta;ARMON√çA SHOW;Parque Santa Catalina, Las Palmas;Las Palmas
+99520;4;3;19;L;Orquesta;LOS SAT√âLITES;Paseo Bego√±a, Gijon;Asturias
+99269;4;3;19;L;D√∫o;D¬¥VICIO;Polideportivo Municipal de Brexo Lema, Cambre;A Coru√±a
+99189;4;3;19;L;Orquesta;FANIA BLANCO SHOW;Ponteceso;A Coru√±a
 99146;4;3;19;L;Orquesta;FINISTERRE;Praza Maior, Ourense;Ourense
 99427;4;3;19;L;Orquesta;FURIA JOVEN;Puerto del Rosario, Fuerteventura;Las Palmas
-99767;4;3;19;L;Orquesta;MARBELLA;Restaurante El Pantano, Abegondo;A CoruÒa
+99767;4;3;19;L;Orquesta;MARBELLA;Restaurante El Pantano, Abegondo;A Coru√±a
 99941;4;3;19;L;Grupo;ASSIA;Ribadesella;Asturias
-99211;4;3;19;L;D˙o;ESTRELLAS;Roupar, Xermade;Lugo
-99296;4;3;19;L;Orquesta;EL COMBO DOMINICANO;S.F. La Flor, Montouto;A CoruÒa
-99316;4;3;19;L;Orquesta;CINEMA;S.F. La Flor, Montouto;A CoruÒa
-99825;4;3;19;L;D˙o;SON D¥CARACAS;Sada;A CoruÒa
-99591;4;3;19;L;Grupo;AM…RICA DE VIGO;Salceda de Caselas;Pontevedra
-99056;4;3;19;L;Orquesta;ISRAEL;Salcedo, A Pobra do BrollÛn;Lugo
-99153;4;3;19;L;Orquesta;CAPITOL;Salcedo, A Pobra do BrollÛn;Lugo
-99603;4;3;19;L;Orquesta;LA F”RMULA;Urdilde, Rois;A CoruÒa
-99099;4;3;19;L;Orquesta;NEVADA;VerÌn;Ourense
-99100;4;3;19;L;Charanga;LOS T¡MEGA;VerÌn;Ourense
-99101;4;3;19;L;Grupo;ARAMIO;VerÌn;Ourense
+99211;4;3;19;L;D√∫o;ESTRELLAS;Roupar, Xermade;Lugo
+99296;4;3;19;L;Orquesta;EL COMBO DOMINICANO;S.F. La Flor, Montouto;A Coru√±a
+99316;4;3;19;L;Orquesta;CINEMA;S.F. La Flor, Montouto;A Coru√±a
+99825;4;3;19;L;D√∫o;SON D¬¥CARACAS;Sada;A Coru√±a
+99591;4;3;19;L;Grupo;AM√âRICA DE VIGO;Salceda de Caselas;Pontevedra
+99056;4;3;19;L;Orquesta;ISRAEL;Salcedo, A Pobra do Broll√≥n;Lugo
+99153;4;3;19;L;Orquesta;CAPITOL;Salcedo, A Pobra do Broll√≥n;Lugo
+99603;4;3;19;L;Orquesta;LA F√ìRMULA;Urdilde, Rois;A Coru√±a
+99099;4;3;19;L;Orquesta;NEVADA;Ver√≠n;Ourense
+99100;4;3;19;L;Charanga;LOS T√ÅMEGA;Ver√≠n;Ourense
+99101;4;3;19;L;Grupo;ARAMIO;Ver√≠n;Ourense
 99199;4;3;19;L;Charanga;OS CHARANGOS;Xinzo de Limia;Ourense
 99932;4;3;19;L;Charanga;BB+;Xinzo de Limia;Ourense
 99899;5;3;19;M;Orquesta;CINEMA;A Feira, Salceda de Caselas;Pontevedra
-99647;5;3;19;M;Orquesta;TREBOL;A Laracha;A CoruÒa
+99647;5;3;19;M;Orquesta;TREBOL;A Laracha;A Coru√±a
 98548;5;3;19;M;Charanga;CASTRO BELLO;Allariz;Ourense
 99772;5;3;19;M;Orquesta;TRIUNFO;Ansemar, Castro de Rei;Lugo
-98895;5;3;19;M;Charanga;LOUBAND;As Pontes de GarcÌa RodrÌguez;A CoruÒa
-98708;5;3;19;M;Solista;JUDITH CUNDÕNS;Cabana de BergantiÒos;A CoruÒa
-98677;5;3;19;M;Charanga;SANTA COMPA—A;Carballo;A CoruÒa
-99324;5;3;19;M;D˙o;EXPLOSI”N;Cartelle;Ourense
-99604;5;3;19;M;Orquesta;LA F”RMULA;Castro Barreiro, Salceda de Caselas;Pontevedra
-99422;5;3;19;M;Orquesta;ISRAEL;CÌrculo Victoria, Monforte de Lemos;Lugo
+98895;5;3;19;M;Charanga;LOUBAND;As Pontes de Garc√≠a Rodr√≠guez;A Coru√±a
+98708;5;3;19;M;Solista;JUDITH CUND√çNS;Cabana de Berganti√±os;A Coru√±a
+98677;5;3;19;M;Charanga;SANTA COMPA√ëA;Carballo;A Coru√±a
+99324;5;3;19;M;D√∫o;EXPLOSI√ìN;Cartelle;Ourense
+99604;5;3;19;M;Orquesta;LA F√ìRMULA;Castro Barreiro, Salceda de Caselas;Pontevedra
+99422;5;3;19;M;Orquesta;ISRAEL;C√≠rculo Victoria, Monforte de Lemos;Lugo
 99898;5;3;19;M;Orquesta;MARBELLA;Disco Damo, Viana Do Bolo;Ourense
-99136;5;3;19;M;Orquesta;EL COMBO DOMINICANO;Discoteca INK, NarÛn;A CoruÒa
-99172;5;3;19;M;Charanga;ARDORES;EscairÛn, O SaviÒao;Lugo
-99702;5;3;19;M;TrÌo;LA NOCHE DO GROVE;Estadio BalaÌdos, Vigo;Pontevedra
-97427;5;3;19;M;Charanga;MANÕA;La BaÒeza;LeÛn
-99920;5;3;19;M;TrÌo;SINTONÕA;Laraxe, Cabanas;A CoruÒa
+99136;5;3;19;M;Orquesta;EL COMBO DOMINICANO;Discoteca INK, Nar√≥n;A Coru√±a
+99172;5;3;19;M;Charanga;ARDORES;Escair√≥n, O Savi√±ao;Lugo
+99702;5;3;19;M;Tr√≠o;LA NOCHE DO GROVE;Estadio Bala√≠dos, Vigo;Pontevedra
+97427;5;3;19;M;Charanga;MAN√çA;La Ba√±eza;Le√≥n
+99920;5;3;19;M;Tr√≠o;SINTON√çA;Laraxe, Cabanas;A Coru√±a
 98016;5;3;19;M;Charanga;VAITE XA!!;Laza;Ourense
 98916;5;3;19;M;Orquesta;XACOBEO;Laza;Ourense
 99359;5;3;19;M;Orquesta;FIN DE SIGLO;Maceda;Ourense
 99444;5;3;19;M;Grupo;NEBRASKA;Monforte de Lemos;Lugo
-99904;5;3;19;M;D˙o;CHARADA;Noia;A CoruÒa
+99904;5;3;19;M;D√∫o;CHARADA;Noia;A Coru√±a
 98429;5;3;19;M;Charanga;EUROPA;O Barco, O Barco de Valdeorras;Ourense
-99163;5;3;19;M;Disco MÛvil;BOA FESTA;O Barco, O Barco de Valdeorras;Ourense
-99403;5;3;19;M;Grupo;ARAMIO;O CarballiÒo;Ourense
+99163;5;3;19;M;Disco M√≥vil;BOA FESTA;O Barco, O Barco de Valdeorras;Ourense
+99403;5;3;19;M;Grupo;ARAMIO;O Carballi√±o;Ourense
 99690;5;3;19;M;Charanga;NBA;Oimbra;Ourense
-97267;5;3;19;M;TrÌo;KARMA;Ourense;Ourense
+97267;5;3;19;M;Tr√≠o;KARMA;Ourense;Ourense
 98581;5;3;19;M;Charanga;CLK;Ourense;Ourense
 98899;5;3;19;M;Charanga;LOUBAND;Ourense;Ourense
 99310;5;3;19;M;Grupo;M-3;Parada de Amoeiro, Amoeiro;Ourense
-99919;5;3;19;M;TrÌo;SINTONÕA;Pazo da Cultura de Carballo, Carballo;A CoruÒa
-99409;5;3;19;M;Charanga;OS CHARANGOS;Ponferrada;LeÛn
+99919;5;3;19;M;Tr√≠o;SINTON√çA;Pazo da Cultura de Carballo, Carballo;A Coru√±a
+99409;5;3;19;M;Charanga;OS CHARANGOS;Ponferrada;Le√≥n
 99817;5;3;19;M;Charanga;MEKANIKA;Ponteareas;Pontevedra
-99147;5;3;19;M;Grupo;D¥MODA;Praza Maior, Ourense;Ourense
-99265;5;3;19;M;Orquesta;ARMONÕA SHOW;Puerto de la Cruz, Tenerife;Tenerife
-99968;5;3;19;M;D˙o;ESTRELLAS;QuilÛs, Cacabelos;LeÛn
-99349;5;3;19;M;Grupo;PEKADOS;R·bade;Lugo
-99510;5;3;19;M;Orquesta;NEVADA;S.F. Paulino, O CarballiÒo;Ourense
-99312;5;3;19;M;Orquesta;LOS SAT…LITES;Salcedo, A Pobra do BrollÛn;Lugo
-99561;5;3;19;M;D˙o;ECLIPSE;San Cibrao, Cervo;Lugo
+99147;5;3;19;M;Grupo;D¬¥MODA;Praza Maior, Ourense;Ourense
+99265;5;3;19;M;Orquesta;ARMON√çA SHOW;Puerto de la Cruz, Tenerife;Tenerife
+99968;5;3;19;M;D√∫o;ESTRELLAS;Quil√≥s, Cacabelos;Le√≥n
+99349;5;3;19;M;Grupo;PEKADOS;R√°bade;Lugo
+99510;5;3;19;M;Orquesta;NEVADA;S.F. Paulino, O Carballi√±o;Ourense
+99312;5;3;19;M;Orquesta;LOS SAT√âLITES;Salcedo, A Pobra do Broll√≥n;Lugo
+99561;5;3;19;M;D√∫o;ECLIPSE;San Cibrao, Cervo;Lugo
 99660;5;3;19;M;Orquesta;FINISTERRE;Tui;Pontevedra
-99102;5;3;19;M;Charanga;MIL9;VerÌn;Ourense
-99103;5;3;19;M;Charanga;LOS T¡MEGA;VerÌn;Ourense
-99104;5;3;19;M;Charanga;FUEGO;VerÌn;Ourense
-99105;5;3;19;M;Orquesta;LA OCABAND;VerÌn;Ourense
-99106;5;3;19;M;Grupo;GARIBALDI;VerÌn;Ourense
+99102;5;3;19;M;Charanga;MIL9;Ver√≠n;Ourense
+99103;5;3;19;M;Charanga;LOS T√ÅMEGA;Ver√≠n;Ourense
+99104;5;3;19;M;Charanga;FUEGO;Ver√≠n;Ourense
+99105;5;3;19;M;Orquesta;LA OCABAND;Ver√≠n;Ourense
+99106;5;3;19;M;Grupo;GARIBALDI;Ver√≠n;Ourense
 97802;5;3;19;M;Charanga;BCB;Xinzo de Limia;Ourense
 99833;5;3;19;M;Orquesta;COMPOSTELA;Xinzo de Limia;Ourense
 99933;5;3;19;M;Charanga;BB+;Xinzo de Limia;Ourense
-99691;6;3;19;X;Charanga;NBA;Betanzos;A CoruÒa
-99456;6;3;19;X;D˙o;D¥VICIO;Conxo, Santiago de Compostela;A CoruÒa
-99969;6;3;19;X;TrÌo;LA NOCHE DO GROVE;Estadio BalaÌdos, Vigo;Pontevedra
-99366;6;3;19;X;Orquesta;OLYMPUS RED TOUR;Fene;A CoruÒa
-98667;6;3;19;X;Charanga;CASTRO BELLO;O CarballiÒo;Ourense
-99266;6;3;19;X;Orquesta;ARMONÕA SHOW;Plaza del Rosario, Ag¸imes;Las Palmas
-99283;6;3;19;X;Orquesta;EL COMBO DOMINICANO;Plaza del Rosario, Ag¸imes;Las Palmas
-99698;6;3;19;X;Charanga;FURRUXA;Praza do Obradoiro, Santiago de Compostela;A CoruÒa
-99934;6;3;19;X;Charanga;BB+;Serra de Outes, Outes;A CoruÒa
+99691;6;3;19;X;Charanga;NBA;Betanzos;A Coru√±a
+99456;6;3;19;X;D√∫o;D¬¥VICIO;Conxo, Santiago de Compostela;A Coru√±a
+99969;6;3;19;X;Tr√≠o;LA NOCHE DO GROVE;Estadio Bala√≠dos, Vigo;Pontevedra
+99366;6;3;19;X;Orquesta;OLYMPUS RED TOUR;Fene;A Coru√±a
+98667;6;3;19;X;Charanga;CASTRO BELLO;O Carballi√±o;Ourense
+99266;6;3;19;X;Orquesta;ARMON√çA SHOW;Plaza del Rosario, Ag√ºimes;Las Palmas
+99283;6;3;19;X;Orquesta;EL COMBO DOMINICANO;Plaza del Rosario, Ag√ºimes;Las Palmas
+99698;6;3;19;X;Charanga;FURRUXA;Praza do Obradoiro, Santiago de Compostela;A Coru√±a
+99934;6;3;19;X;Charanga;BB+;Serra de Outes, Outes;A Coru√±a
 99715;6;3;19;X;Charanga;OS CHARANGOS;Viveiro;Lugo
-99457;7;3;19;J;D˙o;D¥VICIO;Barrio do CastrillÛn, A CoruÒa;A CoruÒa
-99385;7;3;19;J;Solista;ROCÕO P…REZ;O Tarambollo, Carballo;A CoruÒa
+99457;7;3;19;J;D√∫o;D¬¥VICIO;Barrio do Castrill√≥n, A Coru√±a;A Coru√±a
+99385;7;3;19;J;Solista;ROC√çO P√âREZ;O Tarambollo, Carballo;A Coru√±a
 99586;7;3;19;J;Orquesta;FURIA JOVEN;Parque Santa Catalina, Las Palmas;Las Palmas
 99972;8;3;19;V;Orquesta;CINEMA;A Feira, Salceda de Caselas;Pontevedra
-99784;8;3;19;V;Orquesta;PARIS DE NOIA;As Pontes de GarcÌa RodrÌguez;A CoruÒa
-98917;8;3;19;V;Orquesta;LA F”RMULA;Castro de Ribeiras de Lea, Castro de Rei;Lugo
+99784;8;3;19;V;Orquesta;PARIS DE NOIA;As Pontes de Garc√≠a Rodr√≠guez;A Coru√±a
+98917;8;3;19;V;Orquesta;LA F√ìRMULA;Castro de Ribeiras de Lea, Castro de Rei;Lugo
 98800;8;3;19;V;Orquesta;SAUDADE;Chantada;Lugo
 99768;8;3;19;V;Orquesta;MARBELLA;Discoteca Daniel, Pontevedra;Pontevedra
-100009;8;3;19;V;TrÌo;D¥NIKA MUSIC;Discoteca Zouk, Lugo;Lugo
-99737;8;3;19;V;Grupo;TEKILA;GijÛn;Asturias
-99612;8;3;19;V;Solista;JUDITH CUNDÕNS;O Couto, Ponteceso;A CoruÒa
-98304;8;3;19;V;Solista;XILO;Os ¡nxeles, BriÛn;A CoruÒa
+100009;8;3;19;V;Tr√≠o;D¬¥NIKA MUSIC;Discoteca Zouk, Lugo;Lugo
+99737;8;3;19;V;Grupo;TEKILA;Gij√≥n;Asturias
+99612;8;3;19;V;Solista;JUDITH CUND√çNS;O Couto, Ponteceso;A Coru√±a
+98304;8;3;19;V;Solista;XILO;Os √Ånxeles, Bri√≥n;A Coru√±a
 99339;8;3;19;V;Orquesta;EL COMBO DOMINICANO;Parque Santa Catalina, Las Palmas;Las Palmas
-99947;8;3;19;V;Charanga;FURRUXA;Praza do Obradoiro, Santiago de Compostela;A CoruÒa
-99692;8;3;19;V;Charanga;NBA;Renedo de PiÈlagos;Cantabria
-99488;8;3;19;V;Orquesta;ARMONÕA SHOW;San JosÈ, Las Palmas;Las Palmas
-100042;9;3;19;S;TrÌo;SINTONÕA;A CoruÒa;A CoruÒa
+99947;8;3;19;V;Charanga;FURRUXA;Praza do Obradoiro, Santiago de Compostela;A Coru√±a
+99692;8;3;19;V;Charanga;NBA;Renedo de Pi√©lagos;Cantabria
+99488;8;3;19;V;Orquesta;ARMON√çA SHOW;San Jos√©, Las Palmas;Las Palmas
+100042;9;3;19;S;Tr√≠o;SINTON√çA;A Coru√±a;A Coru√±a
 99445;9;3;19;S;Grupo;NEBRASKA;A Feira, Salceda de Caselas;Pontevedra
-99700;9;3;19;S;TrÌo;LA NOCHE DO GROVE;A Lama;Pontevedra
-99795;9;3;19;S;Charanga;ERAVISTO;A Pobra do CaramiÒal;A CoruÒa
-98831;9;3;19;S;D˙o;CARPE DIEM;Abadin;Lugo
-99648;9;3;19;S;Orquesta;TREBOL;Aldeola Restaurante, Malpica de BergantiÒos;A CoruÒa
-99164;9;3;19;S;Grupo;VAN BAND;ArantÛn, Santa Comba;A CoruÒa
-99325;9;3;19;S;Orquesta;ABANICO;Ares;A CoruÒa
-98467;9;3;19;S;Charanga;MANÕA;Astorga;LeÛn
-99037;9;3;19;S;Charanga;TNT;Astorga;LeÛn
-99605;9;3;19;S;Orquesta;LA F”RMULA;Astorga;LeÛn
-99709;9;3;19;S;D˙o;LA HORA BRUJA;Baleira;Lugo
-99791;9;3;19;S;Orquesta;SUAVECITO;Bembibre;LeÛn
-99549;9;3;19;S;Orquesta;RITMO JOVEN;Bergondo;A CoruÒa
-99300;9;3;19;S;Disco MÛvil;IMPACTO;BuÒo, Malpica de BergantiÒos;A CoruÒa
-99872;9;3;19;S;Grupo;ARAMIO;BuÒo, Malpica de BergantiÒos;A CoruÒa
-99215;9;3;19;S;D˙o;ESTRELLAS;Cabreiros, Xermade;Lugo
-99190;9;3;19;S;Orquesta;FANIA BLANCO SHOW;Cambre;A CoruÒa
-99213;9;3;19;S;Charanga;SANTA COMPA—A;Cambre;A CoruÒa
-98449;9;3;19;S;D˙o;LA HORA BRUJA;Canedo, Arganza;LeÛn
-99851;9;3;19;S;Orquesta;METR”POLIS;CarriÛn de los Condes;Palencia
-99613;9;3;19;S;Solista;JUDITH CUNDÕNS;Casa S·nchez, Coristanco;A CoruÒa
-100043;9;3;19;S;TrÌo;SINTONÕA;Casa ToÒita, A Capela;A CoruÒa
-98661;9;3;19;S;Disco MÛvil;MAYGON;Casino de Ares, Ares;A CoruÒa
+99700;9;3;19;S;Tr√≠o;LA NOCHE DO GROVE;A Lama;Pontevedra
+99795;9;3;19;S;Charanga;ERAVISTO;A Pobra do Carami√±al;A Coru√±a
+98831;9;3;19;S;D√∫o;CARPE DIEM;Abadin;Lugo
+99648;9;3;19;S;Orquesta;TREBOL;Aldeola Restaurante, Malpica de Berganti√±os;A Coru√±a
+99164;9;3;19;S;Grupo;VAN BAND;Arant√≥n, Santa Comba;A Coru√±a
+99325;9;3;19;S;Orquesta;ABANICO;Ares;A Coru√±a
+98467;9;3;19;S;Charanga;MAN√çA;Astorga;Le√≥n
+99037;9;3;19;S;Charanga;TNT;Astorga;Le√≥n
+99605;9;3;19;S;Orquesta;LA F√ìRMULA;Astorga;Le√≥n
+99709;9;3;19;S;D√∫o;LA HORA BRUJA;Baleira;Lugo
+99791;9;3;19;S;Orquesta;SUAVECITO;Bembibre;Le√≥n
+99549;9;3;19;S;Orquesta;RITMO JOVEN;Bergondo;A Coru√±a
+99300;9;3;19;S;Disco M√≥vil;IMPACTO;Bu√±o, Malpica de Berganti√±os;A Coru√±a
+99872;9;3;19;S;Grupo;ARAMIO;Bu√±o, Malpica de Berganti√±os;A Coru√±a
+99215;9;3;19;S;D√∫o;ESTRELLAS;Cabreiros, Xermade;Lugo
+99190;9;3;19;S;Orquesta;FANIA BLANCO SHOW;Cambre;A Coru√±a
+99213;9;3;19;S;Charanga;SANTA COMPA√ëA;Cambre;A Coru√±a
+98449;9;3;19;S;D√∫o;LA HORA BRUJA;Canedo, Arganza;Le√≥n
+99851;9;3;19;S;Orquesta;METR√ìPOLIS;Carri√≥n de los Condes;Palencia
+99613;9;3;19;S;Solista;JUDITH CUND√çNS;Casa S√°nchez, Coristanco;A Coru√±a
+100043;9;3;19;S;Tr√≠o;SINTON√çA;Casa To√±ita, A Capela;A Coru√±a
+98661;9;3;19;S;Disco M√≥vil;MAYGON;Casino de Ares, Ares;A Coru√±a
 99994;9;3;19;S;Orquesta;CHARLESTON BIG-BAND;Castro Barreiro, Salceda de Caselas;Pontevedra
-98918;9;3;19;S;Orquesta;ST…REO;Castro de Ribeiras de Lea, Castro de Rei;Lugo
+98918;9;3;19;S;Orquesta;ST√âREO;Castro de Ribeiras de Lea, Castro de Rei;Lugo
 98801;9;3;19;S;Orquesta;SAUDADE;Celanova;Ourense
 99674;9;3;19;S;Orquesta;PONTEVEDRA;Centro cultural de Salcedo, Pontevedra;Pontevedra
 99198;9;3;19;S;Charanga;OS CHARANGOS;Chantada;Lugo
 99264;9;3;19;S;Orquesta;SOLARA;Chantada;Lugo
 99267;9;3;19;S;Orquesta;TANGO;Chantada;Lugo
 99942;9;3;19;S;Grupo;ASSIA;Circulo de las Artes, Lugo;Lugo
-99054;9;3;19;S;Charanga;FUEGO;Cubillos del Sil;LeÛn
-99818;9;3;19;S;Charanga;MEKANIKA;Cubillos del Sil;LeÛn
+99054;9;3;19;S;Charanga;FUEGO;Cubillos del Sil;Le√≥n
+99818;9;3;19;S;Charanga;MEKANIKA;Cubillos del Sil;Le√≥n
 99693;9;3;19;S;Charanga;NBA;Ferreira, O Valadouro;Lugo
-98305;9;3;19;S;Solista;XILO;Fisterra;A CoruÒa
-99074;9;3;19;S;D˙o;D¥VICIO;Galdo, Viveiro;Lugo
-99365;9;3;19;S;Orquesta;OLYMPUS RED TOUR;La Colmena, NarÛn;A CoruÒa
-99568;9;3;19;S;TrÌo;FUSSION;Leiro;Ourense
-99150;9;3;19;S;Orquesta;COMPOSTELA;Meder, Salvaterra de MiÒo;Pontevedra
-99562;9;3;19;S;D˙o;ECLIPSE;MesÛn do Loyo, Paradela;Lugo
-99442;9;3;19;S;Orquesta;ISRAEL;MiÒortos, Porto do Son;A CoruÒa
-99665;9;3;19;S;Orquesta;PRINCIPAL;MondoÒedo;Lugo
+98305;9;3;19;S;Solista;XILO;Fisterra;A Coru√±a
+99074;9;3;19;S;D√∫o;D¬¥VICIO;Galdo, Viveiro;Lugo
+99365;9;3;19;S;Orquesta;OLYMPUS RED TOUR;La Colmena, Nar√≥n;A Coru√±a
+99568;9;3;19;S;Tr√≠o;FUSSION;Leiro;Ourense
+99150;9;3;19;S;Orquesta;COMPOSTELA;Meder, Salvaterra de Mi√±o;Pontevedra
+99562;9;3;19;S;D√∫o;ECLIPSE;Mes√≥n do Loyo, Paradela;Lugo
+99442;9;3;19;S;Orquesta;ISRAEL;Mi√±ortos, Porto do Son;A Coru√±a
+99665;9;3;19;S;Orquesta;PRINCIPAL;Mondo√±edo;Lugo
 100065;9;3;19;S;Grupo;CANELA;Mourente, Pontevedra;Pontevedra
 100066;9;3;19;S;Grupo;NIEVLA;Mourente, Pontevedra;Pontevedra
-99636;9;3;19;S;Disco MÛvil;SONORA MUSIC;Ordes;A CoruÒa
-99912;9;3;19;S;D˙o;CHARADA;Orro, Noia;A CoruÒa
+99636;9;3;19;S;Disco M√≥vil;SONORA MUSIC;Ordes;A Coru√±a
+99912;9;3;19;S;D√∫o;CHARADA;Orro, Noia;A Coru√±a
 99340;9;3;19;S;Orquesta;EL COMBO DOMINICANO;Plaza de la Candelaria, Santa Cruz de Tenerife;Tenerife
-99159;9;3;19;S;TrÌo;KARMA;Pontedeume;A CoruÒa
-99699;9;3;19;S;Charanga;FURRUXA;Praza do Obradoiro, Santiago de Compostela;A CoruÒa
+99159;9;3;19;S;Tr√≠o;KARMA;Pontedeume;A Coru√±a
+99699;9;3;19;S;Charanga;FURRUXA;Praza do Obradoiro, Santiago de Compostela;A Coru√±a
 99305;9;3;19;S;Grupo;NUEVA FUERZA;Puerto de la Cruz, Tenerife;Tenerife
-99511;9;3;19;S;Orquesta;NEVADA;Restaurante Balcobo, Arteixo;A CoruÒa
-99501;9;3;19;S;Orquesta;PANAMA;Restaurante El Pantano, Abegondo;A CoruÒa
-98810;9;3;19;S;TrÌo;INNOVACI”N;Ribeira;A CoruÒa
-99935;9;3;19;S;Charanga;BB+;Ribeira;A CoruÒa
+99511;9;3;19;S;Orquesta;NEVADA;Restaurante Balcobo, Arteixo;A Coru√±a
+99501;9;3;19;S;Orquesta;PANAMA;Restaurante El Pantano, Abegondo;A Coru√±a
+98810;9;3;19;S;Tr√≠o;INNOVACI√ìN;Ribeira;A Coru√±a
+99935;9;3;19;S;Charanga;BB+;Ribeira;A Coru√±a
 99785;9;3;19;S;Orquesta;PARIS DE NOIA;S.F. Chanteclair, Pontecesures;Pontevedra
-99855;9;3;19;S;Orquesta;TELEVISI”N;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
-98948;9;3;19;S;Grupo;TANIA VEIRAS;S.F. Josfer, MesÛn do Vento;A CoruÒa
-99256;9;3;19;S;Orquesta;NEW YORK;S.F. La Concha, O Val;A CoruÒa
-99314;9;3;19;S;Orquesta;MARBELLA;S.F. La Flor, Montouto;A CoruÒa
-99423;9;3;19;S;Grupo;D¥MODA;S.F. La Luna, CerponzÛns;Pontevedra
-99574;9;3;19;S;Orquesta;LOS SAT…LITES;S.F. Rosalar, Ribadeo;Lugo
-99223;9;3;19;S;Orquesta;FINISTERRE;S.F. Universo, Santa Comba;A CoruÒa
+99855;9;3;19;S;Orquesta;TELEVISI√ìN;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
+98948;9;3;19;S;Grupo;TANIA VEIRAS;S.F. Josfer, Mes√≥n do Vento;A Coru√±a
+99256;9;3;19;S;Orquesta;NEW YORK;S.F. La Concha, O Val;A Coru√±a
+99314;9;3;19;S;Orquesta;MARBELLA;S.F. La Flor, Montouto;A Coru√±a
+99423;9;3;19;S;Grupo;D¬¥MODA;S.F. La Luna, Cerponz√≥ns;Pontevedra
+99574;9;3;19;S;Orquesta;LOS SAT√âLITES;S.F. Rosalar, Ribadeo;Lugo
+99223;9;3;19;S;Orquesta;FINISTERRE;S.F. Universo, Santa Comba;A Coru√±a
 98692;9;3;19;S;Orquesta;CINEMA;San Pedro de Mera, Lugo;Lugo
 98693;9;3;19;S;Grupo;PUNTO CLAVE;San Pedro de Mera, Lugo;Lugo
-99596;9;3;19;S;Orquesta;LA OCABAND;San Rom·n de Vilaestrofe, Cervo;Lugo
-99274;9;3;19;S;D˙o;EXPLOSI”N;Silleda;Pontevedra
-99425;9;3;19;S;Solista;ROCÕO P…REZ;Silv·n, Coristanco;A CoruÒa
+99596;9;3;19;S;Orquesta;LA OCABAND;San Rom√°n de Vilaestrofe, Cervo;Lugo
+99274;9;3;19;S;D√∫o;EXPLOSI√ìN;Silleda;Pontevedra
+99425;9;3;19;S;Solista;ROC√çO P√âREZ;Silv√°n, Coristanco;A Coru√±a
 99853;9;3;19;S;Orquesta;CAPITOL;Sociedad Cultural y Deportiva de Mourente, Pontevedra;Pontevedra
 99738;9;3;19;S;Grupo;TEKILA;Soto de Agues, Sobrescobio;Asturias
-100226;9;3;19;S;Orquesta;XACOBEO;TrevÌas, ValdÈs;Asturias
+100226;9;3;19;S;Orquesta;XACOBEO;Trev√≠as, Vald√©s;Asturias
 99684;9;3;19;S;Grupo;CLAN ZERO;Valencia;Valencia
-99489;9;3;19;S;Orquesta;ARMONÕA SHOW;Valle Gran Rey, La Gomera;Tenerife
-99449;9;3;19;S;Charanga;LOUBAND;Villafranca del Bierzo;LeÛn
-99936;10;3;19;D;Charanga;BB+;CamariÒas;A CoruÒa
-99438;10;3;19;D;Charanga;SANTA COMPA—A;Cambre;A CoruÒa
-98438;10;3;19;D;Charanga;CASTRO BELLO;CarballiÒo, O CarballiÒo;Ourense
-98515;10;3;19;D;TrÌo;INNOVACI”N;Centro Social de Escarabote, Boiro;A CoruÒa
+99489;9;3;19;S;Orquesta;ARMON√çA SHOW;Valle Gran Rey, La Gomera;Tenerife
+99449;9;3;19;S;Charanga;LOUBAND;Villafranca del Bierzo;Le√≥n
+99936;10;3;19;D;Charanga;BB+;Camari√±as;A Coru√±a
+99438;10;3;19;D;Charanga;SANTA COMPA√ëA;Cambre;A Coru√±a
+98438;10;3;19;D;Charanga;CASTRO BELLO;Carballi√±o, O Carballi√±o;Ourense
+98515;10;3;19;D;Tr√≠o;INNOVACI√ìN;Centro Social de Escarabote, Boiro;A Coru√±a
 98770;10;3;19;D;Charanga;ARDORES;Chantada;Lugo
 99694;10;3;19;D;Charanga;NBA;Chantada;Lugo
-99856;10;3;19;D;Orquesta;TELEVISI”N;Chantada;Lugo
-99902;10;3;19;D;Charanga;LE—A VERDE;DumbrÌa;A CoruÒa
-98650;10;3;19;D;Solista;BEGO—A GARCÕA;Hotel Casa Barreiro, Ordes;A CoruÒa
-99205;10;3;19;D;Orquesta;FINISTERRE;Lestedo, BoqueixÛn;A CoruÒa
-99206;10;3;19;D;Orquesta;PARIS DE NOIA;Lestedo, BoqueixÛn;A CoruÒa
-99557;10;3;19;D;D˙o;EXPLOSI”N;MelÛn;Ourense
-98709;10;3;19;D;Solista;JUDITH CUNDÕNS;NeaÒo, Cabana de BergantiÒos;A CoruÒa
-99905;10;3;19;D;D˙o;CHARADA;Noia;A CoruÒa
-98582;10;3;19;D;Charanga;CLK;O CarballiÒo;Ourense
-98769;10;3;19;D;Charanga;ARDORES;O CarballiÒo;Ourense
-99666;10;3;19;D;Orquesta;PRINCIPAL;O CarballiÒo;Ourense
+99856;10;3;19;D;Orquesta;TELEVISI√ìN;Chantada;Lugo
+99902;10;3;19;D;Charanga;LE√ëA VERDE;Dumbr√≠a;A Coru√±a
+98650;10;3;19;D;Solista;BEGO√ëA GARC√çA;Hotel Casa Barreiro, Ordes;A Coru√±a
+99205;10;3;19;D;Orquesta;FINISTERRE;Lestedo, Boqueix√≥n;A Coru√±a
+99206;10;3;19;D;Orquesta;PARIS DE NOIA;Lestedo, Boqueix√≥n;A Coru√±a
+99557;10;3;19;D;D√∫o;EXPLOSI√ìN;Mel√≥n;Ourense
+98709;10;3;19;D;Solista;JUDITH CUND√çNS;Nea√±o, Cabana de Berganti√±os;A Coru√±a
+99905;10;3;19;D;D√∫o;CHARADA;Noia;A Coru√±a
+98582;10;3;19;D;Charanga;CLK;O Carballi√±o;Ourense
+98769;10;3;19;D;Charanga;ARDORES;O Carballi√±o;Ourense
+99666;10;3;19;D;Orquesta;PRINCIPAL;O Carballi√±o;Ourense
 99341;10;3;19;D;Orquesta;EL COMBO DOMINICANO;Plaza de la Candelaria, Santa Cruz de Tenerife;Tenerife
-99230;10;3;19;D;Orquesta;GRAN PARADA;Polideportivo Municipal, Brion;A CoruÒa
+99230;10;3;19;D;Orquesta;GRAN PARADA;Polideportivo Municipal, Brion;A Coru√±a
 99926;10;3;19;D;Orquesta;CHARLESTON BIG-BAND;Ponteareas;Pontevedra
-98306;10;3;19;D;Solista;XILO;Pontedeume;A CoruÒa
-100050;10;3;19;D;Charanga;FURRUXA;Praza do Obradoiro, Santiago de Compostela;A CoruÒa
-96880;10;3;19;D;TrÌo;SINTONÕA;Restaurante Pastoriza, Vimianzo;A CoruÒa
-98542;10;3;19;D;Orquesta;TREBOL;S.F. Cham·n, Goi·n;Pontevedra
-99713;10;3;19;D;Orquesta;LOS SAT…LITES;S.F. La Luna, CerponzÛns;Pontevedra
-99711;10;3;19;D;TrÌo;LA NOCHE DO GROVE;S.F. La Palmera Playa, Vigo;Pontevedra
-99830;10;3;19;D;Orquesta;COMPOSTELA;S.F. La Reina, SanguiÒeda;Pontevedra
-99704;10;3;19;D;Orquesta;CICLOMANÕA;S.F. Morango K.N, Lugo;Lugo
-99769;10;3;19;D;Orquesta;MARBELLA;S.F. Paulino, O CarballiÒo;Ourense
-99897;10;3;19;D;Orquesta;TANGO;S.F. Velvet, MonÁao;Portugal
-99854;10;3;19;D;Orquesta;CAPITOL;S.F. Zeus, Campolongo;A CoruÒa
-100053;10;3;19;D;D˙o;CARPE DIEM;Santa UxÌa de Ribeira;A CoruÒa
+98306;10;3;19;D;Solista;XILO;Pontedeume;A Coru√±a
+100050;10;3;19;D;Charanga;FURRUXA;Praza do Obradoiro, Santiago de Compostela;A Coru√±a
+96880;10;3;19;D;Tr√≠o;SINTON√çA;Restaurante Pastoriza, Vimianzo;A Coru√±a
+98542;10;3;19;D;Orquesta;TREBOL;S.F. Cham√°n, Goi√°n;Pontevedra
+99713;10;3;19;D;Orquesta;LOS SAT√âLITES;S.F. La Luna, Cerponz√≥ns;Pontevedra
+99711;10;3;19;D;Tr√≠o;LA NOCHE DO GROVE;S.F. La Palmera Playa, Vigo;Pontevedra
+99830;10;3;19;D;Orquesta;COMPOSTELA;S.F. La Reina, Sangui√±eda;Pontevedra
+99704;10;3;19;D;Orquesta;CICLOMAN√çA;S.F. Morango K.N, Lugo;Lugo
+99769;10;3;19;D;Orquesta;MARBELLA;S.F. Paulino, O Carballi√±o;Ourense
+99897;10;3;19;D;Orquesta;TANGO;S.F. Velvet, Mon√ßao;Portugal
+99854;10;3;19;D;Orquesta;CAPITOL;S.F. Zeus, Campolongo;A Coru√±a
+100053;10;3;19;D;D√∫o;CARPE DIEM;Santa Ux√≠a de Ribeira;A Coru√±a
 99819;10;3;19;D;Charanga;MEKANIKA;Vilanova de Arousa;Pontevedra
 99597;10;3;19;D;Orquesta;LA OCABAND;Xinzo de Limia;Ourense
-99386;14;3;19;J;Solista;ROCÕO P…REZ;O Tarambollo, Carballo;A CoruÒa
-99606;15;3;19;V;Orquesta;LA F”RMULA;A Valenza, Barbad·s;Ourense
-100052;15;3;19;V;D˙o;ECLIPSE;As G·ndaras, Lugo;Lugo
-99848;15;3;19;V;Solista;ROCÕO P…REZ;Cabaleiros, Tordoia;A CoruÒa
+99386;14;3;19;J;Solista;ROC√çO P√âREZ;O Tarambollo, Carballo;A Coru√±a
+99606;15;3;19;V;Orquesta;LA F√ìRMULA;A Valenza, Barbad√°s;Ourense
+100052;15;3;19;V;D√∫o;ECLIPSE;As G√°ndaras, Lugo;Lugo
+99848;15;3;19;V;Solista;ROC√çO P√âREZ;Cabaleiros, Tordoia;A Coru√±a
 99739;15;3;19;V;Grupo;TEKILA;Cibuyo, Cangas del Narcea;Asturias
 100007;15;3;19;V;Orquesta;PONTEVEDRA;Discoteca Daniel, Pontevedra;Pontevedra
-99342;15;3;19;V;Orquesta;EL COMBO DOMINICANO;GuÌa;Las Palmas
-98307;15;3;19;V;Solista;XILO;Mercado de las ConchiÒas, A CoruÒa;A CoruÒa
-99796;15;3;19;V;D˙o;ESTRELLAS;Palas de Rei;Lugo
-99639;15;3;19;V;Orquesta;SOLARA;PlatÛ 1000, Teo;A CoruÒa
-99128;15;3;19;V;Disco MÛvil;EUPHORIA DISCO SHOW;Ponte Arnelas, Vilanova de Arousa;Pontevedra
+99342;15;3;19;V;Orquesta;EL COMBO DOMINICANO;Gu√≠a;Las Palmas
+98307;15;3;19;V;Solista;XILO;Mercado de las Conchi√±as, A Coru√±a;A Coru√±a
+99796;15;3;19;V;D√∫o;ESTRELLAS;Palas de Rei;Lugo
+99639;15;3;19;V;Orquesta;SOLARA;Plat√≥ 1000, Teo;A Coru√±a
+99128;15;3;19;V;Disco M√≥vil;EUPHORIA DISCO SHOW;Ponte Arnelas, Vilanova de Arousa;Pontevedra
 100149;15;3;19;V;Charanga;MEKANIKA;Ponteareas;Pontevedra
-99874;15;3;19;V;Grupo;ARAMIO;S.F. Velvet, MonÁao;Portugal
-100038;15;3;19;V;D˙o;SOLO SAXO & DAVID ARGOS;Santander;Cantabria
-100179;16;3;19;S;Solista;BEGO—A GARCÕA;A CoruÒa;A CoruÒa
-99777;16;3;19;S;Orquesta;CHARLESTON BIG-BAND;A Valenza, Barbad·s;Ourense
-99813;16;3;19;S;Disco MÛvil;EUPHORIA DISCO SHOW;A Valenza, Barbad·s;Ourense
-100123;16;3;19;S;Orquesta;FANIA BLANCO SHOW;Aldeola Restaurante, Malpica de BergantiÒos;A CoruÒa
-99010;16;3;19;S;Grupo;PEKADOS;As G·ndaras, Lugo;Lugo
-99011;16;3;19;S;Orquesta;MARBELLA;As G·ndaras, Lugo;Lugo
-99867;16;3;19;S;Grupo;CA—”N;Astillero;Cantabria
-99758;16;3;19;S;Disco MÛvil;CDC;CarnÈs, Vimianzo;A CoruÒa
-99751;16;3;19;S;Grupo;ATENAS;CarnÈs, Vimianzo;A CoruÒa
-99381;16;3;19;S;Grupo;PASI”N;Casino de Franza, Mugardos;A CoruÒa
-99446;16;3;19;S;Grupo;NEBRASKA;Cerv·s, Ares;A CoruÒa
-99569;16;3;19;S;TrÌo;FUSSION;Cortegada;Ourense
-90637;16;3;19;S;D˙o;EXPLOSI”N;Corvelle, Vilalba;Lugo
+99874;15;3;19;V;Grupo;ARAMIO;S.F. Velvet, Mon√ßao;Portugal
+100038;15;3;19;V;D√∫o;SOLO SAXO & DAVID ARGOS;Santander;Cantabria
+100179;16;3;19;S;Solista;BEGO√ëA GARC√çA;A Coru√±a;A Coru√±a
+99777;16;3;19;S;Orquesta;CHARLESTON BIG-BAND;A Valenza, Barbad√°s;Ourense
+99813;16;3;19;S;Disco M√≥vil;EUPHORIA DISCO SHOW;A Valenza, Barbad√°s;Ourense
+100123;16;3;19;S;Orquesta;FANIA BLANCO SHOW;Aldeola Restaurante, Malpica de Berganti√±os;A Coru√±a
+99010;16;3;19;S;Grupo;PEKADOS;As G√°ndaras, Lugo;Lugo
+99011;16;3;19;S;Orquesta;MARBELLA;As G√°ndaras, Lugo;Lugo
+99867;16;3;19;S;Grupo;CA√ë√ìN;Astillero;Cantabria
+99758;16;3;19;S;Disco M√≥vil;CDC;Carn√©s, Vimianzo;A Coru√±a
+99751;16;3;19;S;Grupo;ATENAS;Carn√©s, Vimianzo;A Coru√±a
+99381;16;3;19;S;Grupo;PASI√ìN;Casino de Franza, Mugardos;A Coru√±a
+99446;16;3;19;S;Grupo;NEBRASKA;Cerv√°s, Ares;A Coru√±a
+99569;16;3;19;S;Tr√≠o;FUSSION;Cortegada;Ourense
+90637;16;3;19;S;D√∫o;EXPLOSI√ìN;Corvelle, Vilalba;Lugo
 99504;16;3;19;S;Orquesta;OLYMPUS RED TOUR;Corvelle, Vilalba;Lugo
-99592;16;3;19;S;Grupo;AM…RICA DE VIGO;Discoteca INK, NarÛn;A CoruÒa
-99434;16;3;19;S;Grupo;NUEVA FUERZA;GuÌa;Las Palmas
-99705;16;3;19;S;Orquesta;CICLOMANÕA;La Colmena, NarÛn;A CoruÒa
-98517;16;3;19;S;TrÌo;INNOVACI”N;LanzÛs, Vilalba;Lugo
-98840;16;3;19;S;Orquesta;LA F”RMULA;LanzÛs, Vilalba;Lugo
-98912;16;3;19;S;Orquesta;CINEMA;LanzÛs, Vilalba;Lugo
-99579;16;3;19;S;D˙o;ECLIPSE;MesÛn do Loyo, Paradela;Lugo
-99675;16;3;19;S;Orquesta;PONTEVEDRA;MondoÒedo;Lugo
-99657;16;3;19;S;Solista;ROCÕO P…REZ;NantÛn, Cabana de BergantiÒos;A CoruÒa
-99550;16;3;19;S;Orquesta;RITMO JOVEN;NogueirÛ, Cartelle;Ourense
-100012;16;3;19;S;D˙o;ZAFIRO;O Vicedo;Lugo
-99396;16;3;19;S;Orquesta;LOS TROVADORES;Oca, Coristanco;A CoruÒa
-99462;16;3;19;S;Orquesta;ISRAEL;Oca, Coristanco;A CoruÒa
-99259;16;3;19;S;Charanga;VAITE XA!!;Parada, Nigr·n;Pontevedra
-98549;16;3;19;S;Charanga;MANÕA;Paredes de Nava;Palencia
-99759;16;3;19;S;Disco MÛvil;CDC;Pasarela, Vimianzo;A CoruÒa
-99615;16;3;19;S;Solista;JUDITH CUNDÕNS;Pastoriza, Arteixo;A CoruÒa
-99701;16;3;19;S;TrÌo;LA NOCHE DO GROVE;Ponferrada;LeÛn
-99301;16;3;19;S;Disco MÛvil;IMPACTO;Ponteceso;A CoruÒa
-99323;16;3;19;S;Orquesta;TRIUNFO;Ponteceso;A CoruÒa
+99592;16;3;19;S;Grupo;AM√âRICA DE VIGO;Discoteca INK, Nar√≥n;A Coru√±a
+99434;16;3;19;S;Grupo;NUEVA FUERZA;Gu√≠a;Las Palmas
+99705;16;3;19;S;Orquesta;CICLOMAN√çA;La Colmena, Nar√≥n;A Coru√±a
+98517;16;3;19;S;Tr√≠o;INNOVACI√ìN;Lanz√≥s, Vilalba;Lugo
+98840;16;3;19;S;Orquesta;LA F√ìRMULA;Lanz√≥s, Vilalba;Lugo
+98912;16;3;19;S;Orquesta;CINEMA;Lanz√≥s, Vilalba;Lugo
+99579;16;3;19;S;D√∫o;ECLIPSE;Mes√≥n do Loyo, Paradela;Lugo
+99675;16;3;19;S;Orquesta;PONTEVEDRA;Mondo√±edo;Lugo
+99657;16;3;19;S;Solista;ROC√çO P√âREZ;Nant√≥n, Cabana de Berganti√±os;A Coru√±a
+99550;16;3;19;S;Orquesta;RITMO JOVEN;Nogueir√≥, Cartelle;Ourense
+100012;16;3;19;S;D√∫o;ZAFIRO;O Vicedo;Lugo
+99396;16;3;19;S;Orquesta;LOS TROVADORES;Oca, Coristanco;A Coru√±a
+99462;16;3;19;S;Orquesta;ISRAEL;Oca, Coristanco;A Coru√±a
+99259;16;3;19;S;Charanga;VAITE XA!!;Parada, Nigr√°n;Pontevedra
+98549;16;3;19;S;Charanga;MAN√çA;Paredes de Nava;Palencia
+99759;16;3;19;S;Disco M√≥vil;CDC;Pasarela, Vimianzo;A Coru√±a
+99615;16;3;19;S;Solista;JUDITH CUND√çNS;Pastoriza, Arteixo;A Coru√±a
+99701;16;3;19;S;Tr√≠o;LA NOCHE DO GROVE;Ponferrada;Le√≥n
+99301;16;3;19;S;Disco M√≥vil;IMPACTO;Ponteceso;A Coru√±a
+99323;16;3;19;S;Orquesta;TRIUNFO;Ponteceso;A Coru√±a
 99820;16;3;19;S;Charanga;MEKANIKA;Pontevedra;Pontevedra
 99724;16;3;19;S;Orquesta;NEW YORK;Posada la Vieja, Llanes;Asturias
 99725;16;3;19;S;Grupo;TEKILA;Posada la Vieja, Llanes;Asturias
-100073;16;3;19;S;Charanga;FURRUXA;Praza do Obradoiro, Santiago de Compostela;A CoruÒa
-99429;16;3;19;S;Orquesta;FURIA JOVEN;Puerto de Mog·n, Mog·n;Las Palmas
-99649;16;3;19;S;Orquesta;TREBOL;RaxÛ, Poio;Pontevedra
-99731;16;3;19;S;Orquesta;MIRAMAR;RaxÛ, Poio;Pontevedra
+100073;16;3;19;S;Charanga;FURRUXA;Praza do Obradoiro, Santiago de Compostela;A Coru√±a
+99429;16;3;19;S;Orquesta;FURIA JOVEN;Puerto de Mog√°n, Mog√°n;Las Palmas
+99649;16;3;19;S;Orquesta;TREBOL;Rax√≥, Poio;Pontevedra
+99731;16;3;19;S;Orquesta;MIRAMAR;Rax√≥, Poio;Pontevedra
 98937;16;3;19;S;Grupo;PUNTO CLAVE;Reigosa, A Pastoriza;Lugo
-99873;16;3;19;S;Grupo;ARAMIO;Restaurante A Lagoa, Vimianzo;A CoruÒa
-99210;16;3;19;S;D˙o;ESTRELLAS;Restaurante A Nova Ruta, Vilalba;Lugo
+99873;16;3;19;S;Grupo;ARAMIO;Restaurante A Lagoa, Vimianzo;A Coru√±a
+99210;16;3;19;S;D√∫o;ESTRELLAS;Restaurante A Nova Ruta, Vilalba;Lugo
 99943;16;3;19;S;Grupo;ASSIA;Restaurante Amandi, Villaviciosa;Asturias
-99575;16;3;19;S;Orquesta;LOS SAT…LITES;Restaurante El Pantano, Abegondo;A CoruÒa
-98308;16;3;19;S;Solista;XILO;Restaurante La Torre, Tabeaio, Carral;A CoruÒa
+99575;16;3;19;S;Orquesta;LOS SAT√âLITES;Restaurante El Pantano, Abegondo;A Coru√±a
+98308;16;3;19;S;Solista;XILO;Restaurante La Torre, Tabeaio, Carral;A Coru√±a
 99502;16;3;19;S;Orquesta;PANAMA;S.F. Estilo, Oviedo;Asturias
-99667;16;3;19;S;Orquesta;PRINCIPAL;S.F. Josfer, MesÛn do Vento;A CoruÒa
-99257;16;3;19;S;Orquesta;PARIS DE NOIA;S.F. La Concha, O Val;A CoruÒa
-99315;16;3;19;S;Grupo;D¥MODA;S.F. La Flor, Montouto;A CoruÒa
+99667;16;3;19;S;Orquesta;PRINCIPAL;S.F. Josfer, Mes√≥n do Vento;A Coru√±a
+99257;16;3;19;S;Orquesta;PARIS DE NOIA;S.F. La Concha, O Val;A Coru√±a
+99315;16;3;19;S;Grupo;D¬¥MODA;S.F. La Flor, Montouto;A Coru√±a
 100000;16;3;19;S;Orquesta;LA OCABAND;S.F. Rosalar, Ribadeo;Lugo
-99343;16;3;19;S;Orquesta;EL COMBO DOMINICANO;San AndrÈs y Sauces, La Palma;Tenerife
-99490;16;3;19;S;Orquesta;ARMONÕA SHOW;San AndrÈs y Sauces, La Palma;Tenerife
+99343;16;3;19;S;Orquesta;EL COMBO DOMINICANO;San Andr√©s y Sauces, La Palma;Tenerife
+99490;16;3;19;S;Orquesta;ARMON√çA SHOW;San Andr√©s y Sauces, La Palma;Tenerife
 99420;16;3;19;S;Charanga;OS CHARANGOS;San Cibrao, Cervo;Lugo
 99792;16;3;19;S;Orquesta;SUAVECITO;San Cibrao, Cervo;Lugo
 100013;16;3;19;S;Orquesta;COSTA DORADA;San Cibrao, Cervo;Lugo
-99822;16;3;19;S;TrÌo;INNOVACI”N;Santib·Òez del Toral, Bembibre;LeÛn
-99695;16;3;19;S;Orquesta;METR”POLIS;Serres, Muros;A CoruÒa
-99729;16;3;19;S;Grupo;LA BAMBA;Serres, Muros;A CoruÒa
-99730;16;3;19;S;Grupo;ALKAR;Serres, Muros;A CoruÒa
-99762;16;3;19;S;Disco MÛvil;CDC MINIDISC;Serres, Muros;A CoruÒa
-99512;16;3;19;S;Orquesta;NEVADA;Torneiros, O PorriÒo;Pontevedra
+99822;16;3;19;S;Tr√≠o;INNOVACI√ìN;Santib√°√±ez del Toral, Bembibre;Le√≥n
+99695;16;3;19;S;Orquesta;METR√ìPOLIS;Serres, Muros;A Coru√±a
+99729;16;3;19;S;Grupo;LA BAMBA;Serres, Muros;A Coru√±a
+99730;16;3;19;S;Grupo;ALKAR;Serres, Muros;A Coru√±a
+99762;16;3;19;S;Disco M√≥vil;CDC MINIDISC;Serres, Muros;A Coru√±a
+99512;16;3;19;S;Orquesta;NEVADA;Torneiros, O Porri√±o;Pontevedra
 99231;16;3;19;S;Orquesta;GRAN PARADA;Vilaseca, Riotorto;Lugo
 99239;16;3;19;S;Orquesta;LA FAVORITA;Vilaseca, Riotorto;Lugo
-100215;16;3;19;S;Orquesta;CUARTA CALLE;Villaornate;LeÛn
-98791;16;3;19;S;Solista;ROCÕO P…REZ;Xornes, Ponteceso;A CoruÒa
-99906;16;3;19;S;D˙o;CHARADA;Zas;A CoruÒa
-99706;17;3;19;D;Orquesta;CICLOMANÕA;Abell·, Frades;A CoruÒa
-98710;17;3;19;D;Solista;JUDITH CUNDÕNS;Aldeola Restaurante, Malpica de BergantiÒos;A CoruÒa
-99012;17;3;19;D;Orquesta;MIRAMAR;As G·ndaras, Lugo;Lugo
-100039;17;3;19;D;D˙o;SOLO SAXO & DAVID ARGOS;Boo de PiÈlagos, PiÈlagos;Cantabria
-99628;17;3;19;D;Orquesta;CINEMA;Botos, LalÌn;Pontevedra
-97358;17;3;19;D;TrÌo;SINTONÕA;Carral;A CoruÒa
-100138;17;3;19;D;D˙o;EXPLOSI”N;Corbelle, Sarria;Lugo
-98841;17;3;19;D;TrÌo;D¥NIKA MUSIC;LanzÛs, Vilalba;Lugo
-99907;17;3;19;D;D˙o;CHARADA;Malpica de BergantiÒos;A CoruÒa
-99786;17;3;19;D;Orquesta;PARIS DE NOIA;Noia;A CoruÒa
-99030;17;3;19;D;Charanga;MANÕA;Osorno;Palencia
-99889;17;3;19;D;Charanga;VAITE XA!!;Pazos de BorbÈn;Pontevedra
-99875;17;3;19;D;Grupo;ARAMIO;PiÒeira, Monforte de Lemos;Lugo
+100215;16;3;19;S;Orquesta;CUARTA CALLE;Villaornate;Le√≥n
+98791;16;3;19;S;Solista;ROC√çO P√âREZ;Xornes, Ponteceso;A Coru√±a
+99906;16;3;19;S;D√∫o;CHARADA;Zas;A Coru√±a
+99706;17;3;19;D;Orquesta;CICLOMAN√çA;Abell√°, Frades;A Coru√±a
+98710;17;3;19;D;Solista;JUDITH CUND√çNS;Aldeola Restaurante, Malpica de Berganti√±os;A Coru√±a
+99012;17;3;19;D;Orquesta;MIRAMAR;As G√°ndaras, Lugo;Lugo
+100039;17;3;19;D;D√∫o;SOLO SAXO & DAVID ARGOS;Boo de Pi√©lagos, Pi√©lagos;Cantabria
+99628;17;3;19;D;Orquesta;CINEMA;Botos, Lal√≠n;Pontevedra
+97358;17;3;19;D;Tr√≠o;SINTON√çA;Carral;A Coru√±a
+100138;17;3;19;D;D√∫o;EXPLOSI√ìN;Corbelle, Sarria;Lugo
+98841;17;3;19;D;Tr√≠o;D¬¥NIKA MUSIC;Lanz√≥s, Vilalba;Lugo
+99907;17;3;19;D;D√∫o;CHARADA;Malpica de Berganti√±os;A Coru√±a
+99786;17;3;19;D;Orquesta;PARIS DE NOIA;Noia;A Coru√±a
+99030;17;3;19;D;Charanga;MAN√çA;Osorno;Palencia
+99889;17;3;19;D;Charanga;VAITE XA!!;Pazos de Borb√©n;Pontevedra
+99875;17;3;19;D;Grupo;ARAMIO;Pi√±eira, Monforte de Lemos;Lugo
 100239;17;3;19;D;Orquesta;CAPITOL;Pontesampaio, Pontevedra;Pontevedra
-99108;17;3;19;D;D˙o;D¥VICIO;Reigosa, A Pastoriza;Lugo
-98309;17;3;19;D;Solista;XILO;Restaurante La Torre, Tabeaio, Carral;A CoruÒa
-96659;17;3;19;D;Solista;ROCÕO P…REZ;Restaurante Pastoriza, Vimianzo;A CoruÒa
-98543;17;3;19;D;Orquesta;TANGO;S.F. Cham·n, Goi·n;Pontevedra
-99581;17;3;19;D;Orquesta;PONTEVEDRA;S.F. La Luna, CerponzÛns;Pontevedra
-99650;17;3;19;D;Orquesta;TREBOL;S.F. La Reina, SanguiÒeda;Pontevedra
+99108;17;3;19;D;D√∫o;D¬¥VICIO;Reigosa, A Pastoriza;Lugo
+98309;17;3;19;D;Solista;XILO;Restaurante La Torre, Tabeaio, Carral;A Coru√±a
+96659;17;3;19;D;Solista;ROC√çO P√âREZ;Restaurante Pastoriza, Vimianzo;A Coru√±a
+98543;17;3;19;D;Orquesta;TANGO;S.F. Cham√°n, Goi√°n;Pontevedra
+99581;17;3;19;D;Orquesta;PONTEVEDRA;S.F. La Luna, Cerponz√≥ns;Pontevedra
+99650;17;3;19;D;Orquesta;TREBOL;S.F. La Reina, Sangui√±eda;Pontevedra
 99773;17;3;19;D;Orquesta;TRIUNFO;S.F. Morango K.N, Lugo;Lugo
-99397;17;3;19;D;Orquesta;LOS TROVADORES;S.F. Paulino, O CarballiÒo;Ourense
-99857;17;3;19;D;Orquesta;TELEVISI”N;S.F. Paulino, O CarballiÒo;Ourense
-98563;17;3;19;D;Orquesta;SOLARA;S.F. Velvet, MonÁao;Portugal
-99778;17;3;19;D;Orquesta;CHARLESTON BIG-BAND;S.F. Zeus, Campolongo;A CoruÒa
-100150;17;3;19;D;Charanga;MEKANIKA;Santiago de Compostela;A CoruÒa
-99976;17;3;19;D;Orquesta;OLYMPUS RED TOUR;Sergude, BoqueixÛn;A CoruÒa
+99397;17;3;19;D;Orquesta;LOS TROVADORES;S.F. Paulino, O Carballi√±o;Ourense
+99857;17;3;19;D;Orquesta;TELEVISI√ìN;S.F. Paulino, O Carballi√±o;Ourense
+98563;17;3;19;D;Orquesta;SOLARA;S.F. Velvet, Mon√ßao;Portugal
+99778;17;3;19;D;Orquesta;CHARLESTON BIG-BAND;S.F. Zeus, Campolongo;A Coru√±a
+100150;17;3;19;D;Charanga;MEKANIKA;Santiago de Compostela;A Coru√±a
+99976;17;3;19;D;Orquesta;OLYMPUS RED TOUR;Sergude, Boqueix√≥n;A Coru√±a
 99984;17;3;19;D;Orquesta;FINISTERRE;Tui;Pontevedra
-99068;17;3;19;D;TrÌo;XTRA;Vilanova de Arousa;Pontevedra
-99038;18;3;19;L;Orquesta;LA F”RMULA;Amoeiro;Ourense
-100014;18;3;19;L;Orquesta;COSTA DORADA;Antes, Mazaricos;A CoruÒa
-99013;18;3;19;L;Orquesta;PARIS DE NOIA;As G·ndaras, Lugo;Lugo
+99068;17;3;19;D;Tr√≠o;XTRA;Vilanova de Arousa;Pontevedra
+99038;18;3;19;L;Orquesta;LA F√ìRMULA;Amoeiro;Ourense
+100014;18;3;19;L;Orquesta;COSTA DORADA;Antes, Mazaricos;A Coru√±a
+99013;18;3;19;L;Orquesta;PARIS DE NOIA;As G√°ndaras, Lugo;Lugo
 100225;18;3;19;L;Orquesta;XACOBEO;As Neves;Pontevedra
-99714;18;3;19;L;Orquesta;LOS SAT…LITES;Cea, VilagarcÌa de Arousa;Pontevedra
-99756;18;3;19;L;Orquesta;RITMO JOVEN;Cea, VilagarcÌa de Arousa;Pontevedra
-99651;18;3;19;L;Orquesta;TREBOL;Dena, MeaÒo;Pontevedra
-99655;18;3;19;L;Orquesta;LA OCABAND;Dena, MeaÒo;Pontevedra
-96739;18;3;19;L;Grupo;CHASTTON SHOW;LorbÈ, Oleiros;A CoruÒa
+99714;18;3;19;L;Orquesta;LOS SAT√âLITES;Cea, Vilagarc√≠a de Arousa;Pontevedra
+99756;18;3;19;L;Orquesta;RITMO JOVEN;Cea, Vilagarc√≠a de Arousa;Pontevedra
+99651;18;3;19;L;Orquesta;TREBOL;Dena, Mea√±o;Pontevedra
+99655;18;3;19;L;Orquesta;LA OCABAND;Dena, Mea√±o;Pontevedra
+96739;18;3;19;L;Grupo;CHASTTON SHOW;Lorb√©, Oleiros;A Coru√±a
 100140;18;3;19;L;Grupo;NEBRASKA;Moncada;Valencia
-98604;18;3;19;L;D˙o;EXPLOSI”N;Mourente, Pontevedra;Pontevedra
-98851;18;3;19;L;Orquesta;CICLOMANÕA;O Milladoiro, Ames;A CoruÒa
+98604;18;3;19;L;D√∫o;EXPLOSI√ìN;Mourente, Pontevedra;Pontevedra
+98851;18;3;19;L;Orquesta;CICLOMAN√çA;O Milladoiro, Ames;A Coru√±a
 99770;18;3;19;L;Orquesta;MARBELLA;O Pereiro, Poio;Pontevedra
-99712;18;3;19;L;Grupo;AM…RICA DE VIGO;Pesqueiras, Salvaterra de MiÒo;Pontevedra
+99712;18;3;19;L;Grupo;AM√âRICA DE VIGO;Pesqueiras, Salvaterra de Mi√±o;Pontevedra
 99232;18;3;19;L;Orquesta;GRAN PARADA;Prado, Gondomar;Pontevedra
 99240;18;3;19;L;Orquesta;NEW YORK;Prado, Gondomar;Pontevedra
-99375;18;3;19;L;Orquesta;OLYMPUS RED TOUR;Santa Comba;A CoruÒa
-99763;18;3;19;L;Disco MÛvil;CDC MINIDISC;Santa Comba;A CoruÒa
+99375;18;3;19;L;Orquesta;OLYMPUS RED TOUR;Santa Comba;A Coru√±a
+99763;18;3;19;L;Disco M√≥vil;CDC MINIDISC;Santa Comba;A Coru√±a
 99326;18;3;19;L;Orquesta;ABANICO;Sociedad Cultural y Deportiva de Mourente, Pontevedra;Pontevedra
-99798;18;3;19;L;Grupo;GARIBALDI;Teixeiro, Curtis;A CoruÒa
-99016;18;3;19;L;D˙o;LA HORA BRUJA;Toldaos, L·ncara;Lugo
+99798;18;3;19;L;Grupo;GARIBALDI;Teixeiro, Curtis;A Coru√±a
+99016;18;3;19;L;D√∫o;LA HORA BRUJA;Toldaos, L√°ncara;Lugo
 99779;18;3;19;L;Orquesta;CHARLESTON BIG-BAND;Valdorregueiro, Ourense;Ourense
-97346;19;3;19;M;Orquesta;ESCAPARATE;As G·ndaras, Lugo;Lugo
-99463;19;3;19;M;Orquesta;ISRAEL;Bastavales, BriÛn;A CoruÒa
-100137;19;3;19;M;D˙o;EXPLOSI”N;Campo Lameiro;Pontevedra
-98574;19;3;19;M;Grupo;TANIA VEIRAS;Cea, VilagarcÌa de Arousa;Pontevedra
-98863;19;3;19;M;TrÌo;LA NOCHE DO GROVE;Dena, MeaÒo;Pontevedra
-99154;19;3;19;M;Orquesta;LOS SAT…LITES;Dena, MeaÒo;Pontevedra
-100141;19;3;19;M;D˙o;CHARADA;Escarabote, Boiro;A CoruÒa
-98852;19;3;19;M;Grupo;ATENAS;O Milladoiro, Ames;A CoruÒa
+97346;19;3;19;M;Orquesta;ESCAPARATE;As G√°ndaras, Lugo;Lugo
+99463;19;3;19;M;Orquesta;ISRAEL;Bastavales, Bri√≥n;A Coru√±a
+100137;19;3;19;M;D√∫o;EXPLOSI√ìN;Campo Lameiro;Pontevedra
+98574;19;3;19;M;Grupo;TANIA VEIRAS;Cea, Vilagarc√≠a de Arousa;Pontevedra
+98863;19;3;19;M;Tr√≠o;LA NOCHE DO GROVE;Dena, Mea√±o;Pontevedra
+99154;19;3;19;M;Orquesta;LOS SAT√âLITES;Dena, Mea√±o;Pontevedra
+100141;19;3;19;M;D√∫o;CHARADA;Escarabote, Boiro;A Coru√±a
+98852;19;3;19;M;Grupo;ATENAS;O Milladoiro, Ames;A Coru√±a
 99652;19;3;19;M;Orquesta;TREBOL;O Pereiro, Poio;Pontevedra
 99656;19;3;19;M;Orquesta;CAPITOL;O Pereiro, Poio;Pontevedra
-98802;19;3;19;M;Orquesta;SAUDADE;PlatÛ 1000, Teo;A CoruÒa
+98802;19;3;19;M;Orquesta;SAUDADE;Plat√≥ 1000, Teo;A Coru√±a
 100098;19;3;19;M;Orquesta;XACOBEO;Prado, Gondomar;Pontevedra
-99707;19;3;19;M;Orquesta;CICLOMANÕA;Valdorregueiro, Ourense;Ourense
-99585;21;3;19;J;Orquesta;SAUDADE;LantaÒo, Portas;Pontevedra
-100142;22;3;19;V;TrÌo;SINTONÕA;A CoruÒa;A CoruÒa
+99707;19;3;19;M;Orquesta;CICLOMAN√çA;Valdorregueiro, Ourense;Ourense
+99585;21;3;19;J;Orquesta;SAUDADE;Lanta√±o, Portas;Pontevedra
+100142;22;3;19;V;Tr√≠o;SINTON√çA;A Coru√±a;A Coru√±a
 100359;22;3;19;V;Orquesta;TRIUNFO;Discoteca Daniel, Pontevedra;Pontevedra
 99944;22;3;19;V;Grupo;ASSIA;El Crucero, Tineo;Asturias
-99491;22;3;19;V;Orquesta;ARMONÕA SHOW;HarÌa, Lanzarote;Las Palmas
-99716;22;3;19;V;Orquesta;LOS SAT…LITES;Liceo, As Pontes de GarcÌa RodrÌguez;A CoruÒa
-99516;22;3;19;V;D˙o;SOLO SAXO & DAVID ARGOS;Llanos, Penagos;Cantabria
-98310;22;3;19;V;Solista;XILO;Meir·s, ValdoviÒo;A CoruÒa
-100143;22;3;19;V;TrÌo;SINTONÕA;Pub La Terraza, Ordes;A CoruÒa
+99491;22;3;19;V;Orquesta;ARMON√çA SHOW;Har√≠a, Lanzarote;Las Palmas
+99716;22;3;19;V;Orquesta;LOS SAT√âLITES;Liceo, As Pontes de Garc√≠a Rodr√≠guez;A Coru√±a
+99516;22;3;19;V;D√∫o;SOLO SAXO & DAVID ARGOS;Llanos, Penagos;Cantabria
+98310;22;3;19;V;Solista;XILO;Meir√°s, Valdovi√±o;A Coru√±a
+100143;22;3;19;V;Tr√≠o;SINTON√çA;Pub La Terraza, Ordes;A Coru√±a
 99740;22;3;19;V;Grupo;TEKILA;S.F. Estilo, Oviedo;Asturias
 99787;22;3;19;V;Orquesta;PARIS DE NOIA;Taramundi;Asturias
-100180;22;3;19;V;Solista;BEGO—A GARCÕA;Vilalba;Lugo
-99464;23;3;19;S;Orquesta;ISRAEL;Aldeola Restaurante, Malpica de BergantiÒos;A CoruÒa
+100180;22;3;19;V;Solista;BEGO√ëA GARC√çA;Vilalba;Lugo
+99464;23;3;19;S;Orquesta;ISRAEL;Aldeola Restaurante, Malpica de Berganti√±os;A Coru√±a
 100299;23;3;19;S;Grupo;LUME;Alfoz;Lugo
-99616;23;3;19;S;Solista;JUDITH CUNDÕNS;Ares;A CoruÒa
-100080;23;3;19;S;TrÌo;INNOVACI”N;Artes, Ribeira;A CoruÒa
-98566;23;3;19;S;D˙o;EXPLOSI”N;Arz˙a;A CoruÒa
-99317;23;3;19;S;Orquesta;LOS TROVADORES;As Cazallas, Melide;A CoruÒa
-99513;23;3;19;S;Orquesta;NEVADA;Atios, O PorriÒo;Pontevedra
-99741;23;3;19;S;Grupo;TEKILA;AvÌn, Cangas de OnÌs;Asturias
-100010;23;3;19;S;TrÌo;D¥NIKA MUSIC;Baralla;Lugo
+99616;23;3;19;S;Solista;JUDITH CUND√çNS;Ares;A Coru√±a
+100080;23;3;19;S;Tr√≠o;INNOVACI√ìN;Artes, Ribeira;A Coru√±a
+98566;23;3;19;S;D√∫o;EXPLOSI√ìN;Arz√∫a;A Coru√±a
+99317;23;3;19;S;Orquesta;LOS TROVADORES;As Cazallas, Melide;A Coru√±a
+99513;23;3;19;S;Orquesta;NEVADA;Atios, O Porri√±o;Pontevedra
+99741;23;3;19;S;Grupo;TEKILA;Av√≠n, Cangas de On√≠s;Asturias
+100010;23;3;19;S;Tr√≠o;D¬¥NIKA MUSIC;Baralla;Lugo
 99584;23;3;19;S;Orquesta;SAUDADE;Baredo, Baiona;Pontevedra
 99430;23;3;19;S;Orquesta;FURIA JOVEN;Barlovento, La Palma;Tenerife
-99551;23;3;19;S;Orquesta;RITMO JOVEN;BriÛn, Rianxo;A CoruÒa
-99171;23;3;19;S;D˙o;ESTRELLAS;Cabreiros, Xermade;Lugo
-100133;23;3;19;S;Disco MÛvil;CDC;CamariÒas;A CoruÒa
+99551;23;3;19;S;Orquesta;RITMO JOVEN;Bri√≥n, Rianxo;A Coru√±a
+99171;23;3;19;S;D√∫o;ESTRELLAS;Cabreiros, Xermade;Lugo
+100133;23;3;19;S;Disco M√≥vil;CDC;Camari√±as;A Coru√±a
 99233;23;3;19;S;Orquesta;GRAN PARADA;Cira, Silleda;Pontevedra
-99241;23;3;19;S;Grupo;D¥MODA;Cira, Silleda;Pontevedra
-99788;23;3;19;S;Orquesta;PARIS DE NOIA;Discoteca INK, NarÛn;A CoruÒa
-98651;23;3;19;S;Solista;BEGO—A GARCÕA;Ferrol;A CoruÒa
+99241;23;3;19;S;Grupo;D¬¥MODA;Cira, Silleda;Pontevedra
+99788;23;3;19;S;Orquesta;PARIS DE NOIA;Discoteca INK, Nar√≥n;A Coru√±a
+98651;23;3;19;S;Solista;BEGO√ëA GARC√çA;Ferrol;A Coru√±a
 99831;23;3;19;S;Orquesta;COMPOSTELA;Goiriz, Vilalba;Lugo
 100354;23;3;19;S;Orquesta;EL COMBO DOMINICANO;Granadilla de Abona;Tenerife
-99492;23;3;19;S;Orquesta;ARMONÕA SHOW;HarÌa, Lanzarote;Las Palmas
-99412;23;3;19;S;Grupo;VAN BAND;Hotel Casa Barreiro, Ordes;A CoruÒa
-99435;23;3;19;S;Grupo;NUEVA FUERZA;La Aldea de San Nicol·s;Las Palmas
-99503;23;3;19;S;Orquesta;PANAMA;La Colmena, NarÛn;A CoruÒa
+99492;23;3;19;S;Orquesta;ARMON√çA SHOW;Har√≠a, Lanzarote;Las Palmas
+99412;23;3;19;S;Grupo;VAN BAND;Hotel Casa Barreiro, Ordes;A Coru√±a
+99435;23;3;19;S;Grupo;NUEVA FUERZA;La Aldea de San Nicol√°s;Las Palmas
+99503;23;3;19;S;Orquesta;PANAMA;La Colmena, Nar√≥n;A Coru√±a
 99221;23;3;19;S;Orquesta;OLYMPUS RED TOUR;Labrada, Guitiriz;Lugo
 99975;23;3;19;S;Orquesta;ESCAPARATE;Lamas de Lor, Quiroga;Lugo
-99661;23;3;19;S;Orquesta;FINISTERRE;Liceo de Noia, Noia;A CoruÒa
+99661;23;3;19;S;Orquesta;FINISTERRE;Liceo de Noia, Noia;A Coru√±a
 99927;23;3;19;S;Orquesta;EL COMBO DOMINICANO;Los Gigantes, Santiago del Teide;Tenerife
-98787;23;3;19;S;Solista;ROCÕO P…REZ;O Tarambollo, Carballo;A CoruÒa
+98787;23;3;19;S;Solista;ROC√çO P√âREZ;O Tarambollo, Carballo;A Coru√±a
 100151;23;3;19;S;Charanga;MEKANIKA;O Valadouro;Lugo
-97359;23;3;19;S;TrÌo;SINTONÕA;Parrillada PeirÛ, Cambre;A CoruÒa
-100287;23;3;19;S;Charanga;FURRUXA;Praza do Obradoiro, Santiago de Compostela;A CoruÒa
-99191;23;3;19;S;Orquesta;FANIA BLANCO SHOW;Restaurante A Lagoa, Vimianzo;A CoruÒa
-96740;23;3;19;S;Grupo;CHASTTON SHOW;Restaurante As Rodas, EspÌritu Santo;A CoruÒa
-100240;23;3;19;S;Orquesta;CAPITOL;Restaurante El Pantano, Abegondo;A CoruÒa
-98544;23;3;19;S;Grupo;NOCHE DE ESTRELLAS;S.F. Cham·n, Goi·n;Pontevedra
-99607;23;3;19;S;Orquesta;LA F”RMULA;S.F. Dona Dana, Touro;A CoruÒa
+97359;23;3;19;S;Tr√≠o;SINTON√çA;Parrillada Peir√≥, Cambre;A Coru√±a
+100287;23;3;19;S;Charanga;FURRUXA;Praza do Obradoiro, Santiago de Compostela;A Coru√±a
+99191;23;3;19;S;Orquesta;FANIA BLANCO SHOW;Restaurante A Lagoa, Vimianzo;A Coru√±a
+96740;23;3;19;S;Grupo;CHASTTON SHOW;Restaurante As Rodas, Esp√≠ritu Santo;A Coru√±a
+100240;23;3;19;S;Orquesta;CAPITOL;Restaurante El Pantano, Abegondo;A Coru√±a
+98544;23;3;19;S;Grupo;NOCHE DE ESTRELLAS;S.F. Cham√°n, Goi√°n;Pontevedra
+99607;23;3;19;S;Orquesta;LA F√ìRMULA;S.F. Dona Dana, Touro;A Coru√±a
 99876;23;3;19;S;Grupo;ARAMIO;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
-99629;23;3;19;S;Orquesta;CINEMA;S.F. Josfer, MesÛn do Vento;A CoruÒa
-99653;23;3;19;S;Orquesta;TREBOL;S.F. Josfer, MesÛn do Vento;A CoruÒa
-100001;23;3;19;S;Orquesta;LA OCABAND;S.F. La Flor, Montouto;A CoruÒa
-99882;23;3;19;S;Orquesta;MIRAMAR;S.F. La Luna, CerponzÛns;Pontevedra
-99593;23;3;19;S;Grupo;AM…RICA DE VIGO;S.F. La Reina, SanguiÒeda;Pontevedra
+99629;23;3;19;S;Orquesta;CINEMA;S.F. Josfer, Mes√≥n do Vento;A Coru√±a
+99653;23;3;19;S;Orquesta;TREBOL;S.F. Josfer, Mes√≥n do Vento;A Coru√±a
+100001;23;3;19;S;Orquesta;LA OCABAND;S.F. La Flor, Montouto;A Coru√±a
+99882;23;3;19;S;Orquesta;MIRAMAR;S.F. La Luna, Cerponz√≥ns;Pontevedra
+99593;23;3;19;S;Grupo;AM√âRICA DE VIGO;S.F. La Reina, Sangui√±eda;Pontevedra
 99780;23;3;19;S;Orquesta;CHARLESTON BIG-BAND;S.F. Rosalar, Ribadeo;Lugo
-98904;23;3;19;S;Orquesta;LOS SAT…LITES;S.F. Universo, Santa Comba;A CoruÒa
-99940;23;3;19;S;Grupo;ASSIA;San Juan de PiÒera, Cudillero;Asturias
+98904;23;3;19;S;Orquesta;LOS SAT√âLITES;S.F. Universo, Santa Comba;A Coru√±a
+99940;23;3;19;S;Grupo;ASSIA;San Juan de Pi√±era, Cudillero;Asturias
 98938;23;3;19;S;Grupo;PUNTO CLAVE;Sobrado de Picato, Baralla;Lugo
-99668;23;3;19;S;Orquesta;PRINCIPAL;Sociedad La Obrera, Ponferrada;LeÛn
-99760;23;3;19;S;Disco MÛvil;CDC;Sof·n, Carballo;A CoruÒa
+99668;23;3;19;S;Orquesta;PRINCIPAL;Sociedad La Obrera, Ponferrada;Le√≥n
+99760;23;3;19;S;Disco M√≥vil;CDC;Sof√°n, Carballo;A Coru√±a
 99676;23;3;19;S;Orquesta;PONTEVEDRA;Taramundi;Asturias
 99726;23;3;19;S;Orquesta;NEW YORK;Taramundi;Asturias
-100040;23;3;19;S;D˙o;SOLO SAXO & DAVID ARGOS;Villacarriedo;Cantabria
-99908;23;3;19;S;D˙o;CHARADA;XuÒo, Porto do Son;A CoruÒa
-99618;24;3;19;D;Solista;JUDITH CUNDÕNS;Cambre;A CoruÒa
-100392;24;3;19;D;Solista;BEGO—A GARCÕA;Carral;A CoruÒa
-100130;24;3;19;D;D˙o;D¥VICIO;Centro CÌvico de Monte Alto, A CoruÒa;A CoruÒa
+100040;23;3;19;S;D√∫o;SOLO SAXO & DAVID ARGOS;Villacarriedo;Cantabria
+99908;23;3;19;S;D√∫o;CHARADA;Xu√±o, Porto do Son;A Coru√±a
+99618;24;3;19;D;Solista;JUDITH CUND√çNS;Cambre;A Coru√±a
+100392;24;3;19;D;Solista;BEGO√ëA GARC√çA;Carral;A Coru√±a
+100130;24;3;19;D;D√∫o;D¬¥VICIO;Centro C√≠vico de Monte Alto, A Coru√±a;A Coru√±a
 99505;24;3;19;D;Orquesta;OLYMPUS RED TOUR;Friol;Lugo
-97462;24;3;19;D;TrÌo;SINTONÕA;NeaÒo, Cabana de BergantiÒos;A CoruÒa
-99909;24;3;19;D;D˙o;CHARADA;Noia;A CoruÒa
-100360;24;3;19;D;D˙o;ZAFIRO;Restaurante Louzao, Viveiro;Lugo
-98545;24;3;19;D;Grupo;NOCHE DE ESTRELLAS;S.F. Cham·n, Goi·n;Pontevedra
-99781;24;3;19;D;Orquesta;FINISTERRE;S.F. La Luna, CerponzÛns;Pontevedra
-98830;24;3;19;D;D˙o;CHIC;S.F. La Palmera Playa, Vigo;Pontevedra
-99398;24;3;19;D;Orquesta;LOS TROVADORES;S.F. La Reina, SanguiÒeda;Pontevedra
+97462;24;3;19;D;Tr√≠o;SINTON√çA;Nea√±o, Cabana de Berganti√±os;A Coru√±a
+99909;24;3;19;D;D√∫o;CHARADA;Noia;A Coru√±a
+100360;24;3;19;D;D√∫o;ZAFIRO;Restaurante Louzao, Viveiro;Lugo
+98545;24;3;19;D;Grupo;NOCHE DE ESTRELLAS;S.F. Cham√°n, Goi√°n;Pontevedra
+99781;24;3;19;D;Orquesta;FINISTERRE;S.F. La Luna, Cerponz√≥ns;Pontevedra
+98830;24;3;19;D;D√∫o;CHIC;S.F. La Palmera Playa, Vigo;Pontevedra
+99398;24;3;19;D;Orquesta;LOS TROVADORES;S.F. La Reina, Sangui√±eda;Pontevedra
 99192;24;3;19;D;Orquesta;FANIA BLANCO SHOW;S.F. Morango K.N, Lugo;Lugo
-99677;24;3;19;D;Orquesta;PONTEVEDRA;S.F. Paulino, O CarballiÒo;Ourense
-100241;24;3;19;D;Orquesta;CAPITOL;S.F. Velvet, MonÁao;Portugal
-96741;24;3;19;D;Grupo;CHASTTON SHOW;S.F. Zeus, Campolongo;A CoruÒa
-99506;26;3;19;M;Orquesta;OLYMPUS RED TOUR;PlatÛ 1000, Teo;A CoruÒa
-100181;27;3;19;X;Solista;BEGO—A GARCÕA;Arteixo;A CoruÒa
-99563;29;3;19;V;D˙o;ECLIPSE;Becerre·;Lugo
+99677;24;3;19;D;Orquesta;PONTEVEDRA;S.F. Paulino, O Carballi√±o;Ourense
+100241;24;3;19;D;Orquesta;CAPITOL;S.F. Velvet, Mon√ßao;Portugal
+96741;24;3;19;D;Grupo;CHASTTON SHOW;S.F. Zeus, Campolongo;A Coru√±a
+99506;26;3;19;M;Orquesta;OLYMPUS RED TOUR;Plat√≥ 1000, Teo;A Coru√±a
+100181;27;3;19;X;Solista;BEGO√ëA GARC√çA;Arteixo;A Coru√±a
+99563;29;3;19;V;D√∫o;ECLIPSE;Becerre√°;Lugo
 100358;29;3;19;V;Orquesta;MARBELLA;Discoteca Daniel, Pontevedra;Pontevedra
 100327;29;3;19;V;Orquesta;PANORAMA;Fiesta Privada;-
 99431;29;3;19;V;Orquesta;FURIA JOVEN;Morro Jable;Las Palmas
 99742;29;3;19;V;Grupo;TEKILA;Navia;Asturias
-88575;29;3;19;V;Orquesta;OLYMPUS RED TOUR;Nueva UrbanizaciÛn de Barrocanes, Ourense;Ourense
-98534;29;3;19;V;Disco MÛvil;A GRAMOLA;Nueva UrbanizaciÛn de Barrocanes, Ourense;Ourense
-100101;29;3;19;V;Orquesta;PALLADIUM;PlatÛ 1000, Teo;A CoruÒa
-99070;29;3;19;V;Orquesta;PARIS DE NOIA;Portomouro, Val do Dubra;A CoruÒa
-99764;29;3;19;V;Disco MÛvil;CDC MINIDISC;Portomouro, Val do Dubra;A CoruÒa
-99600;30;3;19;S;Orquesta;MARBELLA;A Barqueira, Cerdido;A CoruÒa
-98652;30;3;19;S;Solista;BEGO—A GARCÕA;A G·ndara, Ferrol;A CoruÒa
-99832;30;3;19;S;Orquesta;COMPOSTELA;Aldeola Restaurante, Malpica de BergantiÒos;A CoruÒa
-99346;30;3;19;S;Orquesta;EL COMBO DOMINICANO;ArguineguÌn;Las Palmas
-99960;30;3;19;S;TrÌo;KARMA;Baio, Zas;A CoruÒa
-98939;30;3;19;S;Grupo;PUNTO CLAVE;Becerre·;Lugo
-99619;30;3;19;S;Solista;JUDITH CUNDÕNS;BÈrtoa, Carballo;A CoruÒa
-99493;30;3;19;S;Orquesta;ARMONÕA SHOW;Carrizal, Ingenio;Las Palmas
-99727;30;3;19;S;Orquesta;NEW YORK;CervaÒa, Silleda;Pontevedra
-99728;30;3;19;S;Grupo;CLAXXON;CervaÒa, Silleda;Pontevedra
-99524;30;3;19;S;Disco MÛvil;MAYGON;Chanteiro, Ares;A CoruÒa
-100164;30;3;19;S;Solista;ROCÕO P…REZ;Corme, Ponteceso;A CoruÒa
+88575;29;3;19;V;Orquesta;OLYMPUS RED TOUR;Nueva Urbanizaci√≥n de Barrocanes, Ourense;Ourense
+98534;29;3;19;V;Disco M√≥vil;A GRAMOLA;Nueva Urbanizaci√≥n de Barrocanes, Ourense;Ourense
+100101;29;3;19;V;Orquesta;PALLADIUM;Plat√≥ 1000, Teo;A Coru√±a
+99070;29;3;19;V;Orquesta;PARIS DE NOIA;Portomouro, Val do Dubra;A Coru√±a
+99764;29;3;19;V;Disco M√≥vil;CDC MINIDISC;Portomouro, Val do Dubra;A Coru√±a
+99600;30;3;19;S;Orquesta;MARBELLA;A Barqueira, Cerdido;A Coru√±a
+98652;30;3;19;S;Solista;BEGO√ëA GARC√çA;A G√°ndara, Ferrol;A Coru√±a
+99832;30;3;19;S;Orquesta;COMPOSTELA;Aldeola Restaurante, Malpica de Berganti√±os;A Coru√±a
+99346;30;3;19;S;Orquesta;EL COMBO DOMINICANO;Arguinegu√≠n;Las Palmas
+99960;30;3;19;S;Tr√≠o;KARMA;Baio, Zas;A Coru√±a
+98939;30;3;19;S;Grupo;PUNTO CLAVE;Becerre√°;Lugo
+99619;30;3;19;S;Solista;JUDITH CUND√çNS;B√©rtoa, Carballo;A Coru√±a
+99493;30;3;19;S;Orquesta;ARMON√çA SHOW;Carrizal, Ingenio;Las Palmas
+99727;30;3;19;S;Orquesta;NEW YORK;Cerva√±a, Silleda;Pontevedra
+99728;30;3;19;S;Grupo;CLAXXON;Cerva√±a, Silleda;Pontevedra
+99524;30;3;19;S;Disco M√≥vil;MAYGON;Chanteiro, Ares;A Coru√±a
+100164;30;3;19;S;Solista;ROC√çO P√âREZ;Corme, Ponteceso;A Coru√±a
 100676;30;3;19;S;Orquesta;SUPER HOLLYWOOD;Disco Anubis, Tui;Pontevedra
-99576;30;3;19;S;Orquesta;LOS SAT…LITES;Discoteca Pazos, Laracha;A CoruÒa
-98311;30;3;19;S;Solista;XILO;Hotel NarÛn, NarÛn;A CoruÒa
-99399;30;3;19;S;Orquesta;LOS TROVADORES;La Colmena, NarÛn;A CoruÒa
-99708;30;3;19;S;Orquesta;CICLOMANÕA;Lampai, Teo;A CoruÒa
+99576;30;3;19;S;Orquesta;LOS SAT√âLITES;Discoteca Pazos, Laracha;A Coru√±a
+98311;30;3;19;S;Solista;XILO;Hotel Nar√≥n, Nar√≥n;A Coru√±a
+99399;30;3;19;S;Orquesta;LOS TROVADORES;La Colmena, Nar√≥n;A Coru√±a
+99708;30;3;19;S;Orquesta;CICLOMAN√çA;Lampai, Teo;A Coru√±a
 99432;30;3;19;S;Orquesta;FURIA JOVEN;Morro Jable;Las Palmas
 99496;30;3;19;S;Orquesta;ESCAPARATE;Muimenta, Cospeito;Lugo
-99507;30;3;19;S;Orquesta;OLYMPUS RED TOUR;MuÒas de Abajo, ValdÈs;Asturias
-99743;30;3;19;S;Grupo;TEKILA;MuÒas de Abajo, ValdÈs;Asturias
-88576;30;3;19;S;Orquesta;PANORAMA;Nueva UrbanizaciÛn de Barrocanes, Ourense;Ourense
-98535;30;3;19;S;Disco MÛvil;A GRAMOLA;Nueva UrbanizaciÛn de Barrocanes, Ourense;Ourense
-100341;30;3;19;S;D˙o;ESTRELLAS;O Vicedo;Lugo
-99877;30;3;19;S;Grupo;ARAMIO;Parada, Nigr·n;Pontevedra
-100288;30;3;19;S;Charanga;FURRUXA;Praza do Obradoiro, Santiago de Compostela;A CoruÒa
-99858;30;3;19;S;Orquesta;LOS ESPA—OLES;Restaurante A Lagoa, Vimianzo;A CoruÒa
-99654;30;3;19;S;Orquesta;TREBOL;Restaurante As Rodas, EspÌritu Santo;A CoruÒa
-99900;30;3;19;S;Orquesta;CINEMA;Restaurante El Pantano, Abegondo;A CoruÒa
-99761;30;3;19;S;Disco MÛvil;CDC;Restaurante Pastoriza, Vimianzo;A CoruÒa
-99910;30;3;19;S;D˙o;CHARADA;Ribeira;A CoruÒa
-99789;30;3;19;S;Orquesta;PARIS DE NOIA;S.F. Dona Dana, Touro;A CoruÒa
+99507;30;3;19;S;Orquesta;OLYMPUS RED TOUR;Mu√±as de Abajo, Vald√©s;Asturias
+99743;30;3;19;S;Grupo;TEKILA;Mu√±as de Abajo, Vald√©s;Asturias
+88576;30;3;19;S;Orquesta;PANORAMA;Nueva Urbanizaci√≥n de Barrocanes, Ourense;Ourense
+98535;30;3;19;S;Disco M√≥vil;A GRAMOLA;Nueva Urbanizaci√≥n de Barrocanes, Ourense;Ourense
+100341;30;3;19;S;D√∫o;ESTRELLAS;O Vicedo;Lugo
+99877;30;3;19;S;Grupo;ARAMIO;Parada, Nigr√°n;Pontevedra
+100288;30;3;19;S;Charanga;FURRUXA;Praza do Obradoiro, Santiago de Compostela;A Coru√±a
+99858;30;3;19;S;Orquesta;LOS ESPA√ëOLES;Restaurante A Lagoa, Vimianzo;A Coru√±a
+99654;30;3;19;S;Orquesta;TREBOL;Restaurante As Rodas, Esp√≠ritu Santo;A Coru√±a
+99900;30;3;19;S;Orquesta;CINEMA;Restaurante El Pantano, Abegondo;A Coru√±a
+99761;30;3;19;S;Disco M√≥vil;CDC;Restaurante Pastoriza, Vimianzo;A Coru√±a
+99910;30;3;19;S;D√∫o;CHARADA;Ribeira;A Coru√±a
+99789;30;3;19;S;Orquesta;PARIS DE NOIA;S.F. Dona Dana, Touro;A Coru√±a
 99552;30;3;19;S;Orquesta;RITMO JOVEN;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
-100656;30;3;19;S;Grupo;NOCHE DE ESTRELLAS;S.F. Josfer, MesÛn do Vento;A CoruÒa
-99681;30;3;19;S;Orquesta;PALLADIUM;S.F. La Flor, Montouto;A CoruÒa
-99732;30;3;19;S;Orquesta;NEVADA;S.F. La Luna, CerponzÛns;Pontevedra
-100499;30;3;19;S;Grupo;AM…RICA DE VIGO;S.F. Metropol, Tui;Pontevedra
+100656;30;3;19;S;Grupo;NOCHE DE ESTRELLAS;S.F. Josfer, Mes√≥n do Vento;A Coru√±a
+99681;30;3;19;S;Orquesta;PALLADIUM;S.F. La Flor, Montouto;A Coru√±a
+99732;30;3;19;S;Orquesta;NEVADA;S.F. La Luna, Cerponz√≥ns;Pontevedra
+100499;30;3;19;S;Grupo;AM√âRICA DE VIGO;S.F. Metropol, Tui;Pontevedra
 99921;30;3;19;S;Orquesta;CAPITOL;S.F. Rosalar, Ribadeo;Lugo
-98989;30;3;19;S;Orquesta;FOLIADA D¥ASES;Uxes, Arteixo;A CoruÒa
-99109;31;3;19;D;D˙o;D¥VICIO;Cambre;A CoruÒa
-100037;31;3;19;D;D˙o;EXPLOSI”N;Carracedo, A Peroxa;Ourense
-98711;31;3;19;D;Solista;JUDITH CUNDÕNS;Carral;A CoruÒa
-96866;31;3;19;D;Solista;BEGO—A GARCÕA;Casa ToÒita, A Capela;A CoruÒa
-99911;31;3;19;D;D˙o;CHARADA;Escarabote, Boiro;A CoruÒa
+98989;30;3;19;S;Orquesta;FOLIADA D¬¥ASES;Uxes, Arteixo;A Coru√±a
+99109;31;3;19;D;D√∫o;D¬¥VICIO;Cambre;A Coru√±a
+100037;31;3;19;D;D√∫o;EXPLOSI√ìN;Carracedo, A Peroxa;Ourense
+98711;31;3;19;D;Solista;JUDITH CUND√çNS;Carral;A Coru√±a
+96866;31;3;19;D;Solista;BEGO√ëA GARC√çA;Casa To√±ita, A Capela;A Coru√±a
+99911;31;3;19;D;D√∫o;CHARADA;Escarabote, Boiro;A Coru√±a
 99682;31;3;19;D;Orquesta;PALLADIUM;Lieiro, Cervo;Lugo
-100534;31;3;19;D;TrÌo;KARMA;Malpica de BergantiÒos;A CoruÒa
-98249;31;3;19;D;TrÌo;KARMA;NeaÒo, Cabana de BergantiÒos;A CoruÒa
-88577;31;3;19;D;Orquesta;LOS SAT…LITES;Nueva UrbanizaciÛn de Barrocanes, Ourense;Ourense
+100534;31;3;19;D;Tr√≠o;KARMA;Malpica de Berganti√±os;A Coru√±a
+98249;31;3;19;D;Tr√≠o;KARMA;Nea√±o, Cabana de Berganti√±os;A Coru√±a
+88577;31;3;19;D;Orquesta;LOS SAT√âLITES;Nueva Urbanizaci√≥n de Barrocanes, Ourense;Ourense
 99347;31;3;19;D;Orquesta;EL COMBO DOMINICANO;Playa Blanca, Yaiza;Las Palmas
-99494;31;3;19;D;Orquesta;ARMONÕA SHOW;Recinto Carnaval Los Cristianos, Arona;Tenerife
-98546;31;3;19;D;Orquesta;CAPITOL;S.F. Cham·n, Goi·n;Pontevedra
-99465;31;3;19;D;Orquesta;ISRAEL;S.F. La Reina, SanguiÒeda;Pontevedra
+99494;31;3;19;D;Orquesta;ARMON√çA SHOW;Recinto Carnaval Los Cristianos, Arona;Tenerife
+98546;31;3;19;D;Orquesta;CAPITOL;S.F. Cham√°n, Goi√°n;Pontevedra
+99465;31;3;19;D;Orquesta;ISRAEL;S.F. La Reina, Sangui√±eda;Pontevedra
 99790;31;3;19;D;Orquesta;PARIS DE NOIA;S.F. Morango K.N, Lugo;Lugo
-100002;31;3;19;D;Orquesta;LA OCABAND;S.F. Paulino, O CarballiÒo;Ourense
-96742;31;3;19;D;Grupo;CHASTTON SHOW;S.F. Velvet, MonÁao;Portugal
-99663;31;3;19;D;Orquesta;FINISTERRE;S.F. Zeus, Campolongo;A CoruÒa
-99983;31;3;19;D;D˙o;ZAFIRO;Sumoas, Xove;Lugo
+100002;31;3;19;D;Orquesta;LA OCABAND;S.F. Paulino, O Carballi√±o;Ourense
+96742;31;3;19;D;Grupo;CHASTTON SHOW;S.F. Velvet, Mon√ßao;Portugal
+99663;31;3;19;D;Orquesta;FINISTERRE;S.F. Zeus, Campolongo;A Coru√±a
+99983;31;3;19;D;D√∫o;ZAFIRO;Sumoas, Xove;Lugo
 100657;31;3;19;D;Grupo;NOCHE DE ESTRELLAS;Tui;Pontevedra
-100152;31;3;19;D;Charanga;MEKANIKA;Val do Dubra;A CoruÒa
+100152;31;3;19;D;Charanga;MEKANIKA;Val do Dubra;A Coru√±a

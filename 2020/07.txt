@@ -1,134 +1,134 @@
 116672;2;7;20;J;Charanga;CLK;Beade;Ourense
-114831;3;7;20;V;Solista;XILO;CervecerÌa Campo GarcÌa, Meir·s;A CoruÒa
-116841;3;7;20;V;Grupo;PUNTO CLAVE;SoÒar, Lugo;Lugo
-116881;4;7;20;S;Disco MÛvil;CHOCOLATE;Abelleira, Muros;A CoruÒa
-116769;4;7;20;S;Orquesta;ABANICO;Angrois, Santiago de Compostela;A CoruÒa
+114831;3;7;20;V;Solista;XILO;Cervecer√≠a Campo Garc√≠a, Meir√°s;A Coru√±a
+116841;3;7;20;V;Grupo;PUNTO CLAVE;So√±ar, Lugo;Lugo
+116881;4;7;20;S;Disco M√≥vil;CHOCOLATE;Abelleira, Muros;A Coru√±a
+116769;4;7;20;S;Orquesta;ABANICO;Angrois, Santiago de Compostela;A Coru√±a
 116498;4;7;20;S;Charanga;VAITE XA!!;Baredo, Baiona;Pontevedra
-116045;4;7;20;S;Charanga;MANÕA;Bercianos de Vidriales;Zamora
+116045;4;7;20;S;Charanga;MAN√çA;Bercianos de Vidriales;Zamora
 117429;4;7;20;S;Charanga;ARDORES;Casteda, Chantada;Lugo
-112709;4;7;20;S;Orquesta;ROYAL ESPECT¡CULO;Coucieiro, Muxia;A CoruÒa
-116589;4;7;20;S;Orquesta;ACORDES;Cumbraos, MesÌa;A CoruÒa
-114855;4;7;20;S;Solista;XILO;Fisterra;A CoruÒa
-117122;4;7;20;S;Solista;BEGO—A GARCÕA;Mandi·, Ferrol;A CoruÒa
-112988;4;7;20;S;D˙o;D¥VICIO;Merelle, Ordes;A CoruÒa
+112709;4;7;20;S;Orquesta;ROYAL ESPECT√ÅCULO;Coucieiro, Muxia;A Coru√±a
+116589;4;7;20;S;Orquesta;ACORDES;Cumbraos, Mes√≠a;A Coru√±a
+114855;4;7;20;S;Solista;XILO;Fisterra;A Coru√±a
+117122;4;7;20;S;Solista;BEGO√ëA GARC√çA;Mandi√°, Ferrol;A Coru√±a
+112988;4;7;20;S;D√∫o;D¬¥VICIO;Merelle, Ordes;A Coru√±a
 116403;4;7;20;S;Orquesta;GALILEA;Sabucedo, A Estrada;Pontevedra
-116541;4;7;20;S;D˙o;ESTRELLAS;Seteventos, Sarria;Lugo
-114382;4;7;20;S;Solista;ROCÕO P…REZ;Val do Dubra;A CoruÒa
+116541;4;7;20;S;D√∫o;ESTRELLAS;Seteventos, Sarria;Lugo
+114382;4;7;20;S;Solista;ROC√çO P√âREZ;Val do Dubra;A Coru√±a
 114429;4;7;20;S;Grupo;M-3;Vila de Rei, Trasmiras;Ourense
 116634;4;7;20;S;Charanga;BCB;Xunqueira de Espadanedo;Ourense
-117074;5;7;20;D;D˙o;D¥VICIO;Benza, Trazo;A CoruÒa
-116405;5;7;20;D;Orquesta;GALILEA;Logrosa, Negreira;A CoruÒa
-117123;5;7;20;D;Solista;BEGO—A GARCÕA;NarÛn;A CoruÒa
+117074;5;7;20;D;D√∫o;D¬¥VICIO;Benza, Trazo;A Coru√±a
+116405;5;7;20;D;Orquesta;GALILEA;Logrosa, Negreira;A Coru√±a
+117123;5;7;20;D;Solista;BEGO√ëA GARC√çA;Nar√≥n;A Coru√±a
 116842;5;7;20;D;Grupo;PUNTO CLAVE;O Buriz, Guitiriz;Lugo
 112132;5;7;20;D;Grupo;M-3;Petelos, Mos;Pontevedra
-116785;5;7;20;D;Solista;ROCÕO P…REZ;Santaia de Gorgullos, Tordoia;A CoruÒa
-116542;5;7;20;D;D˙o;ESTRELLAS;Seteventos, Sarria;Lugo
+116785;5;7;20;D;Solista;ROC√çO P√âREZ;Santaia de Gorgullos, Tordoia;A Coru√±a
+116542;5;7;20;D;D√∫o;ESTRELLAS;Seteventos, Sarria;Lugo
 116406;6;7;20;L;Orquesta;GALILEA;Lieiro, Cervo;Lugo
-117332;10;7;20;V;Charanga;EUROPA;Bentraces, Barbad·s;Ourense
-114768;10;7;20;V;Solista;XILO;CervecerÌa La Terraza, O Temple, Cambre;A CoruÒa
+117332;10;7;20;V;Charanga;EUROPA;Bentraces, Barbad√°s;Ourense
+114768;10;7;20;V;Solista;XILO;Cervecer√≠a La Terraza, O Temple, Cambre;A Coru√±a
 115641;10;7;20;V;Charanga;CASTRO BELLO;Laias, Cenlle;Ourense
-115492;10;7;20;V;D˙o;ESTRELLAS;MiÒotos, Ourol;Lugo
-116843;10;7;20;V;Grupo;PUNTO CLAVE;Null·n, As Nogais;Lugo
-117381;11;7;20;S;Disco MÛvil;CHOCOLATE;Asenso, Mazaricos;A CoruÒa
-114769;11;7;20;S;Solista;XILO;CervecerÌa La Terraza, O Temple, Cambre;A CoruÒa
-117126;11;7;20;S;Solista;BEGO—A GARCÕA;La Reserva, Ferrol;A CoruÒa
+115492;10;7;20;V;D√∫o;ESTRELLAS;Mi√±otos, Ourol;Lugo
+116843;10;7;20;V;Grupo;PUNTO CLAVE;Null√°n, As Nogais;Lugo
+117381;11;7;20;S;Disco M√≥vil;CHOCOLATE;Asenso, Mazaricos;A Coru√±a
+114769;11;7;20;S;Solista;XILO;Cervecer√≠a La Terraza, O Temple, Cambre;A Coru√±a
+117126;11;7;20;S;Solista;BEGO√ëA GARC√çA;La Reserva, Ferrol;A Coru√±a
 115656;11;7;20;S;Charanga;EUROPA;Laias, Cenlle;Ourense
-115016;11;7;20;S;Orquesta;BARCEL”;MiÒotos, Ourol;Lugo
-116844;11;7;20;S;Grupo;PUNTO CLAVE;MondoÒedo;Lugo
-107540;11;7;20;S;Charanga;MANÕA;San Pedro de las DueÒas;LeÛn
-115723;11;7;20;S;Disco MÛvil;CHOCOLATE;San Pedro de Muro, Porto do Son;A CoruÒa
+115016;11;7;20;S;Orquesta;BARCEL√ì;Mi√±otos, Ourol;Lugo
+116844;11;7;20;S;Grupo;PUNTO CLAVE;Mondo√±edo;Lugo
+107540;11;7;20;S;Charanga;MAN√çA;San Pedro de las Due√±as;Le√≥n
+115723;11;7;20;S;Disco M√≥vil;CHOCOLATE;San Pedro de Muro, Porto do Son;A Coru√±a
 117421;11;7;20;S;Charanga;CASTRO BELLO;San Xes da Peroxa, A Peroxa;Ourense
 112760;11;7;20;S;Orquesta;ABANICO;Santa Cecilia, Foz;Lugo
 117213;11;7;20;S;Charanga;CLK;Sistallo, Cospeito;Lugo
-116666;12;7;20;D;Orquesta;ABANICO;A Enfesta, Santiago de Compostela;A CoruÒa
+116666;12;7;20;D;Orquesta;ABANICO;A Enfesta, Santiago de Compostela;A Coru√±a
 115657;12;7;20;D;Charanga;EUROPA;Laias, Cenlle;Ourense
-117256;12;7;20;D;Charanga;VAITE XA!!;MeaÒo;Pontevedra
-116389;15;7;20;X;Charanga;ARDORES;Melide;A CoruÒa
-116407;16;7;20;J;Orquesta;GALILEA;Noia;A CoruÒa
+117256;12;7;20;D;Charanga;VAITE XA!!;Mea√±o;Pontevedra
+116389;15;7;20;X;Charanga;ARDORES;Melide;A Coru√±a
+116407;16;7;20;J;Orquesta;GALILEA;Noia;A Coru√±a
 116667;16;7;20;J;Orquesta;ABANICO;Romai, Portas;Pontevedra
 108082;16;7;20;J;Charanga;CLK;Saa, Cenlle;Ourense
 115765;17;7;20;V;Charanga;EUROPA;A Mezquita, A Merca;Ourense
-116408;17;7;20;V;Orquesta;GALILEA;Aparcamiento El CharcÛn, Grado;Asturias
-116169;17;7;20;V;Grupo;ARENA;ArguineguÌn;Las Palmas
-111282;17;7;20;V;Orquesta;ROYAL ESPECT¡CULO;Cerdal, ValenÁa;Portugal
-117124;17;7;20;V;Solista;BEGO—A GARCÕA;CervecerÌa La Terraza, O Temple, Cambre;A CoruÒa
-112981;17;7;20;V;D˙o;D¥VICIO;LaÒas, Arteixo;A CoruÒa
-116068;17;7;20;V;Disco MÛvil;FABRIK;Oza, Carballo;A CoruÒa
-108078;18;7;20;S;D˙o;ESTRELLAS;Arxona, Monterroso;Lugo
-117125;18;7;20;S;Solista;BEGO—A GARCÕA;CervecerÌa La Terraza, O Temple, Cambre;A CoruÒa
-115661;18;7;20;S;Grupo;TATTOO;FontefrÌa, Amoeiro;Ourense
-116603;18;7;20;S;Charanga;CLK;FontefrÌa, Amoeiro;Ourense
-114533;18;7;20;S;Orquesta;ROYAL ESPECT¡CULO;Fre·ns de Crespos, Padrenda;Ourense
+116408;17;7;20;V;Orquesta;GALILEA;Aparcamiento El Charc√≥n, Grado;Asturias
+116169;17;7;20;V;Grupo;ARENA;Arguinegu√≠n;Las Palmas
+111282;17;7;20;V;Orquesta;ROYAL ESPECT√ÅCULO;Cerdal, Valen√ßa;Portugal
+117124;17;7;20;V;Solista;BEGO√ëA GARC√çA;Cervecer√≠a La Terraza, O Temple, Cambre;A Coru√±a
+112981;17;7;20;V;D√∫o;D¬¥VICIO;La√±as, Arteixo;A Coru√±a
+116068;17;7;20;V;Disco M√≥vil;FABRIK;Oza, Carballo;A Coru√±a
+108078;18;7;20;S;D√∫o;ESTRELLAS;Arxona, Monterroso;Lugo
+117125;18;7;20;S;Solista;BEGO√ëA GARC√çA;Cervecer√≠a La Terraza, O Temple, Cambre;A Coru√±a
+115661;18;7;20;S;Grupo;TATTOO;Fontefr√≠a, Amoeiro;Ourense
+116603;18;7;20;S;Charanga;CLK;Fontefr√≠a, Amoeiro;Ourense
+114533;18;7;20;S;Orquesta;ROYAL ESPECT√ÅCULO;Fre√°ns de Crespos, Padrenda;Ourense
 116879;18;7;20;S;Grupo;PUNTO CLAVE;Lamas de Moreira, Fonsagrada;Lugo
-116409;18;7;20;S;Orquesta;GALILEA;LanzÛs, Vilalba;Lugo
+116409;18;7;20;S;Orquesta;GALILEA;Lanz√≥s, Vilalba;Lugo
 117422;18;7;20;S;Charanga;CASTRO BELLO;Loureiro, O Irixo;Ourense
-108086;18;7;20;S;TrÌo;INNOVACI”N;Merelle, Ordes;A CoruÒa
+108086;18;7;20;S;Tr√≠o;INNOVACI√ìN;Merelle, Ordes;A Coru√±a
 116380;18;7;20;S;Charanga;EUROPA;Nogueira;Ourense
-115829;18;7;20;S;Disco MÛvil;CHOCOLATE;O Obre, Noia;A CoruÒa
-112982;18;7;20;S;D˙o;D¥VICIO;Parada, Ordes;A CoruÒa
-114188;18;7;20;S;TrÌo;SINTONÕA;Restande, Trazo;A CoruÒa
-115678;18;7;20;S;Disco MÛvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca
-113978;18;7;20;S;Grupo;M-3;San Amaro, Ald·n, Cangas do Morrazo;Pontevedra
-116963;18;7;20;S;D˙o;ZAFIRO;San PantaleÛn de Cabanas, Ourol;Lugo
+115829;18;7;20;S;Disco M√≥vil;CHOCOLATE;O Obre, Noia;A Coru√±a
+112982;18;7;20;S;D√∫o;D¬¥VICIO;Parada, Ordes;A Coru√±a
+114188;18;7;20;S;Tr√≠o;SINTON√çA;Restande, Trazo;A Coru√±a
+115678;18;7;20;S;Disco M√≥vil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca
+113978;18;7;20;S;Grupo;M-3;San Amaro, Ald√°n, Cangas do Morrazo;Pontevedra
+116963;18;7;20;S;D√∫o;ZAFIRO;San Pantale√≥n de Cabanas, Ourol;Lugo
 116590;18;7;20;S;Orquesta;ACORDES;Sobrada, Outeiro de Rei;Lugo
-111040;18;7;20;S;Charanga;BCB;VilariÒo, Pereiro de Aguiar;Ourense
-112983;19;7;20;D;D˙o;D¥VICIO;Andeiro, Cambre;A CoruÒa
+111040;18;7;20;S;Charanga;BCB;Vilari√±o, Pereiro de Aguiar;Ourense
+112983;19;7;20;D;D√∫o;D¬¥VICIO;Andeiro, Cambre;A Coru√±a
 113061;19;7;20;D;Charanga;EUROPA;Castromil, Hermisende;Zamora
-116512;19;7;20;D;Charanga;SIN CONTROL;La Vega de Almanza;LeÛn
-115830;19;7;20;D;Disco MÛvil;CHOCOLATE;O Obre, Noia;A CoruÒa
+116512;19;7;20;D;Charanga;SIN CONTROL;La Vega de Almanza;Le√≥n
+115830;19;7;20;D;Disco M√≥vil;CHOCOLATE;O Obre, Noia;A Coru√±a
 116668;19;7;20;D;Orquesta;ABANICO;San Mateo de Oliveira, Ponteareas;Pontevedra
-116016;22;7;20;X;Charanga;ARDORES;Lob·s, O CarballiÒo;Ourense
-116515;22;7;20;X;Disco MÛvil;CHOCOLATE;Queiruga, Porto do Son;A CoruÒa
-116032;23;7;20;J;TrÌo;SINTONÕA;Centro CÌvico de Caranza, Ferrol;A CoruÒa
-115615;23;7;20;J;Disco MÛvil;CHOCOLATE;Gondar;Pontevedra
-116017;23;7;20;J;Charanga;ARDORES;Lob·s, O CarballiÒo;Ourense
-115827;24;7;20;V;Disco MÛvil;CHOCOLATE;Boiro;A CoruÒa
+116016;22;7;20;X;Charanga;ARDORES;Lob√°s, O Carballi√±o;Ourense
+116515;22;7;20;X;Disco M√≥vil;CHOCOLATE;Queiruga, Porto do Son;A Coru√±a
+116032;23;7;20;J;Tr√≠o;SINTON√çA;Centro C√≠vico de Caranza, Ferrol;A Coru√±a
+115615;23;7;20;J;Disco M√≥vil;CHOCOLATE;Gondar;Pontevedra
+116017;23;7;20;J;Charanga;ARDORES;Lob√°s, O Carballi√±o;Ourense
+115827;24;7;20;V;Disco M√≥vil;CHOCOLATE;Boiro;A Coru√±a
 116591;24;7;20;V;Orquesta;ACORDES;Castelo, Lugo;Lugo
 116669;24;7;20;V;Orquesta;ABANICO;Fazouro, Foz;Lugo
-116018;24;7;20;V;Charanga;ARDORES;Gresande, LalÌn;Pontevedra
-116688;24;7;20;V;TrÌo;SINTONÕA;Guillade, Ponteareas;Pontevedra
-114940;24;7;20;V;Grupo;CHASTTON SHOW;Montouto, Abegondo;A CoruÒa
-114304;24;7;20;V;Disco MÛvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca
-116724;24;7;20;V;Orquesta;ROYAL ESPECT¡CULO;San Campio de Lonxe, TomiÒo;Pontevedra
-108966;24;7;20;V;Charanga;CLK;Xaceb·ns, Quintela de Leirado;Ourense
-108630;25;7;20;S;D˙o;ESTRELLAS;Baamonde, Begonte;Lugo
-116722;25;7;20;S;TrÌo;KARMA;Barrio los MuiÒos MondoÒedo;Lugo
+116018;24;7;20;V;Charanga;ARDORES;Gresande, Lal√≠n;Pontevedra
+116688;24;7;20;V;Tr√≠o;SINTON√çA;Guillade, Ponteareas;Pontevedra
+114940;24;7;20;V;Grupo;CHASTTON SHOW;Montouto, Abegondo;A Coru√±a
+114304;24;7;20;V;Disco M√≥vil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca
+116724;24;7;20;V;Orquesta;ROYAL ESPECT√ÅCULO;San Campio de Lonxe, Tomi√±o;Pontevedra
+108966;24;7;20;V;Charanga;CLK;Xaceb√°ns, Quintela de Leirado;Ourense
+108630;25;7;20;S;D√∫o;ESTRELLAS;Baamonde, Begonte;Lugo
+116722;25;7;20;S;Tr√≠o;KARMA;Barrio los Mui√±os Mondo√±edo;Lugo
 116670;25;7;20;S;Orquesta;ABANICO;Beade, Vigo;Pontevedra
 115749;25;7;20;S;Charanga;LOUBAND;Celeiro, Viveiro;Lugo
-116962;25;7;20;S;D˙o;ZAFIRO;Cervantes;Lugo
-116845;25;7;20;S;Grupo;PUNTO CLAVE;Furco, Becerre·;Lugo
-117287;25;7;20;S;Orquesta;CENIZA;GrixÛ, Salvaterra de MiÒo;Pontevedra
+116962;25;7;20;S;D√∫o;ZAFIRO;Cervantes;Lugo
+116845;25;7;20;S;Grupo;PUNTO CLAVE;Furco, Becerre√°;Lugo
+117287;25;7;20;S;Orquesta;CENIZA;Grix√≥, Salvaterra de Mi√±o;Pontevedra
 111106;25;7;20;S;Charanga;BCB;Maceda;Ourense
-116592;25;7;20;S;Orquesta;ACORDES;Meil·n, Lugo;Lugo
-112990;25;7;20;S;D˙o;D¥VICIO;Montouto, Abegondo;A CoruÒa
-114941;25;7;20;S;Grupo;CHASTTON SHOW;Moruxo, Bergondo;A CoruÒa
+116592;25;7;20;S;Orquesta;ACORDES;Meil√°n, Lugo;Lugo
+112990;25;7;20;S;D√∫o;D¬¥VICIO;Montouto, Abegondo;A Coru√±a
+114941;25;7;20;S;Grupo;CHASTTON SHOW;Moruxo, Bergondo;A Coru√±a
 113979;25;7;20;S;Grupo;M-3;Ordes, Rairiz de Veiga;Ourense
-115573;25;7;20;S;Disco MÛvil;CHOCOLATE;Pontevedra;Pontevedra
-116788;25;7;20;S;Disco MÛvil;FABRIK;Reigosa, A Pastoriza;Lugo
-115679;25;7;20;S;Disco MÛvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca
-116827;25;7;20;S;Orquesta;BARCEL”;San Clemente, Zas;A CoruÒa
+115573;25;7;20;S;Disco M√≥vil;CHOCOLATE;Pontevedra;Pontevedra
+116788;25;7;20;S;Disco M√≥vil;FABRIK;Reigosa, A Pastoriza;Lugo
+115679;25;7;20;S;Disco M√≥vil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca
+116827;25;7;20;S;Orquesta;BARCEL√ì;San Clemente, Zas;A Coru√±a
 117151;25;7;20;S;Grupo;ACIREMA;Sanxenxo;Pontevedra
 116019;25;7;20;S;Charanga;ARDORES;Taboada, Silleda;Pontevedra
-116516;25;7;20;S;Charanga;SIN CONTROL;Tolibia de Arriba;LeÛn
-108694;26;7;20;D;Charanga;EUROPA;A Veiga do Seixo, RiÛs;Ourense
+116516;25;7;20;S;Charanga;SIN CONTROL;Tolibia de Arriba;Le√≥n
+108694;26;7;20;D;Charanga;EUROPA;A Veiga do Seixo, Ri√≥s;Ourense
 116846;26;7;20;D;Grupo;PUNTO CLAVE;Barbadelo, Sarria;Lugo
-115828;26;7;20;D;Disco MÛvil;CHOCOLATE;Boiro;A CoruÒa
-115468;26;7;20;D;Charanga;SIN CONTROL;Caboalles de Arriba, Villablino;LeÛn
-115546;26;7;20;D;Grupo;CHASTTON SHOW;Curtis;A CoruÒa
+115828;26;7;20;D;Disco M√≥vil;CHOCOLATE;Boiro;A Coru√±a
+115468;26;7;20;D;Charanga;SIN CONTROL;Caboalles de Arriba, Villablino;Le√≥n
+115546;26;7;20;D;Grupo;CHASTTON SHOW;Curtis;A Coru√±a
 116671;26;7;20;D;Orquesta;ABANICO;Dorra, Antas de Ulla;Lugo
 116170;26;7;20;D;Grupo;ARENA;Era de Mota, Valsequillo;Las Palmas
-115865;26;7;20;D;TrÌo;KARMA;Landoi, CariÒo;A CoruÒa
-116383;26;7;20;D;Charanga;SANTA COMPA—A;O Burgo, Culleredo;A CoruÒa
-115304;26;7;20;D;D˙o;ESTRELLAS;Tor, Monforte de Lemos;Lugo
-115547;27;7;20;L;Grupo;CHASTTON SHOW;A Veiga do Seixo, RiÛs;Ourense
-114993;28;7;20;M;D˙o;ESTRELLAS;A G·ndara, NarÛn;A CoruÒa
-115381;28;7;20;M;Orquesta;PARIS DE NOIA;A G·ndara, NarÛn;A CoruÒa
+115865;26;7;20;D;Tr√≠o;KARMA;Landoi, Cari√±o;A Coru√±a
+116383;26;7;20;D;Charanga;SANTA COMPA√ëA;O Burgo, Culleredo;A Coru√±a
+115304;26;7;20;D;D√∫o;ESTRELLAS;Tor, Monforte de Lemos;Lugo
+115547;27;7;20;L;Grupo;CHASTTON SHOW;A Veiga do Seixo, Ri√≥s;Ourense
+114993;28;7;20;M;D√∫o;ESTRELLAS;A G√°ndara, Nar√≥n;A Coru√±a
+115381;28;7;20;M;Orquesta;PARIS DE NOIA;A G√°ndara, Nar√≥n;A Coru√±a
 113240;28;7;20;M;Charanga;VAITE XA!!;Beade, Vigo;Pontevedra
-116020;29;7;20;X;Charanga;ARDORES;Donramiro, LalÌn;Pontevedra
-115577;31;7;20;V;Disco MÛvil;CHOCOLATE;Barro, Noia;A CoruÒa
-116410;31;7;20;V;Orquesta;GALILEA;Cacheiras, Teo;A CoruÒa
-117423;31;7;20;V;Charanga;CASTRO BELLO;Cardelle, Bobor·s;Ourense
-114018;31;7;20;V;D˙o;ZAFIRO;Covas, Viveiro;Lugo
-115843;31;7;20;V;Charanga;SANTA COMPA—A;Grandas de Salime;Asturias
-115129;31;7;20;V;Grupo;ARENA;Puerto de Mog·n, Mog·n;Las Palmas
+116020;29;7;20;X;Charanga;ARDORES;Donramiro, Lal√≠n;Pontevedra
+115577;31;7;20;V;Disco M√≥vil;CHOCOLATE;Barro, Noia;A Coru√±a
+116410;31;7;20;V;Orquesta;GALILEA;Cacheiras, Teo;A Coru√±a
+117423;31;7;20;V;Charanga;CASTRO BELLO;Cardelle, Bobor√°s;Ourense
+114018;31;7;20;V;D√∫o;ZAFIRO;Covas, Viveiro;Lugo
+115843;31;7;20;V;Charanga;SANTA COMPA√ëA;Grandas de Salime;Asturias
+115129;31;7;20;V;Grupo;ARENA;Puerto de Mog√°n, Mog√°n;Las Palmas
 116646;31;7;20;V;Charanga;SIN CONTROL;Santa Croya de Tera, Zamora;Zamora
