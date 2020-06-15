@@ -1,23 +1,23 @@
-114834;2;10;20;V;Solista;XILO;Cervecería Campo García, Meirás;A Coruña
-117435;2;10;20;V;Charanga;ARDORES;Pareizo, Lalín;Pontevedra
-114837;3;10;20;S;Solista;XILO;Fisterra;A Coruña
-117090;3;10;20;S;Dúo;D´VICIO;Trasanquelos, Cesuras;A Coruña
-114760;8;10;20;J;Solista;XILO;Centro Cívico de Caranza, Ferrol;A Coruña
-117091;9;10;20;V;Dúo;D´VICIO;Cesuras;A Coruña
-114818;9;10;20;V;Solista;XILO;Os Condes, Bergondo;A Coruña
-116161;10;10;20;S;Charanga;ARDORES;O Sisto, Dozón;Pontevedra
-114819;10;10;20;S;Solista;XILO;Os Condes, Bergondo;A Coruña
-116798;10;10;20;S;Charanga;EUROPA;Otero;León
-114146;10;10;20;S;Dúo;ESTRELLAS;Restaurante La Torre, Tabeaio, Carral;A Coruña
-117455;11;10;20;D;Charanga;SANTA COMPAÑA;Carnota;A Coruña
-113941;11;10;20;D;Trío;KARMA;Malpica de Bergantiños;A Coruña
-117486;11;10;20;D;Dúo;ESTRELLAS;O Vicedo;Lugo
-114820;11;10;20;D;Solista;XILO;Os Condes, Bergondo;A Coruña
-117152;11;10;20;D;Charanga;OS BANDIÑOS;Rañadoiro, Muíños;Ourense
-116385;12;10;20;L;Charanga;EUROPA;Montederramo;Ourense
-114915;17;10;20;S;Trío;SINTONÍA;Parrillada Peiró, Cambre;A Coruña
-116093;18;10;20;D;Trío;MAR DE CAIÓN;MALPICA;A Coruña
-114853;23;10;20;V;Solista;XILO;Cervecería O Lagar, Neda;A Coruña
-114842;24;10;20;S;Solista;XILO;Restaurante La Torre, Tabeaio, Carral;A Coruña
-114843;25;10;20;D;Solista;XILO;Restaurante La Torre, Tabeaio, Carral;A Coruña
-114783;31;10;20;S;Solista;XILO;Hotel Narón, Narón;A Coruña
+114834;2;10;20;V;Solista;XILO;Cervecería Campo García, Meirás;A Coruña;Horario: Noche.
+117435;2;10;20;V;Charanga;ARDORES;Pareizo, Lalín;Pontevedra;Horario: Noche.
+114837;3;10;20;S;Solista;XILO;Fisterra;A Coruña;Hostal Mariquito. Horario: Noche.
+117090;3;10;20;S;Dúo;D´VICIO;Trasanquelos, Cesuras;A Coruña;Altrnd aixa romai. Horario: Vermú, Noche.
+114760;8;10;20;J;Solista;XILO;Centro Cívico de Caranza, Ferrol;A Coruña;Horario: Tarde (17:30).
+117091;9;10;20;V;Dúo;D´VICIO;Cesuras;A Coruña;Altrnd satelites. Horario: Noche.
+114818;9;10;20;V;Solista;XILO;Os Condes, Bergondo;A Coruña;Horario: Noche.
+116161;10;10;20;S;Charanga;ARDORES;O Sisto, Dozón;Pontevedra;
+114819;10;10;20;S;Solista;XILO;Os Condes, Bergondo;A Coruña;Horario: Noche.
+116798;10;10;20;S;Charanga;EUROPA;Otero;León;Horario: Tarde.
+114146;10;10;20;S;Dúo;ESTRELLAS;Restaurante La Torre, Tabeaio, Carral;A Coruña;Horario: Noche (23:30). Hay: Aparcamiento.
+117455;11;10;20;D;Charanga;SANTA COMPAÑA;Carnota;A Coruña;Horario: Tarde.
+113941;11;10;20;D;Trío;KARMA;Malpica de Bergantiños;A Coruña;Horario: Tarde (19:00).
+117486;11;10;20;D;Dúo;ESTRELLAS;O Vicedo;Lugo;Acompañados da Orquesta Principal. Horario: Noche.
+114820;11;10;20;D;Solista;XILO;Os Condes, Bergondo;A Coruña;Horario: Noche.
+117152;11;10;20;D;Charanga;OS BANDIÑOS;Rañadoiro, Muíños;Ourense;Festa da Virxe do Pilar. Horario: Vermú (10:00). Tipo de terreno: Gravilla. Hay: Carpa, Aparcamiento, Bocateria, Atracciones.
+116385;12;10;20;L;Charanga;EUROPA;Montederramo;Ourense;Horario: Tarde (16:00).
+114915;17;10;20;S;Trío;SINTONÍA;Parrillada Peiró, Cambre;A Coruña;Horario: Noche.
+116093;18;10;20;D;Trío;MAR DE CAIÓN;MALPICA;A Coruña;Horario: Tarde (19:00).
+114853;23;10;20;V;Solista;XILO;Cervecería O Lagar, Neda;A Coruña;Horario: Noche.
+114842;24;10;20;S;Solista;XILO;Restaurante La Torre, Tabeaio, Carral;A Coruña;Horario: Noche.
+114843;25;10;20;D;Solista;XILO;Restaurante La Torre, Tabeaio, Carral;A Coruña;Horario: Tarde (19:30), Noche.
+114783;31;10;20;S;Solista;XILO;Hotel Narón, Narón;A Coruña;Horario: Noche.

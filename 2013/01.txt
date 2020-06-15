@@ -1,274 +1,274 @@
-6138;1;1;13;M;Orquesta;PALLADIUM;Avenida de Ramón Nieto, 367, Vigo;Pontevedra
-6427;1;1;13;M;Orquesta;RITMO JOVEN;Monçao;Portugal
-6577;1;1;13;M;Grupo;ARAMIO;S.F. Chamán, Goián;Pontevedra
-6100;1;1;13;M;Orquesta;CHARLESTON BIG-BAND;S.F. Chanteclair, Pontecesures;Pontevedra
-6149;1;1;13;M;Orquesta;MARBELLA;S.F. La Reina, Sanguiñeda;Pontevedra
-6293;1;1;13;M;Orquesta;GRAN PARADA;S.F. La Reina, Sanguiñeda;Pontevedra
-6170;1;1;13;M;Grupo;AMÉRICA DE VIGO;S.F. Mami, A Manchica;Ourense
-6129;1;1;13;M;Orquesta;MIRAMAR;S.F. Paulino, O Carballiño;Ourense
-6517;2;1;13;X;Orquesta;GRAN PARADA;S.F. La Reina, Sanguiñeda;Pontevedra
-6257;3;1;13;J;Solista;HUGO TORREIRO;Pontevedra;Pontevedra
-6231;4;1;13;V;Charanga;MEKANIKA;Arteixo;A Coruña
-6515;4;1;13;V;Orquesta;PONTEVEDRA;Caldas de Reis;Pontevedra
-6447;4;1;13;V;Grupo;D´MODA;Cebreiro, O Pino;A Coruña
-6298;4;1;13;V;Orquesta;PARIS DE NOIA;Estrada Pavillon, Narón;A Coruña
-6351;4;1;13;V;Orquesta;OLYMPUS RED TOUR;Programa Luar, TVG;A Coruña
-6578;4;1;13;V;Grupo;ARAMIO;San Xusto, Coristanco;A Coruña
-6579;5;1;13;S;Grupo;ARAMIO;A Lagoa, Vimianzo;A Coruña
-6288;5;1;13;S;Orquesta;ACORDES;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
-6525;5;1;13;S;Orquesta;NEVADA;Arrabaldo, Ourense;Ourense
-6232;5;1;13;S;Charanga;MEKANIKA;Arteixo;A Coruña
-6346;5;1;13;S;Orquesta;PANAMA;As Pontes de García Rodríguez;A Coruña
-6308;5;1;13;S;Orquesta;IPANEMA;Av Bierzo, 91, Dehesas;León
-6452;5;1;13;S;Orquesta;MARAZUL;Avenida de Beiramar, 251, Vigo;Pontevedra
-6412;5;1;13;S;Grupo;TEKILA;Avenida de Manuel Lemos, 24, A Ramallosa, Nigrán;Pontevedra
-6418;5;1;13;S;Grupo;KALIMA 3.0;Begonte;Lugo
-6463;5;1;13;S;Charanga;DGT;Betanzos;A Coruña
-6468;5;1;13;S;Charanga;NBA;Betanzos;A Coruña
-6313;5;1;13;S;Charanga;VAITE XA!!;Bouzas, Vigo;Pontevedra
-6299;5;1;13;S;Orquesta;PARIS DE NOIA;Cangas, Foz;Lugo
-6334;5;1;13;S;Orquesta;ESCAPARATE;Cazás, Xermade;Lugo
-6478;5;1;13;S;Grupo;FUSIÓN;Ferrol;A Coruña
-6441;5;1;13;S;Grupo;ASSIA;Gijón;Asturias
-6537;5;1;13;S;Orquesta;TREBOL;Mesón do Vento, Ordes;A Coruña
-6286;5;1;13;S;Dúo;D´CACHE;Monforte de Lemos;Lugo
-6397;5;1;13;S;Orquesta;LOS TROVADORES;Monforte de Lemos;Lugo
-6359;5;1;13;S;Orquesta;MARBELLA;Mourente, Pontevedra;Pontevedra
-6196;5;1;13;S;Dúo;DE LA CRUZ SHOW;Muros;A Coruña
-6453;5;1;13;S;Orquesta;SUAVECITO;Noia;A Coruña
-6507;5;1;13;S;Orquesta;MIRAMAR;O Casal, Salvaterra de Miño;Pontevedra
-6321;5;1;13;S;Orquesta;CHARLESTON BIG-BAND;O Pereiro, Valdoviño;A Coruña
-6548;5;1;13;S;Orquesta;PONTEVEDRA;Ponferrada;León
-6375;5;1;13;S;Orquesta;LOS SATÉLITES;Praza Maior, Lugo;Lugo
-6521;5;1;13;S;Dúo;ECLIPSE;Restaurante los Robles, Lugar Saamasas;Lugo
-6340;5;1;13;S;Orquesta;PALLADIUM;Roca, Guitiriz;Lugo
-6459;5;1;13;S;Orquesta;CINEMA;Romai, Portas;Pontevedra
-6470;5;1;13;S;Grupo;ALKAR;Romai, Portas;Pontevedra
-6389;5;1;13;S;Orquesta;TELEVISIÓN;Román, Vilalba;Lugo
-6434;5;1;13;S;Orquesta;CIUDADEVIGO;S.F. Chamán, Goián;Pontevedra
-6419;5;1;13;S;Grupo;AMÉRICA DE VIGO;S.F. Chanteclair, Pontecesures;Pontevedra
-6708;5;1;13;S;Orquesta;ABANICO;S.F. Estilo, Oviedo;Asturias
-6428;5;1;13;S;Orquesta;RITMO JOVEN;S.F. La Reina, Sanguiñeda;Pontevedra
-6309;5;1;13;S;Orquesta;OLYMPUS RED TOUR;S.F. Mami, A Manchica;Ourense
-6516;5;1;13;S;Orquesta;GRAN PARADA;S.F. Rosalar, Ribadeo;Lugo
-6395;5;1;13;S;Orquesta;SOLARA;Vilalonga, Sanxenxo;Pontevedra
-6526;5;1;13;S;Orquesta;VENEZIA;Villadecanes, Toral de los Vados;León
-6454;6;1;13;D;Orquesta;SUAVECITO;Avenida de Beiramar, 251, Vigo;Pontevedra
-6474;6;1;13;D;Orquesta;PALLADIUM;Coaxe, Catoira;Pontevedra
-6390;6;1;13;D;Orquesta;TELEVISIÓN;Extramundi, Padrón;A Coruña
-6396;6;1;13;D;Orquesta;SOLARA;Guláns, Ponteareas;Pontevedra
-6440;6;1;13;D;Grupo;ASSIA;Laviana;Asturias
-6398;6;1;13;D;Orquesta;LOS TROVADORES;Mugardos;A Coruña
-6457;6;1;13;D;Orquesta;MARBELLA;Ponte Caldelas;Pontevedra
-6421;6;1;13;D;Orquesta;FANIA BLANCO SHOW;Roca, Guitiriz;Lugo
-6435;6;1;13;D;Orquesta;CIUDADEVIGO;S.F. Chamán, Goián;Pontevedra
-6347;6;1;13;D;Orquesta;PANAMA;S.F. La Reina, Sanguiñeda;Pontevedra
-6310;6;1;13;D;Orquesta;OLYMPUS RED TOUR;S.F. Mami, A Manchica;Ourense
-6283;6;1;13;D;Orquesta;CHARLESTON BIG-BAND;S.F. Nova Exágono, Lugo;Lugo
-6479;6;1;13;D;Grupo;FUSIÓN;Santa Cecilia, Narón;A Coruña
-6402;7;1;13;L;Orquesta;SOLARA;Bastavales, Brión;A Coruña
-6068;7;1;13;L;Orquesta;TELEVISIÓN;San Xulián, Marín;Pontevedra
-6069;7;1;13;L;Orquesta;PONTEVEDRA;San Xulián, Marín;Pontevedra
-6429;8;1;13;M;Orquesta;RITMO JOVEN;Bastavales, Brión;A Coruña
-6070;8;1;13;M;Orquesta;MIRAMAR;San Xulian, Marín;Pontevedra
-6284;8;1;13;M;Orquesta;MARBELLA;San Xulian, Marín;Pontevedra
-6678;10;1;13;J;Charanga;VAITE XA!!;A Cañiza;Pontevedra
-6483;10;1;13;J;Grupo;ARAMIO;Avenida de Beiramar, 251, Vigo;Pontevedra
-6484;11;1;13;V;Grupo;ARAMIO;Avenida de Beiramar, 251, Vigo;Pontevedra
-6268;11;1;13;V;Solista;TANIA Y SU ACORDEÓN;Barbeitos;Lugo
-6572;11;1;13;V;Orquesta;FANIA BLANCO SHOW;Estrada Pavillon, Narón;A Coruña
-6594;11;1;13;V;Dúo;CALÚ;O Temple, Cambre;A Coruña
-6593;11;1;13;V;Orquesta;ISRAEL;Programa Luar, TVG;A Coruña
-6352;11;1;13;V;Orquesta;OLYMPUS RED TOUR;Seaia, Malpica de Bergantiños;A Coruña
-6558;11;1;13;V;Grupo;D´MODA;Silleda;Pontevedra
-6354;12;1;13;S;Orquesta;OLYMPUS RED TOUR;A Lagoa, Vimianzo;A Coruña
-6538;12;1;13;S;Orquesta;TREBOL;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
-6573;12;1;13;S;Orquesta;VENEZIA;Av Bierzo, 91, Dehesas;León
-6384;12;1;13;S;Dúo;D´CACHE;Barcia, Ribeira de Piquín;Lugo
-6533;12;1;13;S;Grupo;LIMÓN;Carreiras, Pontecesures;Pontevedra
-6217;12;1;13;S;Orquesta;ISRAEL;Escarabote, Boiro;A Coruña
-6218;12;1;13;S;Orquesta;COMPOSTELA;Escarabote, Boiro;A Coruña
-6399;12;1;13;S;Orquesta;LOS TROVADORES;Escarabote, Boiro;A Coruña
-6377;12;1;13;S;Orquesta;LOS SATÉLITES;Mesón do Vento, Ordes;A Coruña
-6574;12;1;13;S;Grupo;ARAMIO;Monçao;Portugal
-6270;12;1;13;S;Solista;TANIA Y SU ACORDEÓN;Muimenta, Cospeito;Lugo
-6595;12;1;13;S;Dúo;CALÚ;O Temple, Cambre;A Coruña
-6404;12;1;13;S;Orquesta;SOLARA;Ponteareas;Pontevedra
-6430;12;1;13;S;Orquesta;RITMO JOVEN;Pradedo, Guntín;Lugo
-6444;12;1;13;S;Grupo;ASSIA;S.F. Estilo, Oviedo;Asturias
-6549;12;1;13;S;Orquesta;PONTEVEDRA;S.F. La Luna, Cerponzóns;Pontevedra
-6360;12;1;13;S;Orquesta;MARBELLA;S.F. Rosalar, Ribadeo;Lugo
-6422;12;1;13;S;Orquesta;FANIA BLANCO SHOW;Sales, Vedra;A Coruña
-6300;12;1;13;S;Orquesta;PARIS DE NOIA;Seaia, Malpica de Bergantiños;A Coruña
-6532;12;1;13;S;Grupo;SAMBA;Seaia, Malpica de Bergantiños;A Coruña
-6413;12;1;13;S;Grupo;TEKILA;Tineo;Asturias
-6348;12;1;13;S;Orquesta;PANAMA;Vilaboa, Valdoviño;A Coruña
-6508;12;1;13;S;Orquesta;MIRAMAR;Vilanova de Arousa;Pontevedra
-6797;12;1;13;S;Grupo;GARIBALDI;Villademor de la Vega, Valencia de Don Juan;León
-6539;13;1;13;D;Orquesta;TREBOL;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
-6575;13;1;13;D;Grupo;ARAMIO;Monçao;Portugal
-6596;13;1;13;D;Dúo;CALÚ;Perillo, Oleiros;A Coruña
-6498;13;1;13;D;Orquesta;OLYMPUS RED TOUR;S.F. Chanteclair, Pontecesures;Pontevedra
-6650;13;1;13;D;Orquesta;ABANICO;S.F. Chanteclair, Pontecesures;Pontevedra
-6460;13;1;13;D;Orquesta;CINEMA;S.F. La Luna, Cerponzóns;Pontevedra
-6601;13;1;13;D;Orquesta;XACOBEO;S.F. Mami, A Manchica;Ourense
-6518;13;1;13;D;Orquesta;GRAN PARADA;S.F. Nova Exágono, Lugo;Lugo
-6588;13;1;13;D;Orquesta;CAPITOL;S.F. Paulino, O Carballiño;Ourense
-6361;13;1;13;D;Orquesta;MARBELLA;S.F. Zeus, Campolongo;A Coruña
-6510;15;1;13;M;Orquesta;MIRAMAR;Aldán, Cangas do Morrazo;Pontevedra
-6511;15;1;13;M;Orquesta;PONTEVEDRA;Aldán, Cangas do Morrazo;Pontevedra
-6301;15;1;13;M;Orquesta;PARIS DE NOIA;Amoedo, Pazos de Borbén;Pontevedra
-6362;15;1;13;M;Orquesta;MARBELLA;Amoedo, Pazos de Borbén;Pontevedra
-6322;15;1;13;M;Orquesta;CHARLESTON BIG-BAND;Cacheiro, Pontevedra;Pontevedra
-6326;15;1;13;M;Orquesta;PALLADIUM;Cacheiro, Pontevedra;Pontevedra
-6565;15;1;13;M;Orquesta;CIUDADEVIGO;Parderrubias, Salceda de Caselas;Pontevedra
-6512;16;1;13;X;Orquesta;MIRAMAR;A Arnoia;Ourense
-6655;17;1;13;J;Orquesta;ABANICO;Guimarei;Ourense
-6378;18;1;13;V;Orquesta;LOS SATÉLITES;Carres, Cesuras;A Coruña
-6448;18;1;13;V;Grupo;D´MODA;Carres, Cesuras;A Coruña
-6524;18;1;13;V;Orquesta;MARBELLA;Estrada Pavillon, Narón;A Coruña
-6513;18;1;13;V;Orquesta;MIRAMAR;Macendo, Castrelo de Miño;Ourense
-6528;18;1;13;V;Orquesta;TRIUNFO;Margaride de Lor, Quiroga;Lugo
-6563;18;1;13;V;Orquesta;MARAZUL;Parderrubias, Salceda de Caselas;Pontevedra
-6564;18;1;13;V;Grupo;ALVEIN;Parderrubias, Salceda de Caselas;Pontevedra
-6703;18;1;13;V;Dúo;CALÚ;Pazo Villariza, Pastoriza;A Coruña
-6540;18;1;13;V;Orquesta;TREBOL;Piñeiro;Ourense
-6355;18;1;13;V;Orquesta;OLYMPUS RED TOUR;Rodeiro;Pontevedra
-6423;18;1;13;V;Orquesta;FANIA BLANCO SHOW;Rodeiro;Pontevedra
-6664;18;1;13;V;Grupo;CICLÓN;Torres, Vilarmaior;A Coruña
-6649;19;1;13;S;Orquesta;SUAVECITO;A Lagoa, Vimianzo;A Coruña
-6796;19;1;13;S;Grupo;GARIBALDI;A Medua, Carballeda de Valdeorras;Ourense
-6431;19;1;13;S;Orquesta;RITMO JOVEN;A Mella, Arzúa;A Coruña
-6379;19;1;13;S;Orquesta;LOS SATÉLITES;A Modia;Pontevedra
-6406;19;1;13;S;Orquesta;SOLARA;A Modia;Pontevedra
-6663;19;1;13;S;Orquesta;METRÓPOLIS;Abelenda das Penas, Carballeda de Avia;Ourense
-6302;19;1;13;S;Orquesta;PARIS DE NOIA;Aldemunde, Carballo;A Coruña
-6356;19;1;13;S;Orquesta;OLYMPUS RED TOUR;Armea, Coirós;A Coruña
-6345;19;1;13;S;Solista;TANIA Y SU ACORDEÓN;Barcia, Ribeira de Piquín;Lugo
-6443;19;1;13;S;Grupo;ASSIA;Bricia, Llanes;Asturias
-6449;19;1;13;S;Grupo;D´MODA;Bronllo, Valga;Pontevedra
-6541;19;1;13;S;Orquesta;TREBOL;Bronllo, Valga;Pontevedra
-6550;19;1;13;S;Orquesta;PONTEVEDRA;Cangas, Foz;Lugo
-6335;19;1;13;S;Orquesta;FOLIADA D´ASES;Caroi, Cotobade;Pontevedra
-6535;19;1;13;S;Orquesta;LOS ESPAÑOLES;Carres, Cesuras;A Coruña
-6705;19;1;13;S;Trío;ORQUÍDEA;Cendoi, O Paramo;Lugo
-6674;19;1;13;S;Orquesta;ACORDES;Cuelgamures;Zamora
-6424;19;1;13;S;Orquesta;FANIA BLANCO SHOW;Doroña, Vilarmaior;A Coruña
-6461;19;1;13;S;Orquesta;CINEMA;Duio, Fisterra;A Coruña
-6469;19;1;13;S;Orquesta;MIRAMAR;Duio, Fisterra;A Coruña
-6656;19;1;13;S;Orquesta;ABANICO;Estás, Tomiño;Pontevedra
-6672;19;1;13;S;Grupo;LIMÓN;Juan Carlos I, 16 Arriondas, Parres;Asturias
-6529;19;1;13;S;Orquesta;TRIUNFO;Macendo, Castrelo de Miño;Ourense
-6597;19;1;13;S;Orquesta;ISRAEL;Mañufe, Gondomar;Pontevedra
-6644;19;1;13;S;Charanga;DGT;Mondoi, Oza dos Rios;A Coruña
-6503;19;1;13;S;Orquesta;PALLADIUM;Moreira, Soutomaior;Pontevedra
-6561;19;1;13;S;Grupo;CLAXXON;Moreira, Soutomaior;Pontevedra
-6349;19;1;13;S;Orquesta;PANAMA;Os Vilares, Guitiriz;Lugo
-6476;19;1;13;S;Orquesta;ESCAPARATE;Pedreda, Lugo;Lugo
-6669;19;1;13;S;Orquesta;CAPITOL;Petelos, Mos;Pontevedra
-6281;19;1;13;S;Dúo;ECLIPSE;Ponferrada;León
-6661;19;1;13;S;Grupo;ATENAS;Ponteareas;Pontevedra
-6617;19;1;13;S;Orquesta;XACOBEO;Porto do Son;A Coruña
-6576;19;1;13;S;Grupo;ARAMIO;Porto, Vilar de Barrio;Ourense
-6519;19;1;13;S;Orquesta;GRAN PARADA;Rodeiro;Pontevedra
-6527;19;1;13;S;Orquesta;VENEZIA;Rodeiro;Pontevedra
-6438;19;1;13;S;Grupo;TALISMÁN;S.F. Chamán, Goián;Pontevedra
-6414;19;1;13;S;Grupo;TEKILA;S.F. Estilo, Oviedo;Asturias
-6757;19;1;13;S;Grupo;ALKAR;S.F. La Luna, Cerponzóns;Pontevedra
-6391;19;1;13;S;Orquesta;TELEVISIÓN;S.F. La Reina, Sanguiñeda;Pontevedra
-6323;19;1;13;S;Orquesta;CHARLESTON BIG-BAND;Sancovade, Vilalba;Lugo
-6420;19;1;13;S;Grupo;AMÉRICA DE VIGO;Sequeiros, Pazos de Borbén;Pontevedra
-6569;19;1;13;S;Grupo;FUSIÓN;Sillobre;A Coruña
-6363;19;1;13;S;Orquesta;MARBELLA;Trasmañó, Redondela;Pontevedra
-6536;19;1;13;S;Grupo;SAMBA;Trasmañó, Redondela;Pontevedra
-6648;19;1;13;S;Charanga;BB+;Vila de Cruces;Pontevedra
-6686;20;1;13;D;Orquesta;MIRAMAR;Abelenda das Penas, Carballeda de Avia;Ourense
-6432;20;1;13;D;Orquesta;RITMO JOVEN;Avenida de Beiramar, 251, Vigo;Pontevedra
-6381;20;1;13;D;Orquesta;LOS SATÉLITES;Barazón, Santiso;A Coruña
-6600;20;1;13;D;Grupo;ALKAR;Bustelo, Xunqueira de Ambía;Ourense
-6278;20;1;13;D;Solista;TANIA Y SU ACORDEÓN;Ferrol;A Coruña
-6567;20;1;13;D;Orquesta;COMPOSTELA;Mañufe, Gondomar;Pontevedra
-6425;20;1;13;D;Orquesta;FANIA BLANCO SHOW;Os Vilares, Guitiriz;Lugo
-5776;20;1;13;D;Dúo;D´CACHE;Ourense;Ourense
-6407;20;1;13;D;Orquesta;SOLARA;Pedreda, Lugo;Lugo
-6357;20;1;13;D;Orquesta;OLYMPUS RED TOUR;Petelos, Mos;Pontevedra
-6401;20;1;13;D;Orquesta;LOS TROVADORES;Porto, Vilar de Barrio;Ourense
-6439;20;1;13;D;Grupo;TALISMÁN;S.F. Chamán, Goián;Pontevedra
-6654;20;1;13;D;Orquesta;MARBELLA;S.F. Chanteclair, Pontecesures;Pontevedra
-6531;20;1;13;D;Orquesta;CHARLESTON BIG-BAND;S.F. La Luna, Cerponzóns;Pontevedra
-6542;20;1;13;D;Orquesta;TREBOL;S.F. La Reina, Sanguiñeda;Pontevedra
-6652;20;1;13;D;Orquesta;NEVADA;S.F. Mami, A Manchica;Ourense
-6551;20;1;13;D;Orquesta;PONTEVEDRA;S.F. Nova Exágono, Lugo;Lugo
-6710;21;1;13;L;Trío;ORQUÍDEA;Radio Obradoiro;A Coruña
-6458;22;1;13;M;Orquesta;MARBELLA;Cespón, Boiro;A Coruña
-6520;22;1;13;M;Orquesta;GRAN PARADA;Cespón, Boiro;A Coruña
-6604;22;1;13;M;Orquesta;SOLARA;San Vicente do Grove, O Grove;Pontevedra
-5965;23;1;13;X;Charanga;BB+;Boqueixón;A Coruña
-6416;25;1;13;V;Orquesta;COMPOSTELA;Adina, Sanxenxo;Pontevedra
-6417;25;1;13;V;Orquesta;LOS TROVADORES;Adina, Sanxenxo;Pontevedra
-6806;25;1;13;V;Orquesta;PARIS DE NOIA;Aldemunde, Carballo;A Coruña
-6824;25;1;13;V;Orquesta;GRAN PARADA;Cespón, Boiro;A Coruña
-6826;25;1;13;V;Orquesta;MARBELLA;Cespón, Boiro;A Coruña
-6850;25;1;13;V;Orquesta;ABANICO;Estás, Tomiño;Pontevedra
-6851;25;1;13;V;Orquesta;NEVADA;Estás, Tomiño;Pontevedra
-6694;25;1;13;V;Orquesta;ISRAEL;Estrada Pavillon, Narón;A Coruña
-6730;25;1;13;V;Dúo;ECLIPSE;Friamonde, Taboada;Lugo
-6445;25;1;13;V;Grupo;ASSIA;Manganeses de la Polvorosa;Zamora
-6580;25;1;13;V;Orquesta;PANAMA;O Val de Xestoso, Monfero;A Coruña
-6765;25;1;13;V;Orquesta;CHARLESTON BIG-BAND;Programa Luar, TVG;A Coruña
-6812;25;1;13;V;Orquesta;SOLARA;San Vicente do Grove, O Grove;Pontevedra
-6835;25;1;13;V;Grupo;GARIBALDI;Trabadelo;León
-6499;26;1;13;S;Orquesta;OLYMPUS RED TOUR;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
-6581;26;1;13;S;Orquesta;PANAMA;Ambroa, Irixoa;A Coruña
-6657;26;1;13;S;Orquesta;ABANICO;Avenida de Beiramar, 251, Vigo;Pontevedra
-6598;26;1;13;S;Grupo;KALIMA 3.0;Barcia, Ribeira de Piquín;Lugo
-6861;26;1;13;S;Grupo;SAMBA;Cangas, Foz;Lugo
-6822;26;1;13;S;Grupo;ARAMIO;Carretera Vigo, 28, Redondela;Pontevedra
-6364;26;1;13;S;Orquesta;MARBELLA;Cerponzóns, Pontevedra;Pontevedra
-6392;26;1;13;S;Orquesta;TELEVISIÓN;Cerponzóns, Pontevedra;Pontevedra
-6450;26;1;13;S;Grupo;D´MODA;Cerqueda, Malpica de Bergantiños;A Coruña
-6376;26;1;13;S;Orquesta;LOS SATÉLITES;Espirito Santo, 3, Sada;A Coruña
-6689;26;1;13;S;Solista;PILI PAMPÍN;Estrada Pavillon, Narón;A Coruña
-6836;26;1;13;S;Grupo;GARIBALDI;Fabero;León
-6670;26;1;13;S;Orquesta;CAPITOL;Feilas, Vilardevós;Ourense
-6754;26;1;13;S;Orquesta;FIN DE SIGLO;Fríamonde, Taboada;Lugo
-6442;26;1;13;S;Grupo;ASSIA;Gijón;Asturias
-6568;26;1;13;S;Orquesta;COMPOSTELA;Hotel Fira Palace, Barcelona;Barcelona
-6415;26;1;13;S;Grupo;TEKILA;La Braña, El Franco;Asturias
-6426;26;1;13;S;Orquesta;FANIA BLANCO SHOW;Lagoa, Alfoz;Lugo
-6306;26;1;13;S;Dúo;CALÚ;Momán, Xermade;Lugo
-5943;26;1;13;S;Charanga;MEKANIKA;Negreira;A Coruña
-6174;26;1;13;S;Charanga;BB+;Negreira;A Coruña
-6514;26;1;13;S;Orquesta;MIRAMAR;Ponteareas;Pontevedra
-6451;26;1;13;S;Orquesta;TREBOL;Pontoibo, As Pontes;A Coruña
-6562;26;1;13;S;Grupo;CLAXXON;Rábade;Lugo
-6504;26;1;13;S;Orquesta;PALLADIUM;Restaurante El Pantano, Abegondo;A Coruña
-6605;26;1;13;S;Orquesta;SOLARA;Restaurante Os Paraguas, Carral;A Coruña
-6584;26;1;13;S;Grupo;ATENAS;Ribeira, A Estrada;Pontevedra
-6436;26;1;13;S;Orquesta;COSTA BLANCA;S.F. Chamán, Goián;Pontevedra
-6303;26;1;13;S;Orquesta;PARIS DE NOIA;S.F. La Concha, O Val;A Coruña
-6462;26;1;13;S;Orquesta;CINEMA;S.F. La Reina, Sanguiñeda;Pontevedra
-6675;26;1;13;S;Orquesta;ACORDES;Sancedo;León
-6681;26;1;13;S;Orquesta;XACOBEO;Sancedo;León
-6647;26;1;13;S;Dúo;DE LA CRUZ SHOW;Teo;A Coruña
-6545;26;1;13;S;Orquesta;RITMO JOVEN;Trabadelo;León
-6475;26;1;13;S;Orquesta;ALIANZA;Valbuxán, O Bolo;Ourense
-6570;26;1;13;S;Grupo;FUSIÓN;Vilalba;Lugo
-6477;26;1;13;S;Orquesta;ESCAPARATE;Vilameá, A Pontenova;Lugo
-6602;26;1;13;S;Solista;TANIA Y SU ACORDEÓN;Villanueva de Oscos;Asturias
-6658;27;1;13;D;Orquesta;ABANICO;Avenida de Beiramar, 251, Vigo;Pontevedra
-6764;27;1;13;D;Trío;AREAL;Boizán, Vilalba;Lugo
-6823;27;1;13;D;Grupo;ARAMIO;Carretera Vigo, 28, Redondela;Pontevedra
-6282;27;1;13;D;Dúo;ECLIPSE;Ourense;Ourense
-6437;27;1;13;D;Orquesta;COSTA BLANCA;S.F. Chamán, Goián;Pontevedra
-6768;27;1;13;D;Orquesta;LOS SATÉLITES;S.F. Chanteclair, Pontecesures;Pontevedra
-6782;27;1;13;D;Orquesta;GRAN PARADA;S.F. Chanteclair, Pontecesures;Pontevedra
-6671;27;1;13;D;Orquesta;CAPITOL;S.F. Mami, A Manchica;Ourense
-6304;27;1;13;D;Orquesta;PARIS DE NOIA;S.F. Nova Exágono, Lugo;Lugo
-6405;27;1;13;D;Orquesta;LOS TROVADORES;S.F. Paulino, O Carballiño;Ourense
-6350;27;1;13;D;Orquesta;PANAMA;S.F. Zeus, Campolongo;A Coruña
-6814;27;1;13;D;Dúo;CALÚ;San Tirso De Mabegondo;A Coruña
-6464;27;1;13;D;Charanga;DGT;Xinzo de Limia;Ourense
-6289;28;1;13;L;Grupo;ATENAS;Cando, Outes;A Coruña
-6296;28;1;13;L;Solista;PILI PAMPÍN;Cando, Outes;A Coruña
-6305;29;1;13;M;Orquesta;PARIS DE NOIA;Cando, Outes;A Coruña
+6138;1;1;13;M;Orquesta;PALLADIUM;Avenida de Ramón Nieto, 367, Vigo;Pontevedra;SUSPENDIDA S.F. La Palmera. Tarde 17:00h. 
+6427;1;1;13;M;Orquesta;RITMO JOVEN;Monçao;Portugal;Discoteca Velvet. 
+6577;1;1;13;M;Grupo;ARAMIO;S.F. Chamán, Goián;Pontevedra;Sala de Fiestas Chamán. 
+6100;1;1;13;M;Orquesta;CHARLESTON BIG-BAND;S.F. Chanteclair, Pontecesures;Pontevedra;S.F. Chanteclair. 
+6149;1;1;13;M;Orquesta;MARBELLA;S.F. La Reina, Sanguiñeda;Pontevedra;S.F. La Reina. Alternando con Gran Parada. 
+6293;1;1;13;M;Orquesta;GRAN PARADA;S.F. La Reina, Sanguiñeda;Pontevedra;S.F. La Reina. Alternando con Marbella. 
+6170;1;1;13;M;Grupo;AMÉRICA DE VIGO;S.F. Mami, A Manchica;Ourense;S.F. Mami. 
+6129;1;1;13;M;Orquesta;MIRAMAR;S.F. Paulino, O Carballiño;Ourense;
+6517;2;1;13;X;Orquesta;GRAN PARADA;S.F. La Reina, Sanguiñeda;Pontevedra;S.F. La Reina. Alternamos con Marbella. 17:30 horas. 
+6257;3;1;13;J;Solista;HUGO TORREIRO;Pontevedra;Pontevedra;Actuación junto a Yhadira García en el Auditorio de Pontevedra a las 20:00 H. 
+6231;4;1;13;V;Charanga;MEKANIKA;Arteixo;A Coruña;Estaremos amenizando o dia anterior da cabalgata por varios lugares de arteixo. 
+6515;4;1;13;V;Orquesta;PONTEVEDRA;Caldas de Reis;Pontevedra;Disco Pub Gárgola. 
+6447;4;1;13;V;Grupo;D´MODA;Cebreiro, O Pino;A Coruña;
+6298;4;1;13;V;Orquesta;PARIS DE NOIA;Estrada Pavillon, Narón;A Coruña;S.F. Imperial. 
+6351;4;1;13;V;Orquesta;OLYMPUS RED TOUR;Programa Luar, TVG;A Coruña;
+6578;4;1;13;V;Grupo;ARAMIO;San Xusto, Coristanco;A Coruña;Fiesta al aire libre. 
+6579;5;1;13;S;Grupo;ARAMIO;A Lagoa, Vimianzo;A Coruña;Restaurante A Lagoa. 
+6288;5;1;13;S;Orquesta;ACORDES;Aldeola Restaurante, Malpica de Bergantiños;A Coruña;Restaurante Aldeola. 
+6525;5;1;13;S;Orquesta;NEVADA;Arrabaldo, Ourense;Ourense;Restaurante a Carballeira. 
+6232;5;1;13;S;Charanga;MEKANIKA;Arteixo;A Coruña;Acompañaremos a cabalgata dos reis de arteixo. 
+6346;5;1;13;S;Orquesta;PANAMA;As Pontes de García Rodríguez;A Coruña;Discoteca Oh! Caramba. 
+6308;5;1;13;S;Orquesta;IPANEMA;Av Bierzo, 91, Dehesas;León;S.F. Nova Delfos. 
+6452;5;1;13;S;Orquesta;MARAZUL;Avenida de Beiramar, 251, Vigo;Pontevedra;S.F. Olimpo. 
+6412;5;1;13;S;Grupo;TEKILA;Avenida de Manuel Lemos, 24, A Ramallosa, Nigrán;Pontevedra;S.F. Ramallosa 2000. 
+6418;5;1;13;S;Grupo;KALIMA 3.0;Begonte;Lugo;Triangulo Cafeteria. Fiesta de Reyes. 
+6463;5;1;13;S;Charanga;DGT;Betanzos;A Coruña;Estaremos acompañando a Cabalgata dos Reis Magos de Oriente xunto cos nosos amigos da Charanga NBA. Esperamosvos!!!!. 
+6468;5;1;13;S;Charanga;NBA;Betanzos;A Coruña;Acompañando a Cabalgata dos Reis Magos e coa Charanga DGT. 
+6313;5;1;13;S;Charanga;VAITE XA!!;Bouzas, Vigo;Pontevedra;Tarde de Reis magos en Bouzas. 
+6299;5;1;13;S;Orquesta;PARIS DE NOIA;Cangas, Foz;Lugo;La Gran Verbena. 
+6334;5;1;13;S;Orquesta;ESCAPARATE;Cazás, Xermade;Lugo;Acompañados del Grupo Asiria. 
+6478;5;1;13;S;Grupo;FUSIÓN;Ferrol;A Coruña;Club de Suboficiales de la Armada. 
+6441;5;1;13;S;Grupo;ASSIA;Gijón;Asturias;S.F. Tropicana. 
+6537;5;1;13;S;Orquesta;TREBOL;Mesón do Vento, Ordes;A Coruña;Discoteca Josfer. Noche. 
+6286;5;1;13;S;Dúo;D´CACHE;Monforte de Lemos;Lugo;Discoteca Sucursal Latina. 
+6397;5;1;13;S;Orquesta;LOS TROVADORES;Monforte de Lemos;Lugo;Sociedad La Fraternal. 
+6359;5;1;13;S;Orquesta;MARBELLA;Mourente, Pontevedra;Pontevedra;Cultural Mourente. 
+6196;5;1;13;S;Dúo;DE LA CRUZ SHOW;Muros;A Coruña;Compartimos Festa con Discoteca Mobil ``Fortuna´´ Hora as 22:00h . 
+6453;5;1;13;S;Orquesta;SUAVECITO;Noia;A Coruña;Liceo de Noia. 
+6507;5;1;13;S;Orquesta;MIRAMAR;O Casal, Salvaterra de Miño;Pontevedra;Centro cultura de Casal. 
+6321;5;1;13;S;Orquesta;CHARLESTON BIG-BAND;O Pereiro, Valdoviño;A Coruña;S.F. Maravilla. 
+6548;5;1;13;S;Orquesta;PONTEVEDRA;Ponferrada;León;Sociedad La Obrera. 
+6375;5;1;13;S;Orquesta;LOS SATÉLITES;Praza Maior, Lugo;Lugo;Círculo de las Ártes. 
+6521;5;1;13;S;Dúo;ECLIPSE;Restaurante los Robles, Lugar Saamasas;Lugo;Restaurante los Robles. 12:00. 
+6340;5;1;13;S;Orquesta;PALLADIUM;Roca, Guitiriz;Lugo;Alternando con Sintonia de Vigo. 
+6459;5;1;13;S;Orquesta;CINEMA;Romai, Portas;Pontevedra;Alternando con el Grupo Alkar. 
+6470;5;1;13;S;Grupo;ALKAR;Romai, Portas;Pontevedra;Alternando con Orquesta Cinema. 
+6389;5;1;13;S;Orquesta;TELEVISIÓN;Román, Vilalba;Lugo;
+6434;5;1;13;S;Orquesta;CIUDADEVIGO;S.F. Chamán, Goián;Pontevedra;S.F. Chaman. 
+6419;5;1;13;S;Grupo;AMÉRICA DE VIGO;S.F. Chanteclair, Pontecesures;Pontevedra;S.F. Chanteclair. 
+6708;5;1;13;S;Orquesta;ABANICO;S.F. Estilo, Oviedo;Asturias;S.F. Estilo. 
+6428;5;1;13;S;Orquesta;RITMO JOVEN;S.F. La Reina, Sanguiñeda;Pontevedra;S.F. La Reina. 
+6309;5;1;13;S;Orquesta;OLYMPUS RED TOUR;S.F. Mami, A Manchica;Ourense;Sala de Fiestas Mami. 
+6516;5;1;13;S;Orquesta;GRAN PARADA;S.F. Rosalar, Ribadeo;Lugo;S.F. Rosalar 22:00 horas. 
+6395;5;1;13;S;Orquesta;SOLARA;Vilalonga, Sanxenxo;Pontevedra;Sociedad Cultural de Villalonga. 
+6526;5;1;13;S;Orquesta;VENEZIA;Villadecanes, Toral de los Vados;León;
+6454;6;1;13;D;Orquesta;SUAVECITO;Avenida de Beiramar, 251, Vigo;Pontevedra;S.F. Olimpo. 
+6474;6;1;13;D;Orquesta;PALLADIUM;Coaxe, Catoira;Pontevedra;Alternamos con Filadelfia. 
+6390;6;1;13;D;Orquesta;TELEVISIÓN;Extramundi, Padrón;A Coruña;Acompañados del Grupo La Oca. 
+6396;6;1;13;D;Orquesta;SOLARA;Guláns, Ponteareas;Pontevedra;
+6440;6;1;13;D;Grupo;ASSIA;Laviana;Asturias;S.F. La Pista. 
+6398;6;1;13;D;Orquesta;LOS TROVADORES;Mugardos;A Coruña;Casino Mugardes. 
+6457;6;1;13;D;Orquesta;MARBELLA;Ponte Caldelas;Pontevedra;S.F. Reivi. 
+6421;6;1;13;D;Orquesta;FANIA BLANCO SHOW;Roca, Guitiriz;Lugo;Sesión Vermú. 
+6435;6;1;13;D;Orquesta;CIUDADEVIGO;S.F. Chamán, Goián;Pontevedra;S.F. Chaman. 
+6347;6;1;13;D;Orquesta;PANAMA;S.F. La Reina, Sanguiñeda;Pontevedra;S.F. La Reina. 
+6310;6;1;13;D;Orquesta;OLYMPUS RED TOUR;S.F. Mami, A Manchica;Ourense;Discoteca Mami. 18:00 Horas. 
+6283;6;1;13;D;Orquesta;CHARLESTON BIG-BAND;S.F. Nova Exágono, Lugo;Lugo;S.F. Nova Exagono. 
+6479;6;1;13;D;Grupo;FUSIÓN;Santa Cecilia, Narón;A Coruña;Centro de la Tercera Edad de Santa Cecilia. 
+6402;7;1;13;L;Orquesta;SOLARA;Bastavales, Brión;A Coruña;
+6068;7;1;13;L;Orquesta;TELEVISIÓN;San Xulián, Marín;Pontevedra;Alternando con PONTEVEDRA. O recinto estará cuberto por unha gran carpa. 
+6069;7;1;13;L;Orquesta;PONTEVEDRA;San Xulián, Marín;Pontevedra;Alternando con TELEVISIÓN. O recinto estará cuberto por unha gran carpa. 
+6429;8;1;13;M;Orquesta;RITMO JOVEN;Bastavales, Brión;A Coruña;
+6070;8;1;13;M;Orquesta;MIRAMAR;San Xulian, Marín;Pontevedra;Alternando con MARBELLA. O recinto estará cuberto por unha gran carpa. 
+6284;8;1;13;M;Orquesta;MARBELLA;San Xulian, Marín;Pontevedra;Alternando con MIRAMAR. O recinto estará cuberto por unha gran carpa. 
+6678;10;1;13;J;Charanga;VAITE XA!!;A Cañiza;Pontevedra;
+6483;10;1;13;J;Grupo;ARAMIO;Avenida de Beiramar, 251, Vigo;Pontevedra;Sala de Fiestas Olimpo. 
+6484;11;1;13;V;Grupo;ARAMIO;Avenida de Beiramar, 251, Vigo;Pontevedra;Sala de Fiestas Olimpo. 
+6268;11;1;13;V;Solista;TANIA Y SU ACORDEÓN;Barbeitos;Lugo;Restaurante Catro Ventos. 
+6572;11;1;13;V;Orquesta;FANIA BLANCO SHOW;Estrada Pavillon, Narón;A Coruña;S.F. Imperial. 
+6594;11;1;13;V;Dúo;CALÚ;O Temple, Cambre;A Coruña;Cervecería La Terraza. A partir de las 00:30. 
+6593;11;1;13;V;Orquesta;ISRAEL;Programa Luar, TVG;A Coruña;
+6352;11;1;13;V;Orquesta;OLYMPUS RED TOUR;Seaia, Malpica de Bergantiños;A Coruña;Acompañados de Grupo OCEANO. 
+6558;11;1;13;V;Grupo;D´MODA;Silleda;Pontevedra;Inauguración Discoteca Dilema. 
+6354;12;1;13;S;Orquesta;OLYMPUS RED TOUR;A Lagoa, Vimianzo;A Coruña;Restaurante A Lagoa. 
+6538;12;1;13;S;Orquesta;TREBOL;Aldeola Restaurante, Malpica de Bergantiños;A Coruña;Restaurante Aldeola. 
+6573;12;1;13;S;Orquesta;VENEZIA;Av Bierzo, 91, Dehesas;León;S.F. Nova Delfos. 
+6384;12;1;13;S;Dúo;D´CACHE;Barcia, Ribeira de Piquín;Lugo;Hotel Mirador. 
+6533;12;1;13;S;Grupo;LIMÓN;Carreiras, Pontecesures;Pontevedra;
+6217;12;1;13;S;Orquesta;ISRAEL;Escarabote, Boiro;A Coruña;Alternamos con la Orquesta Compostela y la Orquesta Los Trovadores. 
+6218;12;1;13;S;Orquesta;COMPOSTELA;Escarabote, Boiro;A Coruña;Alternamos con la Orquesta Israel y la Orquesta Los Trovadores. 
+6399;12;1;13;S;Orquesta;LOS TROVADORES;Escarabote, Boiro;A Coruña;Alternamos con la Orquesta Israel Espectáculos y la Orquesta Compostela. 
+6377;12;1;13;S;Orquesta;LOS SATÉLITES;Mesón do Vento, Ordes;A Coruña;S.F. Josfer. 
+6574;12;1;13;S;Grupo;ARAMIO;Monçao;Portugal;Sala de Fiestas Velvet. 
+6270;12;1;13;S;Solista;TANIA Y SU ACORDEÓN;Muimenta, Cospeito;Lugo;Pub. 
+6595;12;1;13;S;Dúo;CALÚ;O Temple, Cambre;A Coruña;Cervecería La Terraza. A partir de las 00:30. 
+6404;12;1;13;S;Orquesta;SOLARA;Ponteareas;Pontevedra;S.F. El Otro Mundo del Tea. 
+6430;12;1;13;S;Orquesta;RITMO JOVEN;Pradedo, Guntín;Lugo;
+6444;12;1;13;S;Grupo;ASSIA;S.F. Estilo, Oviedo;Asturias;S.F. Estilo. 
+6549;12;1;13;S;Orquesta;PONTEVEDRA;S.F. La Luna, Cerponzóns;Pontevedra;S.F. La Luna. 
+6360;12;1;13;S;Orquesta;MARBELLA;S.F. Rosalar, Ribadeo;Lugo;S.F. Rosalar. 
+6422;12;1;13;S;Orquesta;FANIA BLANCO SHOW;Sales, Vedra;A Coruña;San Julian de Sales. Acompañados del Grupo Oceano. 
+6300;12;1;13;S;Orquesta;PARIS DE NOIA;Seaia, Malpica de Bergantiños;A Coruña;Acompañados de Grupo Samba. 
+6532;12;1;13;S;Grupo;SAMBA;Seaia, Malpica de Bergantiños;A Coruña;Acompañados de Paris de Noia. 
+6413;12;1;13;S;Grupo;TEKILA;Tineo;Asturias;S.F. Rimmel. 
+6348;12;1;13;S;Orquesta;PANAMA;Vilaboa, Valdoviño;A Coruña;Discoteca Marabilla. 
+6508;12;1;13;S;Orquesta;MIRAMAR;Vilanova de Arousa;Pontevedra;San Mauro. Acompañados de Grupo ALCAZAR. 
+6797;12;1;13;S;Grupo;GARIBALDI;Villademor de la Vega, Valencia de Don Juan;León;
+6539;13;1;13;D;Orquesta;TREBOL;Aldeola Restaurante, Malpica de Bergantiños;A Coruña;Restaurante Aldeola. 
+6575;13;1;13;D;Grupo;ARAMIO;Monçao;Portugal;Sala de Fiestas Velvet. 
+6596;13;1;13;D;Dúo;CALÚ;Perillo, Oleiros;A Coruña;Discoteca Mackinlay's. Nuevo Horario de tarde a partir de las 19:00 hrs. Más o menos.…. 
+6498;13;1;13;D;Orquesta;OLYMPUS RED TOUR;S.F. Chanteclair, Pontecesures;Pontevedra;S.F. Chanteclair. Alternamos con Abanico. 
+6650;13;1;13;D;Orquesta;ABANICO;S.F. Chanteclair, Pontecesures;Pontevedra;Discoteca Chanteclair alternando con olimpus. 
+6460;13;1;13;D;Orquesta;CINEMA;S.F. La Luna, Cerponzóns;Pontevedra;S.F. La Luna. 
+6601;13;1;13;D;Orquesta;XACOBEO;S.F. Mami, A Manchica;Ourense;Discoteca Mami. 18:00 Horas. 
+6518;13;1;13;D;Orquesta;GRAN PARADA;S.F. Nova Exágono, Lugo;Lugo;S.F. Nova Exagono 19:00 horas. 
+6588;13;1;13;D;Orquesta;CAPITOL;S.F. Paulino, O Carballiño;Ourense;Sala de Fiestas Paulino. 
+6361;13;1;13;D;Orquesta;MARBELLA;S.F. Zeus, Campolongo;A Coruña;S.F. Zeus. 
+6510;15;1;13;M;Orquesta;MIRAMAR;Aldán, Cangas do Morrazo;Pontevedra;Acompañados de Orquesta PONTEVEDRA. 
+6511;15;1;13;M;Orquesta;PONTEVEDRA;Aldán, Cangas do Morrazo;Pontevedra;Acompañados de Orquesta MIRAMAR. 
+6301;15;1;13;M;Orquesta;PARIS DE NOIA;Amoedo, Pazos de Borbén;Pontevedra;Pazos de Borbén. 
+6362;15;1;13;M;Orquesta;MARBELLA;Amoedo, Pazos de Borbén;Pontevedra;Comenzaremos a las 18h el primer pase. 
+6322;15;1;13;M;Orquesta;CHARLESTON BIG-BAND;Cacheiro, Pontevedra;Pontevedra;Acompañados de la Orquesta Palladium. 
+6326;15;1;13;M;Orquesta;PALLADIUM;Cacheiro, Pontevedra;Pontevedra;Acompañados de la Orquesta Charleston Big Band. 
+6565;15;1;13;M;Orquesta;CIUDADEVIGO;Parderrubias, Salceda de Caselas;Pontevedra;Sesión vermú. 
+6512;16;1;13;X;Orquesta;MIRAMAR;A Arnoia;Ourense;
+6655;17;1;13;J;Orquesta;ABANICO;Guimarei;Ourense;
+6378;18;1;13;V;Orquesta;LOS SATÉLITES;Carres, Cesuras;A Coruña;Acompañados de D´Moda. 
+6448;18;1;13;V;Grupo;D´MODA;Carres, Cesuras;A Coruña;Acompañados de Los Satélites. 
+6524;18;1;13;V;Orquesta;MARBELLA;Estrada Pavillon, Narón;A Coruña;S.F. Imperial. 
+6513;18;1;13;V;Orquesta;MIRAMAR;Macendo, Castrelo de Miño;Ourense;
+6528;18;1;13;V;Orquesta;TRIUNFO;Margaride de Lor, Quiroga;Lugo;20:30 horas. 
+6563;18;1;13;V;Orquesta;MARAZUL;Parderrubias, Salceda de Caselas;Pontevedra;Acompañados de Grupo ALVEIN. 
+6564;18;1;13;V;Grupo;ALVEIN;Parderrubias, Salceda de Caselas;Pontevedra;Acompañados de Orquesta MARAZUL. 
+6703;18;1;13;V;Dúo;CALÚ;Pazo Villariza, Pastoriza;A Coruña;Cena Privada, a partir de las 23:00. 
+6540;18;1;13;V;Orquesta;TREBOL;Piñeiro;Ourense;Noche. 
+6355;18;1;13;V;Orquesta;OLYMPUS RED TOUR;Rodeiro;Pontevedra;Acompañados de Fania Blanco Show. 
+6423;18;1;13;V;Orquesta;FANIA BLANCO SHOW;Rodeiro;Pontevedra;Acompañados de Olympus. 
+6664;18;1;13;V;Grupo;CICLÓN;Torres, Vilarmaior;A Coruña;Pub +Mengu. 
+6649;19;1;13;S;Orquesta;SUAVECITO;A Lagoa, Vimianzo;A Coruña;Restaurante A Lagoa. Cena - Baile. 
+6796;19;1;13;S;Grupo;GARIBALDI;A Medua, Carballeda de Valdeorras;Ourense;Tarde/Noche a partir de las 19:30. 
+6431;19;1;13;S;Orquesta;RITMO JOVEN;A Mella, Arzúa;A Coruña;(APLAZADA POR TEMPORAL). 
+6379;19;1;13;S;Orquesta;LOS SATÉLITES;A Modia;Pontevedra;Acompañados de Solara. 
+6406;19;1;13;S;Orquesta;SOLARA;A Modia;Pontevedra;Acompañados de Los Satélites. 
+6663;19;1;13;S;Orquesta;METRÓPOLIS;Abelenda das Penas, Carballeda de Avia;Ourense;Acompañados de Orquesta CHICAGO. 
+6302;19;1;13;S;Orquesta;PARIS DE NOIA;Aldemunde, Carballo;A Coruña;SUSPENDIDA. 
+6356;19;1;13;S;Orquesta;OLYMPUS RED TOUR;Armea, Coirós;A Coruña;
+6345;19;1;13;S;Solista;TANIA Y SU ACORDEÓN;Barcia, Ribeira de Piquín;Lugo;Hotel Mirador. 
+6443;19;1;13;S;Grupo;ASSIA;Bricia, Llanes;Asturias;
+6449;19;1;13;S;Grupo;D´MODA;Bronllo, Valga;Pontevedra;Alternamos con Trebol. 
+6541;19;1;13;S;Orquesta;TREBOL;Bronllo, Valga;Pontevedra;Noche alternando con Grupo D´Moda. 
+6550;19;1;13;S;Orquesta;PONTEVEDRA;Cangas, Foz;Lugo;La Gran Verbena. 
+6335;19;1;13;S;Orquesta;FOLIADA D´ASES;Caroi, Cotobade;Pontevedra;
+6535;19;1;13;S;Orquesta;LOS ESPAÑOLES;Carres, Cesuras;A Coruña;Sesión vermú. 
+6705;19;1;13;S;Trío;ORQUÍDEA;Cendoi, O Paramo;Lugo;
+6674;19;1;13;S;Orquesta;ACORDES;Cuelgamures;Zamora;
+6424;19;1;13;S;Orquesta;FANIA BLANCO SHOW;Doroña, Vilarmaior;A Coruña;
+6461;19;1;13;S;Orquesta;CINEMA;Duio, Fisterra;A Coruña;Alternando con Miramar. 
+6469;19;1;13;S;Orquesta;MIRAMAR;Duio, Fisterra;A Coruña;Alternando con Cinema. 
+6656;19;1;13;S;Orquesta;ABANICO;Estás, Tomiño;Pontevedra;
+6672;19;1;13;S;Grupo;LIMÓN;Juan Carlos I, 16 Arriondas, Parres;Asturias;Discoteca Rombos. 
+6529;19;1;13;S;Orquesta;TRIUNFO;Macendo, Castrelo de Miño;Ourense;22 horas. 
+6597;19;1;13;S;Orquesta;ISRAEL;Mañufe, Gondomar;Pontevedra;Alternamos con el Grupo Yukatan. 
+6644;19;1;13;S;Charanga;DGT;Mondoi, Oza dos Rios;A Coruña;Fiesta privada. 
+6503;19;1;13;S;Orquesta;PALLADIUM;Moreira, Soutomaior;Pontevedra;Alternamos con el Grupo Claxxon. 
+6561;19;1;13;S;Grupo;CLAXXON;Moreira, Soutomaior;Pontevedra;Alternamos con Palladium. 
+6349;19;1;13;S;Orquesta;PANAMA;Os Vilares, Guitiriz;Lugo;
+6476;19;1;13;S;Orquesta;ESCAPARATE;Pedreda, Lugo;Lugo;San Vicente de Pedreda. 
+6669;19;1;13;S;Orquesta;CAPITOL;Petelos, Mos;Pontevedra;
+6281;19;1;13;S;Dúo;ECLIPSE;Ponferrada;León;Villar de los barrios 20:00. 
+6661;19;1;13;S;Grupo;ATENAS;Ponteareas;Pontevedra;S.F. El Otro Mundo del Tea. 
+6617;19;1;13;S;Orquesta;XACOBEO;Porto do Son;A Coruña;
+6576;19;1;13;S;Grupo;ARAMIO;Porto, Vilar de Barrio;Ourense;Fiesta al aire libre. 
+6519;19;1;13;S;Orquesta;GRAN PARADA;Rodeiro;Pontevedra;22:00 horas. Acompañados de Venezia. 
+6527;19;1;13;S;Orquesta;VENEZIA;Rodeiro;Pontevedra;Acompañados de Gran Parada. 
+6438;19;1;13;S;Grupo;TALISMÁN;S.F. Chamán, Goián;Pontevedra;S.F. Chaman. 
+6414;19;1;13;S;Grupo;TEKILA;S.F. Estilo, Oviedo;Asturias;S.F. Estilo. 
+6757;19;1;13;S;Grupo;ALKAR;S.F. La Luna, Cerponzóns;Pontevedra;S.F. La Luna. 
+6391;19;1;13;S;Orquesta;TELEVISIÓN;S.F. La Reina, Sanguiñeda;Pontevedra;S.F. La Reina. 
+6323;19;1;13;S;Orquesta;CHARLESTON BIG-BAND;Sancovade, Vilalba;Lugo;Acompañados de la Orquesta Filadelfia. 
+6420;19;1;13;S;Grupo;AMÉRICA DE VIGO;Sequeiros, Pazos de Borbén;Pontevedra;
+6569;19;1;13;S;Grupo;FUSIÓN;Sillobre;A Coruña;S.C.R.D de Sillobre. Cea do socio. 
+6363;19;1;13;S;Orquesta;MARBELLA;Trasmañó, Redondela;Pontevedra;Acompañados de Grupo Samba. 
+6536;19;1;13;S;Grupo;SAMBA;Trasmañó, Redondela;Pontevedra;Acompañados de Marbella. 
+6648;19;1;13;S;Charanga;BB+;Vila de Cruces;Pontevedra;Fiesta privada. 
+6686;20;1;13;D;Orquesta;MIRAMAR;Abelenda das Penas, Carballeda de Avia;Ourense;Alternamos con Orquesta Filadelfia. 
+6432;20;1;13;D;Orquesta;RITMO JOVEN;Avenida de Beiramar, 251, Vigo;Pontevedra;S.F. Olimpo. 
+6381;20;1;13;D;Orquesta;LOS SATÉLITES;Barazón, Santiso;A Coruña;
+6600;20;1;13;D;Grupo;ALKAR;Bustelo, Xunqueira de Ambía;Ourense;Sesión de tarde de 18 a 22h. Hay carpa. 
+6278;20;1;13;D;Solista;TANIA Y SU ACORDEÓN;Ferrol;A Coruña;Asociacion de vecinos de San Juan. 
+6567;20;1;13;D;Orquesta;COMPOSTELA;Mañufe, Gondomar;Pontevedra;Fiesta al aire libre. 
+6425;20;1;13;D;Orquesta;FANIA BLANCO SHOW;Os Vilares, Guitiriz;Lugo;Sesión vermú. 
+5776;20;1;13;D;Dúo;D´CACHE;Ourense;Ourense;Karaoke Rías Baixas. 
+6407;20;1;13;D;Orquesta;SOLARA;Pedreda, Lugo;Lugo;San Vicente. 
+6357;20;1;13;D;Orquesta;OLYMPUS RED TOUR;Petelos, Mos;Pontevedra;
+6401;20;1;13;D;Orquesta;LOS TROVADORES;Porto, Vilar de Barrio;Ourense;
+6439;20;1;13;D;Grupo;TALISMÁN;S.F. Chamán, Goián;Pontevedra;S.F. Chaman. 
+6654;20;1;13;D;Orquesta;MARBELLA;S.F. Chanteclair, Pontecesures;Pontevedra;S.F. Chanteclair, alternando con Aché. 
+6531;20;1;13;D;Orquesta;CHARLESTON BIG-BAND;S.F. La Luna, Cerponzóns;Pontevedra;S.F. La Luna. 
+6542;20;1;13;D;Orquesta;TREBOL;S.F. La Reina, Sanguiñeda;Pontevedra;S.F. La Reina. Tarde noche. 
+6652;20;1;13;D;Orquesta;NEVADA;S.F. Mami, A Manchica;Ourense;Discoteca Mami. 18:00 Horas. 
+6551;20;1;13;D;Orquesta;PONTEVEDRA;S.F. Nova Exágono, Lugo;Lugo;S.F. Nova Exagono. 
+6710;21;1;13;L;Trío;ORQUÍDEA;Radio Obradoiro;A Coruña;En el programa &quot,Estamos contigo&quot, de la 1 a las 5 horas de la mañana. 
+6458;22;1;13;M;Orquesta;MARBELLA;Cespón, Boiro;A Coruña;APLAZADA POR MAL TIEMPO. 
+6520;22;1;13;M;Orquesta;GRAN PARADA;Cespón, Boiro;A Coruña;22:00 horas. 
+6604;22;1;13;M;Orquesta;SOLARA;San Vicente do Grove, O Grove;Pontevedra;
+5965;23;1;13;X;Charanga;BB+;Boqueixón;A Coruña;Estaremos de pasarruas e amenizando a sesión vermouth nesta magnifica festa do San Vicente. 
+6416;25;1;13;V;Orquesta;COMPOSTELA;Adina, Sanxenxo;Pontevedra;Santa María. Alternamos con Orquesta Los Trovadores. 
+6417;25;1;13;V;Orquesta;LOS TROVADORES;Adina, Sanxenxo;Pontevedra;Santa María. Alternamos con Orquesta Compostela. 
+6806;25;1;13;V;Orquesta;PARIS DE NOIA;Aldemunde, Carballo;A Coruña;La fiesta empieza alrededor de las 11 y es la repetición de la suspendida el pasado sábado 19. 
+6824;25;1;13;V;Orquesta;GRAN PARADA;Cespón, Boiro;A Coruña;Alternando con Marbella. 21:00 horas. 
+6826;25;1;13;V;Orquesta;MARBELLA;Cespón, Boiro;A Coruña;Alternando con Gran Parada. 
+6850;25;1;13;V;Orquesta;ABANICO;Estás, Tomiño;Pontevedra;Acompañados de Orquesta NEVADA. 
+6851;25;1;13;V;Orquesta;NEVADA;Estás, Tomiño;Pontevedra;Acompañados de Orquesta ABANICO. 
+6694;25;1;13;V;Orquesta;ISRAEL;Estrada Pavillon, Narón;A Coruña;S.F. Imperial. 
+6730;25;1;13;V;Dúo;ECLIPSE;Friamonde, Taboada;Lugo;23:00 churrascada. 
+6445;25;1;13;V;Grupo;ASSIA;Manganeses de la Polvorosa;Zamora;alternando con Top lider. 
+6580;25;1;13;V;Orquesta;PANAMA;O Val de Xestoso, Monfero;A Coruña;San Ildefonso. 
+6765;25;1;13;V;Orquesta;CHARLESTON BIG-BAND;Programa Luar, TVG;A Coruña;
+6812;25;1;13;V;Orquesta;SOLARA;San Vicente do Grove, O Grove;Pontevedra;Acompañados por D´Tacon. 
+6835;25;1;13;V;Grupo;GARIBALDI;Trabadelo;León;Salón Trabadelo. Noche a partir de las 23:30h. 
+6499;26;1;13;S;Orquesta;OLYMPUS RED TOUR;Aldeola Restaurante, Malpica de Bergantiños;A Coruña;Restaurante Aldeola. 
+6581;26;1;13;S;Orquesta;PANAMA;Ambroa, Irixoa;A Coruña;
+6657;26;1;13;S;Orquesta;ABANICO;Avenida de Beiramar, 251, Vigo;Pontevedra;S.F. Olimpo. 
+6598;26;1;13;S;Grupo;KALIMA 3.0;Barcia, Ribeira de Piquín;Lugo;Hotel Mirador. Cena-Baile. 
+6861;26;1;13;S;Grupo;SAMBA;Cangas, Foz;Lugo;La Gran Verbena. 
+6822;26;1;13;S;Grupo;ARAMIO;Carretera Vigo, 28, Redondela;Pontevedra;Sala de Fiestas Bolero, en Ctra. Redondela-Vigo, 28 (Redondela). 
+6364;26;1;13;S;Orquesta;MARBELLA;Cerponzóns, Pontevedra;Pontevedra;Acompañados de la Orquesta Televisión. Empieza Televisión a las 21:00h. Haremos un solo pase de 2:30h. 
+6392;26;1;13;S;Orquesta;TELEVISIÓN;Cerponzóns, Pontevedra;Pontevedra;Acompañados de la Orquesta Marbella. Empezaremos a las 21:00h. Un solo pase de 2:30h. 
+6450;26;1;13;S;Grupo;D´MODA;Cerqueda, Malpica de Bergantiños;A Coruña;
+6376;26;1;13;S;Orquesta;LOS SATÉLITES;Espirito Santo, 3, Sada;A Coruña;Restaurante As Rodas. 
+6689;26;1;13;S;Solista;PILI PAMPÍN;Estrada Pavillon, Narón;A Coruña;S.F. Imperial. 
+6836;26;1;13;S;Grupo;GARIBALDI;Fabero;León;Cena del Botillo. Noche. 
+6670;26;1;13;S;Orquesta;CAPITOL;Feilas, Vilardevós;Ourense;
+6754;26;1;13;S;Orquesta;FIN DE SIGLO;Fríamonde, Taboada;Lugo;Fiesta. 
+6442;26;1;13;S;Grupo;ASSIA;Gijón;Asturias;S.F. Tropicana (APLAZADA PARA FEBRERO). 
+6568;26;1;13;S;Orquesta;COMPOSTELA;Hotel Fira Palace, Barcelona;Barcelona;Hotel Fira Palace. 
+6415;26;1;13;S;Grupo;TEKILA;La Braña, El Franco;Asturias;
+6426;26;1;13;S;Orquesta;FANIA BLANCO SHOW;Lagoa, Alfoz;Lugo;Sesión vermú. 
+6306;26;1;13;S;Dúo;CALÚ;Momán, Xermade;Lugo;Restaurante Casa Tino. Cena Baile, a partir de las 00:00hrs. 
+5943;26;1;13;S;Charanga;MEKANIKA;Negreira;A Coruña;FESTIVAL 10° ANIVERSARIO charanga MEKANIKA.presentacion da nova temporada.Compartiremos actuacion coas charangas os celtas, charanga ponmunkinto e charanga bb+...non o perdades vide a negreira ese dia...pasaredelo moi ben!. 
+6174;26;1;13;S;Charanga;BB+;Negreira;A Coruña;Estaremos amenizando o X aniversario dos nosos compañeiros da Charanga Mekánika! Non faltedes que promete moito!. 
+6514;26;1;13;S;Orquesta;MIRAMAR;Ponteareas;Pontevedra;S.F. El Otro Mundo del Tea. 
+6451;26;1;13;S;Orquesta;TREBOL;Pontoibo, As Pontes;A Coruña;Alternando con Sintonía de Vigo. 
+6562;26;1;13;S;Grupo;CLAXXON;Rábade;Lugo;
+6504;26;1;13;S;Orquesta;PALLADIUM;Restaurante El Pantano, Abegondo;A Coruña;Restaurante El Pantano. 
+6605;26;1;13;S;Orquesta;SOLARA;Restaurante Os Paraguas, Carral;A Coruña;
+6584;26;1;13;S;Grupo;ATENAS;Ribeira, A Estrada;Pontevedra;Sesión vermú 1:30. 
+6436;26;1;13;S;Orquesta;COSTA BLANCA;S.F. Chamán, Goián;Pontevedra;S.F. Chaman. 
+6303;26;1;13;S;Orquesta;PARIS DE NOIA;S.F. La Concha, O Val;A Coruña;S.F. La Concha. 
+6462;26;1;13;S;Orquesta;CINEMA;S.F. La Reina, Sanguiñeda;Pontevedra;S.F. La Reina. 
+6675;26;1;13;S;Orquesta;ACORDES;Sancedo;León;Alternamos con Orquesta Xacobeo. 
+6681;26;1;13;S;Orquesta;XACOBEO;Sancedo;León;Alternamos con Orquesta Acordes. 
+6647;26;1;13;S;Dúo;DE LA CRUZ SHOW;Teo;A Coruña;Baile de Tarde. 
+6545;26;1;13;S;Orquesta;RITMO JOVEN;Trabadelo;León;
+6475;26;1;13;S;Orquesta;ALIANZA;Valbuxán, O Bolo;Ourense;
+6570;26;1;13;S;Grupo;FUSIÓN;Vilalba;Lugo;Centro da Tercera Idade de Vilalba. 
+6477;26;1;13;S;Orquesta;ESCAPARATE;Vilameá, A Pontenova;Lugo;
+6602;26;1;13;S;Solista;TANIA Y SU ACORDEÓN;Villanueva de Oscos;Asturias;Restaurante Oscos. 
+6658;27;1;13;D;Orquesta;ABANICO;Avenida de Beiramar, 251, Vigo;Pontevedra;S.F. Olimpo. 
+6764;27;1;13;D;Trío;AREAL;Boizán, Vilalba;Lugo;Sesión vermú. Campo cuberto con carpa. 
+6823;27;1;13;D;Grupo;ARAMIO;Carretera Vigo, 28, Redondela;Pontevedra;Sala de Fiestas Bolero, en Ctra. Redondela-Vigo, 28 (Redondela). 
+6282;27;1;13;D;Dúo;ECLIPSE;Ourense;Ourense;Karaoke Rias Baixas. 20:00h. 
+6437;27;1;13;D;Orquesta;COSTA BLANCA;S.F. Chamán, Goián;Pontevedra;S.F. Chaman. 
+6768;27;1;13;D;Orquesta;LOS SATÉLITES;S.F. Chanteclair, Pontecesures;Pontevedra;S.F. Chanteclair. Alternando con Cinema. 
+6782;27;1;13;D;Orquesta;GRAN PARADA;S.F. Chanteclair, Pontecesures;Pontevedra;S.F. Chanteclair. Alternando con Los Satelites. 19:00 horas. 
+6671;27;1;13;D;Orquesta;CAPITOL;S.F. Mami, A Manchica;Ourense;S.F. Mami. 
+6304;27;1;13;D;Orquesta;PARIS DE NOIA;S.F. Nova Exágono, Lugo;Lugo;S.F. Nova Exagono. 
+6405;27;1;13;D;Orquesta;LOS TROVADORES;S.F. Paulino, O Carballiño;Ourense;Sala de Fiestas Paulino. 
+6350;27;1;13;D;Orquesta;PANAMA;S.F. Zeus, Campolongo;A Coruña;S.F. Zeus. 
+6814;27;1;13;D;Dúo;CALÚ;San Tirso De Mabegondo;A Coruña;Sesión Vermú, en el Pabellón al lado del campo de la Fiesta. (Bajo Techo).... A partir de las 14:00 hrs. 
+6464;27;1;13;D;Charanga;DGT;Xinzo de Limia;Ourense;Domingo Oleiro
+6289;28;1;13;L;Grupo;ATENAS;Cando, Outes;A Coruña;Vert-.1:30 Noche alt.Pili Pampim. 
+6296;28;1;13;L;Solista;PILI PAMPÍN;Cando, Outes;A Coruña;
+6305;29;1;13;M;Orquesta;PARIS DE NOIA;Cando, Outes;A Coruña;Cando, Serra de Outes. 

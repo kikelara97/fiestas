@@ -1,21 +1,21 @@
-114821;4;12;20;V;Solista;XILO;Os Condes, Bergondo;A Coruña
-114822;5;12;20;S;Solista;XILO;Os Condes, Bergondo;A Coruña
-116094;6;12;20;D;Trío;MAR DE CAIÓN;MALPICA;A Coruña
-114823;6;12;20;D;Solista;XILO;Os Condes, Bergondo;A Coruña
-117386;6;12;20;D;Dúo;D´VICIO;Santaia de Probaos, Cesuras;A Coruña
-114824;7;12;20;L;Solista;XILO;Os Condes, Bergondo;A Coruña
-114780;11;12;20;V;Solista;XILO;Hotel Narón, Narón;A Coruña
-114781;12;12;20;S;Solista;XILO;Hotel Narón, Narón;A Coruña
-114147;12;12;20;S;Dúo;ESTRELLAS;Restaurante La Torre, Tabeaio, Carral;A Coruña
-114761;13;12;20;D;Solista;XILO;Centro Cívico de Caranza, Ferrol;A Coruña
-114795;18;12;20;V;Solista;XILO;Os Ánxeles, Brión;A Coruña
-113010;19;12;20;S;Trío;TBM SHOW;A Cañiza;Pontevedra
-114794;20;12;20;D;Solista;XILO;Pontedeume;A Coruña
-116809;20;12;20;D;Trío;TBM SHOW;Vigo;Pontevedra
-114807;25;12;20;V;Dúo;XILO & CARLOS;Cervecería Campo García, Meirás;A Coruña
-116029;26;12;20;S;Charanga;ARDORES;Cadrón, Lalín;Pontevedra
-114808;26;12;20;S;Dúo;XILO & CARLOS;Cervecería O Lagar, Neda;A Coruña
-114838;31;12;20;J;Solista;XILO;Fisterra;A Coruña
-114525;31;12;20;J;Trío;KARMA;Malpica de Bergantiños;A Coruña
-115554;31;12;20;J;Disco Móvil;CHOCOLATE;Noia;A Coruña
-114980;31;12;20;J;Orquesta;ROYAL ESPECTÁCULO;Ponte da Barca, Viana do Castelo;Portugal
+114821;4;12;20;V;Solista;XILO;Os Condes, Bergondo;A Coruña;Horario: Noche.
+114822;5;12;20;S;Solista;XILO;Os Condes, Bergondo;A Coruña;Horario: Noche.
+116094;6;12;20;D;Trío;MAR DE CAIÓN;MALPICA;A Coruña;Horario: Tarde (19:00).
+114823;6;12;20;D;Solista;XILO;Os Condes, Bergondo;A Coruña;Horario: Noche.
+117386;6;12;20;D;Dúo;D´VICIO;Santaia de Probaos, Cesuras;A Coruña;Horario: Vermú.
+114824;7;12;20;L;Solista;XILO;Os Condes, Bergondo;A Coruña;Horario: Noche.
+114780;11;12;20;V;Solista;XILO;Hotel Narón, Narón;A Coruña;Horario: Noche.
+114781;12;12;20;S;Solista;XILO;Hotel Narón, Narón;A Coruña;
+114147;12;12;20;S;Dúo;ESTRELLAS;Restaurante La Torre, Tabeaio, Carral;A Coruña;Horario: Noche (23:30). Hay: Aparcamiento.
+114761;13;12;20;D;Solista;XILO;Centro Cívico de Caranza, Ferrol;A Coruña;Horario: Tarde (17:30).
+114795;18;12;20;V;Solista;XILO;Os Ánxeles, Brión;A Coruña;Cafetería Os Ánxeles. Horario: Noche.
+113010;19;12;20;S;Trío;TBM SHOW;A Cañiza;Pontevedra;Horario: Noche. Hay: Aparcamiento.
+114794;20;12;20;D;Solista;XILO;Pontedeume;A Coruña;Baile mayores. Horario: Tarde (17:30).
+116809;20;12;20;D;Trío;TBM SHOW;Vigo;Pontevedra;Horario: Tarde. Tipo de terreno: Cemento. Hay: Aparcamiento, Bocateria.
+114807;25;12;20;V;Dúo;XILO & CARLOS;Cervecería Campo García, Meirás;A Coruña;Horario: Noche.
+116029;26;12;20;S;Charanga;ARDORES;Cadrón, Lalín;Pontevedra;Horario: Vermú, Noche.
+114808;26;12;20;S;Dúo;XILO & CARLOS;Cervecería O Lagar, Neda;A Coruña;Horario: Noche.
+114838;31;12;20;J;Solista;XILO;Fisterra;A Coruña;Hostal Mariquito. Horario: Noche.
+114525;31;12;20;J;Trío;KARMA;Malpica de Bergantiños;A Coruña;Horario: Noche (00:00).
+115554;31;12;20;J;Disco Móvil;CHOCOLATE;Noia;A Coruña;Fin de año en Equs. Horario: Noche.
+114980;31;12;20;J;Orquesta;ROYAL ESPECTÁCULO;Ponte da Barca, Viana do Castelo;Portugal;Horario: Noche (22:30).

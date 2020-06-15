@@ -1,1351 +1,1351 @@
-11692;1;7;13;L;Orquesta;SOLARA;Cudillero;Asturias
-11906;1;7;13;L;Orquesta;EL COMBO DOMINICANO;Herbogo, Rois;A Coruña
-9655;1;7;13;L;Orquesta;PANORAMA;Randufe, Tui;Pontevedra
-11542;1;7;13;L;Orquesta;MARBELLA;Randufe, Tui;Pontevedra
-11634;1;7;13;L;Grupo;TEKILA;San Pelayo, Grado;Asturias
-8580;1;7;13;L;Orquesta;OLYMPUS RED TOUR;Santa Comba;A Coruña
-8581;1;7;13;L;Grupo;AMÉRICA DE VIGO;Santa Comba;A Coruña
-11876;1;7;13;L;Orquesta;XACOBEO;Santa Comba;A Coruña
-11452;1;7;13;L;Orquesta;PARIS DE NOIA;Soandres, A Laracha;A Coruña
-11453;1;7;13;L;Orquesta;METRÓPOLIS;Soandres, A Laracha;A Coruña
-9796;1;7;13;L;Orquesta;GRAN PARADA;Soutelo, Salceda de Caselas;Pontevedra
-11115;1;7;13;L;Orquesta;CHARLESTON BIG-BAND;Soutelo, Salceda de Caselas;Pontevedra
-8625;1;7;13;L;Orquesta;PONTEVEDRA;Tameiga, Mos;Pontevedra
-8636;1;7;13;L;Orquesta;TELEVISIÓN;Tameiga, Mos;Pontevedra
-11131;1;7;13;L;Orquesta;ACORDES;Vilameá, Guntín;Lugo
-12912;1;7;13;L;Orquesta;VENEZIA;Vilaxuste, Portomarín;Lugo
-12222;2;7;13;M;Orquesta;AZABACHE;Castronuevo de Esgueva;Valladolid
-14176;2;7;13;M;Orquesta;IPANEMA;Pedrosa de Valdeporres;Burgos
-11792;2;7;13;M;Orquesta;PANAMA;San Saturniño, O Pino;A Coruña
-11801;2;7;13;M;Orquesta;FANIA BLANCO SHOW;San Saturniño, O Pino;A Coruña
-9798;2;7;13;M;Orquesta;MARBELLA;Visantoña, Mesía;A Coruña
-12223;3;7;13;X;Orquesta;AZABACHE;Traspinedo;Valladolid
-9799;3;7;13;X;Orquesta;EL COMBO DOMINICANO;Visantoña, Mesía;A Coruña
-11907;4;7;13;J;Orquesta;EL COMBO DOMINICANO;Vilachán, Rois;A Coruña
-12316;4;7;13;J;Grupo;SONIDO LEÓN;Zazuar;Burgos
-11803;5;7;13;V;Grupo;AMÉRICA DE VIGO;A Ponte do Porto, Camariñas;A Coruña
-12106;5;7;13;V;Orquesta;METRÓPOLIS;Abelleira, Muros;A Coruña
-12839;5;7;13;V;Orquesta;RITMO JOVEN;Baiona;Pontevedra
-11999;5;7;13;V;Orquesta;ABANICO;Cameixa, Boborás;Ourense
-11789;5;7;13;V;Dúo;ECLIPSE;Casteda, Chantada;Lugo
-12671;5;7;13;V;Grupo;AMERICA SL;Cerdido;A Coruña
-7957;5;7;13;V;Orquesta;PALLADIUM;Coia, Vigo;Pontevedra
-7958;5;7;13;V;Orquesta;GRAN PARADA;Coia, Vigo;Pontevedra
-12157;5;7;13;V;Orquesta;VERSIÓN ORIGINAL;Colunga;Asturias
-12167;5;7;13;V;Grupo;ASSIA;Colunga;Asturias
-12266;5;7;13;V;Orquesta;ARMONÍA SHOW;Cumbraos, Mesía;A Coruña
-12267;5;7;13;V;Orquesta;TRIUNFO;Cumbraos, Mesía;A Coruña
-12750;5;7;13;V;Orquesta;FANIA BLANCO SHOW;Dorneda, Oleiros;A Coruña
-12136;5;7;13;V;Grupo;ARAMIO;Goián, Tomiño;Pontevedra
-11859;5;7;13;V;Orquesta;ALIANZA;Hornija, Corullón;León
-11292;5;7;13;V;Orquesta;CINEMA;Las Campas, Castropol;Asturias
-11293;5;7;13;V;Grupo;LIMÓN;Las Campas, Castropol;Asturias
-11132;5;7;13;V;Orquesta;ACORDES;Moscoso, Pazos de Borbén;Pontevedra
-11401;5;7;13;V;Orquesta;EL COMBO DOMINICANO;Mosteiro de Santa María de Monfero, Monfero;A Coruña
-11540;5;7;13;V;Orquesta;PANORAMA;Mosteirón, Sada;A Coruña
-11587;5;7;13;V;Orquesta;OLYMPUS RED TOUR;Muimenta, Cospeito;Lugo
-12850;5;7;13;V;Orquesta;TANGO;Neaño, Cabana de Bergantiños;A Coruña
-11183;5;7;13;V;Grupo;CICLÓN;Palas de Rei;Lugo
-11613;5;7;13;V;Orquesta;PARIS DE NOIA;Piedras Blancas, Castrillon;Asturias
-11628;5;7;13;V;Grupo;TEKILA;Piedras Blancas, Castrillon;Asturias
-8530;5;7;13;V;Charanga;MEKANIKA;Portosín, Porto do Son;A Coruña
-12091;5;7;13;V;Orquesta;MARBELLA;Portosín, Porto do Son;A Coruña
-12691;5;7;13;V;Grupo;ALVEIN;Quereño, Puente de Domingo Florez;Ourense
-11831;5;7;13;V;Grupo;CLAXXON;Sabucedo, A Estrada;Pontevedra
-11900;5;7;13;V;Orquesta;TELEVISIÓN;Sabucedo, A Estrada;Pontevedra
-11617;5;7;13;V;Grupo;NEBRASKA;Serantes, Laxe;A Coruña
-12033;5;7;13;V;Orquesta;ISRAEL;Serantes, Laxe;A Coruña
-11148;5;7;13;V;Grupo;KALIMA 3.0;Serés, Castroverde;Lugo
-11667;5;7;13;V;Orquesta;TREBOL;Tines, Vimianzo;A Coruña
-6874;6;7;13;S;Charanga;MEKANIKA;A Manchica, A Merca;Ourense
-11388;6;7;13;S;Grupo;NEBRASKA;A Manchica, A Merca;Ourense
-11932;6;7;13;S;Orquesta;CHARLESTON BIG-BAND;A Peroxa;Ourense
-11896;6;7;13;S;Grupo;ATENAS;Abelleira, Muros;A Coruña
-11902;6;7;13;S;Charanga;ARDORES;Alperiz, Lalín;Pontevedra
-12257;6;7;13;S;Dúo;CARAMELO;Barallobre, Fene;A Coruña
-12731;6;7;13;S;Grupo;ACIREMA;Baredo, Baiona;Pontevedra
-12694;6;7;13;S;Solista;PILI PAMPÍN;Batalláns, As Neves;Pontevedra
-11526;6;7;13;S;Orquesta;ESTRELLAMAR;Boiro;A Coruña
-12325;6;7;13;S;Grupo;CICLÓN;Burela;Lugo
-11804;6;7;13;S;Grupo;AMÉRICA DE VIGO;Cameixa, Boborás;Ourense
-11870;6;7;13;S;Orquesta;ENIGMA;Casteda, Chantada;Lugo
-11877;6;7;13;S;Orquesta;XACOBEO;Castrelo, Cambados;Pontevedra
-11668;6;7;13;S;Orquesta;TREBOL;Cerdido;A Coruña
-12672;6;7;13;S;Orquesta;ISRAEL;Cerdido;A Coruña
-11646;6;7;13;S;Dúo;ECLIPSE;Coaña;Asturias
-9741;6;7;13;S;Orquesta;MIRAMAR;Cobres, Vilaboa;Pontevedra
-12092;6;7;13;S;Orquesta;MARBELLA;Coia, Vigo;Pontevedra
-12735;6;7;13;S;Grupo;ASSIA;Collado, Siero;Asturias
-11025;6;7;13;S;Orquesta;GRAN PARADA;Dimo, Catoira;Pontevedra
-12643;6;7;13;S;Grupo;ALKAR;Dimo, Catoira;Pontevedra
-12752;6;7;13;S;Orquesta;FANIA BLANCO SHOW;Dormeá, Boimorto;A Coruña
-11793;6;7;13;S;Orquesta;PANAMA;Dorneda, Oleiros;A Coruña
-11256;6;7;13;S;Orquesta;EMPERADORES;El Entrego, San Martín del Rey Aurelio;Asturias
-11972;6;7;13;S;Orquesta;VENEZIA;Figueiras, Mondoñedo;Lugo
-12158;6;7;13;S;Orquesta;VERSIÓN ORIGINAL;Fitoria, Oviedo;Asturias
-12170;6;7;13;S;Orquesta;TRISQUEL;Fitoria, Oviedo;Asturias
-10735;6;7;13;S;Orquesta;LOS ESPAÑOLES;Freixeiro, Santa Comba;A Coruña
-12224;6;7;13;S;Orquesta;AZABACHE;Fuentearmegil;Soria
-11133;6;7;13;S;Orquesta;ACORDES;Ganade, Xinzo de Limia;Ourense
-11823;6;7;13;S;Orquesta;GRAN CASINO;Goián, Tomiño;Pontevedra
-12983;6;7;13;S;Orquesta;CAPITOL;Goián, Tomiño;Pontevedra
-11138;6;7;13;S;Trío;AREAL;Gueimonde, Pastoriza;Lugo
-10775;6;7;13;S;Orquesta;ESCAPARATE;Guntín;Lugo
-11579;6;7;13;S;Orquesta;ARMONÍA SHOW;Guntín;Lugo
-13069;6;7;13;S;Orquesta;DOMINÓ;La Espina;Asturias
-11300;6;7;13;S;Grupo;TEKILA;Las Campas, Castropol;Asturias
-8280;6;7;13;S;Orquesta;ABANICO;Lieiro, Cervo;Lugo
-8281;6;7;13;S;Orquesta;PARIS DE NOIA;Lieiro, Cervo;Lugo
-12537;6;7;13;S;Grupo;GARIBALDI;Lordelo, Padrenda;Ourense
-12560;6;7;13;S;Dúo;CALÚ;Monteagudo, Arteixo;A Coruña
-11198;6;7;13;S;Orquesta;MARAZUL;Moscoso, Pazos de Borbén;Pontevedra
-8626;6;7;13;S;Orquesta;PONTEVEDRA;Mosende, O Porriño;Pontevedra
-12490;6;7;13;S;Orquesta;TRIUNFO;Mosende, O Porriño;Pontevedra
-11402;6;7;13;S;Orquesta;FIN DE SIGLO;Mosteiro de Santa María de Monfero, Monfero;A Coruña
-12183;6;7;13;S;Orquesta;IPANEMA;Mourente, Pontevedra;Pontevedra
-12137;6;7;13;S;Grupo;ARAMIO;Muimenta, Cospeito;Lugo
-12351;6;7;13;S;Orquesta;SUAVECITO;Muimenta, Cospeito;Lugo
-12051;6;7;13;S;Orquesta;PASSARELA;Neaño, Cabana de Bergantiños;A Coruña
-12053;6;7;13;S;Grupo;CANELA;Neaño, Cabana de Bergantiños;A Coruña
-11832;6;7;13;S;Grupo;CLAXXON;O Mosteiro, Meis;Pontevedra
-11012;6;7;13;S;Trío;AZAR;O Peso, A Lama;Pontevedra
-12107;6;7;13;S;Orquesta;METRÓPOLIS;Oca, Coristanco;A Coruña
-12203;6;7;13;S;Orquesta;LOS PLAYERS;Ortiguera, Coaña;Asturias
-12704;6;7;13;S;Orquesta;CENIZA;Oza dos Rios, Oza dos Rios;A Coruña
-12479;6;7;13;S;Grupo;SAMBA;Penjamo, Viveiro;Lugo
-12375;6;7;13;S;Orquesta;ALABAMA SHOW;Ponte Caldelas;Pontevedra
-12881;6;7;13;S;Orquesta;TANGO;Portonovo, Sanxenxo;Pontevedra
-10920;6;7;13;S;Orquesta;FOLIADA D´ASES;Portosín, Porto do Son;A Coruña
-11657;6;7;13;S;Orquesta;TOKIO;Portosín, Porto do Son;A Coruña
-11144;6;7;13;S;Orquesta;COSTA DORADA;Praza das Rodrigas, Riotorto;Lugo
-11543;6;7;13;S;Orquesta;PANORAMA;Recinto Ferial de Llanera;Asturias
-8913;6;7;13;S;Dúo;LA HORA BRUJA;Restaurante la Palloza, Lugo;Lugo
-12673;6;7;13;S;Grupo;AMERICA SL;Sabucedo, A Estrada;Pontevedra
-11872;6;7;13;S;Grupo;KALIMA 3.0;San Antolin de Ibias;Asturias
-12564;6;7;13;S;Orquesta;NEVADA;San Tomé, Cartelle;Ourense
-8242;6;7;13;S;Solista;TANIA Y SU ACORDEÓN;Santa Marina;Asturias
-12970;6;7;13;S;Grupo;CHANNEL;Santiago de Compostela;A Coruña
-12553;6;7;13;S;Orquesta;NUEVA BANDA;Sariegos, Lorenzana;León
-12034;6;7;13;S;Grupo;D´MODA;Serantes, Laxe;A Coruña
-11137;6;7;13;S;Orquesta;ALIANZA;Serés, Castroverde;Lugo
-11205;6;7;13;S;Disco Móvil;BLANCO Y NEGRO;Serés, Castroverde;Lugo
-11502;6;7;13;S;Orquesta;RITMO JOVEN;Simes, Meaño;Pontevedra
-11119;6;7;13;S;Orquesta;EL COMBO DOMINICANO;Tabeaio, Carral;A Coruña
-10188;6;7;13;S;Charanga;TNT;Teo;A Coruña
-11392;6;7;13;S;Dúo;ESTRELLAS;Valdoviño;A Coruña
-12410;6;7;13;S;Orquesta;PRINCIPAL;Vilarromarís, Oroso;A Coruña
-11693;6;7;13;S;Orquesta;SOLARA;Villadecanes, Toral de los Vados;León
-10227;6;7;13;S;Orquesta;TELEVISIÓN;Villaderrey, Trasmiras;Ourense
-9417;6;7;13;S;Orquesta;LOS SATÉLITES;Villanueva de Oscos;Asturias
-12801;6;7;13;S;Orquesta;PALLADIUM;Xunqueira de Espadanedo;Ourense
-12270;7;7;13;D;Orquesta;LOS TROVADORES;A Gouxa, Dozón;Pontevedra
-12928;7;7;13;D;Trío;ORQUÍDEA;A Mota, Arzúa;A Coruña
-11977;7;7;13;D;Orquesta;FIN DE SIGLO;A Peroxa, A Peroxa;Ourense
-12352;7;7;13;D;Orquesta;SUAVECITO;A Ponte do Porto, Camariñas;A Coruña
-12845;7;7;13;D;Orquesta;CINEMA;Abelleira, Muros;A Coruña
-11833;7;7;13;D;Grupo;CLAXXON;Aguada, Carballedo;Lugo
-11483;7;7;13;D;Charanga;ARDORES;Alperiz, Lalín;Pontevedra
-12326;7;7;13;D;Grupo;CICLÓN;Alvite, Negreira;A Coruña
-12369;7;7;13;D;Orquesta;TRIUNFO;Alvite, Negreira;A Coruña
-6173;7;7;13;D;Charanga;BB+;Angrois, Santiago de Compostela;A Coruña
-12732;7;7;13;D;Orquesta;CIUDADEVIGO;Baredo, Baiona;Pontevedra
-12234;7;7;13;D;Grupo;ATENAS;Benza, Trazo;A Coruña
-11209;7;7;13;D;Orquesta;PONTEVEDRA;Boiro;A Coruña
-11878;7;7;13;D;Orquesta;XACOBEO;Campañó, Pontevedra;Pontevedra
-12449;7;7;13;D;Orquesta;LOS SATÉLITES;Castañeda, Arzúa;A Coruña
-12465;7;7;13;D;Grupo;NEBRASKA;Castañeda, Arzúa;A Coruña
-11860;7;7;13;D;Orquesta;ALIANZA;Casteda, Chantada;Lugo
-7961;7;7;13;D;Orquesta;OLYMPUS RED TOUR;Coia, Vigo;Pontevedra
-13070;7;7;13;D;Orquesta;DOMINÓ;Colunga;Asturias
-12705;7;7;13;D;Orquesta;CENIZA;Coucieiro, Muxia;A Coruña
-10391;7;7;13;D;Orquesta;MIRAMAR;Dimo, Catoira;Pontevedra
-11117;7;7;13;D;Orquesta;CHARLESTON BIG-BAND;Dimo, Catoira;Pontevedra
-12736;7;7;13;D;Grupo;ASSIA;Fitoria, Oviedo;Asturias
-11580;7;7;13;D;Orquesta;PARIS DE NOIA;Guntín;Lugo
-8282;7;7;13;D;Orquesta;TELEVISIÓN;Lieiro, Cervo;Lugo
-8283;7;7;13;D;Orquesta;PALLADIUM;Lieiro, Cervo;Lugo
-11908;7;7;13;D;Orquesta;EL COMBO DOMINICANO;Logrosa, Negreira;A Coruña
-12969;7;7;13;D;Grupo;CHANNEL;Logrosa, Negreira;A Coruña
-12917;7;7;13;D;Orquesta;VENEZIA;Melide;Lugo
-11200;7;7;13;D;Grupo;ALVEIN;Moscoso, Pazos de Borbén;Pontevedra
-11403;7;7;13;D;Grupo;BUMERANG;Mosteiro de Santa María de Monfero, Monfero;A Coruña
-12563;7;7;13;D;Dúo;CALÚ;Mosteiro de Santa María de Monfero, Monfero;A Coruña
-11868;7;7;13;D;Orquesta;EMPERADORES;Mourazos, Verín;Ourense
-11824;7;7;13;D;Orquesta;GRAN CASINO;Muimenta, Cospeito;Lugo
-12412;7;7;13;D;Orquesta;PRINCIPAL;Neaño, Cabana de Bergantiños;A Coruña
-11794;7;7;13;D;Orquesta;PANAMA;O Carballal, Santiago de Compostela;A Coruña
-12823;7;7;13;D;Grupo;ALKAR;O Mosteiro, Meis;Pontevedra
-12109;7;7;13;D;Orquesta;METRÓPOLIS;Outeiro de Rei;Lugo
-12753;7;7;13;D;Orquesta;FANIA BLANCO SHOW;Oza dos Rios, Oza dos Rios;A Coruña
-11166;7;7;13;D;Charanga;MEKANIKA;Paiosaco, Laracha;A Coruña
-12480;7;7;13;D;Grupo;SAMBA;Paiosaco, Laracha;A Coruña
-12554;7;7;13;D;Orquesta;NUEVA BANDA;Pamplona;Navarra
-10742;7;7;13;D;Orquesta;COSTA DORADA;Peña, Lugo;Lugo
-11544;7;7;13;D;Orquesta;PANORAMA;Piedras Blancas, Castrillon;Asturias
-12365;7;7;13;D;Orquesta;CAPITOL;Pontecesures;Pontevedra
-12733;7;7;13;D;Grupo;ACIREMA;Rubiá;Ourense
-9642;7;7;13;D;Solista;TANIA Y SU ACORDEÓN;S.F. Estilo, Oviedo;Asturias
-12317;7;7;13;D;Orquesta;ARMONÍA SHOW;S.F. La Luna, Cerponzóns;Pontevedra
-10967;7;7;13;D;Orquesta;MARBELLA;Sabucedo, A Estrada;Pontevedra
-19474;7;7;13;D;Dúo;MERITXELL;Salgueiras, Villanueva de Oscos;Asturias
-12565;7;7;13;D;Orquesta;NEVADA;San Claudio, Ortigueira;A Coruña
-11134;7;7;13;D;Orquesta;ACORDES;San Xulián da Veiga, Sarria;Lugo
-12258;7;7;13;D;Dúo;CARAMELO;Santaia de Gorgullos, Tordoia;A Coruña
-11665;7;7;13;D;Trío;AZAR;Santo Estevo de Budiño, O Porriño;Pontevedra
-11018;7;7;13;D;Orquesta;GRAN PARADA;Sobrado do Bispo, Barbadás;Ourense
-11694;7;7;13;D;Orquesta;SOLARA;Soñar, Lugo;Lugo
-12505;7;7;13;D;Orquesta;GALILEA;Taíde, Sarria;Lugo
-12882;7;7;13;D;Orquesta;TANGO;Terroso, Vilardevós;Ourense
-12000;7;7;13;D;Orquesta;ABANICO;Vilacova, Abegondo;A Coruña
-10659;7;7;13;D;Orquesta;SAUDADE;Vilalonga, Sanxenxo;Pontevedra
-12388;7;7;13;D;Orquesta;ALABAMA SHOW;Vilalonga, Sanxenxo;Pontevedra
-10733;7;7;13;D;Grupo;ARAMIO;Vilaza, Gondomar;Pontevedra
-11503;7;7;13;D;Orquesta;RITMO JOVEN;Villadecanes, Toral de los Vados;León
-12121;7;7;13;D;Charanga;FUEGO;Villaderrey, Trasmiras;Ourense
-11648;7;7;13;D;Dúo;ECLIPSE;Xemil, Pastoriza;Lugo
-11390;8;7;13;L;Grupo;D´MODA;A Manchica, A Merca;Ourense
-11145;8;7;13;L;Orquesta;COSTA DORADA;A Peroxa;Ourense
-11333;8;7;13;L;Orquesta;MARAZUL;A Picoña, Salceda de Caselas;Pontevedra
-11334;8;7;13;L;Orquesta;CIUDADEVIGO;A Picoña, Salceda de Caselas;Pontevedra
-12052;8;7;13;L;Orquesta;PASSARELA;Bedriñana, Villaviciosa;Asturias
-11528;8;7;13;L;Orquesta;PARIS DE NOIA;Boiro;A Coruña
-7963;8;7;13;L;Orquesta;PANORAMA;Coia, Vigo;Pontevedra
-7964;8;7;13;L;Orquesta;PONTEVEDRA;Coia, Vigo;Pontevedra
-12450;8;7;13;L;Orquesta;LOS SATÉLITES;Collado, Siero;Asturias
-11581;8;7;13;L;Orquesta;GRAN PARADA;Guntín;Lugo
-11582;8;7;13;L;Grupo;PEKADOS;Guntín;Lugo
-11635;8;7;13;L;Grupo;TEKILA;Lieiro, Cervo;Lugo
-11933;8;7;13;L;Orquesta;CHARLESTON BIG-BAND;Liñares, Avión;Ourense
-11834;8;7;13;L;Grupo;CLAXXON;Logrosa, Negreira;A Coruña
-12037;8;7;13;L;Orquesta;TELEVISIÓN;Mosende, O Porriño;Pontevedra
-11285;8;7;13;L;Charanga;DGT;Oza dos Rios, Oza dos Rios;A Coruña
-11909;8;7;13;L;Orquesta;EL COMBO DOMINICANO;Oza dos Rios, Oza dos Rios;A Coruña
-12093;8;7;13;L;Orquesta;MARBELLA;Oza dos Rios, Oza dos Rios;A Coruña
-11589;8;7;13;L;Orquesta;OLYMPUS RED TOUR;Pontecesures;Pontevedra
-11590;8;7;13;L;Grupo;ASSIA;Pontecesures;Pontevedra
-11472;8;7;13;L;Orquesta;ARMONÍA SHOW;Tabeaio, Carral;A Coruña
-12706;8;7;13;L;Orquesta;CINEMA;Taíde, Sarria;Lugo
-11136;8;7;13;L;Orquesta;ACORDES;Tiñana, Siero;Asturias
-12491;8;7;13;L;Orquesta;TRIUNFO;Xunqueira de Espadanedo;Ourense
-11529;9;7;13;M;Orquesta;CHARLESTON BIG-BAND;Boiro;A Coruña
-11545;9;7;13;M;Orquesta;PANORAMA;Carnés, Vimianzo;A Coruña
-11546;9;7;13;M;Orquesta;EL COMBO DOMINICANO;Carnés, Vimianzo;A Coruña
-7956;9;7;13;M;Orquesta;PARIS DE NOIA;Coia, Vigo;Pontevedra
-12225;9;7;13;M;Orquesta;AZABACHE;Santa María del Berrocal;Ávila
-12070;10;7;13;X;Orquesta;ARMONÍA SHOW;A Sionlla, A Enfesta, Santiago de Compostela;A Coruña
-11035;10;7;13;X;Orquesta;FANIA BLANCO SHOW;Baio, Zas;A Coruña
-11036;10;7;13;X;Orquesta;PARIS DE NOIA;Baio, Zas;A Coruña
-11531;10;7;13;X;Orquesta;MARBELLA;Boiro;A Coruña
-11532;10;7;13;X;Orquesta;PANORAMA;Boiro;A Coruña
-12204;10;7;13;X;Grupo;D´MODA;Borraxeiros, Agolada;Pontevedra
-12318;10;7;13;X;Orquesta;ISRAEL;Borraxeiros, Agolada;Pontevedra
-7906;10;7;13;X;Charanga;BCB;Cabeza de Vaca, Ourense;Ourense
-11985;10;7;13;X;Orquesta;FIN DE SIGLO;Cabeza de Vaca, Ourense;Ourense
-12327;10;7;13;X;Grupo;CICLÓN;Carnés, Vimianzo;A Coruña
-12581;10;7;13;X;Orquesta;GRAN PARADA;Cea, San Cristovo de Cea;Ourense
-11910;10;7;13;X;Orquesta;EL COMBO DOMINICANO;Corzon, Mazaricos;A Coruña
-12481;10;7;13;X;Grupo;SAMBA;Corzon, Mazaricos;A Coruña
-12010;10;7;13;X;Orquesta;GALILEA;Cubillos del Sil;León
-10955;10;7;13;X;Orquesta;TRIUNFO;Figueirido, Vilaboa;Pontevedra
-11669;10;7;13;X;Orquesta;TREBOL;Gondomar;Pontevedra
-11879;10;7;13;X;Orquesta;XACOBEO;Lema, Carballo;A Coruña
-12466;10;7;13;X;Grupo;NEBRASKA;Mallón, Santa Comba;A Coruña
-12566;10;7;13;X;Orquesta;NEVADA;Moaña;Pontevedra
-12271;10;7;13;X;Orquesta;LOS TROVADORES;Monterroso;Lugo
-11591;10;7;13;X;Orquesta;OLYMPUS RED TOUR;O Eixo, Santiago de Compostela;A Coruña
-11592;10;7;13;X;Grupo;FUNÇAO PUBLIKA;O Eixo, Santiago de Compostela;A Coruña
-11182;10;7;13;X;Orquesta;PONTEVEDRA;O Mosteiro, Meis;Pontevedra
-11150;10;7;13;X;Orquesta;RITMO JOVEN;O Porriño;Pontevedra
-12971;10;7;13;X;Grupo;CHANNEL;Reis, Teo;A Coruña
-12413;10;7;13;X;Orquesta;PRINCIPAL;Villadecanes, Toral de los Vados;León
-12353;11;7;13;J;Orquesta;SUAVECITO;A Quinza, Ribadavia;Ourense
-12414;11;7;13;J;Orquesta;PRINCIPAL;Arbo;Pontevedra
-13005;11;7;13;J;Orquesta;NUEVA BANDA;Arévalo;Ávila
-11986;11;7;13;J;Orquesta;FIN DE SIGLO;As Ermitas, Salvaterra;Pontevedra
-11038;11;7;13;J;Orquesta;EL COMBO DOMINICANO;Baio, Zas;A Coruña
-11670;11;7;13;J;Orquesta;TREBOL;Borraxeiros, Agolada;Pontevedra
-12319;11;7;13;J;Orquesta;SUPERFAMA;Borraxeiros, Agolada;Pontevedra
-11835;11;7;13;J;Grupo;CLAXXON;Cabeza de Vaca, Ourense;Ourense
-11181;11;7;13;J;Orquesta;OLYMPUS RED TOUR;Camposancos, Avión;Ourense
-12073;11;7;13;J;Orquesta;ARMONÍA SHOW;Carnés, Vimianzo;A Coruña
-12235;11;7;13;J;Grupo;ATENAS;Carnés, Vimianzo;A Coruña
-12911;11;7;13;J;Charanga;BCB;Cortegada;Ourense
-12492;11;7;13;J;Orquesta;TRIUNFO;Corzón, Mazaricos;A Coruña
-11695;11;7;13;J;Orquesta;SOLARA;Domaio, Moaña;Pontevedra
-12054;11;7;13;J;Orquesta;PASSARELA;Domaio, Moaña;Pontevedra
-11473;11;7;13;J;Orquesta;MIRAMAR;Figueirido, Vilaboa;Pontevedra
-11934;11;7;13;J;Orquesta;CHARLESTON BIG-BAND;Golmar, A Laracha;A Coruña
-12207;11;7;13;J;Grupo;D´MODA;Gondomar;Pontevedra
-12273;11;7;13;J;Orquesta;LOS TROVADORES;Gondomar;Pontevedra
-11614;11;7;13;J;Orquesta;PARIS DE NOIA;Laias, Cenlle;Ourense
-12111;11;7;13;J;Orquesta;METRÓPOLIS;Laias, Cenlle;Ourense
-11647;11;7;13;J;Grupo;TEKILA;Nava;Asturias
-7692;11;7;13;J;Charanga;MEKANIKA;Negreira;A Coruña
-12737;11;7;13;J;Grupo;ASSIA;Negreira;A Coruña
-12341;11;7;13;J;Orquesta;CAPITOL;O Eixo, Santiago de Compostela;A Coruña
-12802;11;7;13;J;Orquesta;PALLADIUM;O Freixo, Outes;A Coruña
-13017;11;7;13;J;Charanga;BB+;O Montillón, A Estrada;Pontevedra
-12328;11;7;13;J;Grupo;CICLÓN;Reis, Teo;A Coruña
-12371;11;7;13;J;Orquesta;CINEMA;Reis, Teo;A Coruña
-12094;11;7;13;J;Orquesta;MARBELLA;Romariz, Soutomaior;Pontevedra
-10308;11;7;13;J;Orquesta;TELEVISIÓN;San Benito da Veiga, Pereiro de Aguiar;Ourense
-9595;11;7;13;J;Orquesta;FANIA BLANCO SHOW;San Benito, Santiso;A Coruña
-11299;11;7;13;J;Orquesta;PANORAMA;San Pedro de Muro, Porto do Son;A Coruña
-11649;11;7;13;J;Dúo;ECLIPSE;Souto, San Cristovo de Cea;Ourense
-12562;11;7;13;J;Charanga;FUEGO;Verín;Ourense
-11880;11;7;13;J;Orquesta;XACOBEO;Vide, As Neves;Pontevedra
-12782;11;7;13;J;Orquesta;TANGO;Vilar de Infesta, Redondela;Pontevedra
-12159;12;7;13;V;Orquesta;VERSIÓN ORIGINAL;Agones, Pravia;Asturias
-11014;12;7;13;V;Trío;AZAR;Avenida de Beiramar, 251, Vigo;Pontevedra
-11215;12;7;13;V;Orquesta;ACORDES;Careñes, Villaviciosa;Asturias
-11615;12;7;13;V;Orquesta;PARIS DE NOIA;Carnés, Vimianzo;A Coruña
-13081;12;7;13;V;Charanga;BCB;Cortegada;Ourense
-11927;12;7;13;V;Orquesta;PONTEVEDRA;Cubillos del Sil;León
-12390;12;7;13;V;Orquesta;ALABAMA SHOW;Domaio, Moaña;Pontevedra
-12883;12;7;13;V;Orquesta;TANGO;Domaio, Moaña;Pontevedra
-11671;12;7;13;V;Orquesta;TREBOL;Donalbai, Begonte;Lugo
-13029;12;7;13;V;Orquesta;DOMINÓ;El Pascón, Tineo;Asturias
-13025;12;7;13;V;Grupo;LA SEÑAL;El Puente, Galende;Zamora
-11981;12;7;13;V;Orquesta;MARBELLA;Figueirido, Vilaboa;Pontevedra
-12913;12;7;13;V;Orquesta;VENEZIA;Friol;Lugo
-12567;12;7;13;V;Dúo;CALÚ;Golmar, A Laracha;A Coruña
-12648;12;7;13;V;Orquesta;FANIA BLANCO SHOW;Golmar, A Laracha;A Coruña
-12590;12;7;13;V;Orquesta;COMPOSTELA;Gondomar;Pontevedra
-12329;12;7;13;V;Grupo;CICLÓN;Laias, Cenlle;Ourense
-12372;12;7;13;V;Grupo;AMERICA SL;Laias, Cenlle;Ourense
-11911;12;7;13;V;Orquesta;EL COMBO DOMINICANO;Leiloio, Malpica de Bergantiños;A Coruña
-12927;12;7;13;V;Grupo;ATENAS;Leiloio, Malpica de Bergantiños;A Coruña
-12980;12;7;13;V;Orquesta;CAPITOL;Leiro, Abegondo;A Coruña
-11696;12;7;13;V;Orquesta;SOLARA;Lores, Meaño;Pontevedra
-11348;12;7;13;V;Orquesta;PANORAMA;Mesía;A Coruña
-11349;12;7;13;V;Orquesta;METRÓPOLIS;Mesía;A Coruña
-12467;12;7;13;V;Grupo;NEBRASKA;Moldes, Boborás;Ourense
-12709;12;7;13;V;Orquesta;LOS ESPAÑOLES;Moldes, Boborás;Ourense
-11593;12;7;13;V;Orquesta;OLYMPUS RED TOUR;Negreira;A Coruña
-11805;12;7;13;V;Grupo;AMÉRICA DE VIGO;O Eixo, Santiago de Compostela;A Coruña
-12354;12;7;13;V;Orquesta;SUAVECITO;O Eixo, Santiago de Compostela;A Coruña
-12684;12;7;13;V;Orquesta;CHARLESTON BIG-BAND;Parada, Ordes;A Coruña
-12685;12;7;13;V;Orquesta;GRAN PARADA;Parada, Ordes;A Coruña
-12739;12;7;13;V;Grupo;ASSIA;Perlora, Carreño;Asturias
-9220;12;7;13;V;Charanga;MEKANIKA;Quintela de Leirado;Ourense
-12708;12;7;13;V;Orquesta;CINEMA;Regadío, Antas de Ulla;Lugo
-13063;12;7;13;V;Grupo;RÁFAGA;S.F. Estilo, Oviedo;Asturias
-12998;12;7;13;V;Grupo;SONIDO LEÓN;Salas de Bureba;Burgos
-10975;12;7;13;V;Orquesta;MIRAMAR;San Benito da Veiga, Pereiro de Aguiar;Ourense
-11861;12;7;13;V;Orquesta;ALIANZA;Silleda;Pontevedra
-11869;12;7;13;V;Orquesta;EMPERADORES;Silleda;Pontevedra
-12055;12;7;13;V;Orquesta;PASSARELA;Sobrado;León
-12493;12;7;13;V;Orquesta;TRIUNFO;Soesto, Laxe;A Coruña
-13013;12;7;13;V;Orquesta;PANAMA;Torres, Vilarmaior;A Coruña
-12226;12;7;13;V;Orquesta;AZABACHE;Valoria la Buena;Valladolid
-12071;12;7;13;V;Orquesta;ARMONÍA SHOW;Vilaboa, Culleredo;A Coruña
-12657;12;7;13;V;Grupo;LIMÓN;Vilariño de Conso;Ourense
-12275;12;7;13;V;Orquesta;LOS TROVADORES;Villanueva, Valdés;Asturias
-11201;13;7;13;S;Orquesta;MARAZUL;A Baíña;Pontevedra
-11202;13;7;13;S;Grupo;RÁFAGA;A Baíña;Pontevedra
-11547;13;7;13;S;Orquesta;PANORAMA;A Cañiza;Pontevedra
-12932;13;7;13;S;Dúo;CHIC;A Lanzada, Sanxenxo;Pontevedra
-12330;13;7;13;S;Grupo;CICLÓN;A Sionlla, A Enfesta, Santiago de Compostela;A Coruña
-13397;13;7;13;S;Grupo;ZELTIA;A Sionlla, A Enfesta, Santiago de Compostela;A Coruña
-11765;13;7;13;S;Orquesta;PASSARELA;Aguiño, Ribeira;A Coruña
-11090;13;7;13;S;Orquesta;PONTEVEDRA;Alcabre, Vigo;Pontevedra
-13016;13;7;13;S;Orquesta;GRAN CASINO;Amil, Moraña;Pontevedra
-12277;13;7;13;S;Orquesta;LOS TROVADORES;Cabreiros, Xermade;Lugo
-12303;13;7;13;S;Orquesta;LOS ESPAÑOLES;Cabreiros, Xermade;Lugo
-12205;13;7;13;S;Orquesta;LOS PLAYERS;Cangas, Foz;Lugo
-8914;13;7;13;S;Dúo;LA HORA BRUJA;Cariño;A Coruña
-12415;13;7;13;S;Orquesta;PRINCIPAL;Castelo de Pallares, Guntín;Lugo
-11216;13;7;13;S;Orquesta;ACORDES;Chaioso, Maceda;Ourense
-11836;13;7;13;S;Grupo;CLAXXON;Cortegada;Ourense
-9426;13;7;13;S;Disco Móvil;BLANCO Y NEGRO;Couxela, Ribadeo;Lugo
-12038;13;7;13;S;Orquesta;TELEVISIÓN;Cubillos del Sil;León
-11435;13;7;13;S;Grupo;FUSIÓN;Curtis;A Coruña
-8503;13;7;13;S;Solista;TANIA Y SU ACORDEÓN;Deiro, Vilanova de Arousa;Pontevedra
-12591;13;7;13;S;Orquesta;COMPOSTELA;Donalbai, Begonte;Lugo
-11224;13;7;13;S;Orquesta;ALIANZA;El Berrón, Siero;Asturias
-13026;13;7;13;S;Grupo;LA SEÑAL;El Puente, Galende;Zamora
-12679;13;7;13;S;Orquesta;RITMO JOVEN;Ferrol;A Coruña
-11336;13;7;13;S;Orquesta;CIUDADEVIGO;Fornelos, Salvaterra de Miño;Pontevedra
-12095;13;7;13;S;Orquesta;MARBELLA;Friol;Lugo
-12236;13;7;13;S;Grupo;ATENAS;Friol;Lugo
-12759;13;7;13;S;Orquesta;MIRAMAR;La Placa, Ponferrada;León
-12700;13;7;13;S;Orquesta;EMPERADORES;Leiloio, Malpica de Bergantiños;A Coruña
-12355;13;7;13;S;Orquesta;SUAVECITO;Leiro, Abegondo;A Coruña
-12571;13;7;13;S;Dúo;CALÚ;Lourido, San Tirso de Abres;Asturias
-12740;13;7;13;S;Grupo;ASSIA;Luanco, Gozón;Asturias
-11636;13;7;13;S;Grupo;TEKILA;Meirás, Valdoviño;A Coruña
-12482;13;7;13;S;Grupo;SAMBA;Meirás, Valdoviño;A Coruña
-11350;13;7;13;S;Orquesta;ARMONÍA SHOW;Mesía;A Coruña
-7610;13;7;13;S;Grupo;AMÉRICA DE VIGO;Mugardos;A Coruña
-12138;13;7;13;S;Grupo;ARAMIO;Muros;A Coruña
-7693;13;7;13;S;Charanga;MEKANIKA;Negreira;A Coruña
-8419;13;7;13;S;Orquesta;CAPITOL;Negreira;A Coruña
-8420;13;7;13;S;Orquesta;ABANICO;Negreira;A Coruña
-10667;13;7;13;S;Orquesta;PARIS DE NOIA;O Grove;Pontevedra
-11232;13;7;13;S;Trío;AREAL;O Serro, O Barco de Valdeorras;Ourense
-11795;13;7;13;S;Orquesta;PANAMA;Oseiro, Arteixo;A Coruña
-13145;13;7;13;S;Grupo;ALKAR;Oseiro, Arteixo;A Coruña
-13040;13;7;13;S;Dúo;MERITXELL;Ourense;Ourense
-10788;13;7;13;S;Charanga;TNT;Oza, Teo;A Coruña
-12951;13;7;13;S;Orquesta;TRIUNFO;Parada, Ordes;A Coruña
-12754;13;7;13;S;Orquesta;FANIA BLANCO SHOW;Peiro de Abaixo, Culleredo;A Coruña
-12568;13;7;13;S;Orquesta;NEVADA;Peñausende;Zamora
-13030;13;7;13;S;Orquesta;DOMINÓ;Perlora, Carreño;Asturias
-11747;13;7;13;S;Orquesta;ESCAPARATE;Pezobre, Santiso;A Coruña
-12084;13;7;13;S;Orquesta;COSTA BLANCA;Pías, Ponteareas;Pontevedra
-7760;13;7;13;S;Grupo;LECER;Piñeiro, Ribadeo;Lugo
-11697;13;7;13;S;Orquesta;SOLARA;Ponte Sampaio, Pontevedra;Pontevedra
-11274;13;7;13;S;Grupo;KALIMA 3.0;Porto, Coaña;Asturias
-12146;13;7;13;S;Orquesta;XACOBEO;Prado, Muíños;Ourense
-12208;13;7;13;S;Grupo;D´MODA;Premoño, Las Regueras;Asturias
-12873;13;7;13;S;Orquesta;VENEZIA;Quembre, Carral;A Coruña
-11596;13;7;13;S;Orquesta;OLYMPUS RED TOUR;Quintela de Leirado;Ourense
-12702;13;7;13;S;Orquesta;ISRAEL;Rianxo;A Coruña
-13147;13;7;13;S;Grupo;GALAXIA;San Martín de Oscos;Asturias
-12723;13;7;13;S;Orquesta;CENIZA;San Paio dos Redos, Cospeito;Lugo
-11987;13;7;13;S;Orquesta;FIN DE SIGLO;San Vicente de Leira, Vilamartín de Valdeorras;Ourense
-12656;13;7;13;S;Orquesta;PALLADIUM;Santa Cilla do Valadouro, Foz;Lugo
-12391;13;7;13;S;Orquesta;ALABAMA SHOW;Santa Eulalia, Meaño;Pontevedra
-12451;13;7;13;S;Orquesta;LOS SATÉLITES;Santa Mariña, Guitiriz;Lugo
-11672;13;7;13;S;Orquesta;TREBOL;Sergude, Boqueixón;A Coruña
-11687;13;7;13;S;Orquesta;TANGO;Sergude, Boqueixón;A Coruña
-13019;13;7;13;S;Grupo;AMERICA SL;Soesto, Laxe;A Coruña
-12227;13;7;13;S;Orquesta;AZABACHE;Soto de Cangas, Cangas de Onís;Asturias
-12160;13;7;13;S;Orquesta;VERSIÓN ORIGINAL;Sotrondio, San Martín del Rey Aurelio;Asturias
-12260;13;7;13;S;Dúo;CARAMELO;Tablado de Riviella, Tineo;Asturias
-12929;13;7;13;S;Trío;ORQUÍDEA;Toques;A Coruña
-11867;13;7;13;S;Orquesta;COSTA DORADA;Turbisquedo, A Peroxa;Ourense
-7871;13;7;13;S;Orquesta;FOLIADA D´ASES;Úbeda, A Pastoriza;Lugo
-12582;13;7;13;S;Orquesta;GRAN PARADA;Vega de Espinareda;León
-12011;13;7;13;S;Orquesta;GALILEA;Vilariño de Conso;Ourense
-10723;13;7;13;S;Trío;AZAR;Vilariño, Cambados;Pontevedra
-12376;13;7;13;S;Orquesta;CINEMA;Vilariño, Teo;A Coruña
-12112;13;7;13;S;Orquesta;METRÓPOLIS;Vilarrodís, Arteixo;A Coruña
-11650;13;7;13;S;Dúo;ECLIPSE;Vilela, A Rúa;Ourense
-11658;13;7;13;S;Orquesta;TOKIO;Vilela, Taboada;Lugo
-12468;13;7;13;S;Grupo;NEBRASKA;Villanueva, Valdés;Asturias
-11912;13;7;13;S;Orquesta;EL COMBO DOMINICANO;Xavestre, Trazo;A Coruña
-11998;13;7;13;S;Orquesta;ESTRELLAMAR;Xavestre, Trazo;A Coruña
-12760;14;7;13;D;Orquesta;MIRAMAR;A Cañiza;Pontevedra
-12331;14;7;13;D;Grupo;CICLÓN;A Silva, Cerceda;A Coruña
-12001;14;7;13;D;Orquesta;ABANICO;Abellá, Frades;A Coruña
-12981;14;7;13;D;Orquesta;CAPITOL;Aguiño, Ribeira;A Coruña
-11092;14;7;13;D;Orquesta;MARBELLA;Alcabre, Vigo;Pontevedra
-11093;14;7;13;D;Grupo;LIMÓN;Alcabre, Vigo;Pontevedra
-12569;14;7;13;D;Orquesta;NEVADA;Allariz;Ourense
-11673;14;7;13;D;Orquesta;TREBOL;Arzúa;A Coruña
-12592;14;7;13;D;Orquesta;COMPOSTELA;Baldráns, Tui;Pontevedra
-12637;14;7;13;D;Orquesta;SUPERFAMA;Baldráns, Tui;Pontevedra
-11217;14;7;13;D;Orquesta;ACORDES;Beán, Ordes;A Coruña
-13108;14;7;13;D;Grupo;FUSIÓN;Betanzos;A Coruña
-11659;14;7;13;D;Orquesta;TOKIO;Boizán, Vilalba;Lugo
-12884;14;7;13;D;Orquesta;TANGO;Bueu;Pontevedra
-12885;14;7;13;D;Grupo;CANELA;Bueu;Pontevedra
-12540;14;7;13;D;Orquesta;LOS PLAYERS;Cabaleiros, Tordoia;A Coruña
-11257;14;7;13;D;Orquesta;EMPERADORES;Cabreiros, Xermade;Lugo
-11849;14;7;13;D;Charanga;MEKANIKA;Cangas del Narcea;Asturias
-9454;14;7;13;D;Grupo;LECER;Cangas, Foz;Lugo
-12237;14;7;13;D;Orquesta;FANIA BLANCO SHOW;Carracedo, Caldas de Reis;Pontevedra
-12238;14;7;13;D;Grupo;ATENAS;Carracedo, Caldas de Reis;Pontevedra
-12416;14;7;13;D;Orquesta;PRINCIPAL;Cures, Boiro;A Coruña
-12377;14;7;13;D;Orquesta;CINEMA;Feáns;A Coruña
-12958;14;7;13;D;Orquesta;PANAMA;Ferreira, San Sadurniño;A Coruña
-11212;14;7;13;D;Orquesta;MARAZUL;Fornelos, Salvaterra de Miño;Pontevedra
-12012;14;7;13;D;Orquesta;GALILEA;Foz;Lugo
-11837;14;7;13;D;Grupo;CLAXXON;Friol;Lugo
-12268;14;7;13;D;Orquesta;CENIZA;Friol;Lugo
-12250;14;7;13;D;Orquesta;ESCAPARATE;Goó, O Incio;Lugo
-8371;14;7;13;D;Solista;TANIA Y SU ACORDEÓN;Gueimonde, Pastoriza;Lugo
-11928;14;7;13;D;Orquesta;PONTEVEDRA;La Placa, Ponferrada;León
-12261;14;7;13;D;Dúo;CARAMELO;Laraxe, Cabanas;A Coruña
-12982;14;7;13;D;Grupo;BUMERANG;Leiro, Abegondo;A Coruña
-13104;14;7;13;D;Grupo;AMERICA SL;Lousame;A Coruña
-11342;14;7;13;D;Grupo;TEKILA;Maniños, Fene;A Coruña
-12972;14;7;13;D;Grupo;CHANNEL;Merín, Vedra;A Coruña
-12952;14;7;13;D;Orquesta;TRIUNFO;Mesía;A Coruña
-11605;14;7;13;D;Orquesta;OLYMPUS RED TOUR;Moaña;Pontevedra
-11806;14;7;13;D;Grupo;AMÉRICA DE VIGO;Muros;A Coruña
-12477;14;7;13;D;Grupo;NEBRASKA;Nespereira, Sarria;Lugo
-11551;14;7;13;D;Orquesta;PANORAMA;O Grove;Pontevedra
-11233;14;7;13;D;Trío;AREAL;O Serro, O Barco de Valdeorras;Ourense
-11874;14;7;13;D;Solista;LUCÍA PÉREZ;Ocupado;Pontevedra
-12056;14;7;13;D;Orquesta;PASSARELA;Orbán, Vilamarín;Ourense
-12965;14;7;13;D;Charanga;OS ATREVIDOS;Orxal, O Pino;A Coruña
-12835;14;7;13;D;Orquesta;GRAN PARADA;Os Martores, Valga;Pontevedra
-12687;14;7;13;D;Orquesta;ALIANZA;Palas de Rei;Lugo
-11698;14;7;13;D;Orquesta;SOLARA;Perlora, Carreño;Asturias
-12930;14;7;13;D;Trío;ORQUÍDEA;Pezobre, Santiso;A Coruña
-12356;14;7;13;D;Orquesta;SUAVECITO;Pías, Lugo;Lugo
-12543;14;7;13;D;Grupo;D´MODA;Plaza Estación, Monforte de Lemos;Lugo
-10724;14;7;13;D;Trío;AZAR;Puente Sampayo, Arcade;Pontevedra
-12703;14;7;13;D;Orquesta;LOS ESPAÑOLES;Rianxo;A Coruña
-12944;14;7;13;D;Grupo;ARAMIO;S.F. Paulino, O Carballiño;Ourense
-12452;14;7;13;D;Orquesta;LOS SATÉLITES;Samos;Lugo
-11616;14;7;13;D;Orquesta;PARIS DE NOIA;San Amaro;Ourense
-10968;14;7;13;D;Orquesta;EL COMBO DOMINICANO;Santa Sabiña, Santa Comba;A Coruña
-11275;14;7;13;D;Grupo;KALIMA 3.0;Soulecín, O Barco de Valdeorras;Ourense
-11206;14;7;13;D;Disco Móvil;BLANCO Y NEGRO;Tapia de Casariego;Asturias
-12508;14;7;13;D;Orquesta;PALLADIUM;Vilaboa, Culleredo;A Coruña
-12963;14;7;13;D;Orquesta;FIN DE SIGLO;Vilariño de Conso;Ourense
-13053;14;7;13;D;Charanga;ARDORES;Vilariño, Agolada;Pontevedra
-12483;14;7;13;D;Grupo;SAMBA;Vilarrodís, Arteixo;A Coruña
-13039;14;7;13;D;Dúo;MERITXELL;Vilela, Taboada;Lugo
-11996;14;7;13;D;Orquesta;ARMONÍA SHOW;Xavestre, Trazo;A Coruña
-11997;14;7;13;D;Orquesta;METRÓPOLIS;Xavestre, Trazo;A Coruña
-12039;15;7;13;L;Orquesta;TELEVISIÓN;A Guarda;Pontevedra
-11825;15;7;13;L;Orquesta;GRAN CASINO;Aguiño, Ribeira;A Coruña
-12002;15;7;13;L;Orquesta;ABANICO;Aguiño, Ribeira;A Coruña
-12113;15;7;13;L;Orquesta;METRÓPOLIS;Alvite, Negreira;A Coruña
-12721;15;7;13;L;Orquesta;ISRAEL;Arzúa;A Coruña
-11674;15;7;13;L;Orquesta;TREBOL;Baldráns, Tui;Pontevedra
-12638;15;7;13;L;Orquesta;LOS ESPAÑOLES;Baldráns, Tui;Pontevedra
-12096;15;7;13;L;Orquesta;MARBELLA;Bastavales, Brión;A Coruña
-11699;15;7;13;L;Orquesta;SOLARA;Bueu;Pontevedra
-11474;15;7;13;L;Orquesta;OLYMPUS RED TOUR;Cabo de Cruz, Boiro;A Coruña
-12057;15;7;13;L;Orquesta;PASSARELA;Cariño;A Coruña
-12058;15;7;13;L;Grupo;D´MODA;Cariño;A Coruña
-13181;15;7;13;L;Charanga;MEKANIKA;Catoira;Pontevedra
-12973;15;7;13;L;Grupo;CHANNEL;Cerceda;A Coruña
-11618;15;7;13;L;Orquesta;PARIS DE NOIA;Ces, Lousame;A Coruña
-12804;15;7;13;L;Orquesta;PALLADIUM;Corme, Ponteceso;A Coruña
-9670;15;7;13;L;Orquesta;PRINCIPAL;El Bao, Coruxo, Vigo;Pontevedra
-13031;15;7;13;L;Orquesta;DOMINÓ;El Berrón, Siero;Asturias
-12072;15;7;13;L;Orquesta;ARMONÍA SHOW;Foz;Lugo
-12570;15;7;13;L;Orquesta;NEVADA;Moaña;Pontevedra
-12984;15;7;13;L;Orquesta;CAPITOL;Moaña;Pontevedra
-12542;15;7;13;L;Orquesta;LOS TROVADORES;Monforte de Lemos;Lugo
-12538;15;7;13;L;Grupo;FUNÇAO PUBLIKA;Muros;A Coruña
-12613;15;7;13;L;Orquesta;LOS SATÉLITES;Nespereira, Sarria;Lugo
-11838;15;7;13;L;Grupo;CLAXXON;O Grove;Pontevedra
-10266;15;7;13;L;Orquesta;FOLIADA D´ASES;Os Castros, A Coruña;A Coruña
-13027;15;7;13;L;Grupo;LA SEÑAL;Peñausende;Zamora
-12357;15;7;13;L;Orquesta;SUAVECITO;Perlora, Carreño;Asturias
-12206;15;7;13;L;Orquesta;LOS PLAYERS;Premoño, Las Regueras;Asturias
-11553;15;7;13;L;Orquesta;PANORAMA;Quembre, Carral;A Coruña
-13251;15;7;13;L;Grupo;NEBRASKA;Samos;Lugo
-11988;15;7;13;L;Orquesta;FIN DE SIGLO;San Amaro;Ourense
-11689;15;7;13;L;Disco Móvil;BLANCO Y NEGRO;San Cibrao, Cervo;Lugo
-12886;15;7;13;L;Orquesta;TANGO;Sotrondio, San Martín del Rey Aurelio;Asturias
-11946;15;7;13;L;Orquesta;XACOBEO;Teaio, Dodro;A Coruña
-12161;15;7;13;L;Orquesta;VERSIÓN ORIGINAL;Trubia, Oviedo;Asturias
-11929;15;7;13;L;Orquesta;PONTEVEDRA;Vega de Espinareda;León
-12184;15;7;13;L;Orquesta;IPANEMA;Veguellina de Órbigo;León
-12135;15;7;13;L;Orquesta;CHARLESTON BIG-BAND;Vilaboa, Culleredo;A Coruña
-11913;15;7;13;L;Orquesta;EL COMBO DOMINICANO;Vilarrodís, Arteixo;A Coruña
-12239;15;7;13;L;Grupo;ATENAS;Vilarrodís, Arteixo;A Coruña
-12545;16;7;13;M;Orquesta;EMPERADORES;Arbor, Vilamarín;Ourense
-12050;16;7;13;M;Charanga;MEKANIKA;Bastavales, Brión;A Coruña
-12248;16;7;13;M;Orquesta;COSTA DORADA;Bastavales, Brión;A Coruña
-12878;16;7;13;M;Orquesta;PANAMA;Bastavales, Rois;A Coruña
-11675;16;7;13;M;Orquesta;TREBOL;Bueu;Pontevedra
-11686;16;7;13;M;Orquesta;PRINCIPAL;Bueu;Pontevedra
-13032;16;7;13;M;Orquesta;DOMINÓ;Bustio, Ribadedeva;Asturias
-11534;16;7;13;M;Orquesta;PARIS DE NOIA;Cabo de Cruz, Boiro;A Coruña
-12584;16;7;13;M;Orquesta;GRAN PARADA;Caleiro, Vilanova de Arousa;Pontevedra
-12644;16;7;13;M;Orquesta;MIRAMAR;Caleiro, Vilanova de Arousa;Pontevedra
-10689;16;7;13;M;Orquesta;MARBELLA;Camariñas;A Coruña
-12133;16;7;13;M;Orquesta;FIN DE SIGLO;Carballeda de Avia;Ourense
-12494;16;7;13;M;Orquesta;TRIUNFO;Carballeda de Avia;Ourense
-11554;16;7;13;M;Orquesta;PANORAMA;Carril, Vilagarcía de Arousa;Pontevedra
-11557;16;7;13;M;Orquesta;OLYMPUS RED TOUR;Carril, Vilagarcía de Arousa;Pontevedra
-12240;16;7;13;M;Grupo;ATENAS;Cespón, Boiro;A Coruña
-12332;16;7;13;M;Grupo;CICLÓN;Corme, Ponteceso;A Coruña
-12373;16;7;13;M;Orquesta;FANIA BLANCO SHOW;Corme, Ponteceso;A Coruña
-11218;16;7;13;M;Orquesta;ACORDES;El Carmen, Ribadesella;Asturias
-11304;16;7;13;M;Orquesta;LOS TROVADORES;Fene;A Coruña
-11305;16;7;13;M;Grupo;PASIÓN;Fene;A Coruña
-12040;16;7;13;M;Orquesta;TELEVISIÓN;La Baña, Encinedo;León
-12059;16;7;13;M;Orquesta;PASSARELA;Marín;Pontevedra
-12210;16;7;13;M;Grupo;D´MODA;Matamá, Laza;Ourense
-12209;16;7;13;M;Orquesta;LOS PLAYERS;Melide;A Coruña
-12593;16;7;13;M;Orquesta;COMPOSTELA;Melide;A Coruña
-11151;16;7;13;M;Orquesta;RITMO JOVEN;Moaña;Pontevedra
-12887;16;7;13;M;Orquesta;TANGO;Moaña;Pontevedra
-12074;16;7;13;M;Orquesta;ARMONÍA SHOW;Moar, Frades;A Coruña
-12114;16;7;13;M;Orquesta;METRÓPOLIS;Moar, Frades;A Coruña
-12741;16;7;13;M;Grupo;ASSIA;Muros;A Coruña
-11839;16;7;13;M;Grupo;CLAXXON;Noia;A Coruña
-11914;16;7;13;M;Orquesta;EL COMBO DOMINICANO;Noia;A Coruña
-11637;16;7;13;M;Grupo;TEKILA;Ouria, Taramundi;Asturias
-11930;16;7;13;M;Orquesta;PONTEVEDRA;Ouria, Taramundi;Asturias
-12722;16;7;13;M;Orquesta;ISRAEL;Pazos de Arenteiro, Boborás;Ourense
-8230;16;7;13;M;Charanga;BCB;Pereira de Montes, A Merca;Ourense
-12453;16;7;13;M;Orquesta;LOS SATÉLITES;Rodís, Cerceda;A Coruña
-11807;16;7;13;M;Grupo;AMÉRICA DE VIGO;Romai, Portas;Pontevedra
-11881;16;7;13;M;Orquesta;XACOBEO;San Cibrao, Cervo;Lugo
-12003;16;7;13;M;Orquesta;ABANICO;San Cibrao, Cervo;Lugo
-12710;16;7;13;M;Orquesta;LOS ESPAÑOLES;San Cosme de Outeiro, Outes;A Coruña
-12469;16;7;13;M;Grupo;NEBRASKA;San Mamede de Sobreganade, Porqueira;Ourense
-10409;16;7;13;M;Orquesta;AZABACHE;San Pablo de la Moraleja;Valladolid
-9546;16;7;13;M;Solista;TANIA Y SU ACORDEÓN;Taladrid;Asturias
-12185;16;7;13;M;Orquesta;IPANEMA;Tapia de Casariego;Asturias
-12985;16;7;13;M;Orquesta;CAPITOL;Tapia de Casariego;Asturias
-12863;16;7;13;M;Orquesta;GALILEA;Touro, Touro;A Coruña
-11700;16;7;13;M;Orquesta;SOLARA;Zas;A Coruña
-10697;17;7;13;X;Orquesta;PARIS DE NOIA;Camariñas;A Coruña
-13109;17;7;13;X;Orquesta;TREBOL;Grabacion TVG Bamboleo;A Coruña
-12872;17;7;13;X;Grupo;FUNÇAO PUBLIKA;Illa de Arousa;Pontevedra
-11796;17;7;13;X;Orquesta;PANAMA;La Baña, Encinedo;León
-12454;17;7;13;X;Orquesta;LOS SATÉLITES;Melide;A Coruña
-13235;17;7;13;X;Grupo;GARIBALDI;Os Castros, A Coruña;A Coruña
-11555;17;7;13;X;Orquesta;PANORAMA;Santa Xusta de Moraña, Moraña;Pontevedra
-10410;17;7;13;X;Orquesta;AZABACHE;Torresandino;Burgos
-11504;17;7;13;X;Orquesta;RITMO JOVEN;Zas;A Coruña
-12060;17;7;13;X;Orquesta;PASSARELA;Zas;A Coruña
-11505;18;7;13;J;Orquesta;RITMO JOVEN;Aldán, Cangas do Morrazo;Pontevedra
-12711;18;7;13;J;Orquesta;LOS ESPAÑOLES;Aldán, Cangas do Morrazo;Pontevedra
-11915;18;7;13;J;Orquesta;EL COMBO DOMINICANO;Anxeriz, Tordoia;A Coruña
-12495;18;7;13;J;Orquesta;TRIUNFO;As Maroñas, Mazaricos;A Coruña
-12115;18;7;13;J;Orquesta;METRÓPOLIS;Berdía, Santiago de Compostela;A Coruña
-13038;18;7;13;J;Grupo;ARAMIO;Borneiro, Cabana de Bergantiños;A Coruña
-11444;18;7;13;J;Orquesta;ISRAEL;Broño, Negreira;A Coruña
-10698;18;7;13;J;Orquesta;ARMONÍA SHOW;Camariñas;A Coruña
-10699;18;7;13;J;Orquesta;PANORAMA;Camariñas;A Coruña
-11882;18;7;13;J;Orquesta;XACOBEO;Carreira, Zas;A Coruña
-11685;18;7;13;J;Orquesta;TREBOL;Cerceda;A Coruña
-12417;18;7;13;J;Orquesta;PRINCIPAL;Circes, Touro;A Coruña
-12097;18;7;13;J;Orquesta;MARBELLA;Esteiro, Muros;A Coruña
-12484;18;7;13;J;Grupo;SAMBA;Esteiro, Muros;A Coruña
-12914;18;7;13;J;Orquesta;VENEZIA;Gijón;Asturias
-11931;18;7;13;J;Orquesta;PONTEVEDRA;Graba, Silleda;Pontevedra
-12470;18;7;13;J;Grupo;NEBRASKA;Loureiro, O Irixo;Ourense
-12742;18;7;13;J;Grupo;ASSIA;Parres;Asturias
-12004;18;7;13;J;Orquesta;ABANICO;Ponte Carreira, Frades;A Coruña
-12324;18;7;13;J;Grupo;AMÉRICA DE VIGO;Ponte Carreira, Frades;A Coruña
-12837;18;7;13;J;Grupo;ATENAS;Ribeira, A Estrada;Pontevedra
-11995;18;7;13;J;Solista;TANIA Y SU ACORDEÓN;San Cosme de Barreiros, Barreiros;Lugo
-12228;18;7;13;J;Orquesta;AZABACHE;Santa Marina del Rey;León
-12162;18;7;13;J;Orquesta;VERSIÓN ORIGINAL;Santa Marina, Puerto de Vega;Asturias
-12027;18;7;13;J;Orquesta;FANIA BLANCO SHOW;Santa Mariña de Brañas, Toques;A Coruña
-12888;18;7;13;J;Orquesta;TANGO;Santa Mariña, Cambados;Pontevedra
-13125;18;7;13;J;Orquesta;CINEMA;Santa Xusta de Moraña, Moraña;Pontevedra
-11701;18;7;13;J;Orquesta;SOLARA;Taragoña, Rianxo;A Coruña
-11738;18;7;13;J;Orquesta;LOS SATÉLITES;Taragoña, Rianxo;A Coruña
-13398;18;7;13;J;Orquesta;FIN DE SIGLO;Trelle, Toén;Ourense
-11856;18;7;13;J;Orquesta;ACORDES;Xinzo de Limia;Ourense
-11875;18;7;13;J;Solista;LUCÍA PÉREZ;Xinzo de Limia;Ourense
-12829;18;7;13;J;Orquesta;CAPITOL;Xuño, Porto do Son;A Coruña
-10899;19;7;13;V;Trío;AZAR;A Cañiza;Pontevedra
-12890;19;7;13;V;Orquesta;TANGO;A Labrada, A Pobra do Brollón;Lugo
-12974;19;7;13;V;Grupo;CHANNEL;A Silva, Cerceda;A Coruña
-12418;19;7;13;V;Orquesta;PRINCIPAL;Aldán, Cangas do Morrazo;Pontevedra
-12075;19;7;13;V;Orquesta;ARMONÍA SHOW;Anxeriz, Tordoia;A Coruña
-12080;19;7;13;V;Orquesta;METRÓPOLIS;Anxeriz, Tordoia;A Coruña
-11185;19;7;13;V;Orquesta;GRAN PARADA;Arcos, Caldas de Reis;Pontevedra
-13048;19;7;13;V;Orquesta;FOLIADA D´ASES;Arnadelo, Oencia;León
-11619;19;7;13;V;Orquesta;PARIS DE NOIA;As Maroñas, Mazaricos;A Coruña
-11916;19;7;13;V;Orquesta;EL COMBO DOMINICANO;As Maroñas, Mazaricos;A Coruña
-12674;19;7;13;V;Grupo;AMERICA SL;Berdía, Santiago de Compostela;A Coruña
-13042;19;7;13;V;Orquesta;CAPITOL;Borneiro, Cabana de Bergantiños;A Coruña
-13146;19;7;13;V;Grupo;ALKAR;Caldebarcos, Carnota;A Coruña
-12098;19;7;13;V;Orquesta;MARBELLA;Callobre, Miño;A Coruña
-10700;19;7;13;V;Orquesta;OLYMPUS RED TOUR;Camariñas;A Coruña
-10701;19;7;13;V;Grupo;CICLÓN;Camariñas;A Coruña
-12061;19;7;13;V;Orquesta;PASSARELA;Carracedo, Caldas de Reis;Pontevedra
-12139;19;7;13;V;Grupo;ARAMIO;Carreira, Zas;A Coruña
-13346;19;7;13;V;Solista;TANIA Y SU ACORDEÓN;Cedofeita, Ribadeo;Lugo
-11731;19;7;13;V;Solista;PILI PAMPÍN;Centro Sociocultural Ágora;A Coruña
-11808;19;7;13;V;Grupo;AMÉRICA DE VIGO;Cerceda;A Coruña
-12939;19;7;13;V;Orquesta;PONTEVEDRA;Coeses, O Corgo;Lugo
-12712;19;7;13;V;Orquesta;LOS ESPAÑOLES;El Entrego, San Martín del Rey Aurelio;Asturias
-12506;19;7;13;V;Orquesta;GALILEA;Esteiro, Muros;A Coruña
-12604;19;7;13;V;Grupo;LIMÓN;Esteiro, Muros;A Coruña
-11826;19;7;13;V;Orquesta;GRAN CASINO;Illa de Arousa;Pontevedra
-11883;19;7;13;V;Orquesta;XACOBEO;Illa de Arousa;Pontevedra
-13352;19;7;13;V;Grupo;RÁFAGA;La Chalana, Laviana;Asturias
-11248;19;7;13;V;Orquesta;COSTA DORADA;Lago, Xove;Lugo
-11989;19;7;13;V;Orquesta;FIN DE SIGLO;Lamas de Moreira, Fonsagrada;Lugo
-11935;19;7;13;V;Orquesta;CHARLESTON BIG-BAND;Lucí, Teo;A Coruña
-12048;19;7;13;V;Grupo;SAMBA;Lucí, Teo;A Coruña
-8534;19;7;13;V;Grupo;LECER;Maior, Mondoñedo;Lugo
-11219;19;7;13;V;Orquesta;ACORDES;Meredo, Vegadeo;Asturias
-11258;19;7;13;V;Orquesta;EMPERADORES;Meredo, Vegadeo;Asturias
-12699;19;7;13;V;Orquesta;ALIANZA;Monte de Meda, Guntín;Lugo
-12455;19;7;13;V;Orquesta;LOS SATÉLITES;Oza, Carballo;A Coruña
-11651;19;7;13;V;Dúo;ECLIPSE;Padrón, Lalín;Pontevedra
-12724;19;7;13;V;Orquesta;ISRAEL;Pereira de Montes, A Merca;Ourense
-11558;19;7;13;V;Orquesta;PANORAMA;Pontellas, O Porriño;Pontevedra
-6717;19;7;13;V;Disco Móvil;BLANCO Y NEGRO;Ribadeo;Lugo
-12241;19;7;13;V;Grupo;ATENAS;Ribasar, Rois;A Coruña
-12242;19;7;13;V;Orquesta;CENIZA;Ribasar, Rois;A Coruña
-13308;19;7;13;V;Orquesta;ESTRELLAMAR;Ribeira, A Estrada;Pontevedra
-12496;19;7;13;V;Orquesta;TRIUNFO;San Justo, Villaviciosa;Asturias
-11443;19;7;13;V;Grupo;FUSIÓN;San Mamed, Paderne;A Coruña
-13430;19;7;13;V;Grupo;GARIBALDI;Santa Marina de Torre, Torre del Bierzo;León
-11702;19;7;13;V;Orquesta;SOLARA;Santa Marina del Rey;León
-11638;19;7;13;V;Grupo;TEKILA;Santa Mariña de Brañas, Toques;A Coruña
-12805;19;7;13;V;Orquesta;PALLADIUM;Santa Mariña de Brañas, Toques;A Coruña
-13033;19;7;13;V;Orquesta;DOMINÓ;Santiago del Monte;Asturias
-11797;19;7;13;V;Orquesta;PANAMA;Sillobre, Fene;A Coruña
-13011;19;7;13;V;Grupo;CLAXXON;Sobrada, Outeiro de Rei;Lugo
-8915;19;7;13;V;Dúo;LA HORA BRUJA;Soto de Ribera;Asturias
-11676;19;7;13;V;Orquesta;TREBOL;Taragoña, Rianxo;A Coruña
-11739;19;7;13;V;Orquesta;COMPOSTELA;Taragoña, Rianxo;A Coruña
-11506;19;7;13;V;Orquesta;RITMO JOVEN;Valdoviño;A Coruña
-13288;19;7;13;V;Orquesta;IPANEMA;Veguellina de Órbigo;León
-12378;19;7;13;V;Orquesta;CINEMA;Vilariño, Pereiro de Aguiar;Ourense
-12358;19;7;13;V;Orquesta;SUAVECITO;Xuño, Porto do Son;A Coruña
-12005;19;7;13;V;Orquesta;ABANICO;Xustáns, Ponte Caldelas;Pontevedra
-13286;20;7;13;S;Orquesta;MARAZUL;A Laracha;A Coruña
-9282;20;7;13;S;Charanga;BCB;A Merca;Ourense
-12824;20;7;13;S;Grupo;ALKAR;A Xironda, Cualedro;Ourense
-12243;20;7;13;S;Grupo;ATENAS;Andeiro, Cambre;A Coruña
-12756;20;7;13;S;Orquesta;FANIA BLANCO SHOW;Ansemar, Castro de Rei;Lugo
-11827;20;7;13;S;Orquesta;GRAN CASINO;Areas, Tui;Pontevedra
-12986;20;7;13;S;Orquesta;CAPITOL;Areas, Tui;Pontevedra
-6632;20;7;13;S;Solista;TANIA Y SU ACORDEÓN;Arxona, Monterroso;Lugo
-11180;20;7;13;S;Orquesta;EL COMBO DOMINICANO;As Pontes de García Rodríguez;A Coruña
-9611;20;7;13;S;Dúo;MELODÍA;Baldaio, Carballo;A Coruña
-13034;20;7;13;S;Orquesta;DOMINÓ;Barcia, Valdés;Asturias
-12485;20;7;13;S;Grupo;SAMBA;Barizo, Malpica de Bergantiños;A Coruña
-13313;20;7;13;S;Grupo;KALIMA 3.0;Begonte;Lugo
-11990;20;7;13;S;Orquesta;FIN DE SIGLO;Belelle, Lalín;Pontevedra
-13316;20;7;13;S;Orquesta;ESTRELLAMAR;Berán, Leiro;Ourense
-12586;20;7;13;S;Orquesta;GRAN PARADA;Bexo, Dodro;A Coruña
-12605;20;7;13;S;Grupo;LIMÓN;Bexo, Dodro;A Coruña
-13426;20;7;13;S;Grupo;ALVEIN;Bouzas, Vigo;Pontevedra
-8627;20;7;13;S;Orquesta;PONTEVEDRA;Cabral, Vigo;Pontevedra
-11211;20;7;13;S;Orquesta;CENIZA;Cabral, Vigo;Pontevedra
-12646;20;7;13;S;Grupo;FUNÇAO PUBLIKA;Callobre, A Estrada;Pontevedra
-10703;20;7;13;S;Orquesta;METRÓPOLIS;Camariñas;A Coruña
-13227;20;7;13;S;Orquesta;COSTA BLANCA;Cambados;Pontevedra
-12392;20;7;13;S;Orquesta;ALABAMA SHOW;Campolongo, Pontedeume;A Coruña
-13218;20;7;13;S;Grupo;UNIÓN Y FUERZA;Carballo, Carballo;A Coruña
-12933;20;7;13;S;Dúo;CHIC;Cariño;A Coruña
-11660;20;7;13;S;Orquesta;TOKIO;Carracedo, Caldas de Reis;Pontevedra
-11798;20;7;13;S;Orquesta;PANAMA;Carracedo, Caldas de Reis;Pontevedra
-11442;20;7;13;S;Grupo;FUSIÓN;Cedofeita, Ribadeo;Lugo
-12456;20;7;13;S;Orquesta;LOS SATÉLITES;Cerceda;A Coruña
-12379;20;7;13;S;Orquesta;CINEMA;Coeses, Lugo;Lugo
-12931;20;7;13;S;Trío;ORQUÍDEA;Corexido, A Veiga;Ourense
-11936;20;7;13;S;Orquesta;CHARLESTON BIG-BAND;Cortegada, Silleda;Pontevedra
-11943;20;7;13;S;Grupo;CICLÓN;Cortegada, Silleda;Pontevedra
-11652;20;7;13;S;Dúo;ECLIPSE;Crecente, A Pastoriza;Lugo
-12594;20;7;13;S;Orquesta;COMPOSTELA;Escarabote, Boiro;A Coruña
-12670;20;7;13;S;Charanga;FUEGO;Espiñeiros, O Carballiño;Ourense
-12659;20;7;13;S;Orquesta;MIRAMAR;Fiolledo, Salvaterra de Miño;Pontevedra
-12140;20;7;13;S;Grupo;ARAMIO;Fontecada, Santa Comba;A Coruña
-11639;20;7;13;S;Grupo;TEKILA;Forcinas, Pravia;Asturias
-12062;20;7;13;S;Orquesta;PASSARELA;Fragas, Campo Lameiro;Pontevedra
-11399;20;7;13;S;Orquesta;OLYMPUS RED TOUR;Freáns, Padrenda;Ourense
-12975;20;7;13;S;Grupo;CHANNEL;Gastrar, Boqueixón;A Coruña
-12713;20;7;13;S;Orquesta;LOS ESPAÑOLES;Gijón;Asturias
-12233;20;7;13;S;Orquesta;AZABACHE;Gobiendes, Colunga;Asturias
-11507;20;7;13;S;Orquesta;RITMO JOVEN;Grado;Asturias
-13436;20;7;13;S;Grupo;GARIBALDI;Igueña;León
-13343;20;7;13;S;Grupo;PASIÓN;Insua, Vilalba;Lugo
-12746;20;7;13;S;Grupo;ASSIA;La Vecilla;León
-11259;20;7;13;S;Orquesta;EMPERADORES;Lago, Xove;Lugo
-11263;20;7;13;S;Orquesta;ESCAPARATE;Lago, Xove;Lugo
-11884;20;7;13;S;Orquesta;XACOBEO;Lanzós, Vilalba;Lugo
-12478;20;7;13;S;Grupo;NEBRASKA;Ledoño, Culleredo;A Coruña
-12690;20;7;13;S;Grupo;AMÉRICA DE VIGO;Loño, Vila de Cruces;Pontevedra
-11840;20;7;13;S;Grupo;CLAXXON;Lucí, Teo;A Coruña
-12419;20;7;13;S;Orquesta;PRINCIPAL;Maior, Mondoñedo;Lugo
-12433;20;7;13;S;Orquesta;STÉREO;Maior, Mondoñedo;Lugo
-11704;20;7;13;S;Orquesta;SOLARA;Meredo, Vegadeo;Asturias
-12262;20;7;13;S;Dúo;CARAMELO;Miño;A Coruña
-13004;20;7;13;S;Trío;LEMBRANZA;Monte de Meda, Guntín;Lugo
-11556;20;7;13;S;Orquesta;ENIGMA;O Barco, O Barco de Valdeorras;Ourense
-12076;20;7;13;S;Orquesta;ARMONÍA SHOW;O Canedo, Carral;A Coruña
-13255;20;7;13;S;Disco Móvil;SPACEMUSIC;O Viso, Redondela;Pontevedra
-8504;20;7;13;S;Dúo;ESTRELLAS;Oleiros, Vilalba;Lugo
-12651;20;7;13;S;Orquesta;LOS TROVADORES;Paderne;A Coruña
-11249;20;7;13;S;Orquesta;COSTA DORADA;Paraños, Covelo;Pontevedra
-12934;20;7;13;S;Charanga;MEKANIKA;Pixeiros, Viana do Bolo;Ourense
-13353;20;7;13;S;Grupo;RÁFAGA;Pola de Siero;Asturias
-12035;20;7;13;S;Orquesta;TELEVISIÓN;Pontellas, O Porriño;Pontevedra
-11234;20;7;13;S;Trío;AREAL;Pruvia, Llanera;Asturias
-8342;20;7;13;S;Grupo;LECER;Ribadeo;Lugo
-8344;20;7;13;S;Orquesta;LOS PLAYERS;Ribadeo;Lugo
-10822;20;7;13;S;Orquesta;PANORAMA;San Martiño, Foz;Lugo
-11559;20;7;13;S;Orquesta;PARIS DE NOIA;San Martiño, Foz;Lugo
-12806;20;7;13;S;Orquesta;PALLADIUM;Sancovade, Vilalba;Lugo
-13074;20;7;13;S;Orquesta;VENEZIA;Sancovade, Vilalba;Lugo
-12006;20;7;13;S;Orquesta;ABANICO;Santa Cristina, Cospeito;Lugo
-12359;20;7;13;S;Orquesta;SUAVECITO;Santa Cristina, Cospeito;Lugo
-12497;20;7;13;S;Orquesta;TRIUNFO;Santa Marina de Torre, Torre del Bierzo;León
-11220;20;7;13;S;Orquesta;ACORDES;Santa Mariña do Monte, San Sadurniño;A Coruña
-11053;20;7;13;S;Orquesta;FOLIADA D´ASES;Santalla del Bierzo, Priaranza del Bierzo;León
-12164;20;7;13;S;Orquesta;VERSIÓN ORIGINAL;Santiago del Monte, Castrillón;Asturias
-13110;20;7;13;S;Orquesta;TREBOL;Sorbeda del Sil, Paramo del Sil;León
-12725;20;7;13;S;Orquesta;ISRAEL;Taragoña, Rianxo;A Coruña
-11359;20;7;13;S;Orquesta;MARBELLA;Teixeiro, Curtis;A Coruña
-13185;20;7;13;S;Orquesta;IPANEMA;Teo;A Coruña
-9696;20;7;13;S;Orquesta;NEVADA;Toiriz, Taboada;Lugo
-12211;20;7;13;S;Grupo;D´MODA;Valdoviño;A Coruña
-12891;20;7;13;S;Orquesta;TANGO;Veguellina de Órbigo;León
-10725;20;7;13;S;Trío;AZAR;Verducido, A Lama;Pontevedra
-10702;20;7;13;S;Orquesta;GALILEA;Villadepalos, Carracedelo;León
-12302;20;7;13;S;Grupo;AMERICA SL;Vincios, Gondomar;Pontevedra
-11225;20;7;13;S;Orquesta;ALIANZA;Xudán, A Pontenova;Lugo
-12811;20;7;13;S;Solista;PILI PAMPÍN;Zobra, Lalín;Pontevedra
-12879;20;7;13;S;Dúo;CACHÉ;Zobra, Lalín;Pontevedra
-12320;21;7;13;D;Grupo;ATENAS;A Picota, Mazaricos;A Coruña
-13334;21;7;13;D;Trío;ORQUÍDEA;A Retorta, Guntín;Lugo
-12668;21;7;13;D;Orquesta;METRÓPOLIS;Albijoy, Mesía;A Coruña
-13309;21;7;13;D;Orquesta;ESTRELLAMAR;Ansemar, Castro de Rei;Lugo
-12892;21;7;13;D;Orquesta;TANGO;Arcos, Sandiás;Ourense
-12141;21;7;13;D;Grupo;ARAMIO;Areas, Tui;Pontevedra
-13300;21;7;13;D;Orquesta;MIRAMAR;Arnadelo, Oencia;León
-11457;21;7;13;D;Orquesta;PARIS DE NOIA;As Pontes de García Rodríguez;A Coruña
-11458;21;7;13;D;Orquesta;GRAN PARADA;As Pontes de García Rodríguez;A Coruña
-13451;21;7;13;D;Orquesta;CINEMA;Barizo, Malpica de Bergantiños;A Coruña
-11991;21;7;13;D;Orquesta;FIN DE SIGLO;Berán, Leiro;Ourense
-11809;21;7;13;D;Grupo;AMÉRICA DE VIGO;Berdeogas, Dumbria;A Coruña
-12360;21;7;13;D;Orquesta;SUAVECITO;Berdeogas, Dumbria;A Coruña
-12041;21;7;13;D;Orquesta;TELEVISIÓN;Bora, Pontevedra;Pontevedra
-12099;21;7;13;D;Orquesta;MARBELLA;Bora, Pontevedra;Pontevedra
-12486;21;7;13;D;Grupo;SAMBA;Bugallido, Ames;A Coruña
-13285;21;7;13;D;Grupo;UNIÓN Y FUERZA;Bustelo, Santa Comba;A Coruña
-12675;21;7;13;D;Grupo;AMERICA SL;Caión, A Laracha;A Coruña
-13113;21;7;13;D;Dúo;MERITXELL;Calde, Lugo;Lugo
-12007;21;7;13;D;Orquesta;ABANICO;Callobre, A Estrada;Pontevedra
-12987;21;7;13;D;Orquesta;CAPITOL;Callobre, A Estrada;Pontevedra
-13344;21;7;13;D;Grupo;PASIÓN;Callobre, Miño;A Coruña
-9495;21;7;13;D;Orquesta;LOS ESPAÑOLES;Calvos, Touro;A Coruña
-12825;21;7;13;D;Grupo;ALKAR;Cambados;Pontevedra
-11152;21;7;13;D;Orquesta;RITMO JOVEN;Campelo, Poio;Pontevedra
-12546;21;7;13;D;Orquesta;EMPERADORES;Carteire, Palas de Rei;Lugo
-12748;21;7;13;D;Grupo;ASSIA;Ceares, Gijón;Asturias
-13416;21;7;13;D;Orquesta;TREBOL;Cerceda;A Coruña
-12507;21;7;13;D;Orquesta;GALILEA;Coeses, Lugo;Lugo
-11653;21;7;13;D;Dúo;ECLIPSE;Crecente, A Pastoriza;Lugo
-13437;21;7;13;D;Grupo;GARIBALDI;Cuadros;León
-11732;21;7;13;D;Orquesta;LOS SATÉLITES;Deixebre, Oroso;A Coruña
-6633;21;7;13;D;Solista;TANIA Y SU ACORDEÓN;Doiras, Boal;Asturias
-11640;21;7;13;D;Grupo;TEKILA;El Entrego, San Martín del Rey Aurelio;Asturias
-12727;21;7;13;D;Orquesta;ISRAEL;Escarabote, Boiro;A Coruña
-13010;21;7;13;D;Charanga;ARDORES;Esperante, Agolada;Pontevedra
-13269;21;7;13;D;Orquesta;NEVADA;Espiñeiros, O Carballiño;Ourense
-9184;21;7;13;D;Charanga;O´SANTIAGUIÑO;Esteiro, Muros;A Coruña
-8547;21;7;13;D;Charanga;MEKANIKA;Fontecada, Santa Comba;A Coruña
-11828;21;7;13;D;Orquesta;GRAN CASINO;Fontecada, Santa Comba;A Coruña
-12498;21;7;13;D;Orquesta;TRIUNFO;Forcinas, Pravia;Asturias
-11226;21;7;13;D;Orquesta;ALIANZA;Lago, Xove;Lugo
-13148;21;7;13;D;Orquesta;CIUDADEVIGO;Laxe;A Coruña
-13149;21;7;13;D;Grupo;ALVEIN;Laxe;A Coruña
-13470;21;7;13;D;Grupo;CICLÓN;Lucí, Teo;A Coruña
-12576;21;7;13;D;Dúo;CALÚ;Mera, Oleiros;A Coruña
-12283;21;7;13;D;Orquesta;LOS TROVADORES;O Castro, Dozón;Pontevedra
-11235;21;7;13;D;Trío;AREAL;Oleiros, Vilalba;Lugo
-11706;21;7;13;D;Orquesta;SOLARA;Oural, Sarria;Lugo
-11276;21;7;13;D;Grupo;KALIMA 3.0;Parga, Guitiriz;Lugo
-8628;21;7;13;D;Orquesta;PONTEVEDRA;Pontellas, O Porriño;Pontevedra
-8632;21;7;13;D;Orquesta;CHARLESTON BIG-BAND;Pontellas, O Porriño;Pontevedra
-11250;21;7;13;D;Orquesta;COSTA DORADA;Puerto de Sada;A Coruña
-11748;21;7;13;D;Orquesta;ESCAPARATE;Reigada, Manzaneda;Ourense
-12212;21;7;13;D;Orquesta;LOS PLAYERS;Retorta, Laza;Ourense
-12063;21;7;13;D;Orquesta;PASSARELA;Sabarei, O Corgo;Lugo
-12471;21;7;13;D;Grupo;NEBRASKA;Salceda de Caselas;Pontevedra
-12595;21;7;13;D;Orquesta;COMPOSTELA;Salceda de Caselas;Pontevedra
-12393;21;7;13;D;Orquesta;ALABAMA SHOW;San Andrés de Vea, A Estrada;Pontevedra
-11858;21;7;13;D;Orquesta;ACORDES;San Román De Bembibre;León
-11885;21;7;13;D;Orquesta;XACOBEO;Santa Cristina, Cospeito;Lugo
-11561;21;7;13;D;Orquesta;PANORAMA;Santa Mariña do Monte, Ourense;Ourense
-12213;21;7;13;D;Grupo;D´MODA;Santa Mariña do Monte, San Sadurniño;A Coruña
-10486;21;7;13;D;Charanga;DGT;Sigrás Dabaixo, Cambre;A Coruña
-12726;21;7;13;D;Orquesta;SUPERFAMA;Taragoña, Rianxo;A Coruña
-11398;21;7;13;D;Orquesta;EL COMBO DOMINICANO;Teixeiro, Curtis;A Coruña
-11690;21;7;13;D;Orquesta;OLYMPUS RED TOUR;Teixeiro, Curtis;A Coruña
-12229;21;7;13;D;Orquesta;AZABACHE;Veguellina de Órbigo;León
-10726;21;7;13;D;Trío;AZAR;Vigo;Pontevedra
-12701;21;7;13;D;Grupo;LIMÓN;Vilaxoan, Vilagarcía de Arousa;Pontevedra
-11054;21;7;13;D;Orquesta;FOLIADA D´ASES;Villadepalos, Carracedelo;León
-9545;21;7;13;D;Grupo;SONIDO LEÓN;Villafañé;León
-12420;21;7;13;D;Orquesta;PRINCIPAL;Vilouzán, Láncara;Lugo
-12875;21;7;13;D;Orquesta;PARAISO;Vincios, Gondomar;Pontevedra
-12938;21;7;13;D;Charanga;BCB;Viñoas, Nogueira de Ramuín;Ourense
-11562;22;7;13;L;Orquesta;PANORAMA;A Madanela, Soutelo de Montes, Forcarei;Pontevedra
-11574;22;7;13;L;Orquesta;MARBELLA;A Madanela, Soutelo de Montes, Forcarei;Pontevedra
-12263;22;7;13;L;Dúo;CARAMELO;Aldemunde, Carballo;A Coruña
-11917;22;7;13;L;Orquesta;EL COMBO DOMINICANO;Andeiro, Cambre;A Coruña
-11459;22;7;13;L;Orquesta;CHARLESTON BIG-BAND;As Pontes de García Rodríguez;A Coruña
-11460;22;7;13;L;Orquesta;OLYMPUS RED TOUR;As Pontes de García Rodríguez;A Coruña
-12165;22;7;13;L;Orquesta;VERSIÓN ORIGINAL;Barcia, Valdés;Asturias
-12187;22;7;13;L;Grupo;IDEAS;Barcia, Valdés;Asturias
-7601;22;7;13;L;Disco Móvil;SPACEMUSIC;Bembrive, Vigo;Pontevedra
-12499;22;7;13;L;Orquesta;TRIUNFO;Bora, Pontevedra;Pontevedra
-12536;22;7;13;L;Orquesta;PALLADIUM;Bora, Pontevedra;Pontevedra
-11493;22;7;13;L;Orquesta;ARMONÍA SHOW;Castrofeito, O Pino;A Coruña
-11707;22;7;13;L;Orquesta;SOLARA;Doiras, Boal;Asturias
-12013;22;7;13;L;Orquesta;GALILEA;El Entrego, San Martín del Rey Aurelio;Asturias
-12298;22;7;13;L;Orquesta;LOS TROVADORES;Frades;A Coruña
-12596;22;7;13;L;Orquesta;COMPOSTELA;Gijón;Asturias
-12389;22;7;13;L;Orquesta;CINEMA;Igrexario Montemaior, Laracha;A Coruña
-12539;22;7;13;L;Orquesta;METRÓPOLIS;Igrexario Montemaior, Laracha;A Coruña
-11641;22;7;13;L;Grupo;TEKILA;La Chalana, Laviana;Asturias
-12361;22;7;13;L;Orquesta;SUAVECITO;Ledoño, Culleredo;A Coruña
-12956;22;7;13;L;Orquesta;PASSARELA;León;León
-12715;22;7;13;L;Orquesta;LOS ESPAÑOLES;Lobanes, O Carballiño;Ourense
-12716;22;7;13;L;Orquesta;TANGO;Lobanes, O Carballiño;Ourense
-12457;22;7;13;L;Orquesta;LOS SATÉLITES;Meangos, Abegondo;A Coruña
-13075;22;7;13;L;Orquesta;AZABACHE;Montemayor de Pililla;Valladolid
-13529;22;7;13;L;Orquesta;SUPERFAMA;O Castro, Dozón;Pontevedra
-12587;22;7;13;L;Orquesta;GRAN PARADA;Orto, Abegondo;A Coruña
-12421;22;7;13;L;Orquesta;PRINCIPAL;Oural, Sarria;Lugo
-12434;22;7;13;L;Orquesta;ISRAEL;Oural, Sarria;Lugo
-9880;22;7;13;L;Charanga;MEKANIKA;Pola de Siero;Asturias
-7735;22;7;13;L;Orquesta;PARIS DE NOIA;Pontellas, O Porriño;Pontevedra
-11678;22;7;13;L;Orquesta;TREBOL;Salceda de Caselas;Pontevedra
-11684;22;7;13;L;Grupo;AMERICA SL;Salceda de Caselas;Pontevedra
-13079;22;7;13;L;Orquesta;COSTA DORADA;Toiriz, Pantón;Lugo
-12647;22;7;13;L;Grupo;CICLÓN;Trobe, Vedra;A Coruña
-12945;22;7;13;L;Orquesta;LOS PLAYERS;Vecoña, Boborás;Ourense
-13438;22;7;13;L;Grupo;GARIBALDI;Veguellina de Órbigo;León
-12696;22;7;13;L;Grupo;ATENAS;Vilaxoan, Vilagarcía de Arousa;Pontevedra
-12697;22;7;13;L;Orquesta;PONTEVEDRA;Vilaxoan, Vilagarcía de Arousa;Pontevedra
-12042;22;7;13;L;Orquesta;TELEVISIÓN;Vincios, Gondomar;Pontevedra
-12826;22;7;13;L;Grupo;ALKAR;Vincios, Gondomar;Pontevedra
-11130;22;7;13;L;Charanga;BCB;Viñoas, Nogueira de Ramuín;Ourense
-13427;23;7;13;M;Grupo;ALVEIN;Bouzas, Vigo;Pontevedra
-13428;23;7;13;M;Orquesta;MARAZUL;Bouzas, Vigo;Pontevedra
-11918;23;7;13;M;Orquesta;EL COMBO DOMINICANO;Igrexario Montemaior, Laracha;A Coruña
-12522;23;7;13;M;Grupo;ATENAS;Igrexario Montemaior, Laracha;A Coruña
-11679;23;7;13;M;Orquesta;TREBOL;Lobanes, O Carballiño;Ourense
-12714;23;7;13;M;Orquesta;ISRAEL;Lobanes, O Carballiño;Ourense
-11620;23;7;13;M;Orquesta;PARIS DE NOIA;O Burgo, Culleredo;A Coruña
-12116;23;7;13;M;Orquesta;METRÓPOLIS;Pasarela, Vimianzo;A Coruña
-12117;23;7;13;M;Orquesta;CENIZA;Pasarela, Vimianzo;A Coruña
-13445;23;7;13;M;Grupo;AMERICA SL;Sabaris, Baiona;Pontevedra
-12669;23;7;13;M;Orquesta;PANORAMA;San Cristovo, Ribadavia;Ourense
-14603;23;7;13;M;Grupo;CLAXXON;Vilar de Condes, Carballeda de Avia;Ourense
-12380;24;7;13;X;Orquesta;CINEMA;A Graña, Covelo;Pontevedra
-11680;24;7;13;X;Orquesta;TREBOL;Alameda, Santiago de Compostela;A Coruña
-13056;24;7;13;X;Grupo;AMÉRICA DE VIGO;Albarellos, Monterrei;Ourense
-12394;24;7;13;X;Orquesta;ALABAMA SHOW;Amiudal, Avión;Ourense
-12284;24;7;13;X;Orquesta;LOS TROVADORES;Arteixo;A Coruña
-11294;24;7;13;X;Orquesta;MARAZUL;Bembrive, Vigo;Pontevedra
-12214;24;7;13;X;Grupo;D´MODA;Boimorto;A Coruña
-12064;24;7;13;X;Orquesta;PASSARELA;Cabeiras, Arbo;Pontevedra
-12810;24;7;13;X;Grupo;ATENAS;Campaña, Valga;Pontevedra
-13105;24;7;13;X;Orquesta;CHARLESTON BIG-BAND;Campaña, Valga;Pontevedra
-12749;24;7;13;X;Grupo;ASSIA;Carril, Vilagarcía de Arousa;Pontevedra
-12988;24;7;13;X;Orquesta;CAPITOL;Carril, Vilagarcía de Arousa;Pontevedra
-12362;24;7;13;X;Orquesta;SUAVECITO;Celeiro de Mariñaos, Barreiros;Lugo
-8425;24;7;13;X;Solista;TANIA Y SU ACORDEÓN;Cereixido, A Fonsagrada;Lugo
-13589;24;7;13;X;Orquesta;ISRAEL;Cerreda, Nogueira de Ramuín;Ourense
-12893;24;7;13;X;Orquesta;TANGO;Cortegada;Ourense
-11862;24;7;13;X;Trío;AREAL;Estraxiz, Samos;Lugo
-12134;24;7;13;X;Trío;AZAR;Grixó, Salvaterra de Miño;Pontevedra
-13226;24;7;13;X;Orquesta;PONTEVEDRA;Guizán, Mos;Pontevedra
-13263;24;7;13;X;Grupo;CLAXXON;Guizán, Mos;Pontevedra
-13455;24;7;13;X;Orquesta;FIN DE SIGLO;Gundivós, Sober;Lugo
-11400;24;7;13;X;Orquesta;CENIZA;Lago, Valdoviño;A Coruña
-11607;24;7;13;X;Orquesta;OLYMPUS RED TOUR;Lago, Valdoviño;A Coruña
-12864;24;7;13;X;Orquesta;GALILEA;Loroño, Zas;A Coruña
-12422;24;7;13;X;Orquesta;PRINCIPAL;Malvas, Tui;Pontevedra
-12435;24;7;13;X;Orquesta;LOS ESPAÑOLES;Malvas, Tui;Pontevedra
-12472;24;7;13;X;Grupo;NEBRASKA;Meamán, Baños de Molgas;Ourense
-13785;24;7;13;X;Grupo;NIEVLA;Milleirós;Lugo
-11919;24;7;13;X;Orquesta;EL COMBO DOMINICANO;Montouto, Abegondo;A Coruña
-13695;24;7;13;X;Orquesta;PANAMA;Montouto, Abegondo;A Coruña
-11829;24;7;13;X;Orquesta;GRAN CASINO;Morgadáns, Gondomar;Pontevedra
-12143;24;7;13;X;Grupo;ARAMIO;Morgadáns, Gondomar;Pontevedra
-13516;24;7;13;X;Orquesta;VENEZIA;Orois, Melide;A Coruña
-12077;24;7;13;X;Orquesta;ARMONÍA SHOW;Paderne, Cesuras;A Coruña
-10520;24;7;13;X;Charanga;O´SANTIAGUIÑO;Padrón;A Coruña
-11621;24;7;13;X;Orquesta;PARIS DE NOIA;Parada de Amoeiro, Amoeiro;Ourense
-12502;24;7;13;X;Orquesta;TRIUNFO;Paradela, Curtis;A Coruña
-12693;24;7;13;X;Grupo;TEKILA;Paradela, Curtis;A Coruña
-11563;24;7;13;X;Orquesta;PANORAMA;Pasarela, Vimianzo;A Coruña
-12333;24;7;13;X;Grupo;CICLÓN;Pasarela, Vimianzo;A Coruña
-12807;24;7;13;X;Orquesta;PALLADIUM;Petín;Ourense
-11153;24;7;13;X;Orquesta;RITMO JOVEN;Pontevedra;Pontevedra
-12458;24;7;13;X;Orquesta;LOS SATÉLITES;Queiruga, Porto do Son;A Coruña
-12588;24;7;13;X;Orquesta;GRAN PARADA;Ribadelouro, Tui;Pontevedra
-13506;24;7;13;X;Orquesta;TELEVISIÓN;Sabaris, Baiona;Pontevedra
-13432;24;7;13;X;Grupo;GARIBALDI;San Cristovo, Ribadavia;Ourense
-12572;24;7;13;X;Orquesta;NEVADA;Santa Cristina de Cobres, Vilaboa;Pontevedra
-12761;24;7;13;X;Orquesta;MIRAMAR;Santa Cristina de Cobres, Vilaboa;Pontevedra
-11886;24;7;13;X;Orquesta;XACOBEO;Santa Cristina de Vea, A Estrada;Pontevedra
-12217;24;7;13;X;Orquesta;LOS PLAYERS;Santa Cristina, Paradela;Lugo
-12757;24;7;13;X;Orquesta;FANIA BLANCO SHOW;Santiago de Ois, Coirós;A Coruña
-13383;24;7;13;X;Grupo;SAMBA;Santiago, Calvos de Randín;Ourense
-13002;24;7;13;X;Orquesta;COSTA DORADA;Sobrecedo, Taboada;Lugo
-11264;24;7;13;X;Orquesta;ESCAPARATE;Taboadelo, Ponte Caldelas;Pontevedra
-11227;24;7;13;X;Orquesta;ALIANZA;Tal, Muros;A Coruña
-12976;24;7;13;X;Grupo;CHANNEL;Tal, Muros;A Coruña
-11278;24;7;13;X;Trío;LEMBRANZA;Trasparga, Guitiriz;Lugo
-12230;24;7;13;X;Orquesta;AZABACHE;Tudela de Duero;Valladolid
-12100;24;7;13;X;Orquesta;MARBELLA;Viascon, Cotobade;Pontevedra
-13771;24;7;13;X;Grupo;IDEAS;Villapedre, Navia;Asturias
-11654;24;7;13;X;Dúo;ECLIPSE;Xacebáns, Quintela de Leirado;Ourense
-11708;24;7;13;X;Orquesta;SOLARA;Xustás, Castro de Rei;Lugo
-11857;24;7;13;X;Orquesta;ACORDES;Xustás, Cospeito;Lugo
-12101;25;7;13;J;Orquesta;MARBELLA;A Veiga, Sarria;Lugo
-12728;25;7;13;J;Orquesta;ISRAEL;Abres, Vegadeo;Asturias
-12363;25;7;13;J;Orquesta;SUAVECITO;Arteixo;A Coruña
-12459;25;7;13;J;Orquesta;LOS SATÉLITES;Arteixo;A Coruña
-11461;25;7;13;J;Orquesta;CINEMA;As Pontes de García Rodríguez;A Coruña
-12366;25;7;13;J;Orquesta;GRAN PARADA;As Somozas;A Coruña
-10972;25;7;13;J;Orquesta;CENIZA;Barallobre, Fene;A Coruña
-10973;25;7;13;J;Grupo;ALKAR;Barallobre, Fene;A Coruña
-10819;25;7;13;J;Orquesta;TREBOL;Beade, Vigo;Pontevedra
-12738;25;7;13;J;Orquesta;CIUDADEVIGO;Bembrive, Vigo;Pontevedra
-12118;25;7;13;J;Orquesta;METRÓPOLIS;Berdeogas, Dumbria;A Coruña
-13262;25;7;13;J;Orquesta;FIN DE SIGLO;Boente, Arzúa;A Coruña
-12487;25;7;13;J;Grupo;SAMBA;Borbén, Pazos de Borbén;Pontevedra
-13057;25;7;13;J;Orquesta;GALILEA;Borrán, Vilar De Barrio;Ourense
-13433;25;7;13;J;Grupo;GARIBALDI;Caboalles de Arriba, Villablino;León
-13418;25;7;13;J;Orquesta;TRIUNFO;Campaña, Valga;Pontevedra
-12020;25;7;13;J;Orquesta;ABANICO;Carril, Vilagarcía de Arousa;Pontevedra
-12144;25;7;13;J;Grupo;ARAMIO;Carril, Vilagarcía de Arousa;Pontevedra
-12577;25;7;13;J;Dúo;CALÚ;Castelo, Culleredo;A Coruña
-11655;25;7;13;J;Dúo;ECLIPSE;Castroncelos, A Pobra do Brollón;Lugo
-10528;25;7;13;J;Orquesta;BRUJAS;Castroverde;Lugo
-10529;25;7;13;J;Orquesta;SUPER HOLLYWOOD;Castroverde;Lugo
-12597;25;7;13;J;Orquesta;COMPOSTELA;Catasós, Lalín;Pontevedra
-11920;25;7;13;J;Orquesta;EL COMBO DOMINICANO;Celeiro, Viveiro;Lugo
-12606;25;7;13;J;Grupo;LIMÓN;Celeiro, Viveiro;Lugo
-11072;25;7;13;J;Orquesta;ARMONÍA SHOW;Cereixo, Vimianzo;A Coruña
-11073;25;7;13;J;Orquesta;PANAMA;Cereixo, Vimianzo;A Coruña
-7939;25;7;13;J;Charanga;VAITE XA!!;Cortegada;Ourense
-11937;25;7;13;J;Orquesta;CHARLESTON BIG-BAND;Dorra, Antas de Ulla;Lugo
-13335;25;7;13;J;Trío;ORQUÍDEA;Eidián, Agolada;Pontevedra
-13801;25;7;13;J;Grupo;GALAXIA;Estraxiz, Samos;Lugo
-13189;25;7;13;J;Charanga;FUEGO;Foncuberta, Maceda;Ourense
-12473;25;7;13;J;Grupo;NEBRASKA;Freixo, Sarreaus;Ourense
-11873;25;7;13;J;Trío;LEMBRANZA;Furco, Becerreá;Lugo
-11058;25;7;13;J;Grupo;ASSIA;Gaioso, Outeiro de Rei;Lugo
-12334;25;7;13;J;Grupo;CICLÓN;Goiriz, Vilalba;Lugo
-12374;25;7;13;J;Orquesta;FANIA BLANCO SHOW;Goiriz, Vilalba;Lugo
-11261;25;7;13;J;Orquesta;EMPERADORES;Grixó, Salvaterra de Miño;Pontevedra
-11564;25;7;13;J;Orquesta;PANORAMA;Guillade, Ponteareas;Pontevedra
-12215;25;7;13;J;Grupo;D´MODA;Huerga del Rio, Carrizo;León
-11155;25;7;13;J;Orquesta;RITMO JOVEN;Illán, Begonte;Lugo
-11691;25;7;13;J;Grupo;PASIÓN;Lago, Valdoviño;A Coruña
-12915;25;7;13;J;Orquesta;VENEZIA;Lagoa, Alfoz;Lugo
-11228;25;7;13;J;Orquesta;ALIANZA;Lestedo, Palas de Rei;Lugo
-12231;25;7;13;J;Orquesta;AZABACHE;Lugo;Lugo
-12147;25;7;13;J;Orquesta;ENIGMA;Macendo, Castrelo de Miño;Ourense
-13317;25;7;13;J;Orquesta;ESTRELLAMAR;Mens, Malpica de Bergantiños;A Coruña
-11830;25;7;13;J;Orquesta;GRAN CASINO;Mera, Oleiros;A Coruña
-12573;25;7;13;J;Orquesta;NEVADA;Mogor, Marín;Pontevedra
-11887;25;7;13;J;Orquesta;XACOBEO;Morgadáns, Gondomar;Pontevedra
-13760;25;7;13;J;Dúo;DE LA CRUZ SHOW;Muros;A Coruña
-12895;25;7;13;J;Orquesta;TANGO;Noalla, Sanxenxo;Pontevedra
-10549;25;7;13;J;Orquesta;FOLIADA D´ASES;O Burgo, Culleredo;A Coruña
-12395;25;7;13;J;Orquesta;ALABAMA SHOW;O Hío, Cangas;Pontevedra
-11810;25;7;13;J;Grupo;AMÉRICA DE VIGO;O Seixo, Mugardos;A Coruña
-10488;25;7;13;J;Charanga;DGT;Oza dos Rios, Oza dos Rios;A Coruña
-11622;25;7;13;J;Orquesta;PARIS DE NOIA;Pantín, Valdoviño;A Coruña
-11841;25;7;13;J;Grupo;CLAXXON;Parada de Amoeiro, Amoeiro;Ourense
-11477;25;7;13;J;Orquesta;PALLADIUM;Parada, Nigrán;Pontevedra
-12762;25;7;13;J;Orquesta;MIRAMAR;Petín;Ourense
-12717;25;7;13;J;Orquesta;LOS ESPAÑOLES;Queiruga, Porto do Son;A Coruña
-10727;25;7;13;J;Trío;AZAR;Raxó, Poio;Pontevedra
-13971;25;7;13;J;Trío;ALBA;Reinante, Barreiros;Lugo
-11484;25;7;13;J;Orquesta;PONTEVEDRA;Ribadelouro, Tui;Pontevedra
-11496;25;7;13;J;Orquesta;TELEVISIÓN;Ribadelouro, Tui;Pontevedra
-11319;25;7;13;J;Orquesta;TOKIO;Sabaris, Baiona;Pontevedra
-13354;25;7;13;J;Grupo;RÁFAGA;Sama de Langreo, Langreo;Asturias
-11608;25;7;13;J;Orquesta;OLYMPUS RED TOUR;San Cristovo, Ribadavia;Ourense
-12066;25;7;13;J;Orquesta;PASSARELA;San Cristovo, Riós;Ourense
-12321;25;7;13;J;Solista;TANIA Y SU ACORDEÓN;San Tirso de Abres;Asturias
-12264;25;7;13;J;Dúo;CARAMELO;Sande a Capela;A Coruña
-12259;25;7;13;J;Charanga;BB+;Santa Cristina de Vea, A Estrada;Pontevedra
-12287;25;7;13;J;Orquesta;LOS TROVADORES;Santiago de Compostela;A Coruña
-11221;25;7;13;J;Orquesta;ACORDES;Santiago de Saá, Lugo;Lugo
-12676;25;7;13;J;Grupo;AMERICA SL;Sello, Lalín;Pontevedra
-12423;25;7;13;J;Orquesta;PRINCIPAL;Silva, Pol;Lugo
-12959;25;7;13;J;Orquesta;ESCAPARATE;Soengas, Portomarin;Lugo
-11236;25;7;13;J;Trío;AREAL;Trasparga, Guitiriz;Lugo
-11251;25;7;13;J;Orquesta;COSTA DORADA;Trasparga, Guitiriz;Lugo
-12244;25;7;13;J;Grupo;ATENAS;Vilaño, A Laracha;A Coruña
-11709;25;7;13;J;Orquesta;SOLARA;Villadangos del Paramo;León
-12734;25;7;13;J;Orquesta;IPANEMA;Villameca;León
-13114;25;7;13;J;Dúo;MERITXELL;Xunqueira de Ambía;Ourense
-12218;25;7;13;J;Orquesta;LOS PLAYERS;Xustás, Cospeito;Lugo
-13511;25;7;13;J;Grupo;LA SEÑAL;Zamora;Zamora
-11623;26;7;13;V;Orquesta;PARIS DE NOIA;A Barrela, Carballedo;Lugo
-13784;26;7;13;V;Dúo;ECLIPSE;A Veiga de Logares, A Fonsagrada;Lugo
-12763;26;7;13;V;Orquesta;MIRAMAR;A Veiga, Sarria;Lugo
-12751;26;7;13;V;Grupo;ASSIA;Abalo, Catoira;Pontevedra
-12897;26;7;13;V;Orquesta;TANGO;Abalo, Catoira;Pontevedra
-12677;26;7;13;V;Grupo;AMERICA SL;Abelenda das Penas, Carballeda de Avia;Ourense
-12460;26;7;13;V;Orquesta;LOS SATÉLITES;Abres, Vegadeo;Asturias
-12474;26;7;13;V;Grupo;NEBRASKA;Abres, Vegadeo;Asturias
-13862;26;7;13;V;Grupo;IRIS;Adragonte, Paderne;A Coruña
-12166;26;7;13;V;Orquesta;VERSIÓN ORIGINAL;Arlós, Llanera;Asturias
-12425;26;7;13;V;Orquesta;PRINCIPAL;Arteixo;A Coruña
-12437;26;7;13;V;Orquesta;ISRAEL;Arteixo;A Coruña
-12827;26;7;13;V;Grupo;ALKAR;As Somozas;A Coruña
-12232;26;7;13;V;Orquesta;AZABACHE;Asturias;Asturias
-7595;26;7;13;V;Orquesta;FOLIADA D´ASES;Barallobre, Fene;A Coruña
-10974;26;7;13;V;Orquesta;FANIA BLANCO SHOW;Barallobre, Fene;A Coruña
-12598;26;7;13;V;Orquesta;COMPOSTELA;Beade, Vigo;Pontevedra
-11893;26;7;13;V;Orquesta;ESTRELLAMAR;Berdeogas, Dumbria;A Coruña
-7706;26;7;13;V;Disco Móvil;SPACEMUSIC;Boiro;A Coruña
-13117;26;7;13;V;Orquesta;FIN DE SIGLO;Borrán, Vilar De Barrio;Ourense
-12186;26;7;13;V;Orquesta;IPANEMA;Cabañas Raras;León
-11314;26;7;13;V;Orquesta;TOKIO;Campaña, Valga;Pontevedra
-12396;26;7;13;V;Orquesta;ALABAMA SHOW;Candeán, Vigo;Pontevedra
-12067;26;7;13;V;Orquesta;PASSARELA;Carregal, Tomiño;Pontevedra
-12068;26;7;13;V;Grupo;D´MODA;Carregal, Tomiño;Pontevedra
-11508;26;7;13;V;Orquesta;RITMO JOVEN;Castroncelos, A Pobra do Brollón;Lugo
-11799;26;7;13;V;Orquesta;PANAMA;Celeiro, Viveiro;Lugo
-13058;26;7;13;V;Disco Móvil;BLANCO Y NEGRO;Celeiro, Viveiro;Lugo
-11229;26;7;13;V;Orquesta;ALIANZA;Centro Gallego de Vitoria;Álava
-11262;26;7;13;V;Orquesta;EMPERADORES;Cerdedo;Pontevedra
-12808;26;7;13;V;Orquesta;PALLADIUM;Cerdedo;Pontevedra
-11075;26;7;13;V;Orquesta;EL COMBO DOMINICANO;Cereixo, Vimianzo;A Coruña
-11811;26;7;13;V;Grupo;AMÉRICA DE VIGO;Cesantes, Redondela;Pontevedra
-12043;26;7;13;V;Orquesta;TELEVISIÓN;Chapela, Redondela;Pontevedra
-13610;26;7;13;V;Grupo;FUSIÓN;Covas, Ferrol;A Coruña
-13840;26;7;13;V;Orquesta;NUEVA BANDA;El Castillo, Soto del Barco;Asturias
-13160;26;7;13;V;Orquesta;COSTA BLANCA;Figueiró, Tomiño;Pontevedra
-9210;26;7;13;V;Solista;TANIA Y SU ACORDEÓN;Fontoria, Luarca;Asturias
-12008;26;7;13;V;Orquesta;ABANICO;Goiriz, Vilalba;Lugo
-12381;26;7;13;V;Orquesta;CINEMA;Goiriz, Vilalba;Lugo
-13386;26;7;13;V;Charanga;DGT;Grado;Asturias
-11265;26;7;13;V;Orquesta;ESCAPARATE;Grixó, Salvaterra de Miño;Pontevedra
-11609;26;7;13;V;Orquesta;OLYMPUS RED TOUR;Guillade, Ponteareas;Pontevedra
-11610;26;7;13;V;Orquesta;CHARLESTON BIG-BAND;Guillade, Ponteareas;Pontevedra
-11710;26;7;13;V;Orquesta;SOLARA;Huerga del Rio, Carrizo;León
-12014;26;7;13;V;Orquesta;GALILEA;Jarrio, Coaña;Asturias
-13434;26;7;13;V;Grupo;GARIBALDI;La Pola de Gordón;León
-12291;26;7;13;V;Orquesta;LOS TROVADORES;Luía, Ortigueira;A Coruña
-11888;26;7;13;V;Orquesta;XACOBEO;Montecastelo, Burela;Lugo
-13507;26;7;13;V;Grupo;LA SEÑAL;Muelas del Pan, Muelas del Pan;Zamora
-11370;26;7;13;V;Charanga;TNT;Muíño, Zas;A Coruña
-12145;26;7;13;V;Grupo;ARAMIO;Muíño, Zas;A Coruña
-12364;26;7;13;V;Orquesta;SUAVECITO;Muíño, Zas;A Coruña
-12078;26;7;13;V;Orquesta;ARMONÍA SHOW;Muniferral, Aranga;A Coruña
-13312;26;7;13;V;Orquesta;ENIGMA;Paderne, Cesuras;A Coruña
-12707;26;7;13;V;Orquesta;CENIZA;Padrón;A Coruña
-13408;26;7;13;V;Solista;PILI PAMPÍN;Padrón;A Coruña
-12245;26;7;13;V;Grupo;ATENAS;Parada de Amoeiro, Amoeiro;Ourense
-11940;26;7;13;V;Orquesta;PONTEVEDRA;Parada, Nigrán;Pontevedra
-12916;26;7;13;V;Orquesta;VENEZIA;Petín;Ourense
-13355;26;7;13;V;Grupo;RÁFAGA;Pirai Disco;Barcelona
-11566;26;7;13;V;Orquesta;PANORAMA;Playa de Coto, Barreiros;Lugo
-12718;26;7;13;V;Orquesta;LOS ESPAÑOLES;Poago, Gijón;Asturias
-5950;26;7;13;V;Charanga;MEKANIKA;Queiruga, Porto do Son;A Coruña
-12989;26;7;13;V;Orquesta;CAPITOL;Queiruga, Porto do Son;A Coruña
-11377;26;7;13;V;Orquesta;LOS PLAYERS;Reigosa, A Pastoriza;Lugo
-9155;26;7;13;V;Orquesta;GRAN PARADA;San Adrián de Calvos, Fornelos de Montes;Pontevedra
-11842;26;7;13;V;Grupo;CLAXXON;San Adrián de Calvos, Fornelos de Montes;Pontevedra
-11222;26;7;13;V;Orquesta;ACORDES;San Martín, Teverga;Asturias
-11190;26;7;13;V;Grupo;SAMBA;Sande, A Capela;A Coruña
-12102;26;7;13;V;Orquesta;MARBELLA;Santa Ana, Ponte Caldelas;Pontevedra
-12500;26;7;13;V;Orquesta;TRIUNFO;Santa Ana, Ponte Caldelas;Pontevedra
-11252;26;7;13;V;Orquesta;COSTA DORADA;Santiago de Saá, Lugo;Lugo
-13035;26;7;13;V;Orquesta;DOMINÓ;Sariego;Asturias
-12607;26;7;13;V;Grupo;LIMÓN;Sello, Lalín;Pontevedra
-11681;26;7;13;V;Orquesta;TREBOL;Silva, Pol;Lugo
-13356;26;7;13;V;Charanga;FUEGO;Verín;Ourense
-12119;26;7;13;V;Orquesta;METRÓPOLIS;Vilaño, A Laracha;A Coruña
-11642;26;7;13;V;Grupo;TEKILA;Vilasantar;A Coruña
-12335;26;7;13;V;Grupo;CICLÓN;Vilasantar;A Coruña
-11237;26;7;13;V;Trío;AREAL;Vilela, Cualedro;Ourense
-12574;26;7;13;V;Orquesta;NEVADA;Xacebáns, Quintela de Leirado;Ourense
-13786;26;7;13;V;Grupo;NIEVLA;Xinzo de Limia;Ourense
-12461;27;7;13;S;Orquesta;LOS SATÉLITES;Abalo, Catoira;Pontevedra
-12476;27;7;13;S;Orquesta;COMPOSTELA;Abalo, Catoira;Pontevedra
-11812;27;7;13;S;Grupo;AMÉRICA DE VIGO;Aldán, Cangas do Morrazo;Pontevedra
-12069;27;7;13;S;Orquesta;PASSARELA;Aldán, Cangas do Morrazo;Pontevedra
-11682;27;7;13;S;Orquesta;TREBOL;Arteixo;A Coruña
-11705;27;7;13;S;Orquesta;CAPITOL;Arteixo;A Coruña
-11567;27;7;13;S;Orquesta;PANORAMA;As Somozas;A Coruña
-11606;27;7;13;S;Orquesta;PARIS DE NOIA;As Somozas;A Coruña
-11611;27;7;13;S;Orquesta;OLYMPUS RED TOUR;As Somozas;A Coruña
-7991;27;7;13;S;Orquesta;MIRAMAR;Atios, O Porriño;Pontevedra
-13357;27;7;13;S;Grupo;RÁFAGA;Ayopaya Disco;Barcelona
-13290;27;7;13;S;Grupo;UNIÓN Y FUERZA;Baldaio, Carballo;A Coruña
-11253;27;7;13;S;Orquesta;COSTA DORADA;Baltar, A Pastoriza;Lugo
-13234;27;7;13;S;Orquesta;NEVADA;Barrio da Ponte, Ourense;Ourense
-11560;27;7;13;S;Orquesta;PRINCIPAL;Beade, Vigo;Pontevedra
-11575;27;7;13;S;Orquesta;LOS TROVADORES;Beade, Vigo;Pontevedra
-12828;27;7;13;S;Grupo;ALKAR;Beariz;Ourense
-11643;27;7;13;S;Grupo;TEKILA;Berres, A Estrada;Pontevedra
-12578;27;7;13;S;Dúo;CALÚ;Berres, A Estrada;Pontevedra
-12977;27;7;13;S;Grupo;CHANNEL;Berres, A Estrada;Pontevedra
-11661;27;7;13;S;Orquesta;TOKIO;Beseño, Touro;A Coruña
-11938;27;7;13;S;Orquesta;CHARLESTON BIG-BAND;Boal;Asturias
-12608;27;7;13;S;Grupo;LIMÓN;Boal;Asturias
-7707;27;7;13;S;Disco Móvil;SPACEMUSIC;Boiro;A Coruña
-13380;27;7;13;S;Orquesta;XACOBEO;Bordóns, Sanxenxo;Pontevedra
-13049;27;7;13;S;Orquesta;FOLIADA D´ASES;Borrán, Vilar De Barrio;Ourense
-13078;27;7;13;S;Orquesta;ABANICO;Cabañas Raras;León
-13188;27;7;13;S;Orquesta;FANIA BLANCO SHOW;Cañás, Carral;A Coruña
-8634;27;7;13;S;Orquesta;GRAN PARADA;Cela, Mos;Pontevedra
-12045;27;7;13;S;Orquesta;TELEVISIÓN;Cela, Mos;Pontevedra
-12079;27;7;13;S;Orquesta;ARMONÍA SHOW;Celeiro, Viveiro;Lugo
-12081;27;7;13;S;Orquesta;TRIUNFO;Celeiro, Viveiro;Lugo
-11230;27;7;13;S;Orquesta;ALIANZA;Centro Gallego de Vitoria;Álava
-12534;27;7;13;S;Charanga;MEKANIKA;Cerceda;A Coruña
-8629;27;7;13;S;Orquesta;PONTEVEDRA;Cerdedo;Pontevedra
-11077;27;7;13;S;Grupo;CICLÓN;Cereixo, Vimianzo;A Coruña
-12780;27;7;13;S;Orquesta;SUPER HOLLYWOOD;Cesantes, Redondela;Pontevedra
-11983;27;7;13;S;Orquesta;FIN DE SIGLO;Chapela, Redondela;Pontevedra
-13508;27;7;13;S;Grupo;LA SEÑAL;Cistierna;León
-11238;27;7;13;S;Trío;AREAL;Cortina, Valdés;Asturias
-12799;27;7;13;S;Orquesta;PALLADIUM;Couso, Gondomar;Pontevedra
-13076;27;7;13;S;Orquesta;AZABACHE;El Piñero;Zamora
-11711;27;7;13;S;Orquesta;SOLARA;Fabero;León
-12840;27;7;13;S;Orquesta;MARAZUL;Figueiró, Tomiño;Pontevedra
-12955;27;7;13;S;Dúo;ECLIPSE;Foxas, A Pontenova;Lugo
-11424;27;7;13;S;Charanga;TNT;Freáns, Pontedeva;Ourense
-13839;27;7;13;S;Orquesta;NUEVA BANDA;Grado;Asturias
-13314;27;7;13;S;Trío;LEMBRANZA;Hotel Torre de Núñez, Lugo;Lugo
-11277;27;7;13;S;Grupo;KALIMA 3.0;Hotel Villamartín, Vilalba;Lugo
-11800;27;7;13;S;Orquesta;PANAMA;Jarrio, Coaña;Asturias
-11802;27;7;13;S;Grupo;CLAXXON;Jarrio, Coaña;Asturias
-12246;27;7;13;S;Grupo;ATENAS;Lobariñas, Crecente;Pontevedra
-12015;27;7;13;S;Orquesta;GALILEA;Louro, Muros;A Coruña
-12018;27;7;13;S;Orquesta;METRÓPOLIS;Louro, Muros;A Coruña
-13115;27;7;13;S;Dúo;MERITXELL;Lugo;Lugo
-13196;27;7;13;S;Dúo;CHIC;Lugo;Lugo
-11921;27;7;13;S;Orquesta;EL COMBO DOMINICANO;Mens, Malpica de Bergantiños;A Coruña
-13976;27;7;13;S;Grupo;IRIS;Mens, Malpica de Bergantiños;A Coruña
-12898;27;7;13;S;Orquesta;TANGO;Mera, Oleiros;A Coruña
-13957;27;7;13;S;Dúo;ESTRELLAS;Miraz, Friol;Lugo
-13772;27;7;13;S;Orquesta;EMPERADORES;Monforte de Lemos;Lugo
-12719;27;7;13;S;Orquesta;LOS ESPAÑOLES;Novellana, Cudillero;Asturias
-12720;27;7;13;S;Orquesta;ISRAEL;Novellana, Cudillero;Asturias
-12383;27;7;13;S;Orquesta;CINEMA;O Burgo, Culleredo;A Coruña
-13345;27;7;13;S;Grupo;PASIÓN;O Seixo, Mugardos;A Coruña
-10897;27;7;13;S;Orquesta;ENIGMA;O Vilar de Santiago, Riotorto;Lugo
-12397;27;7;13;S;Orquesta;ALABAMA SHOW;Ocero, Sancedo;León
-10728;27;7;13;S;Trío;AZAR;Oia;Pontevedra
-12216;27;7;13;S;Grupo;D´MODA;Ortigueira;A Coruña
-13787;27;7;13;S;Grupo;NIEVLA;Oviedo;Asturias
-12168;27;7;13;S;Orquesta;VERSIÓN ORIGINAL;Pañeda Nueva, Siero;Asturias
-12488;27;7;13;S;Grupo;SAMBA;Parada, Nigrán;Pontevedra
-13036;27;7;13;S;Orquesta;DOMINÓ;Sama de Langreo, Langreo;Asturias
-12103;27;7;13;S;Orquesta;MARBELLA;San Martín, Teverga;Asturias
-6634;27;7;13;S;Solista;TANIA Y SU ACORDEÓN;San Miguel de Reinante, Barreiros;Lugo
-11223;27;7;13;S;Orquesta;ACORDES;San Pantaleón das Viñas, Paderne;A Coruña
-12678;27;7;13;S;Grupo;AMERICA SL;Santa Cristina de Barro, Noia;A Coruña
-12755;27;7;13;S;Grupo;ASSIA;Santiago de Ambiedes, Gozón;Asturias
-13059;27;7;13;S;Disco Móvil;BLANCO Y NEGRO;Santiago de Saá, Lugo;Lugo
-13372;27;7;13;S;Orquesta;COSTA BLANCA;Sísamo, Carballo;A Coruña
-13373;27;7;13;S;Grupo;ACIREMA;Sísamo, Carballo;A Coruña
-12265;27;7;13;S;Dúo;CARAMELO;Sobrado;A Coruña
-11509;27;7;13;S;Orquesta;RITMO JOVEN;Sobrado, Gomesende;Ourense
-12049;27;7;13;S;Dúo;DE LA CRUZ SHOW;Taragoña, Rianxo;A Coruña
-13420;27;7;13;S;Orquesta;CENIZA;Vilarchán, Ponte Caldelas;Pontevedra
-13318;27;7;13;S;Orquesta;ESTRELLAMAR;Vilasantar;A Coruña
-13207;27;7;13;S;Grupo;ARAMIO;Vilela, Villafranca del Bierzo;León
-13435;27;7;13;S;Grupo;GARIBALDI;Villamarco;León
-13169;27;7;13;S;Grupo;LECER;Viveiro;Lugo
-13586;28;7;13;D;Orquesta;LOS ESPAÑOLES;A Xesta, Lalín;Pontevedra
-13588;28;7;13;D;Grupo;NEBRASKA;A Xesta, Lalín;Pontevedra
-8416;28;7;13;D;Solista;TANIA Y SU ACORDEÓN;Abadin;Lugo
-12880;28;7;13;D;Orquesta;SUAVECITO;Abelenda, Val do Dubra;A Coruña
-11158;28;7;13;D;Orquesta;RITMO JOVEN;Aldán, Cangas do Morrazo;Pontevedra
-11254;28;7;13;D;Orquesta;COSTA DORADA;Ares;A Coruña
-11644;28;7;13;D;Grupo;TEKILA;Arriondas, Parres;Asturias
-12599;28;7;13;D;Orquesta;COMPOSTELA;Arteixo;A Coruña
-7994;28;7;13;D;Orquesta;PONTEVEDRA;Atios, O Porriño;Pontevedra
-7995;28;7;13;D;Orquesta;TELEVISIÓN;Atios, O Porriño;Pontevedra
-12899;28;7;13;D;Orquesta;TANGO;Beade, Vigo;Pontevedra
-11568;28;7;13;D;Orquesta;PANORAMA;Cabañas Raras;León
-10561;28;7;13;D;Charanga;BB+;Carbia, Vila de Cruces;Pontevedra
-13788;28;7;13;D;Grupo;NIEVLA;Carregal, Tomiño;Pontevedra
-11939;28;7;13;D;Orquesta;CHARLESTON BIG-BAND;Cela, Mos;Pontevedra
-12489;28;7;13;D;Grupo;SAMBA;Celeiro, Viveiro;Lugo
-11078;28;7;13;D;Orquesta;FANIA BLANCO SHOW;Cereixo, Vimianzo;A Coruña
-12387;28;7;13;D;Orquesta;CINEMA;Cereixo, Vimianzo;A Coruña
-12156;28;7;13;D;Grupo;CANELA;Cesantes, Redondela;Pontevedra
-13833;28;7;13;D;Dúo;DE LA CRUZ SHOW;Chaián, Trazo;A Coruña
-12609;28;7;13;D;Grupo;LIMÓN;Chapela, Redondela;Pontevedra
-12501;28;7;13;D;Orquesta;TRIUNFO;Córgomo, Vilamartín de Valdeorras;Ourense
-12220;28;7;13;D;Orquesta;LOS PLAYERS;Currelos, O Saviñao;Lugo
-11712;28;7;13;D;Orquesta;SOLARA;Feás, Boborás;Ourense
-12104;28;7;13;D;Orquesta;MARBELLA;Garabás, Maside;Ourense
-13082;28;7;13;D;Orquesta;GRAN PARADA;Garabás, Maside;Ourense
-12967;28;7;13;D;Orquesta;ARMONÍA SHOW;Louro, Muros;A Coruña
-12169;28;7;13;D;Orquesta;VERSIÓN ORIGINAL;Miranda, Avilés;Asturias
-13763;28;7;13;D;Orquesta;SUPERFAMA;Mondaveiga, Samos;Lugo
-11863;28;7;13;D;Trío;AREAL;Monte Castelo, Burela;Lugo
-11624;28;7;13;D;Orquesta;PARIS DE NOIA;Moraña;Pontevedra
-11889;28;7;13;D;Orquesta;XACOBEO;Morgadáns, Gondomar;Pontevedra
-12978;28;7;13;D;Grupo;CHANNEL;Nemenzo, Santiago de Compostela;A Coruña
-11922;28;7;13;D;Orquesta;EL COMBO DOMINICANO;O Burgo, Culleredo;A Coruña
-13382;28;7;13;D;Orquesta;METRÓPOLIS;Olveda, Antas de Ulla;Lugo
-11683;28;7;13;D;Orquesta;TREBOL;Ortigueira;A Coruña
-11703;28;7;13;D;Orquesta;LOS SATÉLITES;Ortigueira;A Coruña
-12957;28;7;13;D;Orquesta;PASSARELA;Ourense;Ourense
-12009;28;7;13;D;Orquesta;ABANICO;Pacios, Begonte;Lugo
-12575;28;7;13;D;Orquesta;NEVADA;Pardeconde, Xunqueira de Espadanedo;Ourense
-13037;28;7;13;D;Orquesta;DOMINÓ;Peñaullán, Pravia;Asturias
-12990;28;7;13;D;Orquesta;CAPITOL;Piñeira, Monforte de Lemos;Lugo
-12247;28;7;13;D;Grupo;ATENAS;Playa América, Nigrán;Pontevedra
-13431;28;7;13;D;Grupo;GARIBALDI;Plaza Torenillo, Toreno;León
-10729;28;7;13;D;Trío;AZAR;Raxó, Poio;Pontevedra
-12398;28;7;13;D;Orquesta;ALABAMA SHOW;Ribarteme, As Neves;Pontevedra
-12544;28;7;13;D;Orquesta;EMPERADORES;San Facundo, Tineo;Asturias
-11231;28;7;13;D;Orquesta;ALIANZA;San Pantaleón das Viñas, Paderne;A Coruña
-13208;28;7;13;D;Grupo;ARAMIO;Santa Comba;A Coruña
-12809;28;7;13;D;Orquesta;PALLADIUM;Santa Cristina de Barro, Noia;A Coruña
-13783;28;7;13;D;Grupo;UNIÓN Y FUERZA;Santa Cristina de Barro, Noia;A Coruña
-10267;28;7;13;D;Orquesta;FOLIADA D´ASES;Santa Marta, Mos;Pontevedra
-12764;28;7;13;D;Orquesta;MIRAMAR;Santa Marta, Mos;Pontevedra
-13452;28;7;13;D;Orquesta;LOS TROVADORES;Tella, Ponteceso;A Coruña
-11517;28;7;13;D;Orquesta;ACORDES;Urbanización Couto, Narón;A Coruña
-13384;28;7;13;D;Grupo;D´MODA;Urbanización Couto, Narón;A Coruña
-11086;28;7;13;D;Grupo;CLAXXON;Velle, Ourense;Ourense
-11656;28;7;13;D;Dúo;ECLIPSE;Vilapena, Trabada;Lugo
-13310;28;7;13;D;Orquesta;ESTRELLAMAR;Vilarchán, Ponte Caldelas;Pontevedra
-12475;29;7;13;L;Grupo;NEBRASKA;A Insua, Barreiros;Lugo
-7996;29;7;13;L;Orquesta;CHARLESTON BIG-BAND;Atios, O Porriño;Pontevedra
-7997;29;7;13;L;Orquesta;PALLADIUM;Atios, O Porriño;Pontevedra
-11184;29;7;13;L;Orquesta;GRAN PARADA;Berres, A Estrada;Pontevedra
-11625;29;7;13;L;Orquesta;PARIS DE NOIA;Cacheiras, Teo;A Coruña
-11569;29;7;13;L;Orquesta;PANORAMA;Cañás, Carral;A Coruña
-12966;29;7;13;L;Orquesta;ARMONÍA SHOW;Cañás, Carral;A Coruña
-11843;29;7;13;L;Grupo;CLAXXON;Cela, Mos;Pontevedra
-12044;29;7;13;L;Orquesta;MIRAMAR;Cela, Mos;Pontevedra
-12382;29;7;13;L;Orquesta;CINEMA;Córgomo, Vilamartín de Valdeorras;Ourense
-12295;29;7;13;L;Orquesta;LOS TROVADORES;Currelos, O Saviñao;Lugo
-13119;29;7;13;L;Orquesta;FIN DE SIGLO;Donramiro, Lalín;Pontevedra
-11666;29;7;13;L;Trío;AZAR;Estacas, Fornelos de Montes;Pontevedra
-11864;29;7;13;L;Trío;AREAL;Galdo, Viveiro;Lugo
-11645;29;7;13;L;Grupo;TEKILA;Granda, Gijón;Asturias
-12399;29;7;13;L;Orquesta;ALABAMA SHOW;Mondariz;Pontevedra
-13524;29;7;13;L;Orquesta;LOS SATÉLITES;Mondaveiga, Samos;Lugo
-13826;29;7;13;L;Orquesta;FOLIADA D´ASES;O Burgo, Culleredo;A Coruña
-13258;29;7;13;L;Orquesta;TREBOL;O Incio;Lugo
-12729;29;7;13;L;Orquesta;ISRAEL;Ortigueira;A Coruña
-12991;29;7;13;L;Orquesta;CAPITOL;Ortigueira;A Coruña
-13287;29;7;13;L;Orquesta;LOS PLAYERS;Piñeira, Monforte de Lemos;Lugo
-13392;29;7;13;L;Grupo;CICLÓN;Piñeira, Sarria;Lugo
-13396;29;7;13;L;Grupo;GARIBALDI;Piñeira, Sarria;Lugo
-12016;29;7;13;L;Orquesta;GALILEA;Playa América, Nigrán;Pontevedra
-11945;29;7;13;L;Orquesta;PONTEVEDRA;Ponte Arnelas, Ribadumia;Pontevedra
-11255;29;7;13;L;Orquesta;COSTA DORADA;San Pantaleón das Viñas, Paderne;A Coruña
-11923;29;7;13;L;Orquesta;EL COMBO DOMINICANO;Soandres, A Laracha;A Coruña
-13769;29;7;13;L;Grupo;IDEAS;Sograndio, Proaza;Asturias
-7941;29;7;13;L;Charanga;VAITE XA!!;Toutón, Mondariz;Pontevedra
-11510;29;7;13;L;Orquesta;RITMO JOVEN;Toutón, Mondariz;Pontevedra
-12046;29;7;13;L;Orquesta;TELEVISIÓN;Vilarchán, Ponte Caldelas;Pontevedra
-12105;29;7;13;L;Orquesta;MARBELLA;Vilarchán, Ponte Caldelas;Pontevedra
-12322;30;7;13;M;Solista;TANIA Y SU ACORDEÓN;A Fonsagrada;Lugo
-14082;30;7;13;M;Orquesta;LOS SATÉLITES;Arteixo;A Coruña
-11924;30;7;13;M;Orquesta;EL COMBO DOMINICANO;Cacheiras, Teo;A Coruña
-12336;30;7;13;M;Grupo;CICLÓN;Cacheiras, Teo;A Coruña
-11570;30;7;13;M;Orquesta;PANORAMA;Dombodán, Arzúa;A Coruña
-11571;30;7;13;M;Orquesta;FANIA BLANCO SHOW;Dombodán, Arzúa;A Coruña
-12047;30;7;13;M;Orquesta;TELEVISIÓN;Mangoeiro, Avión;Ourense
-12426;30;7;13;M;Orquesta;PRINCIPAL;Ortigueira;A Coruña
-12438;30;7;13;M;Orquesta;LOS ESPAÑOLES;Ortigueira;A Coruña
-11626;30;7;13;M;Orquesta;PARIS DE NOIA;Ponte Arnelas, Ribadumia;Pontevedra
-11630;30;7;13;M;Orquesta;MARBELLA;Ponte Arnelas, Ribadumia;Pontevedra
-11713;30;7;13;M;Orquesta;SOLARA;Ribarteme, As Neves;Pontevedra
-11737;30;7;13;M;Orquesta;TANGO;Ribarteme, As Neves;Pontevedra
-11476;31;7;13;X;Orquesta;TRIUNFO;A Rasa, Noia;A Coruña
-11572;31;7;13;X;Orquesta;PANORAMA;Cacheiras, Teo;A Coruña
-11573;31;7;13;X;Grupo;CLAXXON;Cacheiras, Teo;A Coruña
-12992;31;7;13;X;Orquesta;CAPITOL;Candás, Carreño;Asturias
-11627;31;7;13;X;Orquesta;PARIS DE NOIA;Dombodán, Arzúa;A Coruña
-13525;31;7;13;X;Grupo;LIMÓN;Mangoeiro, Avión;Ourense
-13140;31;7;13;X;Orquesta;ABANICO;O Mourisco, Riós;Ourense
-12221;31;7;13;X;Orquesta;LOS PLAYERS;Ortigueira;A Coruña
-11925;31;7;13;X;Orquesta;EL COMBO DOMINICANO;Ponte Arnelas, Ribadumia;Pontevedra
-12589;31;7;13;X;Orquesta;GRAN PARADA;Ponte Arnelas, Ribadumia;Pontevedra
-13393;31;7;13;X;Grupo;CICLÓN;Rañestras, Rodeiro;Pontevedra
-12901;31;7;13;X;Orquesta;TANGO;Ribeira;A Coruña
-11612;31;7;13;X;Orquesta;OLYMPUS RED TOUR;Santiago de Compostela;A Coruña
-13852;31;7;13;X;Orquesta;MARBELLA;Viana do Bolo;Ourense
+11692;1;7;13;L;Orquesta;SOLARA;Cudillero;Asturias;
+11906;1;7;13;L;Orquesta;EL COMBO DOMINICANO;Herbogo, Rois;A Coruña;
+9655;1;7;13;L;Orquesta;PANORAMA;Randufe, Tui;Pontevedra;Fiestas de San Pedro. A partir de las 22:30h. Acompañados de la Orquesta Marbella. 
+11542;1;7;13;L;Orquesta;MARBELLA;Randufe, Tui;Pontevedra;Fiestas de San Pedro. A partir de las 22:30h. Acompañados de la Orquesta Panorama. 
+11634;1;7;13;L;Grupo;TEKILA;San Pelayo, Grado;Asturias;
+8580;1;7;13;L;Orquesta;OLYMPUS RED TOUR;Santa Comba;A Coruña;Acompañados de America de Vigo. 
+8581;1;7;13;L;Grupo;AMÉRICA DE VIGO;Santa Comba;A Coruña;Acompañados de Olympus. 
+11876;1;7;13;L;Orquesta;XACOBEO;Santa Comba;A Coruña;
+11452;1;7;13;L;Orquesta;PARIS DE NOIA;Soandres, A Laracha;A Coruña;Acompañados del Grupo Metrópolis. 
+11453;1;7;13;L;Orquesta;METRÓPOLIS;Soandres, A Laracha;A Coruña;Acompañados de la Orquesta Paris De Noia. 
+9796;1;7;13;L;Orquesta;GRAN PARADA;Soutelo, Salceda de Caselas;Pontevedra;Acompañados de la Orquesta Charleston Big-Band. 
+11115;1;7;13;L;Orquesta;CHARLESTON BIG-BAND;Soutelo, Salceda de Caselas;Pontevedra;Acompañados de la Orquesta Gran Parada. 
+8625;1;7;13;L;Orquesta;PONTEVEDRA;Tameiga, Mos;Pontevedra;San Eleuterio. A partir de las 22:00h. Acompañados de Television. 
+8636;1;7;13;L;Orquesta;TELEVISIÓN;Tameiga, Mos;Pontevedra;San Eleuterio. A partir de las 22:00h. Acompañados de Pontevedra. 
+11131;1;7;13;L;Orquesta;ACORDES;Vilameá, Guntín;Lugo;
+12912;1;7;13;L;Orquesta;VENEZIA;Vilaxuste, Portomarín;Lugo;
+12222;2;7;13;M;Orquesta;AZABACHE;Castronuevo de Esgueva;Valladolid;
+14176;2;7;13;M;Orquesta;IPANEMA;Pedrosa de Valdeporres;Burgos;
+11792;2;7;13;M;Orquesta;PANAMA;San Saturniño, O Pino;A Coruña;Acompañados de la Orquesta Fania Blanco Show. 
+11801;2;7;13;M;Orquesta;FANIA BLANCO SHOW;San Saturniño, O Pino;A Coruña;Acompañados de la Orquesta Panamá. 
+9798;2;7;13;M;Orquesta;MARBELLA;Visantoña, Mesía;A Coruña;Acompañados de la Orquesta Aché. 
+12223;3;7;13;X;Orquesta;AZABACHE;Traspinedo;Valladolid;
+9799;3;7;13;X;Orquesta;EL COMBO DOMINICANO;Visantoña, Mesía;A Coruña;Acompañados de la Orquesta La Bámbola. 
+11907;4;7;13;J;Orquesta;EL COMBO DOMINICANO;Vilachán, Rois;A Coruña;Casa Benjamín. 
+12316;4;7;13;J;Grupo;SONIDO LEÓN;Zazuar;Burgos;
+11803;5;7;13;V;Grupo;AMÉRICA DE VIGO;A Ponte do Porto, Camariñas;A Coruña;
+12106;5;7;13;V;Orquesta;METRÓPOLIS;Abelleira, Muros;A Coruña;
+12839;5;7;13;V;Orquesta;RITMO JOVEN;Baiona;Pontevedra;Grabación programa TVG. Acompañados de la Orquesta Gran Atlanta. 
+11999;5;7;13;V;Orquesta;ABANICO;Cameixa, Boborás;Ourense;Acompañados de la Orquesta Ismael. 
+11789;5;7;13;V;Dúo;ECLIPSE;Casteda, Chantada;Lugo;Noite. 
+12671;5;7;13;V;Grupo;AMERICA SL;Cerdido;A Coruña;
+7957;5;7;13;V;Orquesta;PALLADIUM;Coia, Vigo;Pontevedra;Alternando con Gran Parada. 
+7958;5;7;13;V;Orquesta;GRAN PARADA;Coia, Vigo;Pontevedra;Alternando con Palladium. 
+12157;5;7;13;V;Orquesta;VERSIÓN ORIGINAL;Colunga;Asturias;Acompañados del Grupo Assia. 
+12167;5;7;13;V;Grupo;ASSIA;Colunga;Asturias;Acompañados de la Orquesta Versión Original. 
+12266;5;7;13;V;Orquesta;ARMONÍA SHOW;Cumbraos, Mesía;A Coruña;A las 22:30h. Acompañados del Grupo Triunfo. 
+12267;5;7;13;V;Orquesta;TRIUNFO;Cumbraos, Mesía;A Coruña;22:30hrs. Acompañados de la Orquesta Armonia Show. 
+12750;5;7;13;V;Orquesta;FANIA BLANCO SHOW;Dorneda, Oleiros;A Coruña;Noche. 
+12136;5;7;13;V;Grupo;ARAMIO;Goián, Tomiño;Pontevedra;
+11859;5;7;13;V;Orquesta;ALIANZA;Hornija, Corullón;León;
+11292;5;7;13;V;Orquesta;CINEMA;Las Campas, Castropol;Asturias;Acompañados del Grupo Limón. 
+11293;5;7;13;V;Grupo;LIMÓN;Las Campas, Castropol;Asturias;Acompañados de la Orquesta Cinema. 
+11132;5;7;13;V;Orquesta;ACORDES;Moscoso, Pazos de Borbén;Pontevedra;Acompañados de la Orquesta Ciudad Cristal. 
+11401;5;7;13;V;Orquesta;EL COMBO DOMINICANO;Mosteiro de Santa María de Monfero, Monfero;A Coruña;Romeria da Virxe da Cela, acompañados de Dj Sebas21. 
+11540;5;7;13;V;Orquesta;PANORAMA;Mosteirón, Sada;A Coruña;A Partir de las 22:30h. Acompañados del Grupo Oceano. Y a partir de las 15:00 entrevista a Lito en el programa Palco Directo de Formula Fun Radio. 
+11587;5;7;13;V;Orquesta;OLYMPUS RED TOUR;Muimenta, Cospeito;Lugo;Acompañados de la Orquesta Impacto. 
+12850;5;7;13;V;Orquesta;TANGO;Neaño, Cabana de Bergantiños;A Coruña;Acompañados del Grupo Isla. 
+11183;5;7;13;V;Grupo;CICLÓN;Palas de Rei;Lugo;23:00h. Acompañados de la Orquesta Filadelfia. 
+11613;5;7;13;V;Orquesta;PARIS DE NOIA;Piedras Blancas, Castrillon;Asturias;La fiesta está para las 23:30h. Acompañados del Grupo Tekila. 
+11628;5;7;13;V;Grupo;TEKILA;Piedras Blancas, Castrillon;Asturias;La fiesta está para las 23:30h. Acompañados de la Orquesta Paris De Noia. 
+8530;5;7;13;V;Charanga;MEKANIKA;Portosín, Porto do Son;A Coruña;animaremos un ano mais as ruas e bares deste pobo costeiro no que sempre somos ben recibidos. 
+12091;5;7;13;V;Orquesta;MARBELLA;Portosín, Porto do Son;A Coruña;
+12691;5;7;13;V;Grupo;ALVEIN;Quereño, Puente de Domingo Florez;Ourense;
+11831;5;7;13;V;Grupo;CLAXXON;Sabucedo, A Estrada;Pontevedra;Acompañados de la Orquesta Televisión. 
+11900;5;7;13;V;Orquesta;TELEVISIÓN;Sabucedo, A Estrada;Pontevedra;Acompañados del Grupo Claxxon. 
+11617;5;7;13;V;Grupo;NEBRASKA;Serantes, Laxe;A Coruña;A partir de las 23:00h. Acompañados de la Orquesta Israel. 
+12033;5;7;13;V;Orquesta;ISRAEL;Serantes, Laxe;A Coruña;A partir de las 23:00h. Acompañados del Grupo Nebraska. 
+11148;5;7;13;V;Grupo;KALIMA 3.0;Serés, Castroverde;Lugo;
+11667;5;7;13;V;Orquesta;TREBOL;Tines, Vimianzo;A Coruña;
+6874;6;7;13;S;Charanga;MEKANIKA;A Manchica, A Merca;Ourense;Compartiremos tarde e verbena con unha orquestra!. 
+11388;6;7;13;S;Grupo;NEBRASKA;A Manchica, A Merca;Ourense;Santa Isabel. A partir de las 21:30h.  Acompañados de la Charanga Mekanika. 
+11932;6;7;13;S;Orquesta;CHARLESTON BIG-BAND;A Peroxa;Ourense;
+11896;6;7;13;S;Grupo;ATENAS;Abelleira, Muros;A Coruña;Acompañado de grupo,Top Lider. 
+11902;6;7;13;S;Charanga;ARDORES;Alperiz, Lalín;Pontevedra;Verbena acompañados do mellor duo de galicia, o duo Master. Será un placer tocar con eles...vemonos na festa amigos. 
+12257;6;7;13;S;Dúo;CARAMELO;Barallobre, Fene;A Coruña;
+12731;6;7;13;S;Grupo;ACIREMA;Baredo, Baiona;Pontevedra;Acompañados del Grupo D´Diseño. 
+12694;6;7;13;S;Solista;PILI PAMPÍN;Batalláns, As Neves;Pontevedra;Estará con la Orquesta Salsa Rosa. 
+11526;6;7;13;S;Orquesta;ESTRELLAMAR;Boiro;A Coruña;Acompañados de la Orquesta Chicago. 
+12325;6;7;13;S;Grupo;CICLÓN;Burela;Lugo;23:00h. Acompañados de un Dj. 
+11804;6;7;13;S;Grupo;AMÉRICA DE VIGO;Cameixa, Boborás;Ourense;Acompañados de la Orquesta Gran Atlanta. 
+11870;6;7;13;S;Orquesta;ENIGMA;Casteda, Chantada;Lugo;
+11877;6;7;13;S;Orquesta;XACOBEO;Castrelo, Cambados;Pontevedra;
+11668;6;7;13;S;Orquesta;TREBOL;Cerdido;A Coruña;Acompañados de la Orquesta Israel. 
+12672;6;7;13;S;Orquesta;ISRAEL;Cerdido;A Coruña;Acompañados de la Orquesta Trebol. 
+11646;6;7;13;S;Dúo;ECLIPSE;Coaña;Asturias;Sesión de tarde 18.00. 
+9741;6;7;13;S;Orquesta;MIRAMAR;Cobres, Vilaboa;Pontevedra;San Adrián. Acompañados de la Orquesta Millenium. 
+12092;6;7;13;S;Orquesta;MARBELLA;Coia, Vigo;Pontevedra;
+12735;6;7;13;S;Grupo;ASSIA;Collado, Siero;Asturias;
+11025;6;7;13;S;Orquesta;GRAN PARADA;Dimo, Catoira;Pontevedra;A partir de las 22:30 horas. Acompañados del Grupo Alkar. 
+12643;6;7;13;S;Grupo;ALKAR;Dimo, Catoira;Pontevedra;A partir de las 22:30 horas. Acompañados de la Orquesta Gran Parada. 
+12752;6;7;13;S;Orquesta;FANIA BLANCO SHOW;Dormeá, Boimorto;A Coruña;Sesión vermú y noche. 
+11793;6;7;13;S;Orquesta;PANAMA;Dorneda, Oleiros;A Coruña;
+11256;6;7;13;S;Orquesta;EMPERADORES;El Entrego, San Martín del Rey Aurelio;Asturias;
+11972;6;7;13;S;Orquesta;VENEZIA;Figueiras, Mondoñedo;Lugo;A las 22:30h. Acompañados de la Orquesta Sintonía De Vigo. 
+12158;6;7;13;S;Orquesta;VERSIÓN ORIGINAL;Fitoria, Oviedo;Asturias;Estaremos con Trisquel en su escenario. 
+12170;6;7;13;S;Orquesta;TRISQUEL;Fitoria, Oviedo;Asturias;Acompañados de la Orquesta Versión Original. 
+10735;6;7;13;S;Orquesta;LOS ESPAÑOLES;Freixeiro, Santa Comba;A Coruña;Sesión vermú y noche. 
+12224;6;7;13;S;Orquesta;AZABACHE;Fuentearmegil;Soria;
+11133;6;7;13;S;Orquesta;ACORDES;Ganade, Xinzo de Limia;Ourense;
+11823;6;7;13;S;Orquesta;GRAN CASINO;Goián, Tomiño;Pontevedra;
+12983;6;7;13;S;Orquesta;CAPITOL;Goián, Tomiño;Pontevedra;
+11138;6;7;13;S;Trío;AREAL;Gueimonde, Pastoriza;Lugo;
+10775;6;7;13;S;Orquesta;ESCAPARATE;Guntín;Lugo;Acompañados de la Orquesta Armonia Show. 
+11579;6;7;13;S;Orquesta;ARMONÍA SHOW;Guntín;Lugo;Acompañados de la Orquesta Escaparate. 
+13069;6;7;13;S;Orquesta;DOMINÓ;La Espina;Asturias;
+11300;6;7;13;S;Grupo;TEKILA;Las Campas, Castropol;Asturias;A partir de las 23:15h. Acompañados de la Orquesta Costa Oeste. 
+8280;6;7;13;S;Orquesta;ABANICO;Lieiro, Cervo;Lugo;Acompañados de Orquesta PARIS DE NOIA. 
+8281;6;7;13;S;Orquesta;PARIS DE NOIA;Lieiro, Cervo;Lugo;Acompañados de Orquesta ABANICO. 
+12537;6;7;13;S;Grupo;GARIBALDI;Lordelo, Padrenda;Ourense;Acompañados de la Orquesta Nueva Generación. 
+12560;6;7;13;S;Dúo;CALÚ;Monteagudo, Arteixo;A Coruña;En Monteagudo 
+11198;6;7;13;S;Orquesta;MARAZUL;Moscoso, Pazos de Borbén;Pontevedra;Acompañados de la Orquesta Solamérica. 
+8626;6;7;13;S;Orquesta;PONTEVEDRA;Mosende, O Porriño;Pontevedra;Acompañados de Triunfo. 
+12490;6;7;13;S;Orquesta;TRIUNFO;Mosende, O Porriño;Pontevedra;A las 22:00h. Acompañados de la Orquesta Pontevedra. 
+11402;6;7;13;S;Orquesta;FIN DE SIGLO;Mosteiro de Santa María de Monfero, Monfero;A Coruña;Romeria da Virxe da Cela, acompañados de Dj David Expósito. 
+12183;6;7;13;S;Orquesta;IPANEMA;Mourente, Pontevedra;Pontevedra;
+12137;6;7;13;S;Grupo;ARAMIO;Muimenta, Cospeito;Lugo;Acompañados de la Orquesta Suavecito. 
+12351;6;7;13;S;Orquesta;SUAVECITO;Muimenta, Cospeito;Lugo;Acompañados del Grupo Aramio. 
+12051;6;7;13;S;Orquesta;PASSARELA;Neaño, Cabana de Bergantiños;A Coruña;Acompañados del Grupo Canela. 
+12053;6;7;13;S;Grupo;CANELA;Neaño, Cabana de Bergantiños;A Coruña;Acompañados de la Orquesta Passarela. 
+11832;6;7;13;S;Grupo;CLAXXON;O Mosteiro, Meis;Pontevedra;Estamos solos y haremos un solo pase. 
+11012;6;7;13;S;Trío;AZAR;O Peso, A Lama;Pontevedra;Noche. 
+12107;6;7;13;S;Orquesta;METRÓPOLIS;Oca, Coristanco;A Coruña;Acompañados del Grupo Elite. 
+12203;6;7;13;S;Orquesta;LOS PLAYERS;Ortiguera, Coaña;Asturias;
+12704;6;7;13;S;Orquesta;CENIZA;Oza dos Rios, Oza dos Rios;A Coruña;
+12479;6;7;13;S;Grupo;SAMBA;Penjamo, Viveiro;Lugo;
+12375;6;7;13;S;Orquesta;ALABAMA SHOW;Ponte Caldelas;Pontevedra;
+12881;6;7;13;S;Orquesta;TANGO;Portonovo, Sanxenxo;Pontevedra;San Cristobal. 
+10920;6;7;13;S;Orquesta;FOLIADA D´ASES;Portosín, Porto do Son;A Coruña;
+11657;6;7;13;S;Orquesta;TOKIO;Portosín, Porto do Son;A Coruña;Verbena 23.00h Alternando Con orquesta Foliada. 
+11144;6;7;13;S;Orquesta;COSTA DORADA;Praza das Rodrigas, Riotorto;Lugo;Acompañados de la Orquesta Ismael. 
+11543;6;7;13;S;Orquesta;PANORAMA;Recinto Ferial de Llanera;Asturias;Con el arrebato. 
+8913;6;7;13;S;Dúo;LA HORA BRUJA;Restaurante la Palloza, Lugo;Lugo;¡Boda!. 
+12673;6;7;13;S;Grupo;AMERICA SL;Sabucedo, A Estrada;Pontevedra;Acompañados de la Orquesta Jerusalén. 
+11872;6;7;13;S;Grupo;KALIMA 3.0;San Antolin de Ibias;Asturias;
+12564;6;7;13;S;Orquesta;NEVADA;San Tomé, Cartelle;Ourense;A las 22:00h. 
+8242;6;7;13;S;Solista;TANIA Y SU ACORDEÓN;Santa Marina;Asturias;
+12970;6;7;13;S;Grupo;CHANNEL;Santiago de Compostela;A Coruña;Recinto ferial. 
+12553;6;7;13;S;Orquesta;NUEVA BANDA;Sariegos, Lorenzana;León;
+12034;6;7;13;S;Grupo;D´MODA;Serantes, Laxe;A Coruña;Sesión vermú y noche acompañados de la Orquesta Primera Línea. 
+11137;6;7;13;S;Orquesta;ALIANZA;Serés, Castroverde;Lugo;
+11205;6;7;13;S;Disco Móvil;BLANCO Y NEGRO;Serés, Castroverde;Lugo;
+11502;6;7;13;S;Orquesta;RITMO JOVEN;Simes, Meaño;Pontevedra;
+11119;6;7;13;S;Orquesta;EL COMBO DOMINICANO;Tabeaio, Carral;A Coruña;Acompañados de la Orquesta La Bámbola. 
+10188;6;7;13;S;Charanga;TNT;Teo;A Coruña;Festa Privada. 
+11392;6;7;13;S;Dúo;ESTRELLAS;Valdoviño;A Coruña;Actuación de noite. 
+12410;6;7;13;S;Orquesta;PRINCIPAL;Vilarromarís, Oroso;A Coruña;
+11693;6;7;13;S;Orquesta;SOLARA;Villadecanes, Toral de los Vados;León;
+10227;6;7;13;S;Orquesta;TELEVISIÓN;Villaderrey, Trasmiras;Ourense;
+9417;6;7;13;S;Orquesta;LOS SATÉLITES;Villanueva de Oscos;Asturias;Alternamos con el Grupo Yukatan. 
+12801;6;7;13;S;Orquesta;PALLADIUM;Xunqueira de Espadanedo;Ourense;
+12270;7;7;13;D;Orquesta;LOS TROVADORES;A Gouxa, Dozón;Pontevedra;
+12928;7;7;13;D;Trío;ORQUÍDEA;A Mota, Arzúa;A Coruña;Fiesta del Corpus Christi. 
+11977;7;7;13;D;Orquesta;FIN DE SIGLO;A Peroxa, A Peroxa;Ourense;Acompañados de la Orquesta Sintonía De Vigo. 
+12352;7;7;13;D;Orquesta;SUAVECITO;A Ponte do Porto, Camariñas;A Coruña;
+12845;7;7;13;D;Orquesta;CINEMA;Abelleira, Muros;A Coruña;
+11833;7;7;13;D;Grupo;CLAXXON;Aguada, Carballedo;Lugo;Acompañados de la Orquesta Madeira. 
+11483;7;7;13;D;Charanga;ARDORES;Alperiz, Lalín;Pontevedra;Estaremos animando a estes veciños nosos o dia da sua patrona...festa asegurada!!!. 
+12326;7;7;13;D;Grupo;CICLÓN;Alvite, Negreira;A Coruña;22:30h. Acompañados del Grupo Triunfo. 
+12369;7;7;13;D;Orquesta;TRIUNFO;Alvite, Negreira;A Coruña;22:30hrs. Acompañados del Grupo Ciclón. 
+6173;7;7;13;D;Charanga;BB+;Angrois, Santiago de Compostela;A Coruña;Estaremos percorrendo o barrio de Angrois durante toda a maña!! animádevos a vir desfrutar da música!!. 
+12732;7;7;13;D;Orquesta;CIUDADEVIGO;Baredo, Baiona;Pontevedra;
+12234;7;7;13;D;Grupo;ATENAS;Benza, Trazo;A Coruña;
+11209;7;7;13;D;Orquesta;PONTEVEDRA;Boiro;A Coruña;Acompañados de Cantareiras de Ardebullo. 
+11878;7;7;13;D;Orquesta;XACOBEO;Campañó, Pontevedra;Pontevedra;
+12449;7;7;13;D;Orquesta;LOS SATÉLITES;Castañeda, Arzúa;A Coruña;Acompañados del Grupo Nebraska. 
+12465;7;7;13;D;Grupo;NEBRASKA;Castañeda, Arzúa;A Coruña;Acompañados de la Orquesta Los Satélites. 
+11860;7;7;13;D;Orquesta;ALIANZA;Casteda, Chantada;Lugo;
+7961;7;7;13;D;Orquesta;OLYMPUS RED TOUR;Coia, Vigo;Pontevedra;Alternando con Salsa Rosa. 
+13070;7;7;13;D;Orquesta;DOMINÓ;Colunga;Asturias;
+12705;7;7;13;D;Orquesta;CENIZA;Coucieiro, Muxia;A Coruña;
+10391;7;7;13;D;Orquesta;MIRAMAR;Dimo, Catoira;Pontevedra;Acompañados de la Orquesta Charleston Big-Band. 
+11117;7;7;13;D;Orquesta;CHARLESTON BIG-BAND;Dimo, Catoira;Pontevedra;Acompañados de la Orquesta Miramar. 
+12736;7;7;13;D;Grupo;ASSIA;Fitoria, Oviedo;Asturias;
+11580;7;7;13;D;Orquesta;PARIS DE NOIA;Guntín;Lugo;Noche. 
+8282;7;7;13;D;Orquesta;TELEVISIÓN;Lieiro, Cervo;Lugo;Acompañados de Orquesta PALLADIUM. 
+8283;7;7;13;D;Orquesta;PALLADIUM;Lieiro, Cervo;Lugo;Acompañados de Orquesta TELEVISION. 
+11908;7;7;13;D;Orquesta;EL COMBO DOMINICANO;Logrosa, Negreira;A Coruña;Acompañados del Grupo Channel. 
+12969;7;7;13;D;Grupo;CHANNEL;Logrosa, Negreira;A Coruña;Acompañados de la Orquesta El Combo Dominicano. 
+12917;7;7;13;D;Orquesta;VENEZIA;Melide;Lugo;
+11200;7;7;13;D;Grupo;ALVEIN;Moscoso, Pazos de Borbén;Pontevedra;Acompañados del Grupo Nuves. 
+11403;7;7;13;D;Grupo;BUMERANG;Mosteiro de Santa María de Monfero, Monfero;A Coruña;Romeria da Virxe da Cela. 
+12563;7;7;13;D;Dúo;CALÚ;Mosteiro de Santa María de Monfero, Monfero;A Coruña;ANULADA. La Fiesta de la Romería da Cela, queda anulada.... 
+11868;7;7;13;D;Orquesta;EMPERADORES;Mourazos, Verín;Ourense;
+11824;7;7;13;D;Orquesta;GRAN CASINO;Muimenta, Cospeito;Lugo;
+12412;7;7;13;D;Orquesta;PRINCIPAL;Neaño, Cabana de Bergantiños;A Coruña;Sesión vermú. 
+11794;7;7;13;D;Orquesta;PANAMA;O Carballal, Santiago de Compostela;A Coruña;
+12823;7;7;13;D;Grupo;ALKAR;O Mosteiro, Meis;Pontevedra;
+12109;7;7;13;D;Orquesta;METRÓPOLIS;Outeiro de Rei;Lugo;Acompañados de la Orquesta Jerusalén. 
+12753;7;7;13;D;Orquesta;FANIA BLANCO SHOW;Oza dos Rios, Oza dos Rios;A Coruña;Sesión vermú y noche. 
+11166;7;7;13;D;Charanga;MEKANIKA;Paiosaco, Laracha;A Coruña;Animaremola festa pola maña :). 
+12480;7;7;13;D;Grupo;SAMBA;Paiosaco, Laracha;A Coruña;
+12554;7;7;13;D;Orquesta;NUEVA BANDA;Pamplona;Navarra;San Fermines. 
+10742;7;7;13;D;Orquesta;COSTA DORADA;Peña, Lugo;Lugo;San Xoán de Peña. Sesión vermú y noche. 
+11544;7;7;13;D;Orquesta;PANORAMA;Piedras Blancas, Castrillon;Asturias;A partir de las 22:00h. 
+12365;7;7;13;D;Orquesta;CAPITOL;Pontecesures;Pontevedra;A partir de las 22:00h. Con Hugo y Yadira. 
+12733;7;7;13;D;Grupo;ACIREMA;Rubiá;Ourense;A partir de las 22:00h. 
+9642;7;7;13;D;Solista;TANIA Y SU ACORDEÓN;S.F. Estilo, Oviedo;Asturias;Calle Joaquina Bobela, 8, Oviedo. 
+12317;7;7;13;D;Orquesta;ARMONÍA SHOW;S.F. La Luna, Cerponzóns;Pontevedra;
+10967;7;7;13;D;Orquesta;MARBELLA;Sabucedo, A Estrada;Pontevedra;Acompañados de la Orquesta Chicago. 
+19474;7;7;13;D;Dúo;MERITXELL;Salgueiras, Villanueva de Oscos;Asturias;
+12565;7;7;13;D;Orquesta;NEVADA;San Claudio, Ortigueira;A Coruña;A las 13:00h. 
+11134;7;7;13;D;Orquesta;ACORDES;San Xulián da Veiga, Sarria;Lugo;
+12258;7;7;13;D;Dúo;CARAMELO;Santaia de Gorgullos, Tordoia;A Coruña;
+11665;7;7;13;D;Trío;AZAR;Santo Estevo de Budiño, O Porriño;Pontevedra;
+11018;7;7;13;D;Orquesta;GRAN PARADA;Sobrado do Bispo, Barbadás;Ourense;Disco Movil. 22:30 horas. 
+11694;7;7;13;D;Orquesta;SOLARA;Soñar, Lugo;Lugo;
+12505;7;7;13;D;Orquesta;GALILEA;Taíde, Sarria;Lugo;
+12882;7;7;13;D;Orquesta;TANGO;Terroso, Vilardevós;Ourense;
+12000;7;7;13;D;Orquesta;ABANICO;Vilacova, Abegondo;A Coruña;
+10659;7;7;13;D;Orquesta;SAUDADE;Vilalonga, Sanxenxo;Pontevedra;A partir de las 22:00h. Acompañados de la Orquesta Alabama. 
+12388;7;7;13;D;Orquesta;ALABAMA SHOW;Vilalonga, Sanxenxo;Pontevedra;
+10733;7;7;13;D;Grupo;ARAMIO;Vilaza, Gondomar;Pontevedra;
+11503;7;7;13;D;Orquesta;RITMO JOVEN;Villadecanes, Toral de los Vados;León;
+12121;7;7;13;D;Charanga;FUEGO;Villaderrey, Trasmiras;Ourense;Horario matinal. 
+11648;7;7;13;D;Dúo;ECLIPSE;Xemil, Pastoriza;Lugo;Sesión matinal. 
+11390;8;7;13;L;Grupo;D´MODA;A Manchica, A Merca;Ourense;Santa Isabel. A partir de las 23:30h. 
+11145;8;7;13;L;Orquesta;COSTA DORADA;A Peroxa;Ourense;
+11333;8;7;13;L;Orquesta;MARAZUL;A Picoña, Salceda de Caselas;Pontevedra;Sesión vermú y noche acompañados de la Orquesta Ciudadevigo. 
+11334;8;7;13;L;Orquesta;CIUDADEVIGO;A Picoña, Salceda de Caselas;Pontevedra;Noche. Acompañados de la Orquesta Marazul. 
+12052;8;7;13;L;Orquesta;PASSARELA;Bedriñana, Villaviciosa;Asturias;
+11528;8;7;13;L;Orquesta;PARIS DE NOIA;Boiro;A Coruña;Acompañados de la Orquesta Sintonía De Vigo. 
+7963;8;7;13;L;Orquesta;PANORAMA;Coia, Vigo;Pontevedra;A partir de las 21:00h. Alternando con Pontevedra. 
+7964;8;7;13;L;Orquesta;PONTEVEDRA;Coia, Vigo;Pontevedra;A partir de las 21:00h. Alternando con Panorama. 
+12450;8;7;13;L;Orquesta;LOS SATÉLITES;Collado, Siero;Asturias;
+11581;8;7;13;L;Orquesta;GRAN PARADA;Guntín;Lugo;Noche. 
+11582;8;7;13;L;Grupo;PEKADOS;Guntín;Lugo;Sesión vermú. 
+11635;8;7;13;L;Grupo;TEKILA;Lieiro, Cervo;Lugo;
+11933;8;7;13;L;Orquesta;CHARLESTON BIG-BAND;Liñares, Avión;Ourense;
+11834;8;7;13;L;Grupo;CLAXXON;Logrosa, Negreira;A Coruña;
+12037;8;7;13;L;Orquesta;TELEVISIÓN;Mosende, O Porriño;Pontevedra;
+11285;8;7;13;L;Charanga;DGT;Oza dos Rios, Oza dos Rios;A Coruña;Tarde. 
+11909;8;7;13;L;Orquesta;EL COMBO DOMINICANO;Oza dos Rios, Oza dos Rios;A Coruña;Acompañados de la Orquesta Marbella. 
+12093;8;7;13;L;Orquesta;MARBELLA;Oza dos Rios, Oza dos Rios;A Coruña;Acompañados de la Orquesta El Combo Dominicano. 
+11589;8;7;13;L;Orquesta;OLYMPUS RED TOUR;Pontecesures;Pontevedra;Acompañados del Grupo Assia. 
+11590;8;7;13;L;Grupo;ASSIA;Pontecesures;Pontevedra;Acompañados de la Orquesta Olympus. 
+11472;8;7;13;L;Orquesta;ARMONÍA SHOW;Tabeaio, Carral;A Coruña;Acompañados de la Orquesta Aché. 
+12706;8;7;13;L;Orquesta;CINEMA;Taíde, Sarria;Lugo;
+11136;8;7;13;L;Orquesta;ACORDES;Tiñana, Siero;Asturias;
+12491;8;7;13;L;Orquesta;TRIUNFO;Xunqueira de Espadanedo;Ourense;20:30 hrs. 
+11529;9;7;13;M;Orquesta;CHARLESTON BIG-BAND;Boiro;A Coruña;A partir de las 22:30h. Acompañados de la Orquesta Costa Oeste. 
+11545;9;7;13;M;Orquesta;PANORAMA;Carnés, Vimianzo;A Coruña;Acompañados de la Orquesta El Combo Dominicano. 
+11546;9;7;13;M;Orquesta;EL COMBO DOMINICANO;Carnés, Vimianzo;A Coruña;Acompañados de la Orquesta Panorama. 
+7956;9;7;13;M;Orquesta;PARIS DE NOIA;Coia, Vigo;Pontevedra;Alternando con Filadelfia. 
+12225;9;7;13;M;Orquesta;AZABACHE;Santa María del Berrocal;Ávila;
+12070;10;7;13;X;Orquesta;ARMONÍA SHOW;A Sionlla, A Enfesta, Santiago de Compostela;A Coruña;A las 22:30h. 
+11035;10;7;13;X;Orquesta;FANIA BLANCO SHOW;Baio, Zas;A Coruña;Acompañados de la Orquesta Paris De Noia. 
+11036;10;7;13;X;Orquesta;PARIS DE NOIA;Baio, Zas;A Coruña;Acompañados de la Orquesta Fania Blanco Show. 
+11531;10;7;13;X;Orquesta;MARBELLA;Boiro;A Coruña;Acompañados de la Orquesta Panorama. 
+11532;10;7;13;X;Orquesta;PANORAMA;Boiro;A Coruña;Acompañados de la Orquesta Marbella. 
+12204;10;7;13;X;Grupo;D´MODA;Borraxeiros, Agolada;Pontevedra;Acompañados de la Orquesta Israel. 
+12318;10;7;13;X;Orquesta;ISRAEL;Borraxeiros, Agolada;Pontevedra;
+7906;10;7;13;X;Charanga;BCB;Cabeza de Vaca, Ourense;Ourense;Tarde-Noite. 
+11985;10;7;13;X;Orquesta;FIN DE SIGLO;Cabeza de Vaca, Ourense;Ourense;
+12327;10;7;13;X;Grupo;CICLÓN;Carnés, Vimianzo;A Coruña;22:30h. Acompañados de la Orquesta Xente Nova. 
+12581;10;7;13;X;Orquesta;GRAN PARADA;Cea, San Cristovo de Cea;Ourense;23:00 horas. 
+11910;10;7;13;X;Orquesta;EL COMBO DOMINICANO;Corzon, Mazaricos;A Coruña;Acompañados del Grupo Samba. 
+12481;10;7;13;X;Grupo;SAMBA;Corzon, Mazaricos;A Coruña;Acompañados de la Orquesta El Combo Dominicano. 
+12010;10;7;13;X;Orquesta;GALILEA;Cubillos del Sil;León;
+10955;10;7;13;X;Orquesta;TRIUNFO;Figueirido, Vilaboa;Pontevedra;22:00 hrs. Acompañados de la Orquesta Chicago. 
+11669;10;7;13;X;Orquesta;TREBOL;Gondomar;Pontevedra;Acompañados del Grupo Futuro. 
+11879;10;7;13;X;Orquesta;XACOBEO;Lema, Carballo;A Coruña;
+12466;10;7;13;X;Grupo;NEBRASKA;Mallón, Santa Comba;A Coruña;
+12566;10;7;13;X;Orquesta;NEVADA;Moaña;Pontevedra;A las 22:00h. 
+12271;10;7;13;X;Orquesta;LOS TROVADORES;Monterroso;Lugo;
+11591;10;7;13;X;Orquesta;OLYMPUS RED TOUR;O Eixo, Santiago de Compostela;A Coruña;Acompañados del Grupo Funçao Publika. 
+11592;10;7;13;X;Grupo;FUNÇAO PUBLIKA;O Eixo, Santiago de Compostela;A Coruña;Acompañados de la Orquesta Olympus. 
+11182;10;7;13;X;Orquesta;PONTEVEDRA;O Mosteiro, Meis;Pontevedra;A partir de las 21:30h. Acompañados de la Orquesta Filadelfia. 
+11150;10;7;13;X;Orquesta;RITMO JOVEN;O Porriño;Pontevedra;
+12971;10;7;13;X;Grupo;CHANNEL;Reis, Teo;A Coruña;San Cristovo de Reis. Acompañados de la Orquesta Aché. 
+12413;10;7;13;X;Orquesta;PRINCIPAL;Villadecanes, Toral de los Vados;León;
+12353;11;7;13;J;Orquesta;SUAVECITO;A Quinza, Ribadavia;Ourense;
+12414;11;7;13;J;Orquesta;PRINCIPAL;Arbo;Pontevedra;Acompañados del Grupo D´Momento. 
+13005;11;7;13;J;Orquesta;NUEVA BANDA;Arévalo;Ávila;
+11986;11;7;13;J;Orquesta;FIN DE SIGLO;As Ermitas, Salvaterra;Pontevedra;
+11038;11;7;13;J;Orquesta;EL COMBO DOMINICANO;Baio, Zas;A Coruña;Acompañados de la Orquesta Nueva Generación. 
+11670;11;7;13;J;Orquesta;TREBOL;Borraxeiros, Agolada;Pontevedra;Acompañados de la Orquesta Superfama. 
+12319;11;7;13;J;Orquesta;SUPERFAMA;Borraxeiros, Agolada;Pontevedra;Acompañados de la Orquesta Trebol. 
+11835;11;7;13;J;Grupo;CLAXXON;Cabeza de Vaca, Ourense;Ourense;Acompañados del Grupo La Oca. 
+11181;11;7;13;J;Orquesta;OLYMPUS RED TOUR;Camposancos, Avión;Ourense;A partir de las 22:30h. Acompañados de la Orquesta Filadelfia. 
+12073;11;7;13;J;Orquesta;ARMONÍA SHOW;Carnés, Vimianzo;A Coruña;Acompañados del Grupo Atenas. 
+12235;11;7;13;J;Grupo;ATENAS;Carnés, Vimianzo;A Coruña;Acompañados de la Orquesta Armonia Show. 
+12911;11;7;13;J;Charanga;BCB;Cortegada;Ourense;
+12492;11;7;13;J;Orquesta;TRIUNFO;Corzón, Mazaricos;A Coruña;22:00 hrs. 
+11695;11;7;13;J;Orquesta;SOLARA;Domaio, Moaña;Pontevedra;Acompañados de la Orquesta Passarela. 
+12054;11;7;13;J;Orquesta;PASSARELA;Domaio, Moaña;Pontevedra;Acompañados de la Orquesta Solara. 
+11473;11;7;13;J;Orquesta;MIRAMAR;Figueirido, Vilaboa;Pontevedra;Acompañados de la Orquesta Aché. 
+11934;11;7;13;J;Orquesta;CHARLESTON BIG-BAND;Golmar, A Laracha;A Coruña;
+12207;11;7;13;J;Grupo;D´MODA;Gondomar;Pontevedra;Acompañados de la Orquesta Los Trovadores. 
+12273;11;7;13;J;Orquesta;LOS TROVADORES;Gondomar;Pontevedra;Acompañados del Grupo D´Moda. 
+11614;11;7;13;J;Orquesta;PARIS DE NOIA;Laias, Cenlle;Ourense;Alternamos con Metropolis y la fiesta está para las 11.00h. 
+12111;11;7;13;J;Orquesta;METRÓPOLIS;Laias, Cenlle;Ourense;Acompañados de la Orquesta Paris De Noia. 
+11647;11;7;13;J;Grupo;TEKILA;Nava;Asturias;
+7692;11;7;13;J;Charanga;MEKANIKA;Negreira;A Coruña;animaremos as estupendas festas de san cristovo de negreira na tarde noite. 
+12737;11;7;13;J;Grupo;ASSIA;Negreira;A Coruña;
+12341;11;7;13;J;Orquesta;CAPITOL;O Eixo, Santiago de Compostela;A Coruña;Acompañados de la Orquesta Impacto. 
+12802;11;7;13;J;Orquesta;PALLADIUM;O Freixo, Outes;A Coruña;
+13017;11;7;13;J;Charanga;BB+;O Montillón, A Estrada;Pontevedra;Estaremos animando as festas apartir das 18h. 
+12328;11;7;13;J;Grupo;CICLÓN;Reis, Teo;A Coruña;22:30h. Acompañados de la Orquesta Cinema. 
+12371;11;7;13;J;Orquesta;CINEMA;Reis, Teo;A Coruña;A las 22:30h. Acompañados del Grupo Ciclón. 
+12094;11;7;13;J;Orquesta;MARBELLA;Romariz, Soutomaior;Pontevedra;Acompañados de la Orquesta Millenium. 
+10308;11;7;13;J;Orquesta;TELEVISIÓN;San Benito da Veiga, Pereiro de Aguiar;Ourense;
+9595;11;7;13;J;Orquesta;FANIA BLANCO SHOW;San Benito, Santiso;A Coruña;Acompañados de Oceano. 
+11299;11;7;13;J;Orquesta;PANORAMA;San Pedro de Muro, Porto do Son;A Coruña;A partir de las 23:00h. 
+11649;11;7;13;J;Dúo;ECLIPSE;Souto, San Cristovo de Cea;Ourense;Sesión matinal e noite acompañados por Orquesta Delirio. 
+12562;11;7;13;J;Charanga;FUEGO;Verín;Ourense;Inauguración Tapería A PALLEIRA. 
+11880;11;7;13;J;Orquesta;XACOBEO;Vide, As Neves;Pontevedra;
+12782;11;7;13;J;Orquesta;TANGO;Vilar de Infesta, Redondela;Pontevedra;22h aprox. Acompañados de la Orquesta Ismael. 
+12159;12;7;13;V;Orquesta;VERSIÓN ORIGINAL;Agones, Pravia;Asturias;
+11014;12;7;13;V;Trío;AZAR;Avenida de Beiramar, 251, Vigo;Pontevedra;S.F. Olimpo. Noche. 
+11215;12;7;13;V;Orquesta;ACORDES;Careñes, Villaviciosa;Asturias;
+11615;12;7;13;V;Orquesta;PARIS DE NOIA;Carnés, Vimianzo;A Coruña;No disponemos de más información. 
+13081;12;7;13;V;Charanga;BCB;Cortegada;Ourense;
+11927;12;7;13;V;Orquesta;PONTEVEDRA;Cubillos del Sil;León;
+12390;12;7;13;V;Orquesta;ALABAMA SHOW;Domaio, Moaña;Pontevedra;Acompañados de la Orquesta Tango. 
+12883;12;7;13;V;Orquesta;TANGO;Domaio, Moaña;Pontevedra;Acompañados del Grupo Alabama Show. 
+11671;12;7;13;V;Orquesta;TREBOL;Donalbai, Begonte;Lugo;Sesión vermú y noche. 
+13029;12;7;13;V;Orquesta;DOMINÓ;El Pascón, Tineo;Asturias;
+13025;12;7;13;V;Grupo;LA SEÑAL;El Puente, Galende;Zamora;Concentración de motos de El Lago de Sanabria. 
+11981;12;7;13;V;Orquesta;MARBELLA;Figueirido, Vilaboa;Pontevedra;A las 22:00h. Acompañados de la Orquesta Sintonía De Vigo. 
+12913;12;7;13;V;Orquesta;VENEZIA;Friol;Lugo;
+12567;12;7;13;V;Dúo;CALÚ;Golmar, A Laracha;A Coruña;Sesión Vermouth a partir de las 14:00 hrs. 
+12648;12;7;13;V;Orquesta;FANIA BLANCO SHOW;Golmar, A Laracha;A Coruña;Gran Verbena a partir de las 22:00h. Acompañados por el Dúo Calú y la Disco Móvil Movemento. 
+12590;12;7;13;V;Orquesta;COMPOSTELA;Gondomar;Pontevedra;
+12329;12;7;13;V;Grupo;CICLÓN;Laias, Cenlle;Ourense;23:00h. Acompañados del Grupo America Sl. 
+12372;12;7;13;V;Grupo;AMERICA SL;Laias, Cenlle;Ourense;A las 23:00h. Acompañados del Grupo Ciclón. 
+11911;12;7;13;V;Orquesta;EL COMBO DOMINICANO;Leiloio, Malpica de Bergantiños;A Coruña;Acompañados del Grupo Atenas. 
+12927;12;7;13;V;Grupo;ATENAS;Leiloio, Malpica de Bergantiños;A Coruña;Acompañados con El Combo Dominicano. 
+12980;12;7;13;V;Orquesta;CAPITOL;Leiro, Abegondo;A Coruña;
+11696;12;7;13;V;Orquesta;SOLARA;Lores, Meaño;Pontevedra;Acompañados del Grupo Hiroshima. 
+11348;12;7;13;V;Orquesta;PANORAMA;Mesía;A Coruña;A partir de las 22:30h. Acompañados del Grupo Metrópolis. 
+11349;12;7;13;V;Orquesta;METRÓPOLIS;Mesía;A Coruña;A partir de las 22:30h. Acompañados de la Orquesta Panorama. 
+12467;12;7;13;V;Grupo;NEBRASKA;Moldes, Boborás;Ourense;Acompañados de la Orquesta Los Españoles. 
+12709;12;7;13;V;Orquesta;LOS ESPAÑOLES;Moldes, Boborás;Ourense;Acompañados del Grupo Nebraska. 
+11593;12;7;13;V;Orquesta;OLYMPUS RED TOUR;Negreira;A Coruña;Acompañados de la Orquesta Ledicia. 
+11805;12;7;13;V;Grupo;AMÉRICA DE VIGO;O Eixo, Santiago de Compostela;A Coruña;Acompañados de la Orquesta Suavecito. 
+12354;12;7;13;V;Orquesta;SUAVECITO;O Eixo, Santiago de Compostela;A Coruña;Acompañados del Grupo América De Vigo. 
+12684;12;7;13;V;Orquesta;CHARLESTON BIG-BAND;Parada, Ordes;A Coruña;Acompañados de la Orquesta Gran Parada. 
+12685;12;7;13;V;Orquesta;GRAN PARADA;Parada, Ordes;A Coruña;Acompañados de la Orquesta Charleston Big-Band. 
+12739;12;7;13;V;Grupo;ASSIA;Perlora, Carreño;Asturias;Acompañados de la Orquesta Ismael. 
+9220;12;7;13;V;Charanga;MEKANIKA;Quintela de Leirado;Ourense;Estaremos pola tarde noite animando as festas deste lugar. 
+12708;12;7;13;V;Orquesta;CINEMA;Regadío, Antas de Ulla;Lugo;
+13063;12;7;13;V;Grupo;RÁFAGA;S.F. Estilo, Oviedo;Asturias;A partir de las 23:00h. Presentando nuevo disco. Espacio Estilo. Oviedo. 
+12998;12;7;13;V;Grupo;SONIDO LEÓN;Salas de Bureba;Burgos;
+10975;12;7;13;V;Orquesta;MIRAMAR;San Benito da Veiga, Pereiro de Aguiar;Ourense;
+11861;12;7;13;V;Orquesta;ALIANZA;Silleda;Pontevedra;Acompañados de la Orquesta Emperadores!!. 
+11869;12;7;13;V;Orquesta;EMPERADORES;Silleda;Pontevedra;Acompañados de la Orquesta Alianza. 
+12055;12;7;13;V;Orquesta;PASSARELA;Sobrado;León;
+12493;12;7;13;V;Orquesta;TRIUNFO;Soesto, Laxe;A Coruña;22:00 hrs. 
+13013;12;7;13;V;Orquesta;PANAMA;Torres, Vilarmaior;A Coruña;Pub Menguxo. 
+12226;12;7;13;V;Orquesta;AZABACHE;Valoria la Buena;Valladolid;
+12071;12;7;13;V;Orquesta;ARMONÍA SHOW;Vilaboa, Culleredo;A Coruña;A las 23:00h. 
+12657;12;7;13;V;Grupo;LIMÓN;Vilariño de Conso;Ourense;
+12275;12;7;13;V;Orquesta;LOS TROVADORES;Villanueva, Valdés;Asturias;Sesión tarde/noche. 
+11201;13;7;13;S;Orquesta;MARAZUL;A Baíña;Pontevedra;Acompañados del Grupo Ráfaga. 
+11202;13;7;13;S;Grupo;RÁFAGA;A Baíña;Pontevedra;Acompañados de la Orquesta Marazul. 
+11547;13;7;13;S;Orquesta;PANORAMA;A Cañiza;Pontevedra;A partir de las 22:30h. Acompañados del Grupo Alcazar. 
+12932;13;7;13;S;Dúo;CHIC;A Lanzada, Sanxenxo;Pontevedra;Boda. 
+12330;13;7;13;S;Grupo;CICLÓN;A Sionlla, A Enfesta, Santiago de Compostela;A Coruña;22:30h. Acompañados del Grupo Zeltia. 
+13397;13;7;13;S;Grupo;ZELTIA;A Sionlla, A Enfesta, Santiago de Compostela;A Coruña;22:30h. Acompañados del Grupo Zeltia. Acompañados del Grupo Ciclón. 
+11765;13;7;13;S;Orquesta;PASSARELA;Aguiño, Ribeira;A Coruña;Noche. Acompañados del Trío Soprano. 
+11090;13;7;13;S;Orquesta;PONTEVEDRA;Alcabre, Vigo;Pontevedra;Acompañados de la Orquesta Nueva Generación. 
+13016;13;7;13;S;Orquesta;GRAN CASINO;Amil, Moraña;Pontevedra;
+12277;13;7;13;S;Orquesta;LOS TROVADORES;Cabreiros, Xermade;Lugo;Santa Mariña de Cabreiros. Acompañados de la Orquesta Los Españoles. 
+12303;13;7;13;S;Orquesta;LOS ESPAÑOLES;Cabreiros, Xermade;Lugo;Santa Mariña de Cabreiros. Acompañados de la Orquesta Los Trovadores. 
+12205;13;7;13;S;Orquesta;LOS PLAYERS;Cangas, Foz;Lugo;
+8914;13;7;13;S;Dúo;LA HORA BRUJA;Cariño;A Coruña;Tocaremos durante una comida vecinal hasta las 7 aproximadamente. LA NOCHE NOS QUEDA LIBRE. 
+12415;13;7;13;S;Orquesta;PRINCIPAL;Castelo de Pallares, Guntín;Lugo;Sesión vermú. 
+11216;13;7;13;S;Orquesta;ACORDES;Chaioso, Maceda;Ourense;
+11836;13;7;13;S;Grupo;CLAXXON;Cortegada;Ourense;Acompañados de la Orquesta Versalles. 
+9426;13;7;13;S;Disco Móvil;BLANCO Y NEGRO;Couxela, Ribadeo;Lugo;
+12038;13;7;13;S;Orquesta;TELEVISIÓN;Cubillos del Sil;León;
+11435;13;7;13;S;Grupo;FUSIÓN;Curtis;A Coruña;Vermut y noche. 
+8503;13;7;13;S;Solista;TANIA Y SU ACORDEÓN;Deiro, Vilanova de Arousa;Pontevedra;San Miguel de Deiro. 
+12591;13;7;13;S;Orquesta;COMPOSTELA;Donalbai, Begonte;Lugo;
+11224;13;7;13;S;Orquesta;ALIANZA;El Berrón, Siero;Asturias;Acompañados de la Orquesta Limite!!. 
+13026;13;7;13;S;Grupo;LA SEÑAL;El Puente, Galende;Zamora;Concentración de motos de El Lago de Sanabria. 
+12679;13;7;13;S;Orquesta;RITMO JOVEN;Ferrol;A Coruña;Club suboficiales. 
+11336;13;7;13;S;Orquesta;CIUDADEVIGO;Fornelos, Salvaterra de Miño;Pontevedra;Noche. Acompañados de la Orquesta Solamérica. 
+12095;13;7;13;S;Orquesta;MARBELLA;Friol;Lugo;Acompañados del Grupo Atenas. 
+12236;13;7;13;S;Grupo;ATENAS;Friol;Lugo;Acompañados de la Orquesta Marbella. 
+12759;13;7;13;S;Orquesta;MIRAMAR;La Placa, Ponferrada;León;
+12700;13;7;13;S;Orquesta;EMPERADORES;Leiloio, Malpica de Bergantiños;A Coruña;
+12355;13;7;13;S;Orquesta;SUAVECITO;Leiro, Abegondo;A Coruña;
+12571;13;7;13;S;Dúo;CALÚ;Lourido, San Tirso de Abres;Asturias;Verbena a partir de las 22:30 hrs. Acercateeee!!!!. 
+12740;13;7;13;S;Grupo;ASSIA;Luanco, Gozón;Asturias;
+11636;13;7;13;S;Grupo;TEKILA;Meirás, Valdoviño;A Coruña;Acompañados del Grupo Samba. 
+12482;13;7;13;S;Grupo;SAMBA;Meirás, Valdoviño;A Coruña;Acompañados del Grupo Tekila. 
+11350;13;7;13;S;Orquesta;ARMONÍA SHOW;Mesía;A Coruña;Acompañados de la Orquesta Chicas Show. 
+7610;13;7;13;S;Grupo;AMÉRICA DE VIGO;Mugardos;A Coruña;Gran verbena con motivo de la fiesta del pulpo de Mugardos, actuaremos solos a partir de las 22:30h. 
+12138;13;7;13;S;Grupo;ARAMIO;Muros;A Coruña;
+7693;13;7;13;S;Charanga;MEKANIKA;Negreira;A Coruña;animaremolas festas de san cristovo de negreira...espectaculo e diversion coa mekanika 2013. 
+8419;13;7;13;S;Orquesta;CAPITOL;Negreira;A Coruña;Alternamos con Orquesta Abanico. 
+8420;13;7;13;S;Orquesta;ABANICO;Negreira;A Coruña;Alternamos con Orquesta Capitol. 
+10667;13;7;13;S;Orquesta;PARIS DE NOIA;O Grove;Pontevedra;Alternamos con Grupo Pikante. 
+11232;13;7;13;S;Trío;AREAL;O Serro, O Barco de Valdeorras;Ourense;
+11795;13;7;13;S;Orquesta;PANAMA;Oseiro, Arteixo;A Coruña;Acompañados del Grupo Alkar. 
+13145;13;7;13;S;Grupo;ALKAR;Oseiro, Arteixo;A Coruña;Acompañados de la Orquesta Panamá. 
+13040;13;7;13;S;Dúo;MERITXELL;Ourense;Ourense;Noche. 
+10788;13;7;13;S;Charanga;TNT;Oza, Teo;A Coruña;Celebración do V ANIVERSARIO CHARANGA TNT. 
+12951;13;7;13;S;Orquesta;TRIUNFO;Parada, Ordes;A Coruña;Sesión vermú y verbena a partir de las 22:30h. 
+12754;13;7;13;S;Orquesta;FANIA BLANCO SHOW;Peiro de Abaixo, Culleredo;A Coruña;Sesión vermú y noche. 
+12568;13;7;13;S;Orquesta;NEVADA;Peñausende;Zamora;A las 23:00h. 
+13030;13;7;13;S;Orquesta;DOMINÓ;Perlora, Carreño;Asturias;
+11747;13;7;13;S;Orquesta;ESCAPARATE;Pezobre, Santiso;A Coruña;
+12084;13;7;13;S;Orquesta;COSTA BLANCA;Pías, Ponteareas;Pontevedra;
+7760;13;7;13;S;Grupo;LECER;Piñeiro, Ribadeo;Lugo;Festas do Carmen. Vermú e noite, acompañados de
+11697;13;7;13;S;Orquesta;SOLARA;Ponte Sampaio, Pontevedra;Pontevedra;Acompañados de la Orquesta Ismael. 
+11274;13;7;13;S;Grupo;KALIMA 3.0;Porto, Coaña;Asturias;
+12146;13;7;13;S;Orquesta;XACOBEO;Prado, Muíños;Ourense;
+12208;13;7;13;S;Grupo;D´MODA;Premoño, Las Regueras;Asturias;
+12873;13;7;13;S;Orquesta;VENEZIA;Quembre, Carral;A Coruña;Sesión vermú y verbena. 
+11596;13;7;13;S;Orquesta;OLYMPUS RED TOUR;Quintela de Leirado;Ourense;Acompañados de la Orquesta Ledicia. 
+12702;13;7;13;S;Orquesta;ISRAEL;Rianxo;A Coruña;Festas do Carme. A partir das 22:30h. Acompañados do Grupo Futuro. 
+13147;13;7;13;S;Grupo;GALAXIA;San Martín de Oscos;Asturias;Acompañados de la Orquesta Jerusalén. 
+12723;13;7;13;S;Orquesta;CENIZA;San Paio dos Redos, Cospeito;Lugo;
+11987;13;7;13;S;Orquesta;FIN DE SIGLO;San Vicente de Leira, Vilamartín de Valdeorras;Ourense;
+12656;13;7;13;S;Orquesta;PALLADIUM;Santa Cilla do Valadouro, Foz;Lugo;Acompañados de la Orquesta Magos De España. 
+12391;13;7;13;S;Orquesta;ALABAMA SHOW;Santa Eulalia, Meaño;Pontevedra;
+12451;13;7;13;S;Orquesta;LOS SATÉLITES;Santa Mariña, Guitiriz;Lugo;Acompañados de la Orquesta Odeón. 
+11672;13;7;13;S;Orquesta;TREBOL;Sergude, Boqueixón;A Coruña;Sesión vermú y noche. Acompañados de la Orquesta Tango. 
+11687;13;7;13;S;Orquesta;TANGO;Sergude, Boqueixón;A Coruña;Sesión vermú y noche. Acompañados de la Orquesta Trebol. 
+13019;13;7;13;S;Grupo;AMERICA SL;Soesto, Laxe;A Coruña;
+12227;13;7;13;S;Orquesta;AZABACHE;Soto de Cangas, Cangas de Onís;Asturias;
+12160;13;7;13;S;Orquesta;VERSIÓN ORIGINAL;Sotrondio, San Martín del Rey Aurelio;Asturias;
+12260;13;7;13;S;Dúo;CARAMELO;Tablado de Riviella, Tineo;Asturias;
+12929;13;7;13;S;Trío;ORQUÍDEA;Toques;A Coruña;Fiesta privada en Hotel Xaneiro. 
+11867;13;7;13;S;Orquesta;COSTA DORADA;Turbisquedo, A Peroxa;Ourense;
+7871;13;7;13;S;Orquesta;FOLIADA D´ASES;Úbeda, A Pastoriza;Lugo;
+12582;13;7;13;S;Orquesta;GRAN PARADA;Vega de Espinareda;León;21:00 horas. 
+12011;13;7;13;S;Orquesta;GALILEA;Vilariño de Conso;Ourense;
+10723;13;7;13;S;Trío;AZAR;Vilariño, Cambados;Pontevedra;Noche a las 22:00. 
+12376;13;7;13;S;Orquesta;CINEMA;Vilariño, Teo;A Coruña;
+12112;13;7;13;S;Orquesta;METRÓPOLIS;Vilarrodís, Arteixo;A Coruña;Acompañados de la Orquesta Costa Oeste. 
+11650;13;7;13;S;Dúo;ECLIPSE;Vilela, A Rúa;Ourense;Noite. 
+11658;13;7;13;S;Orquesta;TOKIO;Vilela, Taboada;Lugo;Vermouth 13.30h 
+12468;13;7;13;S;Grupo;NEBRASKA;Villanueva, Valdés;Asturias;
+11912;13;7;13;S;Orquesta;EL COMBO DOMINICANO;Xavestre, Trazo;A Coruña;Acompañados de la Orquesta Estrellamar. 
+11998;13;7;13;S;Orquesta;ESTRELLAMAR;Xavestre, Trazo;A Coruña;Vermú y noche, acompañados de la Orquesta El Combo Dominicano. 
+12760;14;7;13;D;Orquesta;MIRAMAR;A Cañiza;Pontevedra;
+12331;14;7;13;D;Grupo;CICLÓN;A Silva, Cerceda;A Coruña;22:30h. Acompañados de la Orquesta Filadelfia. 
+12001;14;7;13;D;Orquesta;ABANICO;Abellá, Frades;A Coruña;Alternamos con Treixadura. 
+12981;14;7;13;D;Orquesta;CAPITOL;Aguiño, Ribeira;A Coruña;Acompañados del Grupo Alcazar. 
+11092;14;7;13;D;Orquesta;MARBELLA;Alcabre, Vigo;Pontevedra;Acompañados del Grupo Limón. 
+11093;14;7;13;D;Grupo;LIMÓN;Alcabre, Vigo;Pontevedra;Acompañados de la Orquesta Marbella. 
+12569;14;7;13;D;Orquesta;NEVADA;Allariz;Ourense;A las 21:00h. 
+11673;14;7;13;D;Orquesta;TREBOL;Arzúa;A Coruña;Noche. 
+12592;14;7;13;D;Orquesta;COMPOSTELA;Baldráns, Tui;Pontevedra;Acompañados de la Orquesta Superfama. 
+12637;14;7;13;D;Orquesta;SUPERFAMA;Baldráns, Tui;Pontevedra;Acompañados de la Orquesta Compostela. 
+11217;14;7;13;D;Orquesta;ACORDES;Beán, Ordes;A Coruña;
+13108;14;7;13;D;Grupo;FUSIÓN;Betanzos;A Coruña;Vermut. 
+11659;14;7;13;D;Orquesta;TOKIO;Boizán, Vilalba;Lugo;Procesion. Vermouth 13.30h 
+12884;14;7;13;D;Orquesta;TANGO;Bueu;Pontevedra;Acompañados del Grupo Canela. 
+12885;14;7;13;D;Grupo;CANELA;Bueu;Pontevedra;Acompañados de la Orquesta Tango. 
+12540;14;7;13;D;Orquesta;LOS PLAYERS;Cabaleiros, Tordoia;A Coruña;
+11257;14;7;13;D;Orquesta;EMPERADORES;Cabreiros, Xermade;Lugo;
+11849;14;7;13;D;Charanga;MEKANIKA;Cangas del Narcea;Asturias;
+9454;14;7;13;D;Grupo;LECER;Cangas, Foz;Lugo;Vermú, a la noche acompañados de otra agrupación. 
+12237;14;7;13;D;Orquesta;FANIA BLANCO SHOW;Carracedo, Caldas de Reis;Pontevedra;Acompañados del Grupo Atenas. 
+12238;14;7;13;D;Grupo;ATENAS;Carracedo, Caldas de Reis;Pontevedra;Acompañados de la Orquesta Fania Blanco Show. 
+12416;14;7;13;D;Orquesta;PRINCIPAL;Cures, Boiro;A Coruña;
+12377;14;7;13;D;Orquesta;CINEMA;Feáns;A Coruña;
+12958;14;7;13;D;Orquesta;PANAMA;Ferreira, San Sadurniño;A Coruña;
+11212;14;7;13;D;Orquesta;MARAZUL;Fornelos, Salvaterra de Miño;Pontevedra;Alternamos con Nuves. 
+12012;14;7;13;D;Orquesta;GALILEA;Foz;Lugo;Plaza Conde Fontán. 
+11837;14;7;13;D;Grupo;CLAXXON;Friol;Lugo;Acompañados de la Orquesta Ceniza. 
+12268;14;7;13;D;Orquesta;CENIZA;Friol;Lugo;Acompañados del Grupo Claxxon. 
+12250;14;7;13;D;Orquesta;ESCAPARATE;Goó, O Incio;Lugo;
+8371;14;7;13;D;Solista;TANIA Y SU ACORDEÓN;Gueimonde, Pastoriza;Lugo;
+11928;14;7;13;D;Orquesta;PONTEVEDRA;La Placa, Ponferrada;León;
+12261;14;7;13;D;Dúo;CARAMELO;Laraxe, Cabanas;A Coruña;
+12982;14;7;13;D;Grupo;BUMERANG;Leiro, Abegondo;A Coruña;
+13104;14;7;13;D;Grupo;AMERICA SL;Lousame;A Coruña;
+11342;14;7;13;D;Grupo;TEKILA;Maniños, Fene;A Coruña;Fiestas del Carmen. Acompañados de la Orquesta Aché. 
+12972;14;7;13;D;Grupo;CHANNEL;Merín, Vedra;A Coruña;Solos. 
+12952;14;7;13;D;Orquesta;TRIUNFO;Mesía;A Coruña;A partir de las 22:30h. 
+11605;14;7;13;D;Orquesta;OLYMPUS RED TOUR;Moaña;Pontevedra;
+11806;14;7;13;D;Grupo;AMÉRICA DE VIGO;Muros;A Coruña;
+12477;14;7;13;D;Grupo;NEBRASKA;Nespereira, Sarria;Lugo;Acompañados de la Orquesta Gran Atlanta. 
+11551;14;7;13;D;Orquesta;PANORAMA;O Grove;Pontevedra;A partir de las 22:00h. Acompañados de la Orquesta La Bámbola. 
+11233;14;7;13;D;Trío;AREAL;O Serro, O Barco de Valdeorras;Ourense;
+11874;14;7;13;D;Solista;LUCÍA PÉREZ;Ocupado;Pontevedra;
+12056;14;7;13;D;Orquesta;PASSARELA;Orbán, Vilamarín;Ourense;
+12965;14;7;13;D;Charanga;OS ATREVIDOS;Orxal, O Pino;A Coruña;De mañan e de tarde estaremos na estrada. 
+12835;14;7;13;D;Orquesta;GRAN PARADA;Os Martores, Valga;Pontevedra;A las 22:00 horas. 
+12687;14;7;13;D;Orquesta;ALIANZA;Palas de Rei;Lugo;
+11698;14;7;13;D;Orquesta;SOLARA;Perlora, Carreño;Asturias;
+12930;14;7;13;D;Trío;ORQUÍDEA;Pezobre, Santiso;A Coruña;Fiestas de San Cristobal. 
+12356;14;7;13;D;Orquesta;SUAVECITO;Pías, Lugo;Lugo;San Vicente de Pías. 
+12543;14;7;13;D;Grupo;D´MODA;Plaza Estación, Monforte de Lemos;Lugo;
+10724;14;7;13;D;Trío;AZAR;Puente Sampayo, Arcade;Pontevedra;Noche alternando con  grupo Cosmos. 
+12703;14;7;13;D;Orquesta;LOS ESPAÑOLES;Rianxo;A Coruña;Festas do Carme. Sesión vermú e verbena a partir das 22:30h. 
+12944;14;7;13;D;Grupo;ARAMIO;S.F. Paulino, O Carballiño;Ourense;S.F. Paulino | A partir de las 18:00hr. 
+12452;14;7;13;D;Orquesta;LOS SATÉLITES;Samos;Lugo;Acompañados de la Orquesta D´Tacón. 
+11616;14;7;13;D;Orquesta;PARIS DE NOIA;San Amaro;Ourense;La fiesta está para las once y media. 
+10968;14;7;13;D;Orquesta;EL COMBO DOMINICANO;Santa Sabiña, Santa Comba;A Coruña;
+11275;14;7;13;D;Grupo;KALIMA 3.0;Soulecín, O Barco de Valdeorras;Ourense;
+11206;14;7;13;D;Disco Móvil;BLANCO Y NEGRO;Tapia de Casariego;Asturias;Con Os Folkgazaís. 
+12508;14;7;13;D;Orquesta;PALLADIUM;Vilaboa, Culleredo;A Coruña;A las 23:00h. 
+12963;14;7;13;D;Orquesta;FIN DE SIGLO;Vilariño de Conso;Ourense;
+13053;14;7;13;D;Charanga;ARDORES;Vilariño, Agolada;Pontevedra;Festa do socio da banda popular de muimenta. 
+12483;14;7;13;D;Grupo;SAMBA;Vilarrodís, Arteixo;A Coruña;
+13039;14;7;13;D;Dúo;MERITXELL;Vilela, Taboada;Lugo;Vermu y noche. 
+11996;14;7;13;D;Orquesta;ARMONÍA SHOW;Xavestre, Trazo;A Coruña;Acompañados del Grupo Metrópolis. 
+11997;14;7;13;D;Orquesta;METRÓPOLIS;Xavestre, Trazo;A Coruña;Vermú y noche, acompañados de la Orquesta Armonia Show. 
+12039;15;7;13;L;Orquesta;TELEVISIÓN;A Guarda;Pontevedra;
+11825;15;7;13;L;Orquesta;GRAN CASINO;Aguiño, Ribeira;A Coruña;
+12002;15;7;13;L;Orquesta;ABANICO;Aguiño, Ribeira;A Coruña;Acompañados de la Orquesta Gran Casino. 
+12113;15;7;13;L;Orquesta;METRÓPOLIS;Alvite, Negreira;A Coruña;Sesión vermú y verbena. 
+12721;15;7;13;L;Orquesta;ISRAEL;Arzúa;A Coruña;
+11674;15;7;13;L;Orquesta;TREBOL;Baldráns, Tui;Pontevedra;Noche. Acompañados de la Orquesta Los Españoles. 
+12638;15;7;13;L;Orquesta;LOS ESPAÑOLES;Baldráns, Tui;Pontevedra;Noche. Acompañados de la Orquesta Trebol. 
+12096;15;7;13;L;Orquesta;MARBELLA;Bastavales, Brión;A Coruña;
+11699;15;7;13;L;Orquesta;SOLARA;Bueu;Pontevedra;Acompañados de la Orquesta Ismael. 
+11474;15;7;13;L;Orquesta;OLYMPUS RED TOUR;Cabo de Cruz, Boiro;A Coruña;A partir de las 23:00h. Acompañados de la Orquesta Aché. 
+12057;15;7;13;L;Orquesta;PASSARELA;Cariño;A Coruña;Acompañados del Grupo D´Moda. 
+12058;15;7;13;L;Grupo;D´MODA;Cariño;A Coruña;Acompañados de la Orquesta Passarela. 
+13181;15;7;13;L;Charanga;MEKANIKA;Catoira;Pontevedra;Todo o dia. 
+12973;15;7;13;L;Grupo;CHANNEL;Cerceda;A Coruña;
+11618;15;7;13;L;Orquesta;PARIS DE NOIA;Ces, Lousame;A Coruña;La fiesta está para las 23:00h. 
+12804;15;7;13;L;Orquesta;PALLADIUM;Corme, Ponteceso;A Coruña;Acompañados del Grupo La Oca. 
+9670;15;7;13;L;Orquesta;PRINCIPAL;El Bao, Coruxo, Vigo;Pontevedra;
+13031;15;7;13;L;Orquesta;DOMINÓ;El Berrón, Siero;Asturias;
+12072;15;7;13;L;Orquesta;ARMONÍA SHOW;Foz;Lugo;Plaza Conde Fontán, a las 22:15h. 
+12570;15;7;13;L;Orquesta;NEVADA;Moaña;Pontevedra;A las 22:00h. Acompañados de la Orquesta Capitol. 
+12984;15;7;13;L;Orquesta;CAPITOL;Moaña;Pontevedra;A partir de las 22:30h. Acompañados de la Orquesta Nevada. 
+12542;15;7;13;L;Orquesta;LOS TROVADORES;Monforte de Lemos;Lugo;Barrio de la Estación. 
+12538;15;7;13;L;Grupo;FUNÇAO PUBLIKA;Muros;A Coruña;Acompañados del Grupo Nueva Libertad. 
+12613;15;7;13;L;Orquesta;LOS SATÉLITES;Nespereira, Sarria;Lugo;
+11838;15;7;13;L;Grupo;CLAXXON;O Grove;Pontevedra;Acompañados de la Orquesta Jerusalén. 
+10266;15;7;13;L;Orquesta;FOLIADA D´ASES;Os Castros, A Coruña;A Coruña;
+13027;15;7;13;L;Grupo;LA SEÑAL;Peñausende;Zamora;
+12357;15;7;13;L;Orquesta;SUAVECITO;Perlora, Carreño;Asturias;
+12206;15;7;13;L;Orquesta;LOS PLAYERS;Premoño, Las Regueras;Asturias;
+11553;15;7;13;L;Orquesta;PANORAMA;Quembre, Carral;A Coruña;A partir de las 22:30h. 
+13251;15;7;13;L;Grupo;NEBRASKA;Samos;Lugo;
+11988;15;7;13;L;Orquesta;FIN DE SIGLO;San Amaro;Ourense;
+11689;15;7;13;L;Disco Móvil;BLANCO Y NEGRO;San Cibrao, Cervo;Lugo;Acompañados de la Orquesta Delirio. 
+12886;15;7;13;L;Orquesta;TANGO;Sotrondio, San Martín del Rey Aurelio;Asturias;
+11946;15;7;13;L;Orquesta;XACOBEO;Teaio, Dodro;A Coruña;
+12161;15;7;13;L;Orquesta;VERSIÓN ORIGINAL;Trubia, Oviedo;Asturias;
+11929;15;7;13;L;Orquesta;PONTEVEDRA;Vega de Espinareda;León;
+12184;15;7;13;L;Orquesta;IPANEMA;Veguellina de Órbigo;León;SUSPENDIDA. 
+12135;15;7;13;L;Orquesta;CHARLESTON BIG-BAND;Vilaboa, Culleredo;A Coruña;A las 22:30, acompañados de Kiko Rivera Dj. 
+11913;15;7;13;L;Orquesta;EL COMBO DOMINICANO;Vilarrodís, Arteixo;A Coruña;Acompañados del Grupo Atenas. 
+12239;15;7;13;L;Grupo;ATENAS;Vilarrodís, Arteixo;A Coruña;Acompañados de la Orquesta El Combo Dominicano. 
+12545;16;7;13;M;Orquesta;EMPERADORES;Arbor, Vilamarín;Ourense;
+12050;16;7;13;M;Charanga;MEKANIKA;Bastavales, Brión;A Coruña;
+12248;16;7;13;M;Orquesta;COSTA DORADA;Bastavales, Brión;A Coruña;
+12878;16;7;13;M;Orquesta;PANAMA;Bastavales, Rois;A Coruña;
+11675;16;7;13;M;Orquesta;TREBOL;Bueu;Pontevedra;Noche. Acompañados de la Orquesta Principal. 
+11686;16;7;13;M;Orquesta;PRINCIPAL;Bueu;Pontevedra;Noche. Acompañados de la Orquesta Trebol. 
+13032;16;7;13;M;Orquesta;DOMINÓ;Bustio, Ribadedeva;Asturias;
+11534;16;7;13;M;Orquesta;PARIS DE NOIA;Cabo de Cruz, Boiro;A Coruña;A partir de las 23:00h. Acompañados de la Orquesta Nueva Generación. 
+12584;16;7;13;M;Orquesta;GRAN PARADA;Caleiro, Vilanova de Arousa;Pontevedra;A partir de las 22:00 horas. Acompañados de la Orquesta Miramar. 
+12644;16;7;13;M;Orquesta;MIRAMAR;Caleiro, Vilanova de Arousa;Pontevedra;A partir de las 22:00 horas. Acompañados de la Orquesta Gran Parada. 
+10689;16;7;13;M;Orquesta;MARBELLA;Camariñas;A Coruña;Acompañados de la Orquesta La Bámbola. 
+12133;16;7;13;M;Orquesta;FIN DE SIGLO;Carballeda de Avia;Ourense;
+12494;16;7;13;M;Orquesta;TRIUNFO;Carballeda de Avia;Ourense;21:00 hrs. Acompañados de la Orquesta Fin de Siglo. 
+11554;16;7;13;M;Orquesta;PANORAMA;Carril, Vilagarcía de Arousa;Pontevedra;A partir de las 22:30h. Acompañados de la Orquesta Olympus. 
+11557;16;7;13;M;Orquesta;OLYMPUS RED TOUR;Carril, Vilagarcía de Arousa;Pontevedra;A partir de las 22:30h. Acompañados de la Orquesta Panorama. 
+12240;16;7;13;M;Grupo;ATENAS;Cespón, Boiro;A Coruña;
+12332;16;7;13;M;Grupo;CICLÓN;Corme, Ponteceso;A Coruña;22:30h. Acompañados de la Orquesta Fania Blanco Show. 
+12373;16;7;13;M;Orquesta;FANIA BLANCO SHOW;Corme, Ponteceso;A Coruña;A las 22:30h. Acompañados del Grupo Ciclón. 
+11218;16;7;13;M;Orquesta;ACORDES;El Carmen, Ribadesella;Asturias;
+11304;16;7;13;M;Orquesta;LOS TROVADORES;Fene;A Coruña;Sesión Vermú y Noche. Acompañados del Grupo Pasión. 
+11305;16;7;13;M;Grupo;PASIÓN;Fene;A Coruña;Acompañados de la Orquesta Los Trovadores. 
+12040;16;7;13;M;Orquesta;TELEVISIÓN;La Baña, Encinedo;León;
+12059;16;7;13;M;Orquesta;PASSARELA;Marín;Pontevedra;
+12210;16;7;13;M;Grupo;D´MODA;Matamá, Laza;Ourense;
+12209;16;7;13;M;Orquesta;LOS PLAYERS;Melide;A Coruña;Acompañados de la Orquesta Compostela. 
+12593;16;7;13;M;Orquesta;COMPOSTELA;Melide;A Coruña;Acompañados de la Orquesta Los Players. 
+11151;16;7;13;M;Orquesta;RITMO JOVEN;Moaña;Pontevedra;Acompañados de la Orquesta Tango. 
+12887;16;7;13;M;Orquesta;TANGO;Moaña;Pontevedra;Acompañados de la Orquesta Ritmo Joven. 
+12074;16;7;13;M;Orquesta;ARMONÍA SHOW;Moar, Frades;A Coruña;A las 22:30h. 
+12114;16;7;13;M;Orquesta;METRÓPOLIS;Moar, Frades;A Coruña;Sesión vermú y noche acompañados de la Orquesta Armonia Show. 
+12741;16;7;13;M;Grupo;ASSIA;Muros;A Coruña;
+11839;16;7;13;M;Grupo;CLAXXON;Noia;A Coruña;Acompañados de la Orquesta El Combo Dominicano. 
+11914;16;7;13;M;Orquesta;EL COMBO DOMINICANO;Noia;A Coruña;Acompañados del Grupo Claxxon. 
+11637;16;7;13;M;Grupo;TEKILA;Ouria, Taramundi;Asturias;
+11930;16;7;13;M;Orquesta;PONTEVEDRA;Ouria, Taramundi;Asturias;Acompañados de Tekila Acompañados del Grupo Tekila. 
+12722;16;7;13;M;Orquesta;ISRAEL;Pazos de Arenteiro, Boborás;Ourense;
+8230;16;7;13;M;Charanga;BCB;Pereira de Montes, A Merca;Ourense;Sesión de mañá. 
+12453;16;7;13;M;Orquesta;LOS SATÉLITES;Rodís, Cerceda;A Coruña;
+11807;16;7;13;M;Grupo;AMÉRICA DE VIGO;Romai, Portas;Pontevedra;
+11881;16;7;13;M;Orquesta;XACOBEO;San Cibrao, Cervo;Lugo;
+12003;16;7;13;M;Orquesta;ABANICO;San Cibrao, Cervo;Lugo;Acompañados de la Orquesta Xacobeo. 
+12710;16;7;13;M;Orquesta;LOS ESPAÑOLES;San Cosme de Outeiro, Outes;A Coruña;Matinal y noche. 
+12469;16;7;13;M;Grupo;NEBRASKA;San Mamede de Sobreganade, Porqueira;Ourense;
+10409;16;7;13;M;Orquesta;AZABACHE;San Pablo de la Moraleja;Valladolid;
+9546;16;7;13;M;Solista;TANIA Y SU ACORDEÓN;Taladrid;Asturias;Compartiendo fiesta con dani acordeonista. 
+12185;16;7;13;M;Orquesta;IPANEMA;Tapia de Casariego;Asturias;Acompañados de la Orquesta Capitol. 
+12985;16;7;13;M;Orquesta;CAPITOL;Tapia de Casariego;Asturias;Acompañados de la Orquesta Ipanema. 
+12863;16;7;13;M;Orquesta;GALILEA;Touro, Touro;A Coruña;Sesión vermú. 
+11700;16;7;13;M;Orquesta;SOLARA;Zas;A Coruña;Acompañados de la Orquesta Ismael. 
+10697;17;7;13;X;Orquesta;PARIS DE NOIA;Camariñas;A Coruña;Acompañados de la Orquesta Nueva Generación. 
+13109;17;7;13;X;Orquesta;TREBOL;Grabacion TVG Bamboleo;A Coruña;plato 1000 santiago de compostela. 
+12872;17;7;13;X;Grupo;FUNÇAO PUBLIKA;Illa de Arousa;Pontevedra;A partir de las 23:00h. 
+11796;17;7;13;X;Orquesta;PANAMA;La Baña, Encinedo;León;
+12454;17;7;13;X;Orquesta;LOS SATÉLITES;Melide;A Coruña;Acompañados de la Orquesta Poceiro. 
+13235;17;7;13;X;Grupo;GARIBALDI;Os Castros, A Coruña;A Coruña;
+11555;17;7;13;X;Orquesta;PANORAMA;Santa Xusta de Moraña, Moraña;Pontevedra;
+10410;17;7;13;X;Orquesta;AZABACHE;Torresandino;Burgos;
+11504;17;7;13;X;Orquesta;RITMO JOVEN;Zas;A Coruña;Acompañados de la Orquesta Passarela. 
+12060;17;7;13;X;Orquesta;PASSARELA;Zas;A Coruña;Acompañados de la Orquesta Ritmo Joven. 
+11505;18;7;13;J;Orquesta;RITMO JOVEN;Aldán, Cangas do Morrazo;Pontevedra;Santa Mariña. Acompañados de la Orquesta Los Españoles. 
+12711;18;7;13;J;Orquesta;LOS ESPAÑOLES;Aldán, Cangas do Morrazo;Pontevedra;Santa Mariña. Acompañados de la Orquesta Ritmo Joven. 
+11915;18;7;13;J;Orquesta;EL COMBO DOMINICANO;Anxeriz, Tordoia;A Coruña;
+12495;18;7;13;J;Orquesta;TRIUNFO;As Maroñas, Mazaricos;A Coruña;22:00 hrs. Acompañados de la Orquesta Jerusalén. 
+12115;18;7;13;J;Orquesta;METRÓPOLIS;Berdía, Santiago de Compostela;A Coruña;Acompañados de la Orquesta Aché. 
+13038;18;7;13;J;Grupo;ARAMIO;Borneiro, Cabana de Bergantiños;A Coruña;Acompañados de la Orquesta Marimba. 
+11444;18;7;13;J;Orquesta;ISRAEL;Broño, Negreira;A Coruña;Horarios: 
+10698;18;7;13;J;Orquesta;ARMONÍA SHOW;Camariñas;A Coruña;A partir de las 22:30h. Acompañados de la Orquesta Panorama. 
+10699;18;7;13;J;Orquesta;PANORAMA;Camariñas;A Coruña;A partir de las 22:30h. Acompañados de la Orquesta Armonia Show. 
+11882;18;7;13;J;Orquesta;XACOBEO;Carreira, Zas;A Coruña;
+11685;18;7;13;J;Orquesta;TREBOL;Cerceda;A Coruña;
+12417;18;7;13;J;Orquesta;PRINCIPAL;Circes, Touro;A Coruña;Sesion vermú. 
+12097;18;7;13;J;Orquesta;MARBELLA;Esteiro, Muros;A Coruña;Acompañados del Grupo Samba. 
+12484;18;7;13;J;Grupo;SAMBA;Esteiro, Muros;A Coruña;Acompañados de la Orquesta Marbella. 
+12914;18;7;13;J;Orquesta;VENEZIA;Gijón;Asturias;
+11931;18;7;13;J;Orquesta;PONTEVEDRA;Graba, Silleda;Pontevedra;Acompañados de la Orquesta Salsa Rosa. 
+12470;18;7;13;J;Grupo;NEBRASKA;Loureiro, O Irixo;Ourense;
+12742;18;7;13;J;Grupo;ASSIA;Parres;Asturias;
+12004;18;7;13;J;Orquesta;ABANICO;Ponte Carreira, Frades;A Coruña;Alternamos con America de Vigo. 
+12324;18;7;13;J;Grupo;AMÉRICA DE VIGO;Ponte Carreira, Frades;A Coruña;
+12837;18;7;13;J;Grupo;ATENAS;Ribeira, A Estrada;Pontevedra;
+11995;18;7;13;J;Solista;TANIA Y SU ACORDEÓN;San Cosme de Barreiros, Barreiros;Lugo;Restaurante Moby-Dick.playa de altar. 
+12228;18;7;13;J;Orquesta;AZABACHE;Santa Marina del Rey;León;
+12162;18;7;13;J;Orquesta;VERSIÓN ORIGINAL;Santa Marina, Puerto de Vega;Asturias;
+12027;18;7;13;J;Orquesta;FANIA BLANCO SHOW;Santa Mariña de Brañas, Toques;A Coruña;A partir de las 23:00h. Acompañados de la Orquesta Costa Oeste. 
+12888;18;7;13;J;Orquesta;TANGO;Santa Mariña, Cambados;Pontevedra;Acompañados de la Orquesta Embajadores. 
+13125;18;7;13;J;Orquesta;CINEMA;Santa Xusta de Moraña, Moraña;Pontevedra;Acompañados del Grupo La Oca. 
+11701;18;7;13;J;Orquesta;SOLARA;Taragoña, Rianxo;A Coruña;Acompañados de la Orquesta Los Satélites. 
+11738;18;7;13;J;Orquesta;LOS SATÉLITES;Taragoña, Rianxo;A Coruña;Acompañados de la Orquesta Solara. 
+13398;18;7;13;J;Orquesta;FIN DE SIGLO;Trelle, Toén;Ourense;Santa Maria de Trelle. Verbena. 
+11856;18;7;13;J;Orquesta;ACORDES;Xinzo de Limia;Ourense;
+11875;18;7;13;J;Solista;LUCÍA PÉREZ;Xinzo de Limia;Ourense;
+12829;18;7;13;J;Orquesta;CAPITOL;Xuño, Porto do Son;A Coruña;Acompañados de la Orquesta Odisea. 
+10899;19;7;13;V;Trío;AZAR;A Cañiza;Pontevedra;
+12890;19;7;13;V;Orquesta;TANGO;A Labrada, A Pobra do Brollón;Lugo;
+12974;19;7;13;V;Grupo;CHANNEL;A Silva, Cerceda;A Coruña;
+12418;19;7;13;V;Orquesta;PRINCIPAL;Aldán, Cangas do Morrazo;Pontevedra;Acompañados del Grupo Alcotán. 
+12075;19;7;13;V;Orquesta;ARMONÍA SHOW;Anxeriz, Tordoia;A Coruña;A las 22:30h. Acompañados del Grupo Metrópolis. 
+12080;19;7;13;V;Orquesta;METRÓPOLIS;Anxeriz, Tordoia;A Coruña;A las 22:30h. Acompañados de la Orquesta Armonia Show. 
+11185;19;7;13;V;Orquesta;GRAN PARADA;Arcos, Caldas de Reis;Pontevedra;A partir de las 22:00h. Acompañados de la Orquesta Filadelfia. 
+13048;19;7;13;V;Orquesta;FOLIADA D´ASES;Arnadelo, Oencia;León;
+11619;19;7;13;V;Orquesta;PARIS DE NOIA;As Maroñas, Mazaricos;A Coruña;Alternamos con El Combo Dominicano y la fiesta está para las diez y media. 
+11916;19;7;13;V;Orquesta;EL COMBO DOMINICANO;As Maroñas, Mazaricos;A Coruña;
+12674;19;7;13;V;Grupo;AMERICA SL;Berdía, Santiago de Compostela;A Coruña;Acompañados de la Orquesta La Bámbola. 
+13042;19;7;13;V;Orquesta;CAPITOL;Borneiro, Cabana de Bergantiños;A Coruña;Acompañados del Grupo Alaska. 
+13146;19;7;13;V;Grupo;ALKAR;Caldebarcos, Carnota;A Coruña;
+12098;19;7;13;V;Orquesta;MARBELLA;Callobre, Miño;A Coruña;
+10700;19;7;13;V;Orquesta;OLYMPUS RED TOUR;Camariñas;A Coruña;Acompañados del Grupo Ciclón. 
+10701;19;7;13;V;Grupo;CICLÓN;Camariñas;A Coruña;22:30h. Acompañados de la Orquesta Olympus. 
+12061;19;7;13;V;Orquesta;PASSARELA;Carracedo, Caldas de Reis;Pontevedra;
+12139;19;7;13;V;Grupo;ARAMIO;Carreira, Zas;A Coruña;
+13346;19;7;13;V;Solista;TANIA Y SU ACORDEÓN;Cedofeita, Ribadeo;Lugo;
+11731;19;7;13;V;Solista;PILI PAMPÍN;Centro Sociocultural Ágora;A Coruña;Invitada especial en el concierto de Xoan Eiriz. 
+11808;19;7;13;V;Grupo;AMÉRICA DE VIGO;Cerceda;A Coruña;Acompañados de la Orquesta Ledicia. 
+12939;19;7;13;V;Orquesta;PONTEVEDRA;Coeses, O Corgo;Lugo;
+12712;19;7;13;V;Orquesta;LOS ESPAÑOLES;El Entrego, San Martín del Rey Aurelio;Asturias;
+12506;19;7;13;V;Orquesta;GALILEA;Esteiro, Muros;A Coruña;Acompañados del Grupo Limón. 
+12604;19;7;13;V;Grupo;LIMÓN;Esteiro, Muros;A Coruña;Acompañados de la Orquesta Galilea. 
+11826;19;7;13;V;Orquesta;GRAN CASINO;Illa de Arousa;Pontevedra;A Partir de las 23:00h. Acompañados de la Orquesta Xacobeo. 
+11883;19;7;13;V;Orquesta;XACOBEO;Illa de Arousa;Pontevedra;A Partir de las 23:00h. Acompañados de la Orquesta Gran Casino. 
+13352;19;7;13;V;Grupo;RÁFAGA;La Chalana, Laviana;Asturias;
+11248;19;7;13;V;Orquesta;COSTA DORADA;Lago, Xove;Lugo;
+11989;19;7;13;V;Orquesta;FIN DE SIGLO;Lamas de Moreira, Fonsagrada;Lugo;
+11935;19;7;13;V;Orquesta;CHARLESTON BIG-BAND;Lucí, Teo;A Coruña;Acompañados del Grupo Samba. 
+12048;19;7;13;V;Grupo;SAMBA;Lucí, Teo;A Coruña;Acompañados de la Orquesta Charleston Big-Band. 
+8534;19;7;13;V;Grupo;LECER;Maior, Mondoñedo;Lugo;Festas de Santa María Maior. Noite acompañados de Disco Móbil. 
+11219;19;7;13;V;Orquesta;ACORDES;Meredo, Vegadeo;Asturias;
+11258;19;7;13;V;Orquesta;EMPERADORES;Meredo, Vegadeo;Asturias;
+12699;19;7;13;V;Orquesta;ALIANZA;Monte de Meda, Guntín;Lugo;
+12455;19;7;13;V;Orquesta;LOS SATÉLITES;Oza, Carballo;A Coruña;Acompañados del Grupo Kamelot. 
+11651;19;7;13;V;Dúo;ECLIPSE;Padrón, Lalín;Pontevedra;Alquiler para kristian Magic. 
+12724;19;7;13;V;Orquesta;ISRAEL;Pereira de Montes, A Merca;Ourense;
+11558;19;7;13;V;Orquesta;PANORAMA;Pontellas, O Porriño;Pontevedra;A partir de las 23:00h. Acompañados del Grupo Trópico. 
+6717;19;7;13;V;Disco Móvil;BLANCO Y NEGRO;Ribadeo;Lugo;Muelle de Porcillán -El Carmen 2013-. 
+12241;19;7;13;V;Grupo;ATENAS;Ribasar, Rois;A Coruña;Acompañados de la Orquesta Ceniza. 
+12242;19;7;13;V;Orquesta;CENIZA;Ribasar, Rois;A Coruña;Acompañados del Grupo Atenas. 
+13308;19;7;13;V;Orquesta;ESTRELLAMAR;Ribeira, A Estrada;Pontevedra;Acompañados de la Orquesta Chicago. 
+12496;19;7;13;V;Orquesta;TRIUNFO;San Justo, Villaviciosa;Asturias;23:00 hrs. Acompañados de CAMELA. 
+11443;19;7;13;V;Grupo;FUSIÓN;San Mamed, Paderne;A Coruña;
+13430;19;7;13;V;Grupo;GARIBALDI;Santa Marina de Torre, Torre del Bierzo;León;Noche a partir de las 23:50h. 
+11702;19;7;13;V;Orquesta;SOLARA;Santa Marina del Rey;León;
+11638;19;7;13;V;Grupo;TEKILA;Santa Mariña de Brañas, Toques;A Coruña;Acompañados de la Orquesta Palladium. 
+12805;19;7;13;V;Orquesta;PALLADIUM;Santa Mariña de Brañas, Toques;A Coruña;Acompañados del Grupo Tekila. 
+13033;19;7;13;V;Orquesta;DOMINÓ;Santiago del Monte;Asturias;
+11797;19;7;13;V;Orquesta;PANAMA;Sillobre, Fene;A Coruña;
+13011;19;7;13;V;Grupo;CLAXXON;Sobrada, Outeiro de Rei;Lugo;
+8915;19;7;13;V;Dúo;LA HORA BRUJA;Soto de Ribera;Asturias;Dúo + discomóvil, seis horas NON STOP!. 
+11676;19;7;13;V;Orquesta;TREBOL;Taragoña, Rianxo;A Coruña;Noche. Acompañados de la Orquesta Compostela. 
+11739;19;7;13;V;Orquesta;COMPOSTELA;Taragoña, Rianxo;A Coruña;Noche. Acompañados de la Orquesta Trebol. 
+11506;19;7;13;V;Orquesta;RITMO JOVEN;Valdoviño;A Coruña;
+13288;19;7;13;V;Orquesta;IPANEMA;Veguellina de Órbigo;León;Evento suspendido el lunes 15/07 por inclemencias del tiempo. 
+12378;19;7;13;V;Orquesta;CINEMA;Vilariño, Pereiro de Aguiar;Ourense;
+12358;19;7;13;V;Orquesta;SUAVECITO;Xuño, Porto do Son;A Coruña;
+12005;19;7;13;V;Orquesta;ABANICO;Xustáns, Ponte Caldelas;Pontevedra;
+13286;20;7;13;S;Orquesta;MARAZUL;A Laracha;A Coruña;
+9282;20;7;13;S;Charanga;BCB;A Merca;Ourense;Sesión de Mañá. 
+12824;20;7;13;S;Grupo;ALKAR;A Xironda, Cualedro;Ourense;
+12243;20;7;13;S;Grupo;ATENAS;Andeiro, Cambre;A Coruña;
+12756;20;7;13;S;Orquesta;FANIA BLANCO SHOW;Ansemar, Castro de Rei;Lugo;Sesión vermú y noche. 
+11827;20;7;13;S;Orquesta;GRAN CASINO;Areas, Tui;Pontevedra;Areas (Santa Mariña). Acompañados de la Orquesta Capitol. 
+12986;20;7;13;S;Orquesta;CAPITOL;Areas, Tui;Pontevedra;Areas (Santa Mariña). Acompañados de la Orquesta Gran Casino. 
+6632;20;7;13;S;Solista;TANIA Y SU ACORDEÓN;Arxona, Monterroso;Lugo;
+11180;20;7;13;S;Orquesta;EL COMBO DOMINICANO;As Pontes de García Rodríguez;A Coruña;A partir de las 22:30h. Acompañados de la Orquesta Filadelfia. 
+9611;20;7;13;S;Dúo;MELODÍA;Baldaio, Carballo;A Coruña;Camping de Baldayo. Cena-baile por la noche a partir de las doce. 
+13034;20;7;13;S;Orquesta;DOMINÓ;Barcia, Valdés;Asturias;
+12485;20;7;13;S;Grupo;SAMBA;Barizo, Malpica de Bergantiños;A Coruña;
+13313;20;7;13;S;Grupo;KALIMA 3.0;Begonte;Lugo;
+11990;20;7;13;S;Orquesta;FIN DE SIGLO;Belelle, Lalín;Pontevedra;
+13316;20;7;13;S;Orquesta;ESTRELLAMAR;Berán, Leiro;Ourense;Acompañados con un trio. 
+12586;20;7;13;S;Orquesta;GRAN PARADA;Bexo, Dodro;A Coruña;A partir de las 22:00 horas. Acompañados del Grupo Limón. 
+12605;20;7;13;S;Grupo;LIMÓN;Bexo, Dodro;A Coruña;A partir de las 22:00 horas. Acompañados de la Orquesta Gran Parada. 
+13426;20;7;13;S;Grupo;ALVEIN;Bouzas, Vigo;Pontevedra;Acompañados de la Orquesta Solamérica. 
+8627;20;7;13;S;Orquesta;PONTEVEDRA;Cabral, Vigo;Pontevedra;Acompañados de la Orquesta Ceniza. 
+11211;20;7;13;S;Orquesta;CENIZA;Cabral, Vigo;Pontevedra;Acompañados de la Orquesta Pontevedra. 
+12646;20;7;13;S;Grupo;FUNÇAO PUBLIKA;Callobre, A Estrada;Pontevedra;A partir de las 22:00h aprox. Acompañados de la Orquesta Ismael. 
+10703;20;7;13;S;Orquesta;METRÓPOLIS;Camariñas;A Coruña;Acompañados de la Orquesta Galilea. 
+13227;20;7;13;S;Orquesta;COSTA BLANCA;Cambados;Pontevedra;A partir das 22:00 horas. Acompañados del Grupo Galin. 
+12392;20;7;13;S;Orquesta;ALABAMA SHOW;Campolongo, Pontedeume;A Coruña;
+13218;20;7;13;S;Grupo;UNIÓN Y FUERZA;Carballo, Carballo;A Coruña;Comida privada. 
+12933;20;7;13;S;Dúo;CHIC;Cariño;A Coruña;Chiringuito en la playa. 
+11660;20;7;13;S;Orquesta;TOKIO;Carracedo, Caldas de Reis;Pontevedra;Verbena 22.30h alternando con Orquesta Panamá. 
+11798;20;7;13;S;Orquesta;PANAMA;Carracedo, Caldas de Reis;Pontevedra;Alternando con TOKIO. 
+11442;20;7;13;S;Grupo;FUSIÓN;Cedofeita, Ribadeo;Lugo;Vermuú y noche. Acompañados del Dúo Libertad. 
+12456;20;7;13;S;Orquesta;LOS SATÉLITES;Cerceda;A Coruña;
+12379;20;7;13;S;Orquesta;CINEMA;Coeses, Lugo;Lugo;
+12931;20;7;13;S;Trío;ORQUÍDEA;Corexido, A Veiga;Ourense;Sesión de noche. 
+11936;20;7;13;S;Orquesta;CHARLESTON BIG-BAND;Cortegada, Silleda;Pontevedra;Acompañados del Grupo Ciclón. 
+11943;20;7;13;S;Grupo;CICLÓN;Cortegada, Silleda;Pontevedra;23:30h. Acompañados de la Orquesta Charleston Big-Band. 
+11652;20;7;13;S;Dúo;ECLIPSE;Crecente, A Pastoriza;Lugo;Noche Grupo Eclipse. Acompañados de la Orquesta Breixa Band. 
+12594;20;7;13;S;Orquesta;COMPOSTELA;Escarabote, Boiro;A Coruña;
+12670;20;7;13;S;Charanga;FUEGO;Espiñeiros, O Carballiño;Ourense;Verbena. 
+12659;20;7;13;S;Orquesta;MIRAMAR;Fiolledo, Salvaterra de Miño;Pontevedra;Acompañados de la Orquesta Magos De España. 
+12140;20;7;13;S;Grupo;ARAMIO;Fontecada, Santa Comba;A Coruña;Acompañados de la Orquesta Los Principes. 
+11639;20;7;13;S;Grupo;TEKILA;Forcinas, Pravia;Asturias;
+12062;20;7;13;S;Orquesta;PASSARELA;Fragas, Campo Lameiro;Pontevedra;Acompañados del Grupo Cosmos. 
+11399;20;7;13;S;Orquesta;OLYMPUS RED TOUR;Freáns, Padrenda;Ourense;
+12975;20;7;13;S;Grupo;CHANNEL;Gastrar, Boqueixón;A Coruña;Solos. 
+12713;20;7;13;S;Orquesta;LOS ESPAÑOLES;Gijón;Asturias;
+12233;20;7;13;S;Orquesta;AZABACHE;Gobiendes, Colunga;Asturias;
+11507;20;7;13;S;Orquesta;RITMO JOVEN;Grado;Asturias;
+13436;20;7;13;S;Grupo;GARIBALDI;Igueña;León;
+13343;20;7;13;S;Grupo;PASIÓN;Insua, Vilalba;Lugo;Sesion vermú y noche. 
+12746;20;7;13;S;Grupo;ASSIA;La Vecilla;León;
+11259;20;7;13;S;Orquesta;EMPERADORES;Lago, Xove;Lugo;
+11263;20;7;13;S;Orquesta;ESCAPARATE;Lago, Xove;Lugo;
+11884;20;7;13;S;Orquesta;XACOBEO;Lanzós, Vilalba;Lugo;
+12478;20;7;13;S;Grupo;NEBRASKA;Ledoño, Culleredo;A Coruña;
+12690;20;7;13;S;Grupo;AMÉRICA DE VIGO;Loño, Vila de Cruces;Pontevedra;Acompañados del Grupo Nueva Libertad. 
+11840;20;7;13;S;Grupo;CLAXXON;Lucí, Teo;A Coruña;
+12419;20;7;13;S;Orquesta;PRINCIPAL;Maior, Mondoñedo;Lugo;Vermú. Acompañados de la Orquesta Stéreo. 
+12433;20;7;13;S;Orquesta;STÉREO;Maior, Mondoñedo;Lugo;Acompañados de la Orquesta Principal. 
+11704;20;7;13;S;Orquesta;SOLARA;Meredo, Vegadeo;Asturias;
+12262;20;7;13;S;Dúo;CARAMELO;Miño;A Coruña;
+13004;20;7;13;S;Trío;LEMBRANZA;Monte de Meda, Guntín;Lugo;Acompañados de la Orquesta Fantasía. 
+11556;20;7;13;S;Orquesta;ENIGMA;O Barco, O Barco de Valdeorras;Ourense;
+12076;20;7;13;S;Orquesta;ARMONÍA SHOW;O Canedo, Carral;A Coruña;A las 22:30h. 
+13255;20;7;13;S;Disco Móvil;SPACEMUSIC;O Viso, Redondela;Pontevedra;Fiesta de la cerveza. D.j Kokito. animacion Pedro Campos. Gogos. 
+8504;20;7;13;S;Dúo;ESTRELLAS;Oleiros, Vilalba;Lugo;Actuación de tarde e noite en Oleiros (Vilalba). Acompañados pola Orquesta Nova Imperial. 
+12651;20;7;13;S;Orquesta;LOS TROVADORES;Paderne;A Coruña;Sesión vermú y noche. 
+11249;20;7;13;S;Orquesta;COSTA DORADA;Paraños, Covelo;Pontevedra;Acompañados de la Orquesta Ría De Arosa. 
+12934;20;7;13;S;Charanga;MEKANIKA;Pixeiros, Viana do Bolo;Ourense;Todo o dia. 
+13353;20;7;13;S;Grupo;RÁFAGA;Pola de Siero;Asturias;
+12035;20;7;13;S;Orquesta;TELEVISIÓN;Pontellas, O Porriño;Pontevedra;A partir de las 22:30h. Acompañados de la Orquesta La Bámbola. 
+11234;20;7;13;S;Trío;AREAL;Pruvia, Llanera;Asturias;
+8342;20;7;13;S;Grupo;LECER;Ribadeo;Lugo;Festas do Carmen en Ribadeo (Lugo)
+8344;20;7;13;S;Orquesta;LOS PLAYERS;Ribadeo;Lugo;Acompañados del Grupo Lecer. 
+10822;20;7;13;S;Orquesta;PANORAMA;San Martiño, Foz;Lugo;A partir de las 22:30h. Acompañados de la Orquesta Paris De Noia. 
+11559;20;7;13;S;Orquesta;PARIS DE NOIA;San Martiño, Foz;Lugo;A partir de las 22:30h. Acompañados de la Orquesta Panorama. 
+12806;20;7;13;S;Orquesta;PALLADIUM;Sancovade, Vilalba;Lugo;Acompañados de la Orquesta Venezia. 
+13074;20;7;13;S;Orquesta;VENEZIA;Sancovade, Vilalba;Lugo;Acompañados de la Orquesta Palladium. 
+12006;20;7;13;S;Orquesta;ABANICO;Santa Cristina, Cospeito;Lugo;Acompañados de la Orquesta Suavecito. 
+12359;20;7;13;S;Orquesta;SUAVECITO;Santa Cristina, Cospeito;Lugo;Acompañados de la Orquesta Abanico. 
+12497;20;7;13;S;Orquesta;TRIUNFO;Santa Marina de Torre, Torre del Bierzo;León;21:00 hrs. 
+11220;20;7;13;S;Orquesta;ACORDES;Santa Mariña do Monte, San Sadurniño;A Coruña;
+11053;20;7;13;S;Orquesta;FOLIADA D´ASES;Santalla del Bierzo, Priaranza del Bierzo;León;
+12164;20;7;13;S;Orquesta;VERSIÓN ORIGINAL;Santiago del Monte, Castrillón;Asturias;
+13110;20;7;13;S;Orquesta;TREBOL;Sorbeda del Sil, Paramo del Sil;León;Tarde, noche. 
+12725;20;7;13;S;Orquesta;ISRAEL;Taragoña, Rianxo;A Coruña;
+11359;20;7;13;S;Orquesta;MARBELLA;Teixeiro, Curtis;A Coruña;Acompañados de la Orquesta Alarma. 
+13185;20;7;13;S;Orquesta;IPANEMA;Teo;A Coruña;
+9696;20;7;13;S;Orquesta;NEVADA;Toiriz, Taboada;Lugo;
+12211;20;7;13;S;Grupo;D´MODA;Valdoviño;A Coruña;
+12891;20;7;13;S;Orquesta;TANGO;Veguellina de Órbigo;León;
+10725;20;7;13;S;Trío;AZAR;Verducido, A Lama;Pontevedra;Noche. Acompañados del Grupo D´Diseño. 
+10702;20;7;13;S;Orquesta;GALILEA;Villadepalos, Carracedelo;León;
+12302;20;7;13;S;Grupo;AMERICA SL;Vincios, Gondomar;Pontevedra;Horario: 22:30 a 04:30 h. Acompañados de la Orquesta Salsa Rosa. 
+11225;20;7;13;S;Orquesta;ALIANZA;Xudán, A Pontenova;Lugo;
+12811;20;7;13;S;Solista;PILI PAMPÍN;Zobra, Lalín;Pontevedra;Acompañados del Dúo Caché y Trío Amazonas. 
+12879;20;7;13;S;Dúo;CACHÉ;Zobra, Lalín;Pontevedra;Acompañados de Pili Pampín y Trío Amazonas. 
+12320;21;7;13;D;Grupo;ATENAS;A Picota, Mazaricos;A Coruña;Acompañados de la Orquesta Filadelfia. 
+13334;21;7;13;D;Trío;ORQUÍDEA;A Retorta, Guntín;Lugo;San Román. Sesión vermouth. 
+12668;21;7;13;D;Orquesta;METRÓPOLIS;Albijoy, Mesía;A Coruña;
+13309;21;7;13;D;Orquesta;ESTRELLAMAR;Ansemar, Castro de Rei;Lugo;
+12892;21;7;13;D;Orquesta;TANGO;Arcos, Sandiás;Ourense;Piñeiro de Arcos. 
+12141;21;7;13;D;Grupo;ARAMIO;Areas, Tui;Pontevedra;Acompañados de la Orquesta Impacto. 
+13300;21;7;13;D;Orquesta;MIRAMAR;Arnadelo, Oencia;León;
+11457;21;7;13;D;Orquesta;PARIS DE NOIA;As Pontes de García Rodríguez;A Coruña;Acompañados de la Orquesta Gran Parada. 
+11458;21;7;13;D;Orquesta;GRAN PARADA;As Pontes de García Rodríguez;A Coruña;Acompañados de la Orquesta Paris De Noia. 
+13451;21;7;13;D;Orquesta;CINEMA;Barizo, Malpica de Bergantiños;A Coruña;
+11991;21;7;13;D;Orquesta;FIN DE SIGLO;Berán, Leiro;Ourense;
+11809;21;7;13;D;Grupo;AMÉRICA DE VIGO;Berdeogas, Dumbria;A Coruña;Acompañados de la Orquesta Suavecito. 
+12360;21;7;13;D;Orquesta;SUAVECITO;Berdeogas, Dumbria;A Coruña;Acompañados del Grupo América De Vigo. 
+12041;21;7;13;D;Orquesta;TELEVISIÓN;Bora, Pontevedra;Pontevedra;
+12099;21;7;13;D;Orquesta;MARBELLA;Bora, Pontevedra;Pontevedra;
+12486;21;7;13;D;Grupo;SAMBA;Bugallido, Ames;A Coruña;
+13285;21;7;13;D;Grupo;UNIÓN Y FUERZA;Bustelo, Santa Comba;A Coruña;Sesion vermú y noche. 
+12675;21;7;13;D;Grupo;AMERICA SL;Caión, A Laracha;A Coruña;
+13113;21;7;13;D;Dúo;MERITXELL;Calde, Lugo;Lugo;Churrascada. 
+12007;21;7;13;D;Orquesta;ABANICO;Callobre, A Estrada;Pontevedra;A partir de las 22:00h. Acompañados de la Orquesta Capitol. 
+12987;21;7;13;D;Orquesta;CAPITOL;Callobre, A Estrada;Pontevedra;A partir de las 22:00h. Acompañados de la Orquesta Abanico. 
+13344;21;7;13;D;Grupo;PASIÓN;Callobre, Miño;A Coruña;Sesion vermú y noche. 
+9495;21;7;13;D;Orquesta;LOS ESPAÑOLES;Calvos, Touro;A Coruña;Acompañados del Grupo Yukatan. 
+12825;21;7;13;D;Grupo;ALKAR;Cambados;Pontevedra;
+11152;21;7;13;D;Orquesta;RITMO JOVEN;Campelo, Poio;Pontevedra;
+12546;21;7;13;D;Orquesta;EMPERADORES;Carteire, Palas de Rei;Lugo;
+12748;21;7;13;D;Grupo;ASSIA;Ceares, Gijón;Asturias;
+13416;21;7;13;D;Orquesta;TREBOL;Cerceda;A Coruña;Vermú y noche. 
+12507;21;7;13;D;Orquesta;GALILEA;Coeses, Lugo;Lugo;
+11653;21;7;13;D;Dúo;ECLIPSE;Crecente, A Pastoriza;Lugo;Solo matinal, como grupo. 
+13437;21;7;13;D;Grupo;GARIBALDI;Cuadros;León;
+11732;21;7;13;D;Orquesta;LOS SATÉLITES;Deixebre, Oroso;A Coruña;Matinal. Acompañados del Grupo Alaska. 
+6633;21;7;13;D;Solista;TANIA Y SU ACORDEÓN;Doiras, Boal;Asturias;
+11640;21;7;13;D;Grupo;TEKILA;El Entrego, San Martín del Rey Aurelio;Asturias;
+12727;21;7;13;D;Orquesta;ISRAEL;Escarabote, Boiro;A Coruña;
+13010;21;7;13;D;Charanga;ARDORES;Esperante, Agolada;Pontevedra;
+13269;21;7;13;D;Orquesta;NEVADA;Espiñeiros, O Carballiño;Ourense;A partir de las 22:00h. 
+9184;21;7;13;D;Charanga;O´SANTIAGUIÑO;Esteiro, Muros;A Coruña;Festa das carrilanas. 
+8547;21;7;13;D;Charanga;MEKANIKA;Fontecada, Santa Comba;A Coruña;Actuaremos nas festas de Santa Margarida de Fontecada. 
+11828;21;7;13;D;Orquesta;GRAN CASINO;Fontecada, Santa Comba;A Coruña;Sesión vermú y verbena. 
+12498;21;7;13;D;Orquesta;TRIUNFO;Forcinas, Pravia;Asturias;20:00 hrs. 
+11226;21;7;13;D;Orquesta;ALIANZA;Lago, Xove;Lugo;
+13148;21;7;13;D;Orquesta;CIUDADEVIGO;Laxe;A Coruña;Acompañados del Grupo Alvein. 
+13149;21;7;13;D;Grupo;ALVEIN;Laxe;A Coruña;Sesión vermú y noche acompañados de la Orquesta Ciudadevigo. 
+13470;21;7;13;D;Grupo;CICLÓN;Lucí, Teo;A Coruña;22:30 h. Solos. 
+12576;21;7;13;D;Dúo;CALÚ;Mera, Oleiros;A Coruña;Gran Verbena a partir de las 20:00 hrs. Acompañados por la Orquesta Canadá. ACERCATEEEE!!!!. 
+12283;21;7;13;D;Orquesta;LOS TROVADORES;O Castro, Dozón;Pontevedra;Acompañados de la Orquesta Fantasía. 
+11235;21;7;13;D;Trío;AREAL;Oleiros, Vilalba;Lugo;
+11706;21;7;13;D;Orquesta;SOLARA;Oural, Sarria;Lugo;A partir de las 22:30h. Acompañados de la Orquesta Tabu. 
+11276;21;7;13;D;Grupo;KALIMA 3.0;Parga, Guitiriz;Lugo;
+8628;21;7;13;D;Orquesta;PONTEVEDRA;Pontellas, O Porriño;Pontevedra;Acompañados de Charleston Big Band. 
+8632;21;7;13;D;Orquesta;CHARLESTON BIG-BAND;Pontellas, O Porriño;Pontevedra;Acompañados de Pontevedra. 
+11250;21;7;13;D;Orquesta;COSTA DORADA;Puerto de Sada;A Coruña;
+11748;21;7;13;D;Orquesta;ESCAPARATE;Reigada, Manzaneda;Ourense;
+12212;21;7;13;D;Orquesta;LOS PLAYERS;Retorta, Laza;Ourense;
+12063;21;7;13;D;Orquesta;PASSARELA;Sabarei, O Corgo;Lugo;
+12471;21;7;13;D;Grupo;NEBRASKA;Salceda de Caselas;Pontevedra;
+12595;21;7;13;D;Orquesta;COMPOSTELA;Salceda de Caselas;Pontevedra;
+12393;21;7;13;D;Orquesta;ALABAMA SHOW;San Andrés de Vea, A Estrada;Pontevedra;
+11858;21;7;13;D;Orquesta;ACORDES;San Román De Bembibre;León;
+11885;21;7;13;D;Orquesta;XACOBEO;Santa Cristina, Cospeito;Lugo;
+11561;21;7;13;D;Orquesta;PANORAMA;Santa Mariña do Monte, Ourense;Ourense;
+12213;21;7;13;D;Grupo;D´MODA;Santa Mariña do Monte, San Sadurniño;A Coruña;
+10486;21;7;13;D;Charanga;DGT;Sigrás Dabaixo, Cambre;A Coruña;Sesión vermú. 
+12726;21;7;13;D;Orquesta;SUPERFAMA;Taragoña, Rianxo;A Coruña;22h aprox. Acompañados de la Orquesta Ismael. 
+11398;21;7;13;D;Orquesta;EL COMBO DOMINICANO;Teixeiro, Curtis;A Coruña;Acompañados de la Orquesta Olympus. 
+11690;21;7;13;D;Orquesta;OLYMPUS RED TOUR;Teixeiro, Curtis;A Coruña;Acompañados de la Orquesta El Combo Dominicano. 
+12229;21;7;13;D;Orquesta;AZABACHE;Veguellina de Órbigo;León;
+10726;21;7;13;D;Trío;AZAR;Vigo;Pontevedra;Restaurante El Canario. Mediodía y Tarde. 
+12701;21;7;13;D;Grupo;LIMÓN;Vilaxoan, Vilagarcía de Arousa;Pontevedra;Acompañados de la Orquesta La Bámbola. 
+11054;21;7;13;D;Orquesta;FOLIADA D´ASES;Villadepalos, Carracedelo;León;
+9545;21;7;13;D;Grupo;SONIDO LEÓN;Villafañé;León;
+12420;21;7;13;D;Orquesta;PRINCIPAL;Vilouzán, Láncara;Lugo;
+12875;21;7;13;D;Orquesta;PARAISO;Vincios, Gondomar;Pontevedra;Noche. Acompañados del Grupo Oceano. 
+12938;21;7;13;D;Charanga;BCB;Viñoas, Nogueira de Ramuín;Ourense;
+11562;22;7;13;L;Orquesta;PANORAMA;A Madanela, Soutelo de Montes, Forcarei;Pontevedra;A partir de las 23:00h. Acompañados de la Orquesta Marbella. 
+11574;22;7;13;L;Orquesta;MARBELLA;A Madanela, Soutelo de Montes, Forcarei;Pontevedra;A partir de las 23:00h. Acompañados de la Orquesta Panorama. 
+12263;22;7;13;L;Dúo;CARAMELO;Aldemunde, Carballo;A Coruña;
+11917;22;7;13;L;Orquesta;EL COMBO DOMINICANO;Andeiro, Cambre;A Coruña;
+11459;22;7;13;L;Orquesta;CHARLESTON BIG-BAND;As Pontes de García Rodríguez;A Coruña;Acompañados de la Orquesta Olympus. 
+11460;22;7;13;L;Orquesta;OLYMPUS RED TOUR;As Pontes de García Rodríguez;A Coruña;Acompañados de la Orquesta Charleston Big-Band. 
+12165;22;7;13;L;Orquesta;VERSIÓN ORIGINAL;Barcia, Valdés;Asturias;
+12187;22;7;13;L;Grupo;IDEAS;Barcia, Valdés;Asturias;Acompañados de la Orquesta Versión Original. 
+7601;22;7;13;L;Disco Móvil;SPACEMUSIC;Bembrive, Vigo;Pontevedra;Fiestas Santiago. 19:00 horas Karaoke infantil y mayores, a las 23:00 horas sesion discoteca con D,j y Gogos de animacion. 
+12499;22;7;13;L;Orquesta;TRIUNFO;Bora, Pontevedra;Pontevedra;22:00 hrs. Acompañados de la Orquesta Palladium. 
+12536;22;7;13;L;Orquesta;PALLADIUM;Bora, Pontevedra;Pontevedra;22:00 hrs. Acompañados del Grupo Triunfo. 
+11493;22;7;13;L;Orquesta;ARMONÍA SHOW;Castrofeito, O Pino;A Coruña;Acompañados de la Orquesta Aché. 
+11707;22;7;13;L;Orquesta;SOLARA;Doiras, Boal;Asturias;
+12013;22;7;13;L;Orquesta;GALILEA;El Entrego, San Martín del Rey Aurelio;Asturias;
+12298;22;7;13;L;Orquesta;LOS TROVADORES;Frades;A Coruña;Sesión Vermut y Noche. 
+12596;22;7;13;L;Orquesta;COMPOSTELA;Gijón;Asturias;
+12389;22;7;13;L;Orquesta;CINEMA;Igrexario Montemaior, Laracha;A Coruña;Acompañados del Grupo Metrópolis. 
+12539;22;7;13;L;Orquesta;METRÓPOLIS;Igrexario Montemaior, Laracha;A Coruña;Acompañados de la Orquesta Cinema. 
+11641;22;7;13;L;Grupo;TEKILA;La Chalana, Laviana;Asturias;
+12361;22;7;13;L;Orquesta;SUAVECITO;Ledoño, Culleredo;A Coruña;
+12956;22;7;13;L;Orquesta;PASSARELA;León;León;Fiesta de noche. 
+12715;22;7;13;L;Orquesta;LOS ESPAÑOLES;Lobanes, O Carballiño;Ourense;Acompañados de la Orquesta Tango. 
+12716;22;7;13;L;Orquesta;TANGO;Lobanes, O Carballiño;Ourense;Acompañados de la Orquesta Los Españoles. 
+12457;22;7;13;L;Orquesta;LOS SATÉLITES;Meangos, Abegondo;A Coruña;
+13075;22;7;13;L;Orquesta;AZABACHE;Montemayor de Pililla;Valladolid;
+13529;22;7;13;L;Orquesta;SUPERFAMA;O Castro, Dozón;Pontevedra;Acompañados del Grupo Yukatan. 
+12587;22;7;13;L;Orquesta;GRAN PARADA;Orto, Abegondo;A Coruña;22:00 horas. 
+12421;22;7;13;L;Orquesta;PRINCIPAL;Oural, Sarria;Lugo;Sesion vermú. Verbena a partir de las 22:30h. Acompañados de la Orquesta Israel. 
+12434;22;7;13;L;Orquesta;ISRAEL;Oural, Sarria;Lugo;Verbena a partir de las 22:30h. Acompañados de la Orquesta Principal. 
+9880;22;7;13;L;Charanga;MEKANIKA;Pola de Siero;Asturias;Levaremos o noso espectaculo ata esta cidade asturiana. 
+7735;22;7;13;L;Orquesta;PARIS DE NOIA;Pontellas, O Porriño;Pontevedra;A partir de las 22:30h. Acompañados de Orquesta Costa Oeste. 
+11678;22;7;13;L;Orquesta;TREBOL;Salceda de Caselas;Pontevedra;Noche. Acompañados del Grupo America SL. 
+11684;22;7;13;L;Grupo;AMERICA SL;Salceda de Caselas;Pontevedra;Noche. Acompañados de la Orquesta Trebol. 
+13079;22;7;13;L;Orquesta;COSTA DORADA;Toiriz, Pantón;Lugo;Acompañados del Grupo Sierra De Luna. 
+12647;22;7;13;L;Grupo;CICLÓN;Trobe, Vedra;A Coruña;22:30h. Acompañados de la Orquesta Filadelfia. 
+12945;22;7;13;L;Orquesta;LOS PLAYERS;Vecoña, Boborás;Ourense;Acompañados de la Orquesta Poceiro. 
+13438;22;7;13;L;Grupo;GARIBALDI;Veguellina de Órbigo;León;
+12696;22;7;13;L;Grupo;ATENAS;Vilaxoan, Vilagarcía de Arousa;Pontevedra;Acompañados de la Orquesta Pontevedra. 
+12697;22;7;13;L;Orquesta;PONTEVEDRA;Vilaxoan, Vilagarcía de Arousa;Pontevedra;Acompañados del Grupo Atenas. 
+12042;22;7;13;L;Orquesta;TELEVISIÓN;Vincios, Gondomar;Pontevedra;
+12826;22;7;13;L;Grupo;ALKAR;Vincios, Gondomar;Pontevedra;
+11130;22;7;13;L;Charanga;BCB;Viñoas, Nogueira de Ramuín;Ourense;Estaremos animando a festa a partir das 12:00 ata a media tarde!. 
+13427;23;7;13;M;Grupo;ALVEIN;Bouzas, Vigo;Pontevedra;Acompañados de la Orquesta Marazul. 
+13428;23;7;13;M;Orquesta;MARAZUL;Bouzas, Vigo;Pontevedra;Acompañados del Grupo Alvein. 
+11918;23;7;13;M;Orquesta;EL COMBO DOMINICANO;Igrexario Montemaior, Laracha;A Coruña;
+12522;23;7;13;M;Grupo;ATENAS;Igrexario Montemaior, Laracha;A Coruña;Acompañados con El Combo Dominicano. 
+11679;23;7;13;M;Orquesta;TREBOL;Lobanes, O Carballiño;Ourense;Sesión vermú y noche. Acompañados de la Orquesta Israel. 
+12714;23;7;13;M;Orquesta;ISRAEL;Lobanes, O Carballiño;Ourense;Sesión vermú y noche. Acompañados de la Orquesta Trebol. 
+11620;23;7;13;M;Orquesta;PARIS DE NOIA;O Burgo, Culleredo;A Coruña;
+12116;23;7;13;M;Orquesta;METRÓPOLIS;Pasarela, Vimianzo;A Coruña;Acompañados de la Orquesta Ceniza. 
+12117;23;7;13;M;Orquesta;CENIZA;Pasarela, Vimianzo;A Coruña;Acompañados del Grupo Metrópolis. 
+13445;23;7;13;M;Grupo;AMERICA SL;Sabaris, Baiona;Pontevedra;Acompañados del Grupo Oceano. 
+12669;23;7;13;M;Orquesta;PANORAMA;San Cristovo, Ribadavia;Ourense;A las 22:30h. 
+14603;23;7;13;M;Grupo;CLAXXON;Vilar de Condes, Carballeda de Avia;Ourense;
+12380;24;7;13;X;Orquesta;CINEMA;A Graña, Covelo;Pontevedra;
+11680;24;7;13;X;Orquesta;TREBOL;Alameda, Santiago de Compostela;A Coruña;Noche. 
+13056;24;7;13;X;Grupo;AMÉRICA DE VIGO;Albarellos, Monterrei;Ourense;A partir de las 00:30h. 
+12394;24;7;13;X;Orquesta;ALABAMA SHOW;Amiudal, Avión;Ourense;
+12284;24;7;13;X;Orquesta;LOS TROVADORES;Arteixo;A Coruña;
+11294;24;7;13;X;Orquesta;MARAZUL;Bembrive, Vigo;Pontevedra;Acompañados de la Orquesta Solamérica. 
+12214;24;7;13;X;Grupo;D´MODA;Boimorto;A Coruña;
+12064;24;7;13;X;Orquesta;PASSARELA;Cabeiras, Arbo;Pontevedra;Acompañados del Grupo Yukatan. 
+12810;24;7;13;X;Grupo;ATENAS;Campaña, Valga;Pontevedra;Acompañados de la Orquesta Charleston Big-Band. 
+13105;24;7;13;X;Orquesta;CHARLESTON BIG-BAND;Campaña, Valga;Pontevedra;Acompañados del Grupo Atenas. 
+12749;24;7;13;X;Grupo;ASSIA;Carril, Vilagarcía de Arousa;Pontevedra;A partir de las 22:30h. Acompañados de la Orquesta Capitol. 
+12988;24;7;13;X;Orquesta;CAPITOL;Carril, Vilagarcía de Arousa;Pontevedra;A partir de las 22:30h. Acompañados del Grupo Assia. 
+12362;24;7;13;X;Orquesta;SUAVECITO;Celeiro de Mariñaos, Barreiros;Lugo;Acompañados de la Orquesta Bohemia. 
+8425;24;7;13;X;Solista;TANIA Y SU ACORDEÓN;Cereixido, A Fonsagrada;Lugo;Con Dany acordeonista. 
+13589;24;7;13;X;Orquesta;ISRAEL;Cerreda, Nogueira de Ramuín;Ourense;
+12893;24;7;13;X;Orquesta;TANGO;Cortegada;Ourense;Acompañados del Grupo Isla. 
+11862;24;7;13;X;Trío;AREAL;Estraxiz, Samos;Lugo;
+12134;24;7;13;X;Trío;AZAR;Grixó, Salvaterra de Miño;Pontevedra;Mediodía a la 13:00. 
+13226;24;7;13;X;Orquesta;PONTEVEDRA;Guizán, Mos;Pontevedra;Acompañados del Grupo Claxxon. 
+13263;24;7;13;X;Grupo;CLAXXON;Guizán, Mos;Pontevedra;Compartiendo con la Orquesta Pontevedra. 
+13455;24;7;13;X;Orquesta;FIN DE SIGLO;Gundivós, Sober;Lugo;
+11400;24;7;13;X;Orquesta;CENIZA;Lago, Valdoviño;A Coruña;Acompañados de la Orquesta Olympus. 
+11607;24;7;13;X;Orquesta;OLYMPUS RED TOUR;Lago, Valdoviño;A Coruña;Acompañados de la Orquesta Ceniza. 
+12864;24;7;13;X;Orquesta;GALILEA;Loroño, Zas;A Coruña;Acompañados de la Orquesta Jerusalén. 
+12422;24;7;13;X;Orquesta;PRINCIPAL;Malvas, Tui;Pontevedra;Acompañados de la Orquesta Los Españoles. 
+12435;24;7;13;X;Orquesta;LOS ESPAÑOLES;Malvas, Tui;Pontevedra;Acompañados de la Orquesta Principal. 
+12472;24;7;13;X;Grupo;NEBRASKA;Meamán, Baños de Molgas;Ourense;
+13785;24;7;13;X;Grupo;NIEVLA;Milleirós;Lugo;
+11919;24;7;13;X;Orquesta;EL COMBO DOMINICANO;Montouto, Abegondo;A Coruña;Acompañados de la Orquesta Panamá. 
+13695;24;7;13;X;Orquesta;PANAMA;Montouto, Abegondo;A Coruña;Acompañados por El Combo Dominicano. 
+11829;24;7;13;X;Orquesta;GRAN CASINO;Morgadáns, Gondomar;Pontevedra;Acompañados del Grupo Aramio. 
+12143;24;7;13;X;Grupo;ARAMIO;Morgadáns, Gondomar;Pontevedra;Acompañados de la Orquesta Gran Casino. 
+13516;24;7;13;X;Orquesta;VENEZIA;Orois, Melide;A Coruña;Acompañadas de ARDEBULLO. 
+12077;24;7;13;X;Orquesta;ARMONÍA SHOW;Paderne, Cesuras;A Coruña;
+10520;24;7;13;X;Charanga;O´SANTIAGUIÑO;Padrón;A Coruña;Festa do Santiaguiño. 
+11621;24;7;13;X;Orquesta;PARIS DE NOIA;Parada de Amoeiro, Amoeiro;Ourense;La fiesta está para las doce. 
+12502;24;7;13;X;Orquesta;TRIUNFO;Paradela, Curtis;A Coruña;22:00 hrs. Acompañados del Grupo Tekila. 
+12693;24;7;13;X;Grupo;TEKILA;Paradela, Curtis;A Coruña;Acompañados del Grupo Triunfo. 
+11563;24;7;13;X;Orquesta;PANORAMA;Pasarela, Vimianzo;A Coruña;A partir de las 22:30h. Acompañados de la Disco Móvil Factory y del Grupo Ciclón. 
+12333;24;7;13;X;Grupo;CICLÓN;Pasarela, Vimianzo;A Coruña;23:00h. Acompañados de la Orquesta Panorama y Factory Disco Móvil. 
+12807;24;7;13;X;Orquesta;PALLADIUM;Petín;Ourense;Acompañados de la Orquesta Chicago. 
+11153;24;7;13;X;Orquesta;RITMO JOVEN;Pontevedra;Pontevedra;
+12458;24;7;13;X;Orquesta;LOS SATÉLITES;Queiruga, Porto do Son;A Coruña;
+12588;24;7;13;X;Orquesta;GRAN PARADA;Ribadelouro, Tui;Pontevedra;21:00 horas. Acompañados de la Orquesta La Bámbola. 
+13506;24;7;13;X;Orquesta;TELEVISIÓN;Sabaris, Baiona;Pontevedra;Acompañados de la Orquesta Magos De España. 
+13432;24;7;13;X;Grupo;GARIBALDI;San Cristovo, Ribadavia;Ourense;A partir de las 22:00h. Acompañados de la Orquesta Filadelfia. 
+12572;24;7;13;X;Orquesta;NEVADA;Santa Cristina de Cobres, Vilaboa;Pontevedra;A las 22:00h. 
+12761;24;7;13;X;Orquesta;MIRAMAR;Santa Cristina de Cobres, Vilaboa;Pontevedra;
+11886;24;7;13;X;Orquesta;XACOBEO;Santa Cristina de Vea, A Estrada;Pontevedra;
+12217;24;7;13;X;Orquesta;LOS PLAYERS;Santa Cristina, Paradela;Lugo;
+12757;24;7;13;X;Orquesta;FANIA BLANCO SHOW;Santiago de Ois, Coirós;A Coruña;Sesión vermú y noche. 
+13383;24;7;13;X;Grupo;SAMBA;Santiago, Calvos de Randín;Ourense;
+13002;24;7;13;X;Orquesta;COSTA DORADA;Sobrecedo, Taboada;Lugo;
+11264;24;7;13;X;Orquesta;ESCAPARATE;Taboadelo, Ponte Caldelas;Pontevedra;
+11227;24;7;13;X;Orquesta;ALIANZA;Tal, Muros;A Coruña;Acompañados del Grupo Channel!!. 
+12976;24;7;13;X;Grupo;CHANNEL;Tal, Muros;A Coruña;Acompañados de la Orquesta Alianza. 
+11278;24;7;13;X;Trío;LEMBRANZA;Trasparga, Guitiriz;Lugo;Acompañados de la Orquesta Poceiro. 
+12230;24;7;13;X;Orquesta;AZABACHE;Tudela de Duero;Valladolid;
+12100;24;7;13;X;Orquesta;MARBELLA;Viascon, Cotobade;Pontevedra;
+13771;24;7;13;X;Grupo;IDEAS;Villapedre, Navia;Asturias;Acompañados de Havana Eventos!!. 
+11654;24;7;13;X;Dúo;ECLIPSE;Xacebáns, Quintela de Leirado;Ourense;Noite. 
+11708;24;7;13;X;Orquesta;SOLARA;Xustás, Castro de Rei;Lugo;
+11857;24;7;13;X;Orquesta;ACORDES;Xustás, Cospeito;Lugo;
+12101;25;7;13;J;Orquesta;MARBELLA;A Veiga, Sarria;Lugo;
+12728;25;7;13;J;Orquesta;ISRAEL;Abres, Vegadeo;Asturias;
+12363;25;7;13;J;Orquesta;SUAVECITO;Arteixo;A Coruña;
+12459;25;7;13;J;Orquesta;LOS SATÉLITES;Arteixo;A Coruña;Acompañados de la Orquesta Suavecito. 
+11461;25;7;13;J;Orquesta;CINEMA;As Pontes de García Rodríguez;A Coruña;ACTUACIÓN CANCELADA DEBIDO A LA TRAGEDIA FERROVIARIA. 
+12366;25;7;13;J;Orquesta;GRAN PARADA;As Somozas;A Coruña;22:00 horas. Acompañados de la Orquesta Sintonía De Vigo. 
+10972;25;7;13;J;Orquesta;CENIZA;Barallobre, Fene;A Coruña;Acompañados del Grupo Alkar. 
+10973;25;7;13;J;Grupo;ALKAR;Barallobre, Fene;A Coruña;Acompañados de la Orquesta Ceniza. 
+10819;25;7;13;J;Orquesta;TREBOL;Beade, Vigo;Pontevedra;Acompañados por orquesta Anaconda de Cantabria. 
+12738;25;7;13;J;Orquesta;CIUDADEVIGO;Bembrive, Vigo;Pontevedra;Con Celtas Cortos. ACTUACIÓN CANCELADA DEBIDO A LA TRAGEDIA FERROVIARIA. 
+12118;25;7;13;J;Orquesta;METRÓPOLIS;Berdeogas, Dumbria;A Coruña;
+13262;25;7;13;J;Orquesta;FIN DE SIGLO;Boente, Arzúa;A Coruña;
+12487;25;7;13;J;Grupo;SAMBA;Borbén, Pazos de Borbén;Pontevedra;
+13057;25;7;13;J;Orquesta;GALILEA;Borrán, Vilar De Barrio;Ourense;
+13433;25;7;13;J;Grupo;GARIBALDI;Caboalles de Arriba, Villablino;León;
+13418;25;7;13;J;Orquesta;TRIUNFO;Campaña, Valga;Pontevedra;Acompañados de la Orquesta Filadelfia. 
+12020;25;7;13;J;Orquesta;ABANICO;Carril, Vilagarcía de Arousa;Pontevedra;Acompañados del Grupo Aramio. ACTUACIÓN CANCELADA DEBIDO A LA TRAGEDIA FERROVIARIA. 
+12144;25;7;13;J;Grupo;ARAMIO;Carril, Vilagarcía de Arousa;Pontevedra;Acompañados de la Orquesta Abanico. ACTUACIÓN CANCELADA DEBIDO A LA TRAGEDIA FERROVIARIA. 
+12577;25;7;13;J;Dúo;CALÚ;Castelo, Culleredo;A Coruña;Sesión Vermouth a partir de las 14:00 hrs. 
+11655;25;7;13;J;Dúo;ECLIPSE;Castroncelos, A Pobra do Brollón;Lugo;Matinal e noite. 
+10528;25;7;13;J;Orquesta;BRUJAS;Castroverde;Lugo;Sesión vermú y noche acompañados de la Orquesta Hollywood. 
+10529;25;7;13;J;Orquesta;SUPER HOLLYWOOD;Castroverde;Lugo;Acompañados de la Orquesta Brujas. 
+12597;25;7;13;J;Orquesta;COMPOSTELA;Catasós, Lalín;Pontevedra;Acompañados del Grupo Yukatan. 
+11920;25;7;13;J;Orquesta;EL COMBO DOMINICANO;Celeiro, Viveiro;Lugo;ACTUACIÓN CANCELADA DEBIDO A LA TRAGEDIA FERROVIARIA. 
+12606;25;7;13;J;Grupo;LIMÓN;Celeiro, Viveiro;Lugo;
+11072;25;7;13;J;Orquesta;ARMONÍA SHOW;Cereixo, Vimianzo;A Coruña;Acompañados de la Orquesta Panamá. 
+11073;25;7;13;J;Orquesta;PANAMA;Cereixo, Vimianzo;A Coruña;Acompañados de la Orquesta ARMONIA SHOW. 
+7939;25;7;13;J;Charanga;VAITE XA!!;Cortegada;Ourense;
+11937;25;7;13;J;Orquesta;CHARLESTON BIG-BAND;Dorra, Antas de Ulla;Lugo;
+13335;25;7;13;J;Trío;ORQUÍDEA;Eidián, Agolada;Pontevedra;Acompañados da Orquesta Pentagrama. 
+13801;25;7;13;J;Grupo;GALAXIA;Estraxiz, Samos;Lugo;Sesión vermú y verbena. 
+13189;25;7;13;J;Charanga;FUEGO;Foncuberta, Maceda;Ourense;
+12473;25;7;13;J;Grupo;NEBRASKA;Freixo, Sarreaus;Ourense;
+11873;25;7;13;J;Trío;LEMBRANZA;Furco, Becerreá;Lugo;
+11058;25;7;13;J;Grupo;ASSIA;Gaioso, Outeiro de Rei;Lugo;Solo noche. Acompañados del cuarteto Nueva Historia. 
+12334;25;7;13;J;Grupo;CICLÓN;Goiriz, Vilalba;Lugo;22:30h. Acompañados de la Orquesta Fania Blanco Show. 
+12374;25;7;13;J;Orquesta;FANIA BLANCO SHOW;Goiriz, Vilalba;Lugo;A las 22:30h. Acompañados del Grupo Ciclón. 
+11261;25;7;13;J;Orquesta;EMPERADORES;Grixó, Salvaterra de Miño;Pontevedra;Acompañados del Grupo Asiria. 
+11564;25;7;13;J;Orquesta;PANORAMA;Guillade, Ponteareas;Pontevedra;A partir de las 23:00h. Acompañados de la Orquesta Costa Oeste. 
+12215;25;7;13;J;Grupo;D´MODA;Huerga del Rio, Carrizo;León;
+11155;25;7;13;J;Orquesta;RITMO JOVEN;Illán, Begonte;Lugo;
+11691;25;7;13;J;Grupo;PASIÓN;Lago, Valdoviño;A Coruña;Compartimos noche con orquesta. 
+12915;25;7;13;J;Orquesta;VENEZIA;Lagoa, Alfoz;Lugo;
+11228;25;7;13;J;Orquesta;ALIANZA;Lestedo, Palas de Rei;Lugo;
+12231;25;7;13;J;Orquesta;AZABACHE;Lugo;Lugo;
+12147;25;7;13;J;Orquesta;ENIGMA;Macendo, Castrelo de Miño;Ourense;
+13317;25;7;13;J;Orquesta;ESTRELLAMAR;Mens, Malpica de Bergantiños;A Coruña;
+11830;25;7;13;J;Orquesta;GRAN CASINO;Mera, Oleiros;A Coruña;
+12573;25;7;13;J;Orquesta;NEVADA;Mogor, Marín;Pontevedra;A las 22:00h. 
+11887;25;7;13;J;Orquesta;XACOBEO;Morgadáns, Gondomar;Pontevedra;Acompañados del Grupo Son D´Vigo. 
+13760;25;7;13;J;Dúo;DE LA CRUZ SHOW;Muros;A Coruña;ACTUACIÓN APLAZADA DEBIDO A LA TRAGEDIA FERROVIARIA EN SANTIAGO. 
+12895;25;7;13;J;Orquesta;TANGO;Noalla, Sanxenxo;Pontevedra;Acompañados del Grupo Quinta Avenida. 
+10549;25;7;13;J;Orquesta;FOLIADA D´ASES;O Burgo, Culleredo;A Coruña;Trasladada al lunes 29. 
+12395;25;7;13;J;Orquesta;ALABAMA SHOW;O Hío, Cangas;Pontevedra;
+11810;25;7;13;J;Grupo;AMÉRICA DE VIGO;O Seixo, Mugardos;A Coruña;
+10488;25;7;13;J;Charanga;DGT;Oza dos Rios, Oza dos Rios;A Coruña;Sigrás: Procesión y Sesión vermú - Mañana /
+11622;25;7;13;J;Orquesta;PARIS DE NOIA;Pantín, Valdoviño;A Coruña;La fiesta está para las 23:00h. Acompañados del Grupo Midas. 
+11841;25;7;13;J;Grupo;CLAXXON;Parada de Amoeiro, Amoeiro;Ourense;Acompañados de Kiko Rivera. 
+11477;25;7;13;J;Orquesta;PALLADIUM;Parada, Nigrán;Pontevedra;Acompañados de la Orquesta Aché. 
+12762;25;7;13;J;Orquesta;MIRAMAR;Petín;Ourense;
+12717;25;7;13;J;Orquesta;LOS ESPAÑOLES;Queiruga, Porto do Son;A Coruña;Acompañados del Grupo Futuro. 
+10727;25;7;13;J;Trío;AZAR;Raxó, Poio;Pontevedra;Noche alternando con un trío. 
+13971;25;7;13;J;Trío;ALBA;Reinante, Barreiros;Lugo;Horarios: 
+11484;25;7;13;J;Orquesta;PONTEVEDRA;Ribadelouro, Tui;Pontevedra;Acompañados de la Orquesta Televisión. 
+11496;25;7;13;J;Orquesta;TELEVISIÓN;Ribadelouro, Tui;Pontevedra;Acompañados de la Orquesta Pontevedra. 
+11319;25;7;13;J;Orquesta;TOKIO;Sabaris, Baiona;Pontevedra;Verbena 22:00 alt. Duo Latino. 
+13354;25;7;13;J;Grupo;RÁFAGA;Sama de Langreo, Langreo;Asturias;
+11608;25;7;13;J;Orquesta;OLYMPUS RED TOUR;San Cristovo, Ribadavia;Ourense;
+12066;25;7;13;J;Orquesta;PASSARELA;San Cristovo, Riós;Ourense;
+12321;25;7;13;J;Solista;TANIA Y SU ACORDEÓN;San Tirso de Abres;Asturias;Vermuth.
+12264;25;7;13;J;Dúo;CARAMELO;Sande a Capela;A Coruña;
+12259;25;7;13;J;Charanga;BB+;Santa Cristina de Vea, A Estrada;Pontevedra;Estaremos na parroquia de Santa Cristina de Vea animando a sesión vermú!!! Esperámosvos!!!. 
+12287;25;7;13;J;Orquesta;LOS TROVADORES;Santiago de Compostela;A Coruña;La actuación de hoy queda suspendida por motivos del trágico accidente ferroviario. 
+11221;25;7;13;J;Orquesta;ACORDES;Santiago de Saá, Lugo;Lugo;Acompañados de la Orquesta Impacto. 
+12676;25;7;13;J;Grupo;AMERICA SL;Sello, Lalín;Pontevedra;
+12423;25;7;13;J;Orquesta;PRINCIPAL;Silva, Pol;Lugo;Sesión vermú. 
+12959;25;7;13;J;Orquesta;ESCAPARATE;Soengas, Portomarin;Lugo;
+11236;25;7;13;J;Trío;AREAL;Trasparga, Guitiriz;Lugo;
+11251;25;7;13;J;Orquesta;COSTA DORADA;Trasparga, Guitiriz;Lugo;
+12244;25;7;13;J;Grupo;ATENAS;Vilaño, A Laracha;A Coruña;
+11709;25;7;13;J;Orquesta;SOLARA;Villadangos del Paramo;León;
+12734;25;7;13;J;Orquesta;IPANEMA;Villameca;León;
+13114;25;7;13;J;Dúo;MERITXELL;Xunqueira de Ambía;Ourense;Fiesta noche. 
+12218;25;7;13;J;Orquesta;LOS PLAYERS;Xustás, Cospeito;Lugo;
+13511;25;7;13;J;Grupo;LA SEÑAL;Zamora;Zamora;
+11623;26;7;13;V;Orquesta;PARIS DE NOIA;A Barrela, Carballedo;Lugo;La fiesta está para las 23:00h. 
+13784;26;7;13;V;Dúo;ECLIPSE;A Veiga de Logares, A Fonsagrada;Lugo;22:00h. solos. 
+12763;26;7;13;V;Orquesta;MIRAMAR;A Veiga, Sarria;Lugo;
+12751;26;7;13;V;Grupo;ASSIA;Abalo, Catoira;Pontevedra;Acompañados de la Orquesta Tango. 
+12897;26;7;13;V;Orquesta;TANGO;Abalo, Catoira;Pontevedra;Acompañados del Grupo Assia. 
+12677;26;7;13;V;Grupo;AMERICA SL;Abelenda das Penas, Carballeda de Avia;Ourense;
+12460;26;7;13;V;Orquesta;LOS SATÉLITES;Abres, Vegadeo;Asturias;Acompañados de Nebraska. 
+12474;26;7;13;V;Grupo;NEBRASKA;Abres, Vegadeo;Asturias;
+13862;26;7;13;V;Grupo;IRIS;Adragonte, Paderne;A Coruña;A las 23:00h. Acompañados de la Orquesta Aché. 
+12166;26;7;13;V;Orquesta;VERSIÓN ORIGINAL;Arlós, Llanera;Asturias;
+12425;26;7;13;V;Orquesta;PRINCIPAL;Arteixo;A Coruña;Sesión vermú. Acompañados de la Orquesta Israel. 
+12437;26;7;13;V;Orquesta;ISRAEL;Arteixo;A Coruña;Acompañados de la Orquesta Principal. 
+12827;26;7;13;V;Grupo;ALKAR;As Somozas;A Coruña;Acompañados de la Orquesta Jerusalén. 
+12232;26;7;13;V;Orquesta;AZABACHE;Asturias;Asturias;
+7595;26;7;13;V;Orquesta;FOLIADA D´ASES;Barallobre, Fene;A Coruña;Acompañados de la Orquesta Fania Blanco Show. 
+10974;26;7;13;V;Orquesta;FANIA BLANCO SHOW;Barallobre, Fene;A Coruña;Sesión vermú y noche acompañados de la Orquesta Foliada. 
+12598;26;7;13;V;Orquesta;COMPOSTELA;Beade, Vigo;Pontevedra;
+11893;26;7;13;V;Orquesta;ESTRELLAMAR;Berdeogas, Dumbria;A Coruña;Sesión vermú. Acompañados de la Orquesta Madeira. 
+7706;26;7;13;V;Disco Móvil;SPACEMUSIC;Boiro;A Coruña;23:00 horas Concentracion motera BOIROMOTOS. 
+13117;26;7;13;V;Orquesta;FIN DE SIGLO;Borrán, Vilar De Barrio;Ourense;
+12186;26;7;13;V;Orquesta;IPANEMA;Cabañas Raras;León;
+11314;26;7;13;V;Orquesta;TOKIO;Campaña, Valga;Pontevedra;Verbena 22.30h. Acompañados de la Orquesta Primera Línea. 
+12396;26;7;13;V;Orquesta;ALABAMA SHOW;Candeán, Vigo;Pontevedra;
+12067;26;7;13;V;Orquesta;PASSARELA;Carregal, Tomiño;Pontevedra;Acompañados del Grupo D´Moda. 
+12068;26;7;13;V;Grupo;D´MODA;Carregal, Tomiño;Pontevedra;Acompañados de la Orquesta Passarela. 
+11508;26;7;13;V;Orquesta;RITMO JOVEN;Castroncelos, A Pobra do Brollón;Lugo;
+11799;26;7;13;V;Orquesta;PANAMA;Celeiro, Viveiro;Lugo;
+13058;26;7;13;V;Disco Móvil;BLANCO Y NEGRO;Celeiro, Viveiro;Lugo;Con Orquesta Panamá. 
+11229;26;7;13;V;Orquesta;ALIANZA;Centro Gallego de Vitoria;Álava;
+11262;26;7;13;V;Orquesta;EMPERADORES;Cerdedo;Pontevedra;Acompañados de la Orquesta Palladium. 
+12808;26;7;13;V;Orquesta;PALLADIUM;Cerdedo;Pontevedra;Acompañados de la Orquesta Emperadores. 
+11075;26;7;13;V;Orquesta;EL COMBO DOMINICANO;Cereixo, Vimianzo;A Coruña;Acompañados de la Orquesta Chicas Show. 
+11811;26;7;13;V;Grupo;AMÉRICA DE VIGO;Cesantes, Redondela;Pontevedra;
+12043;26;7;13;V;Orquesta;TELEVISIÓN;Chapela, Redondela;Pontevedra;Acompañados de la Orquesta La Bámbola. ACTUACIÓN CANCELADA DEBIDO A LA TRAGEDIA FERROVIARIA. 
+13610;26;7;13;V;Grupo;FUSIÓN;Covas, Ferrol;A Coruña;Restaurante Beceiro. 
+13840;26;7;13;V;Orquesta;NUEVA BANDA;El Castillo, Soto del Barco;Asturias;A partir de las 23:00h. 
+13160;26;7;13;V;Orquesta;COSTA BLANCA;Figueiró, Tomiño;Pontevedra;San Campio de Lonxe. Acompañados del Grupo Nubes. 
+9210;26;7;13;V;Solista;TANIA Y SU ACORDEÓN;Fontoria, Luarca;Asturias;Con Raquel y su acordeón. 
+12008;26;7;13;V;Orquesta;ABANICO;Goiriz, Vilalba;Lugo;Alternamos con Cinema. 
+12381;26;7;13;V;Orquesta;CINEMA;Goiriz, Vilalba;Lugo;Acompañados de la Orquesta Abanico. 
+13386;26;7;13;V;Charanga;DGT;Grado;Asturias;Desfile por la mañana. 
+11265;26;7;13;V;Orquesta;ESCAPARATE;Grixó, Salvaterra de Miño;Pontevedra;Acompañados de la Orquesta Solamérica. 
+11609;26;7;13;V;Orquesta;OLYMPUS RED TOUR;Guillade, Ponteareas;Pontevedra;Acompañados de la Orquesta Charleston Big-Band. 
+11610;26;7;13;V;Orquesta;CHARLESTON BIG-BAND;Guillade, Ponteareas;Pontevedra;Acompañados de la Orquesta Olympus. 
+11710;26;7;13;V;Orquesta;SOLARA;Huerga del Rio, Carrizo;León;
+12014;26;7;13;V;Orquesta;GALILEA;Jarrio, Coaña;Asturias;Acompañados de la Orquesta Nueva Generación. 
+13434;26;7;13;V;Grupo;GARIBALDI;La Pola de Gordón;León;
+12291;26;7;13;V;Orquesta;LOS TROVADORES;Luía, Ortigueira;A Coruña;Sesión Vermut y Noche. 
+11888;26;7;13;V;Orquesta;XACOBEO;Montecastelo, Burela;Lugo;
+13507;26;7;13;V;Grupo;LA SEÑAL;Muelas del Pan, Muelas del Pan;Zamora;
+11370;26;7;13;V;Charanga;TNT;Muíño, Zas;A Coruña;Santa de Muíño. Estaremos actuando de 17:00h a 21:00h!!Esperámosvos!!!. 
+12145;26;7;13;V;Grupo;ARAMIO;Muíño, Zas;A Coruña;Acompañados de la Orquesta Suavecito. 
+12364;26;7;13;V;Orquesta;SUAVECITO;Muíño, Zas;A Coruña;Acompañados del Grupo Aramio. 
+12078;26;7;13;V;Orquesta;ARMONÍA SHOW;Muniferral, Aranga;A Coruña;
+13312;26;7;13;V;Orquesta;ENIGMA;Paderne, Cesuras;A Coruña;
+12707;26;7;13;V;Orquesta;CENIZA;Padrón;A Coruña;
+13408;26;7;13;V;Solista;PILI PAMPÍN;Padrón;A Coruña;
+12245;26;7;13;V;Grupo;ATENAS;Parada de Amoeiro, Amoeiro;Ourense;Alternamos con Charol. 
+11940;26;7;13;V;Orquesta;PONTEVEDRA;Parada, Nigrán;Pontevedra;Acompañados de la Orquesta Salsa Rosa. 
+12916;26;7;13;V;Orquesta;VENEZIA;Petín;Ourense;
+13355;26;7;13;V;Grupo;RÁFAGA;Pirai Disco;Barcelona;Calle Villarroel 216, Barcelona. 
+11566;26;7;13;V;Orquesta;PANORAMA;Playa de Coto, Barreiros;Lugo;A partir de las 22:00h. 
+12718;26;7;13;V;Orquesta;LOS ESPAÑOLES;Poago, Gijón;Asturias;
+5950;26;7;13;V;Charanga;MEKANIKA;Queiruga, Porto do Son;A Coruña;Mañan e sesión vermú. 
+12989;26;7;13;V;Orquesta;CAPITOL;Queiruga, Porto do Son;A Coruña;Acompañados de la Disco Móvil Ebabylon. 
+11377;26;7;13;V;Orquesta;LOS PLAYERS;Reigosa, A Pastoriza;Lugo;
+9155;26;7;13;V;Orquesta;GRAN PARADA;San Adrián de Calvos, Fornelos de Montes;Pontevedra;Claxxon. 22:30 horas. 
+11842;26;7;13;V;Grupo;CLAXXON;San Adrián de Calvos, Fornelos de Montes;Pontevedra;Acompañados de la Orquesta Gran Parada. 
+11222;26;7;13;V;Orquesta;ACORDES;San Martín, Teverga;Asturias;
+11190;26;7;13;V;Grupo;SAMBA;Sande, A Capela;A Coruña;A partir de las 22:30h. Acompañados de la Orquesta Filadelfia. 
+12102;26;7;13;V;Orquesta;MARBELLA;Santa Ana, Ponte Caldelas;Pontevedra;
+12500;26;7;13;V;Orquesta;TRIUNFO;Santa Ana, Ponte Caldelas;Pontevedra;22:00 hrs. Acompañados de la Orquesta Marbella. 
+11252;26;7;13;V;Orquesta;COSTA DORADA;Santiago de Saá, Lugo;Lugo;Acompañados de la Orquesta Breixa Band. 
+13035;26;7;13;V;Orquesta;DOMINÓ;Sariego;Asturias;
+12607;26;7;13;V;Grupo;LIMÓN;Sello, Lalín;Pontevedra;Acompañados de la Orquesta Nova Imperial. 
+11681;26;7;13;V;Orquesta;TREBOL;Silva, Pol;Lugo;Sesión vermú y noche. 
+13356;26;7;13;V;Charanga;FUEGO;Verín;Ourense;Batukada 2013. 
+12119;26;7;13;V;Orquesta;METRÓPOLIS;Vilaño, A Laracha;A Coruña;
+11642;26;7;13;V;Grupo;TEKILA;Vilasantar;A Coruña;
+12335;26;7;13;V;Grupo;CICLÓN;Vilasantar;A Coruña;22:30h. Acompañados del Grupo Tekila. 
+11237;26;7;13;V;Trío;AREAL;Vilela, Cualedro;Ourense;
+12574;26;7;13;V;Orquesta;NEVADA;Xacebáns, Quintela de Leirado;Ourense;A las 22:00h. 
+13786;26;7;13;V;Grupo;NIEVLA;Xinzo de Limia;Ourense;
+12461;27;7;13;S;Orquesta;LOS SATÉLITES;Abalo, Catoira;Pontevedra;Acompañados de la Orquesta Compostela. 
+12476;27;7;13;S;Orquesta;COMPOSTELA;Abalo, Catoira;Pontevedra;Acompañados de la Orquesta Los Satélites. 
+11812;27;7;13;S;Grupo;AMÉRICA DE VIGO;Aldán, Cangas do Morrazo;Pontevedra;Acompañados de la Orquesta Passarela. 
+12069;27;7;13;S;Orquesta;PASSARELA;Aldán, Cangas do Morrazo;Pontevedra;Acompañados del Grupo América De Vigo. 
+11682;27;7;13;S;Orquesta;TREBOL;Arteixo;A Coruña;Sesion vermú y noche. Acompañados de la Orquesta Capitol. 
+11705;27;7;13;S;Orquesta;CAPITOL;Arteixo;A Coruña;Sesion vermú y noche. Acompañados de la Orquesta Trebol. 
+11567;27;7;13;S;Orquesta;PANORAMA;As Somozas;A Coruña;Acompañados de la Orquesta Paris De Noia y de la Orquesta Olympus. 
+11606;27;7;13;S;Orquesta;PARIS DE NOIA;As Somozas;A Coruña;Acompañados de la Orquesta Panorama y de la Orquesta Olympus. 
+11611;27;7;13;S;Orquesta;OLYMPUS RED TOUR;As Somozas;A Coruña;Acompañados de la Orquesta Panorama y de la Orquesta Paris De Noia. 
+7991;27;7;13;S;Orquesta;MIRAMAR;Atios, O Porriño;Pontevedra;Recinto do Carballo. Acompañados de Orquesta SALSA ROSA. 
+13357;27;7;13;S;Grupo;RÁFAGA;Ayopaya Disco;Barcelona;Calle Vic, 6, Granollers. 
+13290;27;7;13;S;Grupo;UNIÓN Y FUERZA;Baldaio, Carballo;A Coruña;Cena. Tarde/noche. 
+11253;27;7;13;S;Orquesta;COSTA DORADA;Baltar, A Pastoriza;Lugo;
+13234;27;7;13;S;Orquesta;NEVADA;Barrio da Ponte, Ourense;Ourense;Alternando con Orquesta Nevada Acompañados de la Orquesta Ledicia. 
+11560;27;7;13;S;Orquesta;PRINCIPAL;Beade, Vigo;Pontevedra;Acompañados de la Orquesta Los Trovadores. 
+11575;27;7;13;S;Orquesta;LOS TROVADORES;Beade, Vigo;Pontevedra;Acompañados de la Orquesta Principal. 
+12828;27;7;13;S;Grupo;ALKAR;Beariz;Ourense;
+11643;27;7;13;S;Grupo;TEKILA;Berres, A Estrada;Pontevedra;Acompañados del Dúo Calú y del Grupo Channel. 
+12578;27;7;13;S;Dúo;CALÚ;Berres, A Estrada;Pontevedra;Verbena a partir de las 23:00 hrs. Acompañados por el Grupo Tekila. Acercateeee!!!!. 
+12977;27;7;13;S;Grupo;CHANNEL;Berres, A Estrada;Pontevedra;Acompañados del Dúo Calú y del Grupo Tekila. 
+11661;27;7;13;S;Orquesta;TOKIO;Beseño, Touro;A Coruña;Vermú 13.30h 
+11938;27;7;13;S;Orquesta;CHARLESTON BIG-BAND;Boal;Asturias;Acompañados del grupo Limòn. 
+12608;27;7;13;S;Grupo;LIMÓN;Boal;Asturias;
+7707;27;7;13;S;Disco Móvil;SPACEMUSIC;Boiro;A Coruña;23:00 horas Concentracion Motera BOIROMOTOS. 
+13380;27;7;13;S;Orquesta;XACOBEO;Bordóns, Sanxenxo;Pontevedra;
+13049;27;7;13;S;Orquesta;FOLIADA D´ASES;Borrán, Vilar De Barrio;Ourense;
+13078;27;7;13;S;Orquesta;ABANICO;Cabañas Raras;León;
+13188;27;7;13;S;Orquesta;FANIA BLANCO SHOW;Cañás, Carral;A Coruña;Vermú y noche. 
+8634;27;7;13;S;Orquesta;GRAN PARADA;Cela, Mos;Pontevedra;Televisión. 22:00 horas. 
+12045;27;7;13;S;Orquesta;TELEVISIÓN;Cela, Mos;Pontevedra;
+12079;27;7;13;S;Orquesta;ARMONÍA SHOW;Celeiro, Viveiro;Lugo;A las 22:30h. Acompañados del Grupo Triunfo. 
+12081;27;7;13;S;Orquesta;TRIUNFO;Celeiro, Viveiro;Lugo;22:30hrs. Acompañados de la Orquesta Armonia Show. 
+11230;27;7;13;S;Orquesta;ALIANZA;Centro Gallego de Vitoria;Álava;
+12534;27;7;13;S;Charanga;MEKANIKA;Cerceda;A Coruña;Todo o día. 
+8629;27;7;13;S;Orquesta;PONTEVEDRA;Cerdedo;Pontevedra;Acompañados de la Orquesta Chicago. 
+11077;27;7;13;S;Grupo;CICLÓN;Cereixo, Vimianzo;A Coruña;23:00h. Acompañados de la Orquesta Madeira. 
+12780;27;7;13;S;Orquesta;SUPER HOLLYWOOD;Cesantes, Redondela;Pontevedra;22h aprox. Acompañados de la Orquesta Ismael. 
+11983;27;7;13;S;Orquesta;FIN DE SIGLO;Chapela, Redondela;Pontevedra;Acompañados de la Orquesta Sintonía De Vigo. 
+13508;27;7;13;S;Grupo;LA SEÑAL;Cistierna;León;
+11238;27;7;13;S;Trío;AREAL;Cortina, Valdés;Asturias;
+12799;27;7;13;S;Orquesta;PALLADIUM;Couso, Gondomar;Pontevedra;Acompañados de la Orquesta Magos De España. 
+13076;27;7;13;S;Orquesta;AZABACHE;El Piñero;Zamora;
+11711;27;7;13;S;Orquesta;SOLARA;Fabero;León;
+12840;27;7;13;S;Orquesta;MARAZUL;Figueiró, Tomiño;Pontevedra;Acompañados de Ciudad Cristal e a agrupación musical de Goián. 
+12955;27;7;13;S;Dúo;ECLIPSE;Foxas, A Pontenova;Lugo;Matinal e noite como Grupo. 
+11424;27;7;13;S;Charanga;TNT;Freáns, Pontedeva;Ourense;Estaremos amenizando a festa. Acompañados del Grupo Midas. 
+13839;27;7;13;S;Orquesta;NUEVA BANDA;Grado;Asturias;
+13314;27;7;13;S;Trío;LEMBRANZA;Hotel Torre de Núñez, Lugo;Lugo;
+11277;27;7;13;S;Grupo;KALIMA 3.0;Hotel Villamartín, Vilalba;Lugo;
+11800;27;7;13;S;Orquesta;PANAMA;Jarrio, Coaña;Asturias;Acompañados del Grupo Claxxon. 
+11802;27;7;13;S;Grupo;CLAXXON;Jarrio, Coaña;Asturias;Acompañados de la Orquesta Panamá. 
+12246;27;7;13;S;Grupo;ATENAS;Lobariñas, Crecente;Pontevedra;
+12015;27;7;13;S;Orquesta;GALILEA;Louro, Muros;A Coruña;Acompañados del Grupo Metrópolis. 
+12018;27;7;13;S;Orquesta;METRÓPOLIS;Louro, Muros;A Coruña;Acompañados de la Orquesta Galilea. 
+13115;27;7;13;S;Dúo;MERITXELL;Lugo;Lugo;Fiesta por la noche. 
+13196;27;7;13;S;Dúo;CHIC;Lugo;Lugo;Cafetería La cantina, cena-baile. 
+11921;27;7;13;S;Orquesta;EL COMBO DOMINICANO;Mens, Malpica de Bergantiños;A Coruña;Empezamos sobre la 1:00h. Acompañados del Grupo Iris. 
+13976;27;7;13;S;Grupo;IRIS;Mens, Malpica de Bergantiños;A Coruña;Acompañados de la Orquesta El Combo Dominicano. 
+12898;27;7;13;S;Orquesta;TANGO;Mera, Oleiros;A Coruña;
+13957;27;7;13;S;Dúo;ESTRELLAS;Miraz, Friol;Lugo;Actuación de noite alternando co Grupo Alma Latina. 
+13772;27;7;13;S;Orquesta;EMPERADORES;Monforte de Lemos;Lugo;Por confirmar. 
+12719;27;7;13;S;Orquesta;LOS ESPAÑOLES;Novellana, Cudillero;Asturias;Acompañados de la Orquesta Israel. 
+12720;27;7;13;S;Orquesta;ISRAEL;Novellana, Cudillero;Asturias;Acompañados de la Orquesta Los Españoles. 
+12383;27;7;13;S;Orquesta;CINEMA;O Burgo, Culleredo;A Coruña;
+13345;27;7;13;S;Grupo;PASIÓN;O Seixo, Mugardos;A Coruña;Verbena. 
+10897;27;7;13;S;Orquesta;ENIGMA;O Vilar de Santiago, Riotorto;Lugo;
+12397;27;7;13;S;Orquesta;ALABAMA SHOW;Ocero, Sancedo;León;
+10728;27;7;13;S;Trío;AZAR;Oia;Pontevedra;Santa María de Oia. Noche. 
+12216;27;7;13;S;Grupo;D´MODA;Ortigueira;A Coruña;
+13787;27;7;13;S;Grupo;NIEVLA;Oviedo;Asturias;
+12168;27;7;13;S;Orquesta;VERSIÓN ORIGINAL;Pañeda Nueva, Siero;Asturias;Estaremos con Waykas Family. 
+12488;27;7;13;S;Grupo;SAMBA;Parada, Nigrán;Pontevedra;Acompañados de la Orquesta Millenium. 
+13036;27;7;13;S;Orquesta;DOMINÓ;Sama de Langreo, Langreo;Asturias;
+12103;27;7;13;S;Orquesta;MARBELLA;San Martín, Teverga;Asturias;
+6634;27;7;13;S;Solista;TANIA Y SU ACORDEÓN;San Miguel de Reinante, Barreiros;Lugo;
+11223;27;7;13;S;Orquesta;ACORDES;San Pantaleón das Viñas, Paderne;A Coruña;
+12678;27;7;13;S;Grupo;AMERICA SL;Santa Cristina de Barro, Noia;A Coruña;
+12755;27;7;13;S;Grupo;ASSIA;Santiago de Ambiedes, Gozón;Asturias;
+13059;27;7;13;S;Disco Móvil;BLANCO Y NEGRO;Santiago de Saá, Lugo;Lugo;
+13372;27;7;13;S;Orquesta;COSTA BLANCA;Sísamo, Carballo;A Coruña;Acompañados del Grupo Acirema. 
+13373;27;7;13;S;Grupo;ACIREMA;Sísamo, Carballo;A Coruña;Acompañados de la Orquesta Costa Blanca. 
+12265;27;7;13;S;Dúo;CARAMELO;Sobrado;A Coruña;
+11509;27;7;13;S;Orquesta;RITMO JOVEN;Sobrado, Gomesende;Ourense;
+12049;27;7;13;S;Dúo;DE LA CRUZ SHOW;Taragoña, Rianxo;A Coruña;Actuaremos no Festival Antros Pinos xunto con outros grupos como Canijos sin Fronteras, A Banda de Andrelo, A compañia do Ruido, La troba Kung Fu, Familia Camagno, Chotokoeu, Hadri H etc.. 
+13420;27;7;13;S;Orquesta;CENIZA;Vilarchán, Ponte Caldelas;Pontevedra;
+13318;27;7;13;S;Orquesta;ESTRELLAMAR;Vilasantar;A Coruña;
+13207;27;7;13;S;Grupo;ARAMIO;Vilela, Villafranca del Bierzo;León;
+13435;27;7;13;S;Grupo;GARIBALDI;Villamarco;León;
+13169;27;7;13;S;Grupo;LECER;Viveiro;Lugo;Rest. Louzao. 
+13586;28;7;13;D;Orquesta;LOS ESPAÑOLES;A Xesta, Lalín;Pontevedra;Acompañados del Grupo Nebraska. 
+13588;28;7;13;D;Grupo;NEBRASKA;A Xesta, Lalín;Pontevedra;Acompañados de la Orquesta Los Españoles. 
+8416;28;7;13;D;Solista;TANIA Y SU ACORDEÓN;Abadin;Lugo;comunion(TARDE). 
+12880;28;7;13;D;Orquesta;SUAVECITO;Abelenda, Val do Dubra;A Coruña;
+11158;28;7;13;D;Orquesta;RITMO JOVEN;Aldán, Cangas do Morrazo;Pontevedra;
+11254;28;7;13;D;Orquesta;COSTA DORADA;Ares;A Coruña;
+11644;28;7;13;D;Grupo;TEKILA;Arriondas, Parres;Asturias;
+12599;28;7;13;D;Orquesta;COMPOSTELA;Arteixo;A Coruña;
+7994;28;7;13;D;Orquesta;PONTEVEDRA;Atios, O Porriño;Pontevedra;Recinto do Carballo. Acompañados de Orquesta TELEVISION. 
+7995;28;7;13;D;Orquesta;TELEVISIÓN;Atios, O Porriño;Pontevedra;Recinto do Carballo. Acompañados de Orquesta PONTEVEDRA. 
+12899;28;7;13;D;Orquesta;TANGO;Beade, Vigo;Pontevedra;A partir de las 22:00 horas Gran Verbena. Acompañados de la Orquesta Poceiro. 
+11568;28;7;13;D;Orquesta;PANORAMA;Cabañas Raras;León;
+10561;28;7;13;D;Charanga;BB+;Carbia, Vila de Cruces;Pontevedra;Estaremos amenizando a sesión vermuth e pola tarde-noite alternaremos cunha orquesta. 
+13788;28;7;13;D;Grupo;NIEVLA;Carregal, Tomiño;Pontevedra;
+11939;28;7;13;D;Orquesta;CHARLESTON BIG-BAND;Cela, Mos;Pontevedra;Acompañados de la Orquesta Sintonía De Vigo. 
+12489;28;7;13;D;Grupo;SAMBA;Celeiro, Viveiro;Lugo;A partir de las 22:00h. Acompañados de la Orquesta Costa Oeste. 
+11078;28;7;13;D;Orquesta;FANIA BLANCO SHOW;Cereixo, Vimianzo;A Coruña;Sesión vermú y noche. 
+12387;28;7;13;D;Orquesta;CINEMA;Cereixo, Vimianzo;A Coruña;Acompañados de la Orquesta Fania Blanco Show. 
+12156;28;7;13;D;Grupo;CANELA;Cesantes, Redondela;Pontevedra;Acompañados del Grupo Hiroshima. 
+13833;28;7;13;D;Dúo;DE LA CRUZ SHOW;Chaián, Trazo;A Coruña;Baile Noche a partir de las 00:00h de la madrugada del domingo. 
+12609;28;7;13;D;Grupo;LIMÓN;Chapela, Redondela;Pontevedra;
+12501;28;7;13;D;Orquesta;TRIUNFO;Córgomo, Vilamartín de Valdeorras;Ourense;21:30 hrs. 
+12220;28;7;13;D;Orquesta;LOS PLAYERS;Currelos, O Saviñao;Lugo;
+11712;28;7;13;D;Orquesta;SOLARA;Feás, Boborás;Ourense;
+12104;28;7;13;D;Orquesta;MARBELLA;Garabás, Maside;Ourense;Acompañados de la Orquesta Gran Parada. 
+13082;28;7;13;D;Orquesta;GRAN PARADA;Garabás, Maside;Ourense;Marbella. 23:30 horas. 
+12967;28;7;13;D;Orquesta;ARMONÍA SHOW;Louro, Muros;A Coruña;A las 22:00h. Acompañados de la Orquesta Nueva Generación. 
+12169;28;7;13;D;Orquesta;VERSIÓN ORIGINAL;Miranda, Avilés;Asturias;
+13763;28;7;13;D;Orquesta;SUPERFAMA;Mondaveiga, Samos;Lugo;Sesión vermú y verbena. 
+11863;28;7;13;D;Trío;AREAL;Monte Castelo, Burela;Lugo;Sesión vermú. 
+11624;28;7;13;D;Orquesta;PARIS DE NOIA;Moraña;Pontevedra;
+11889;28;7;13;D;Orquesta;XACOBEO;Morgadáns, Gondomar;Pontevedra;
+12978;28;7;13;D;Grupo;CHANNEL;Nemenzo, Santiago de Compostela;A Coruña;
+11922;28;7;13;D;Orquesta;EL COMBO DOMINICANO;O Burgo, Culleredo;A Coruña;
+13382;28;7;13;D;Orquesta;METRÓPOLIS;Olveda, Antas de Ulla;Lugo;
+11683;28;7;13;D;Orquesta;TREBOL;Ortigueira;A Coruña;Noche. Acompañados de la Orquesta Los Satélites. 
+11703;28;7;13;D;Orquesta;LOS SATÉLITES;Ortigueira;A Coruña;Noche. Acompañados de la Orquesta Trebol. 
+12957;28;7;13;D;Orquesta;PASSARELA;Ourense;Ourense;Fiesta de noche. 
+12009;28;7;13;D;Orquesta;ABANICO;Pacios, Begonte;Lugo;
+12575;28;7;13;D;Orquesta;NEVADA;Pardeconde, Xunqueira de Espadanedo;Ourense;A las 21:00h. 
+13037;28;7;13;D;Orquesta;DOMINÓ;Peñaullán, Pravia;Asturias;
+12990;28;7;13;D;Orquesta;CAPITOL;Piñeira, Monforte de Lemos;Lugo;A partir de las 22:00h. 
+12247;28;7;13;D;Grupo;ATENAS;Playa América, Nigrán;Pontevedra;Acompañados de la Orquesta Chicago. 
+13431;28;7;13;D;Grupo;GARIBALDI;Plaza Torenillo, Toreno;León;
+10729;28;7;13;D;Trío;AZAR;Raxó, Poio;Pontevedra;Noche 21:00. 
+12398;28;7;13;D;Orquesta;ALABAMA SHOW;Ribarteme, As Neves;Pontevedra;Acompañados de la Orquesta Embajadores. 
+12544;28;7;13;D;Orquesta;EMPERADORES;San Facundo, Tineo;Asturias;
+11231;28;7;13;D;Orquesta;ALIANZA;San Pantaleón das Viñas, Paderne;A Coruña;
+13208;28;7;13;D;Grupo;ARAMIO;Santa Comba;A Coruña;Acompañados de la Orquesta Impacto. 
+12809;28;7;13;D;Orquesta;PALLADIUM;Santa Cristina de Barro, Noia;A Coruña;
+13783;28;7;13;D;Grupo;UNIÓN Y FUERZA;Santa Cristina de Barro, Noia;A Coruña;
+10267;28;7;13;D;Orquesta;FOLIADA D´ASES;Santa Marta, Mos;Pontevedra;
+12764;28;7;13;D;Orquesta;MIRAMAR;Santa Marta, Mos;Pontevedra;
+13452;28;7;13;D;Orquesta;LOS TROVADORES;Tella, Ponteceso;A Coruña;Sesión Vermut y Noche. 
+11517;28;7;13;D;Orquesta;ACORDES;Urbanización Couto, Narón;A Coruña;Acompañados del Grupo D´Moda. 
+13384;28;7;13;D;Grupo;D´MODA;Urbanización Couto, Narón;A Coruña;Acompañados de la Orquesta Acordes. 
+11086;28;7;13;D;Grupo;CLAXXON;Velle, Ourense;Ourense;con David Amor. 
+11656;28;7;13;D;Dúo;ECLIPSE;Vilapena, Trabada;Lugo;Solo matinal. 
+13310;28;7;13;D;Orquesta;ESTRELLAMAR;Vilarchán, Ponte Caldelas;Pontevedra;
+12475;29;7;13;L;Grupo;NEBRASKA;A Insua, Barreiros;Lugo;
+7996;29;7;13;L;Orquesta;CHARLESTON BIG-BAND;Atios, O Porriño;Pontevedra;Recinto do Carballo. Acompañados de Orquesta PALLADIUM. 
+7997;29;7;13;L;Orquesta;PALLADIUM;Atios, O Porriño;Pontevedra;Recinto do Carballo. Acompañados de Orquesta CHARLESTON BIG-BAND. 
+11184;29;7;13;L;Orquesta;GRAN PARADA;Berres, A Estrada;Pontevedra;A partir de las 22:00 horas. Acompañados de la Orquesta Filadelfia. 
+11625;29;7;13;L;Orquesta;PARIS DE NOIA;Cacheiras, Teo;A Coruña;La fiesta está para las 22:30h. Acompañados de la Orquesta Nueva Generación. 
+11569;29;7;13;L;Orquesta;PANORAMA;Cañás, Carral;A Coruña;Acompañados de la Orquesta Armonia Show. 
+12966;29;7;13;L;Orquesta;ARMONÍA SHOW;Cañás, Carral;A Coruña;A las 22:30h, acompañados de la Orquesta Panorama. 
+11843;29;7;13;L;Grupo;CLAXXON;Cela, Mos;Pontevedra;Acompañados de la Orquesta Miramar. 
+12044;29;7;13;L;Orquesta;MIRAMAR;Cela, Mos;Pontevedra;Acompañados del Grupo Claxxon. 
+12382;29;7;13;L;Orquesta;CINEMA;Córgomo, Vilamartín de Valdeorras;Ourense;
+12295;29;7;13;L;Orquesta;LOS TROVADORES;Currelos, O Saviñao;Lugo;Sesión Vermut y Noche. 
+13119;29;7;13;L;Orquesta;FIN DE SIGLO;Donramiro, Lalín;Pontevedra;
+11666;29;7;13;L;Trío;AZAR;Estacas, Fornelos de Montes;Pontevedra;Noche. Acompañados de la Orquesta Chicago. 
+11864;29;7;13;L;Trío;AREAL;Galdo, Viveiro;Lugo;
+11645;29;7;13;L;Grupo;TEKILA;Granda, Gijón;Asturias;
+12399;29;7;13;L;Orquesta;ALABAMA SHOW;Mondariz;Pontevedra;
+13524;29;7;13;L;Orquesta;LOS SATÉLITES;Mondaveiga, Samos;Lugo;
+13826;29;7;13;L;Orquesta;FOLIADA D´ASES;O Burgo, Culleredo;A Coruña;Trasladada del dia 25, suspendida por la tragedia ferroviaria. 
+13258;29;7;13;L;Orquesta;TREBOL;O Incio;Lugo;Vermouth e noite. 
+12729;29;7;13;L;Orquesta;ISRAEL;Ortigueira;A Coruña;A partir de las 22:30h. Acompañados de la Orquesta Capitol. 
+12991;29;7;13;L;Orquesta;CAPITOL;Ortigueira;A Coruña;A partir de las 22:30h. Acompañados de la Orquesta Israel. 
+13287;29;7;13;L;Orquesta;LOS PLAYERS;Piñeira, Monforte de Lemos;Lugo;
+13392;29;7;13;L;Grupo;CICLÓN;Piñeira, Sarria;Lugo;22:30h. Acompañados del Grupo Garibaldi. 
+13396;29;7;13;L;Grupo;GARIBALDI;Piñeira, Sarria;Lugo;22:30h. Acompañados del Grupo Garibaldi. Acompañados del Grupo Ciclón. 
+12016;29;7;13;L;Orquesta;GALILEA;Playa América, Nigrán;Pontevedra;Acompañados de la Orquesta La Bámbola. 
+11945;29;7;13;L;Orquesta;PONTEVEDRA;Ponte Arnelas, Ribadumia;Pontevedra;A Partir de las 22:00h. Acompañados de la Orquesta Costa Oeste. 
+11255;29;7;13;L;Orquesta;COSTA DORADA;San Pantaleón das Viñas, Paderne;A Coruña;
+11923;29;7;13;L;Orquesta;EL COMBO DOMINICANO;Soandres, A Laracha;A Coruña;Acompañados de la Orquesta El Combo Dominicano. 
+13769;29;7;13;L;Grupo;IDEAS;Sograndio, Proaza;Asturias;Acompañados de Beatriz Y Su Acordeón. 
+7941;29;7;13;L;Charanga;VAITE XA!!;Toutón, Mondariz;Pontevedra;
+11510;29;7;13;L;Orquesta;RITMO JOVEN;Toutón, Mondariz;Pontevedra;
+12046;29;7;13;L;Orquesta;TELEVISIÓN;Vilarchán, Ponte Caldelas;Pontevedra;
+12105;29;7;13;L;Orquesta;MARBELLA;Vilarchán, Ponte Caldelas;Pontevedra;
+12322;30;7;13;M;Solista;TANIA Y SU ACORDEÓN;A Fonsagrada;Lugo;Xuntanza terceira idade. 
+14082;30;7;13;M;Orquesta;LOS SATÉLITES;Arteixo;A Coruña;
+11924;30;7;13;M;Orquesta;EL COMBO DOMINICANO;Cacheiras, Teo;A Coruña;
+12336;30;7;13;M;Grupo;CICLÓN;Cacheiras, Teo;A Coruña;22:30h. Acompañados de la Orquesta El Combo Dominicano. 
+11570;30;7;13;M;Orquesta;PANORAMA;Dombodán, Arzúa;A Coruña;A partir de las 23:00h. Acompañados de la Orquesta Fania Blanco Show. 
+11571;30;7;13;M;Orquesta;FANIA BLANCO SHOW;Dombodán, Arzúa;A Coruña;A partir de las 23:00h. Acompañados de la Orquesta Panorama. 
+12047;30;7;13;M;Orquesta;TELEVISIÓN;Mangoeiro, Avión;Ourense;
+12426;30;7;13;M;Orquesta;PRINCIPAL;Ortigueira;A Coruña;Acompañados de la Orquesta Los Españoles. 
+12438;30;7;13;M;Orquesta;LOS ESPAÑOLES;Ortigueira;A Coruña;Acompañados de la Orquesta Principal. 
+11626;30;7;13;M;Orquesta;PARIS DE NOIA;Ponte Arnelas, Ribadumia;Pontevedra;La fiesta está para las 22:00h. Acompañados de la Orquesta Marbella. 
+11630;30;7;13;M;Orquesta;MARBELLA;Ponte Arnelas, Ribadumia;Pontevedra;La fiesta está para las 22:00h. Acompañados de la Orquesta Paris De Noia. 
+11713;30;7;13;M;Orquesta;SOLARA;Ribarteme, As Neves;Pontevedra;Acompañados de la Orquesta Tango. 
+11737;30;7;13;M;Orquesta;TANGO;Ribarteme, As Neves;Pontevedra;Acompañados de la Orquesta Solara. 
+11476;31;7;13;X;Orquesta;TRIUNFO;A Rasa, Noia;A Coruña;22:00 hrs. Acompañados de la Orquesta Aché. 
+11572;31;7;13;X;Orquesta;PANORAMA;Cacheiras, Teo;A Coruña;A partir de las 22:30h. Acompañados del Grupo Claxxon. 
+11573;31;7;13;X;Grupo;CLAXXON;Cacheiras, Teo;A Coruña;A partir de las 22:30h. Acompañados de la Orquesta Panorama. 
+12992;31;7;13;X;Orquesta;CAPITOL;Candás, Carreño;Asturias;A partir de las 22:30h. 
+11627;31;7;13;X;Orquesta;PARIS DE NOIA;Dombodán, Arzúa;A Coruña;La fiesta está para las 00:00h. Acompañados de la Orquesta Xente Nova. 
+13525;31;7;13;X;Grupo;LIMÓN;Mangoeiro, Avión;Ourense;
+13140;31;7;13;X;Orquesta;ABANICO;O Mourisco, Riós;Ourense;
+12221;31;7;13;X;Orquesta;LOS PLAYERS;Ortigueira;A Coruña;
+11925;31;7;13;X;Orquesta;EL COMBO DOMINICANO;Ponte Arnelas, Ribadumia;Pontevedra;A partir de las 22:00 horas. Acompañados de la Orquesta Gran Parada. 
+12589;31;7;13;X;Orquesta;GRAN PARADA;Ponte Arnelas, Ribadumia;Pontevedra;A partir de las 22:00 horas. Acompañados de la Orquesta El Combo Dominicano. 
+13393;31;7;13;X;Grupo;CICLÓN;Rañestras, Rodeiro;Pontevedra;22:30h. 
+12901;31;7;13;X;Orquesta;TANGO;Ribeira;A Coruña;
+11612;31;7;13;X;Orquesta;OLYMPUS RED TOUR;Santiago de Compostela;A Coruña;En la plaza de Obradoiro. A partir de las 12 de la noche, justo después de los fuegos. ACTUACIÓN CANCELADA DEBIDO A LA TRAGEDIA FERROVIARIA. 
+13852;31;7;13;X;Orquesta;MARBELLA;Viana do Bolo;Ourense;

@@ -1,341 +1,341 @@
-18840;1;12;13;D;Orquesta;LOS SATÉLITES;A Coruña;A Coruña
-19020;1;12;13;D;Dúo;ESTRELLAS;Begonte;Lugo
-16520;1;12;13;D;Solista;TANIA Y SU ACORDEÓN;Ferrol;A Coruña
-19146;1;12;13;D;Dúo;CARAMELO;Laraxe, Cabanas;A Coruña
-19165;1;12;13;D;Grupo;ARAMIO;S.F. Chamán, Goián;Pontevedra
-19156;1;12;13;D;Orquesta;CINEMA;S.F. Nova Exágono, Lugo;Lugo
-18528;1;12;13;D;Orquesta;PONTEVEDRA;S.F. Paulino, O Carballiño;Ourense
-19200;1;12;13;D;Orquesta;SOLARA;S.F. Velvet, Monçao;Portugal
-18588;1;12;13;D;Charanga;MEKANIKA;Sigüeiro, Oroso;A Coruña
-19331;4;12;13;X;Orquesta;WAYKAS FAMILY;Cangas del Narcea;Asturias
-19185;5;12;13;J;Orquesta;COMPOSTELA;Centro Cívico de Cangas, Foz;Lugo
-18974;5;12;13;J;Orquesta;EL COMBO DOMINICANO;Discoteca Teyma, Ponteceso;A Coruña
-18934;5;12;13;J;Dúo;CALÚ;Golmar, A Laracha;A Coruña
-19161;5;12;13;J;Orquesta;CINEMA;Restaurante El Pantano, Abegondo;A Coruña
-19154;5;12;13;J;Solista;TANIA Y SU ACORDEÓN;S.F. Estilo, Oviedo;Asturias
-18545;5;12;13;J;Orquesta;PARIS DE NOIA;S.F. Imperial, Narón;A Coruña
-19339;5;12;13;J;Grupo;ARAMIO;S.F. Olimpo, Vigo;Pontevedra
-19131;5;12;13;J;Orquesta;PANORAMA;S.F. Rosalar, Ribadeo;Lugo
-19132;5;12;13;J;Grupo;TEKILA;S.F. Rosalar, Ribadeo;Lugo
-18866;6;12;13;V;Dúo;MERITXELL;Aguada, Carballedo;Lugo
-18249;6;12;13;V;Trío;AZAR;Beade, Vigo;Pontevedra
-19320;6;12;13;V;Dúo;KARAMBA;Bergondo;A Coruña
-19133;6;12;13;V;Orquesta;PANORAMA;Grado;Asturias
-19292;6;12;13;V;Grupo;TEKILA;Grado;Asturias
-19332;6;12;13;V;Orquesta;WAYKAS FAMILY;León;León
-19259;6;12;13;V;Orquesta;XACOBEO;Nantes, Sanxenxo;Pontevedra
-18971;6;12;13;V;Charanga;NBA;O Barqueiro, Mañón;A Coruña
-19335;6;12;13;V;Orquesta;ISRAEL;S.F. Chanteclair, Pontecesures;Pontevedra
-18975;6;12;13;V;Orquesta;EL COMBO DOMINICANO;S.F. Dona Dana, Touro;A Coruña
-19171;6;12;13;V;Orquesta;FANIA BLANCO SHOW;S.F. La Concha, O Val;A Coruña
-19189;6;12;13;V;Orquesta;COMPOSTELA;S.F. Mami, A Manchica;Ourense
-19307;6;12;13;V;Grupo;CLAXXON;S.F. Nova Exágono, Lugo;Lugo
-19341;6;12;13;V;Orquesta;GRAN PARADA;S.F. Nova Exágono, Lugo;Lugo
-19075;6;12;13;V;Orquesta;CHARLESTON BIG-BAND;S.F. Zeus, Campolongo;A Coruña
-19082;6;12;13;V;Orquesta;PANAMA;S.F. Zeus, Campolongo;A Coruña
-18673;6;12;13;V;Solista;TANIA Y SU ACORDEÓN;San Antolin de Ibias;Asturias
-19058;6;12;13;V;Orquesta;PARIS DE NOIA;Santaia de Probaos, Cesuras;A Coruña
-19204;6;12;13;V;Orquesta;MARBELLA;Santaia de Probaos, Cesuras;A Coruña
-19337;6;12;13;V;Grupo;ARAMIO;Vendanova, Salceda de Caselas;Pontevedra
-19169;6;12;13;V;Orquesta;OLYMPUS RED TOUR;Vilaselán, Ribadeo;Lugo
-19170;6;12;13;V;Orquesta;CAPITOL;Vilaselán, Ribadeo;Lugo
-19392;7;12;13;S;Dúo;MERITXELL;A Coruña;A Coruña
-19037;7;12;13;S;Dúo;LA HORA BRUJA;Abade, Moeche;A Coruña
-19248;7;12;13;S;Orquesta;TREBOL;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
-19011;7;12;13;S;Dúo;ESTRELLAS;Arante, Ribadeo;Lugo
-18294;7;12;13;S;Trío;AZAR;Beade, Vigo;Pontevedra
-19321;7;12;13;S;Dúo;KARAMBA;Bergondo;A Coruña
-19294;7;12;13;S;Grupo;TEKILA;Canedo, Lourenzá;Lugo
-19262;7;12;13;S;Orquesta;ABANICO;Centro Cívico de Cangas, Foz;Lugo
-19336;7;12;13;S;Dúo;CARAMELO;Corme, Ponteceso;A Coruña
-18599;7;12;13;S;Solista;TANIA Y SU ACORDEÓN;Covelas, Ribadeo;Lugo
-18969;7;12;13;S;Orquesta;EL COMBO DOMINICANO;Discoteca Pazos, Laracha;A Coruña
-18917;7;12;13;S;Solista;ROCÍO PÉREZ;Entrecruces, Carballo;A Coruña
-19350;7;12;13;S;Orquesta;ACORDES;Espasande, Castroverde;Lugo
-19333;7;12;13;S;Orquesta;WAYKAS FAMILY;León;León
-19279;7;12;13;S;Orquesta;IPANEMA;Manganeses de la Polvorosa;Zamora
-19221;7;12;13;S;Orquesta;PONTEVEDRA;Nantes, Sanxenxo;Pontevedra
-19229;7;12;13;S;Orquesta;FANIA BLANCO SHOW;Nantes, Sanxenxo;Pontevedra
-19305;7;12;13;S;Grupo;ARAMIO;Noicela, Carballo;A Coruña
-18765;7;12;13;S;Grupo;FUSIÓN;O Barqueiro, Mañón;A Coruña
-19308;7;12;13;S;Grupo;CLAXXON;Pub El Molino, Ribadeo;Lugo
-19377;7;12;13;S;Orquesta;ISRAEL;Restaurante As Rodas, Espíritu Santo;A Coruña
-18927;7;12;13;S;Dúo;CALÚ;Restaurante Cerqueiro, A Laracha;A Coruña
-19205;7;12;13;S;Orquesta;MARBELLA;Restaurante El Pantano, Abegondo;A Coruña
-19051;7;12;13;S;Orquesta;GRAN PARADA;Restaurante Os Paraguas, Carral;A Coruña
-19018;7;12;13;S;Grupo;ASSIA;S.F. Estilo, Oviedo;Asturias
-18546;7;12;13;S;Orquesta;LOS SATÉLITES;S.F. Imperial, Narón;A Coruña
-18993;7;12;13;S;Orquesta;PALLADIUM;S.F. Josfer, Mesón do Vento;A Coruña
-18960;7;12;13;S;Orquesta;COMPOSTELA;Santa María de Xeve, Pontevedra;Pontevedra
-19035;7;12;13;S;Orquesta;SOLARA;Santa María de Xeve, Pontevedra;Pontevedra
-19059;7;12;13;S;Orquesta;CINEMA;Santaia de Probaos, Cesuras;A Coruña
-18732;7;12;13;S;Orquesta;PANORAMA;Silleda;Pontevedra
-18733;7;12;13;S;Orquesta;PARIS DE NOIA;Silleda;Pontevedra
-18734;7;12;13;S;Orquesta;CHARLESTON BIG-BAND;Silleda;Pontevedra
-19231;7;12;13;S;Orquesta;PANAMA;Soutomaior;Pontevedra
-19235;7;12;13;S;Grupo;LIMÓN;Soutomaior;Pontevedra
-19096;7;12;13;S;Orquesta;OLYMPUS RED TOUR;Xornes, Ponteceso;A Coruña
-19199;7;12;13;S;Dúo;ECLIPSE;Xove;Lugo
-17893;8;12;13;D;Trío;AZAR;Chapela, Redondela;Pontevedra
-19295;8;12;13;D;Grupo;TEKILA;Discoteca La Pista, Pola de Laviana;Asturias
-19222;8;12;13;D;Orquesta;PONTEVEDRA;Extramundi, Padrón;A Coruña
-19393;8;12;13;D;Charanga;O´SANTIAGUIÑO;Extramundi, Padrón;A Coruña
-19293;8;12;13;D;Dúo;DE LA CRUZ SHOW;Fontiñas, Santiago de Compostela;A Coruña
-19334;8;12;13;D;Orquesta;WAYKAS FAMILY;León;León
-19257;8;12;13;D;Orquesta;FIN DE SIGLO;Millán, Sobér;Lugo
-18997;8;12;13;D;Dúo;CALÚ;Noicela, Carballo;A Coruña
-18936;8;12;13;D;Charanga;XL;Parada de Ribeira, Xinzo de Limia;Ourense
-19263;8;12;13;D;Orquesta;ABANICO;S.F. Chanteclair, Pontecesures;Pontevedra
-19232;8;12;13;D;Orquesta;PANAMA;S.F. La Luna, Cerponzóns;Pontevedra
-19238;8;12;13;D;Orquesta;CHARLESTON BIG-BAND;S.F. La Reina, Sanguiñeda;Pontevedra
-19186;8;12;13;D;Orquesta;OLYMPUS RED TOUR;S.F. Mami, A Manchica;Ourense
-19134;8;12;13;D;Orquesta;PANORAMA;S.F. Nova Exágono, Lugo;Lugo
-19135;8;12;13;D;Orquesta;PARIS DE NOIA;S.F. Nova Exágono, Lugo;Lugo
-19280;8;12;13;D;Orquesta;CAPITOL;S.F. Olimpo, Vigo;Pontevedra
-19378;8;12;13;D;Orquesta;ISRAEL;S.F. Paulino, O Carballiño;Ourense
-19338;8;12;13;D;Grupo;ARAMIO;S.F. Velvet, Monçao;Portugal
-19401;8;12;13;D;Orquesta;GRAN PARADA;S.F. Zeus, Campolongo;A Coruña
-19249;8;12;13;D;Orquesta;TREBOL;Santa María de Xeve, Pontevedra;Pontevedra
-19250;8;12;13;D;Orquesta;TANGO;Santa María de Xeve, Pontevedra;Pontevedra
-19322;8;12;13;D;Dúo;KARAMBA;Visantoña, Santiso;A Coruña
-19316;12;12;13;J;Orquesta;FANIA BLANCO SHOW;Santiago de Compostela;A Coruña
-19213;13;12;13;V;Orquesta;COMPOSTELA;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
-19450;13;12;13;V;Trío;ORQUÍDEA;Barra Portuguesa;Lugo
-18251;13;12;13;V;Trío;AZAR;Beade, Vigo;Pontevedra
-19038;13;12;13;V;Orquesta;CINEMA;Berdeogas, Dumbria;A Coruña
-19402;13;12;13;V;Orquesta;GRAN PARADA;Boiro;A Coruña
-18928;13;12;13;V;Dúo;CALÚ;Cervecería La Terraza, O Temple, Cambre;A Coruña
-19110;13;12;13;V;Charanga;XL;Montalegre;Portugal
-19192;13;12;13;V;Orquesta;PARIS DE NOIA;Moraña;Pontevedra
-18922;13;12;13;V;Solista;TANIA Y SU ACORDEÓN;Pazo Los Escudos, Vigo;Pontevedra
-19306;13;12;13;V;Dúo;DE LA CRUZ SHOW;Pontecesures;Pontevedra
-18690;13;12;13;V;Orquesta;SOLARA;Restaurante Balcobo, Arteixo;A Coruña
-19407;13;12;13;V;Orquesta;PALLADIUM;Restaurante El Pantano, Abegondo;A Coruña
-18547;13;12;13;V;Orquesta;PANORAMA;S.F. Imperial, Narón;A Coruña
-19363;13;12;13;V;Grupo;ACIREMA;S.F. Velvet, Monçao;Portugal
-19323;13;12;13;V;Dúo;KARAMBA;Vilarrodís, Arteixo;A Coruña
-19251;14;12;13;S;Orquesta;TREBOL;A Lagoa, Vimianzo;A Coruña
-19214;14;12;13;S;Orquesta;COMPOSTELA;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
-18252;14;12;13;S;Trío;AZAR;Beade, Vigo;Pontevedra
-19403;14;12;13;S;Orquesta;GRAN PARADA;Bemil, Caldas de Reis;Pontevedra
-19311;14;12;13;S;Orquesta;FANIA BLANCO SHOW;Brantuas, Ponteceso;A Coruña
-18727;14;12;13;S;Orquesta;ESTRELLAMAR;Brens, Cee;A Coruña
-18968;14;12;13;S;Solista;TANIA Y SU ACORDEÓN;Cangas del Narcea;Asturias
-19206;14;12;13;S;Orquesta;MARBELLA;Cepeda, Pazos de Borbén;Pontevedra
-18929;14;12;13;S;Dúo;CALÚ;Cervecería La Terraza, O Temple, Cambre;A Coruña
-19193;14;12;13;S;Orquesta;PARIS DE NOIA;Discoteca Maravilla, Vilaboa;A Coruña
-19425;14;12;13;S;Orquesta;TANGO;Estacas, Cuntis;Pontevedra
-19434;14;12;13;S;Dúo;ESTRELLAS;Lourenzá;Lugo
-19324;14;12;13;S;Dúo;KARAMBA;Montesalgueiro, Aranga;A Coruña
-19372;14;12;13;S;Dúo;CARAMELO;Pontedeume;A Coruña
-18951;14;12;13;S;Orquesta;LOS SATÉLITES;Rairo, Ourense;Ourense
-19281;14;12;13;S;Orquesta;CAPITOL;Restaurante As Rodas, Espíritu Santo;A Coruña
-19270;14;12;13;S;Orquesta;SOLARA;Restaurante Balcobo, Arteixo;A Coruña
-19408;14;12;13;S;Orquesta;PALLADIUM;Restaurante El Pantano, Abegondo;A Coruña
-19052;14;12;13;S;Orquesta;PANAMA;Restaurante Os Paraguas, Carral;A Coruña
-19114;14;12;13;S;Dúo;DE LA CRUZ SHOW;Rianxo;A Coruña
-19136;14;12;13;S;Orquesta;PANORAMA;S.F. Dona Dana, Touro;A Coruña
-19414;14;12;13;S;Orquesta;DOMINÓ;S.F. Estilo, Oviedo;Asturias
-19172;14;12;13;S;Orquesta;CHARLESTON BIG-BAND;S.F. La Concha, O Val;A Coruña
-19264;14;12;13;S;Orquesta;ABANICO;S.F. La Palmera Playa, Vigo;Pontevedra
-19379;14;12;13;S;Orquesta;ISRAEL;S.F. Rombos, Arriondas;Asturias
-19364;14;12;13;S;Grupo;ACIREMA;S.F. Velvet, Monçao;Portugal
-19223;14;12;13;S;Orquesta;PONTEVEDRA;Sisto, Valga;Pontevedra
-19236;14;12;13;S;Orquesta;TRIUNFO;Sisto, Valga;Pontevedra
-18684;14;12;13;S;Orquesta;CINEMA;Tines, Vimianzo;A Coruña
-19069;14;12;13;S;Grupo;FUSIÓN;Vilalba;Lugo
-19215;15;12;13;D;Orquesta;COMPOSTELA;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
-18930;15;12;13;D;Dúo;CALÚ;Bribes, Cambre;A Coruña
-17932;15;12;13;D;Solista;TANIA Y SU ACORDEÓN;Cangas del Narcea;Asturias
-19265;15;12;13;D;Orquesta;ABANICO;Coristanco;A Coruña
-19365;15;12;13;D;Grupo;ACIREMA;Noalla, Sanxenxo;Pontevedra
-19242;15;12;13;D;Orquesta;MIRAMAR;S.F. La Luna, Cerponzóns;Pontevedra
-19343;15;12;13;D;Orquesta;NEVADA;S.F. La Palmera Playa, Vigo;Pontevedra
-18531;15;12;13;D;Orquesta;PONTEVEDRA;S.F. La Reina, Sanguiñeda;Pontevedra
-19282;15;12;13;D;Orquesta;CAPITOL;S.F. Mami, A Manchica;Ourense
-19233;15;12;13;D;Orquesta;PANAMA;S.F. Nova Exágono, Lugo;Lugo
-19299;15;12;13;D;Orquesta;CHARLESTON BIG-BAND;S.F. Paulino, O Carballiño;Ourense
-19426;15;12;13;D;Orquesta;TANGO;S.F. Velvet, Monçao;Portugal
-19207;15;12;13;D;Orquesta;MARBELLA;S.F. Zeus, Campolongo;A Coruña
-19044;15;12;13;D;Orquesta;FANIA BLANCO SHOW;Tines, Vimianzo;A Coruña
-19137;15;12;13;D;Orquesta;PANORAMA;Vegadeo;Asturias
-19478;19;12;13;J;Orquesta;CHARLESTON BIG-BAND;Grabación TVG;A Coruña
-18952;20;12;13;V;Orquesta;LOS SATÉLITES;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
-19374;20;12;13;V;Dúo;CALÚ;As Encrobas, Cerceda;A Coruña
-19447;20;12;13;V;Solista;ROCÍO PÉREZ;Carballo;A Coruña
-19325;20;12;13;V;Dúo;KARAMBA;Palavea, A Coruña;A Coruña
-19216;20;12;13;V;Orquesta;COMPOSTELA;Restaurante Balcobo, Arteixo;A Coruña
-19312;20;12;13;V;Orquesta;FANIA BLANCO SHOW;Restaurante El Pantano, Abegondo;A Coruña
-19194;20;12;13;V;Orquesta;PARIS DE NOIA;S.F. Estilo, Oviedo;Asturias
-18549;20;12;13;V;Orquesta;OLYMPUS RED TOUR;S.F. Imperial, Narón;A Coruña
-19158;20;12;13;V;Orquesta;CINEMA;S.F. La Concha, O Val;A Coruña
-19283;20;12;13;V;Orquesta;CAPITOL;S.F. La Palmera Playa, Vigo;Pontevedra
-19519;20;12;13;V;Grupo;NIEVLA;S.F. Olimpo, Vigo;Pontevedra
-19435;20;12;13;V;Orquesta;EL COMBO DOMINICANO;S.F. Zeus, Campolongo;A Coruña
-19528;20;12;13;V;Orquesta;TRIUNFO;S.F. Zeus, Campolongo;A Coruña
-19452;20;12;13;V;Orquesta;PALLADIUM;Vegadeo, A Veiga;Asturias
-19499;20;12;13;V;Orquesta;PANORAMA;Vegadeo, A Veiga;Asturias
-19366;20;12;13;V;Grupo;ACIREMA;Vilagarcía de Arousa;Pontevedra
-19344;21;12;13;S;Orquesta;NEVADA;A Lagoa, Vimianzo;A Coruña
-18953;21;12;13;S;Orquesta;LOS SATÉLITES;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
-19492;21;12;13;S;Dúo;CARAMELO;Alvedro, Culleredo;A Coruña
-19224;21;12;13;S;Orquesta;PONTEVEDRA;Alvite, Negreira;A Coruña
-19427;21;12;13;S;Orquesta;TANGO;Centro Social de Foz;Lugo
-19442;21;12;13;S;Orquesta;PALLADIUM;Cespón, Boiro;A Coruña
-17885;21;12;13;S;Dúo;LA HORA BRUJA;Chamoso, O Corgo;Lugo
-19187;21;12;13;S;Orquesta;OLYMPUS RED TOUR;Discoteca Maravilla, Vilaboa;A Coruña
-19361;21;12;13;S;Orquesta;EL COMBO DOMINICANO;LP45, Ordes;A Coruña
-19326;21;12;13;S;Dúo;KARAMBA;Palavea, A Coruña;A Coruña
-18931;21;12;13;S;Dúo;CALÚ;Pub +Mengu, Vilarmaior;A Coruña
-19217;21;12;13;S;Orquesta;COMPOSTELA;Restaurante Balcobo, Arteixo;A Coruña
-19313;21;12;13;S;Orquesta;FANIA BLANCO SHOW;Restaurante El Pantano, Abegondo;A Coruña
-18711;21;12;13;S;Dúo;DE LA CRUZ SHOW;Rianxo;A Coruña
-19166;21;12;13;S;Solista;TANIA Y SU ACORDEÓN;Rua do Camiño Real, Lugo;Lugo
-18977;21;12;13;S;Grupo;NIEVLA;S.F. Chamán, Goián;Pontevedra
-19284;21;12;13;S;Orquesta;CAPITOL;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
-19296;21;12;13;S;Grupo;TEKILA;S.F. Estilo, Oviedo;Asturias
-18995;21;12;13;S;Orquesta;TREBOL;S.F. Josfer, Mesón do Vento;A Coruña
-19147;21;12;13;S;Orquesta;ABANICO;S.F. La Concha, O Val;A Coruña
-19138;21;12;13;S;Orquesta;PANORAMA;S.F. La Luna, Cerponzóns;Pontevedra
-19195;21;12;13;S;Orquesta;PARIS DE NOIA;S.F. La Luna, Cerponzóns;Pontevedra
-19208;21;12;13;S;Orquesta;MARBELLA;S.F. Rosalar, Ribadeo;Lugo
-19477;21;12;13;S;Orquesta;COSTA BLANCA;San Tomé de Piñeiro, Marín;Pontevedra
-19167;21;12;13;S;Orquesta;CINEMA;Vilaboa, Culleredo;A Coruña
-19449;21;12;13;S;Charanga;XL;Xinzo de Limia;Ourense
-19493;22;12;13;D;Dúo;CARAMELO;Bemantes, Miño;A Coruña
-19139;22;12;13;D;Orquesta;PANORAMA;Caldas de Reis;Pontevedra
-19150;22;12;13;D;Solista;TANIA Y SU ACORDEÓN;Cariño;A Coruña
-19367;22;12;13;D;Grupo;ACIREMA;Coron, Vilanova de Arousa;Pontevedra
-19428;22;12;13;D;Orquesta;TANGO;S.F. Chamán, Goián;Pontevedra
-19406;22;12;13;D;Orquesta;OLYMPUS RED TOUR;S.F. Chanteclair, Pontecesures;Pontevedra
-19352;22;12;13;D;Orquesta;MARBELLA;S.F. La Palma, Seixo, Marín;Pontevedra
-19239;22;12;13;D;Orquesta;GRAN PARADA;S.F. La Reina, Sanguiñeda;Pontevedra
-19252;22;12;13;D;Orquesta;TREBOL;S.F. Mami, A Manchica;Ourense
-19243;22;12;13;D;Orquesta;MIRAMAR;S.F. Nova Exágono, Lugo;Lugo
-19266;22;12;13;D;Orquesta;ABANICO;S.F. Olimpo, Vigo;Pontevedra
-19285;22;12;13;D;Orquesta;CAPITOL;S.F. Paulino, O Carballiño;Ourense
-19502;22;12;13;D;Orquesta;EL COMBO DOMINICANO;S.F. Soco, Vimianzo;A Coruña
-19196;22;12;13;D;Orquesta;PARIS DE NOIA;S.F. Zeus, Campolongo;A Coruña
-19345;22;12;13;D;Orquesta;NEVADA;San Tomé de Piñeiro, Marín;Pontevedra
-19560;25;12;13;X;Grupo;SONIDO LEÓN;Canicosa de la Sierra;Burgos
-19007;25;12;13;X;Orquesta;PARIS DE NOIA;Discoteca Oh! Caramba, As Pontes;A Coruña
-19286;25;12;13;X;Orquesta;CAPITOL;Liceo de Noia, Noia;A Coruña
-19297;25;12;13;X;Grupo;TEKILA;Moucide, O Valadouro;Lugo
-19253;25;12;13;X;Orquesta;TREBOL;S.F. Chanteclair, Pontecesures;Pontevedra
-19409;25;12;13;X;Orquesta;PALLADIUM;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
-19140;25;12;13;X;Orquesta;PANORAMA;S.F. Estilo, Oviedo;Asturias
-19209;25;12;13;X;Orquesta;MARBELLA;S.F. La Luna, Cerponzóns;Pontevedra
-19454;25;12;13;X;Orquesta;PONTEVEDRA;S.F. La Palma, Seixo, Marín;Pontevedra
-19203;25;12;13;X;Orquesta;ABANICO;S.F. La Reina, Sanguiñeda;Pontevedra
-19272;25;12;13;X;Orquesta;SOLARA;S.F. Olimpo, Vigo;Pontevedra
-19188;25;12;13;X;Orquesta;OLYMPUS RED TOUR;S.F. Paulino, O Carballiño;Ourense
-19346;25;12;13;X;Orquesta;NEVADA;Villaralbo;Zamora
-19351;26;12;13;J;Orquesta;MARBELLA;A Canicouva, Pontevedra;Pontevedra
-19564;26;12;13;J;Dúo;ECLIPSE;Cadrón, Lalín;Pontevedra
-19561;26;12;13;J;Grupo;SONIDO LEÓN;Canicosa de la Sierra;Burgos
-18954;26;12;13;J;Orquesta;LOS SATÉLITES;Cans, O Porriño;Pontevedra
-19357;26;12;13;J;Orquesta;FANIA BLANCO SHOW;Carral;A Coruña
-19254;26;12;13;J;Orquesta;TREBOL;Landeira, Negreira;A Coruña
-19260;26;12;13;J;Orquesta;XACOBEO;Negros, Redondela;Pontevedra
-19179;26;12;13;J;Trío;AZAR;Nigrán;Pontevedra
-19271;26;12;13;J;Orquesta;SOLARA;Noalla, Sanxenxo;Pontevedra
-18329;26;12;13;J;Disco Móvil;BLANCO Y NEGRO;Piantón, Vegadeo;Asturias
-19415;26;12;13;J;Orquesta;DOMINÓ;Piantón, Vegadeo;Asturias
-19527;26;12;13;J;Orquesta;COSTA BLANCA;S.F. Olimpo, Vigo;Pontevedra
-19557;26;12;13;J;Grupo;ALKAR;Saiar, Caldas de Reis;Pontevedra
-19225;26;12;13;J;Orquesta;PONTEVEDRA;Tremoedo, Vilanova de Arousa;Pontevedra
-19410;26;12;13;J;Orquesta;PALLADIUM;Treos, Vimianzo;A Coruña
-19255;27;12;13;V;Orquesta;TREBOL;Cans, O Porriño;Pontevedra
-19429;27;12;13;V;Orquesta;TANGO;Cans, O Porriño;Pontevedra
-19416;27;12;13;V;Orquesta;DOMINÓ;Castrillo de la Reina;Burgos
-19141;27;12;13;V;Orquesta;PANORAMA;Éntoma, O Barco de Valdeorras;Ourense
-19143;27;12;13;V;Orquesta;TRIUNFO;Éntoma, O Barco de Valdeorras;Ourense
-19212;27;12;13;V;Orquesta;MARBELLA;Pasarela, Vimianzo;A Coruña
-18932;27;12;13;V;Dúo;CALÚ;Polígono industrial de Sabón, Arteixo;A Coruña
-19244;27;12;13;V;Orquesta;MIRAMAR;S.F. La Palmera Playa, Vigo;Pontevedra
-19226;27;12;13;V;Orquesta;PONTEVEDRA;Tremoedo, Vilanova de Arousa;Pontevedra
-19228;27;12;13;V;Grupo;ALKAR;Tremoedo, Vilanova de Arousa;Pontevedra
-19362;27;12;13;V;Grupo;D´MODA;Viñas de Aliste, Viñas;Zamora
-19287;28;12;13;S;Orquesta;CAPITOL;A Lagoa, Vimianzo;A Coruña
-19142;28;12;13;S;Orquesta;PANORAMA;Areas, Ponteareas;Pontevedra
-19309;28;12;13;S;Grupo;CLAXXON;Areas, Ponteareas;Pontevedra
-19554;28;12;13;S;Orquesta;NUEVA BANDA;Castrillo de la Reina;Burgos
-19539;28;12;13;S;Dúo;DE LA CRUZ SHOW;Castro, Boiro;A Coruña
-19375;28;12;13;S;Dúo;CALÚ;Loureda, Cesuras;A Coruña
-19300;28;12;13;S;Orquesta;CHARLESTON BIG-BAND;Restaurante El Pantano, Abegondo;A Coruña
-19439;28;12;13;S;Dúo;ESTRELLAS;Roupar, Xermade;Lugo
-19498;28;12;13;S;Orquesta;CINEMA;S.F. Dona Dana, Touro;A Coruña
-19025;28;12;13;S;Orquesta;PONTEVEDRA;S.F. Estilo, Oviedo;Asturias
-18551;28;12;13;S;Grupo;AMÉRICA DE VIGO;S.F. Imperial, Narón;A Coruña
-18955;28;12;13;S;Orquesta;LOS SATÉLITES;S.F. Josfer, Mesón do Vento;A Coruña
-19173;28;12;13;S;Orquesta;PARIS DE NOIA;S.F. La Concha, O Val;A Coruña
-19576;28;12;13;S;Grupo;TALISMÁN;S.F. La Palma, Seixo, Marín;Pontevedra
-19245;28;12;13;S;Orquesta;MIRAMAR;S.F. La Palmera Playa, Vigo;Pontevedra
-19219;28;12;13;S;Orquesta;COMPOSTELA;S.F. Olimpo, Vigo;Pontevedra
-19411;28;12;13;S;Orquesta;PALLADIUM;S.F. Rosalar, Ribadeo;Lugo
-19480;28;12;13;S;Solista;TANIA Y SU ACORDEÓN;San Antolin de Ibias;Asturias
-19572;28;12;13;S;Charanga;XL;Xinzo de Limia;Ourense
-19578;29;12;13;D;Orquesta;PANORAMA;Melide;A Coruña
-19611;29;12;13;D;Grupo;ARAMIO;S.F. Bolero, Redondela;Pontevedra
-19190;29;12;13;D;Orquesta;OLYMPUS RED TOUR;S.F. Chanteclair, Pontecesures;Pontevedra
-19218;29;12;13;D;Orquesta;COMPOSTELA;S.F. Chanteclair, Pontecesures;Pontevedra
-19479;29;12;13;D;Orquesta;CHARLESTON BIG-BAND;S.F. La Luna, Cerponzóns;Pontevedra
-19577;29;12;13;D;Grupo;NIEVLA;S.F. La Palma, Seixo, Marín;Pontevedra
-19240;29;12;13;D;Orquesta;CAPITOL;S.F. La Reina, Sanguiñeda;Pontevedra
-19380;29;12;13;D;Orquesta;ISRAEL;S.F. Mami, A Manchica;Ourense
-19314;29;12;13;D;Orquesta;FANIA BLANCO SHOW;S.F. Nova Exágono, Lugo;Lugo
-19451;29;12;13;D;Grupo;D´MODA;S.F. Olimpo, Vigo;Pontevedra
-19210;29;12;13;D;Orquesta;MARBELLA;S.F. Paulino, O Carballiño;Ourense
-19246;29;12;13;D;Orquesta;MIRAMAR;S.F. Zeus, Campolongo;A Coruña
-19481;29;12;13;D;Grupo;AMÉRICA DE VIGO;Santa Comba;A Coruña
-19456;29;12;13;D;Solista;ROCÍO PÉREZ;Val do Dubra;A Coruña
-19555;30;12;13;L;Orquesta;NUEVA BANDA;Alcorcillo;Zamora
-19562;30;12;13;L;Grupo;SONIDO LEÓN;Moncalvillo;Burgos
-19534;30;12;13;L;Orquesta;CHARLESTON BIG-BAND;O Porriño;Pontevedra
-19570;31;12;13;M;Orquesta;FIN DE SIGLO;A Pobra do Brollón;Lugo
-18933;31;12;13;M;Dúo;CALÚ;Almeiras, Culleredo;A Coruña
-19301;31;12;13;M;Orquesta;CHARLESTON BIG-BAND;Areas, Ponteareas;Pontevedra
-17842;31;12;13;M;Grupo;FUSIÓN;Ares;A Coruña
-19022;31;12;13;M;Dúo;CHIC;Begonte;Lugo
-18215;31;12;13;M;Solista;TANIA Y SU ACORDEÓN;Casa Celesto, Vega de Anzo, Grado;Asturias
-19327;31;12;13;M;Dúo;KARAMBA;Cervás, Ares;A Coruña
-19592;31;12;13;M;Orquesta;PRINCIPAL;Discoteca Litmar, Sarria;Lugo
-19404;31;12;13;M;Orquesta;GRAN PARADA;Discoteca Ramallosa 2000, A Ramallosa;Pontevedra
-19559;31;12;13;M;Solista;ROCÍO PÉREZ;Entrecruces, Carballo;A Coruña
-19423;31;12;13;M;Grupo;D´MODA;Guillán, Vilagarcía de Arousa;Pontevedra
-19130;31;12;13;M;Orquesta;PANORAMA;Guizán, Mos;Pontevedra
-19412;31;12;13;M;Orquesta;PALLADIUM;La Chalana, Laviana;Asturias
-19556;31;12;13;M;Orquesta;NUEVA BANDA;León;León
-19220;31;12;13;M;Orquesta;COMPOSTELA;Liceo de Noia, Noia;A Coruña
-19646;31;12;13;M;Orquesta;SUAVECITO;Lugo;Lugo
-19563;31;12;13;M;Grupo;SONIDO LEÓN;Moncalvillo;Burgos
-19198;31;12;13;M;Dúo;ECLIPSE;Monforte de Lemos;Lugo
-19247;31;12;13;M;Orquesta;MIRAMAR;Mourente, Pontevedra;Pontevedra
-19315;31;12;13;M;Orquesta;FANIA BLANCO SHOW;Narón;A Coruña
-19417;31;12;13;M;Orquesta;DOMINÓ;Navelgas, Tineo;Asturias
-19241;31;12;13;M;Orquesta;MARAZUL;O Viso, Redondela;Pontevedra
-19753;31;12;13;M;Grupo;AMÉRICA DE VIGO;Oleiros, Salvaterra de Miño;Pontevedra
-19645;31;12;13;M;Orquesta;ISRAEL;Ourense;Ourense
-19453;31;12;13;M;Grupo;ACIREMA;Pabellón dos Deportes, Vilanova de Arousa;Pontevedra
-19227;31;12;13;M;Orquesta;PONTEVEDRA;Padrón;A Coruña
-18956;31;12;13;M;Orquesta;LOS SATÉLITES;Pazo de Bidueiro, Ordes;A Coruña
-19754;31;12;13;M;Grupo;GARIBALDI;Ponferrada;León
-19440;31;12;13;M;Orquesta;TANGO;Pontevedra;Pontevedra
-19256;31;12;13;M;Orquesta;TREBOL;Praza do Obradoiro, Santiago de Compostela;A Coruña
-19298;31;12;13;M;Grupo;TEKILA;Restaurante El Llagar de Colloto, Colloto;Asturias
-19211;31;12;13;M;Orquesta;MARBELLA;Restaurante El Pantano, Abegondo;A Coruña
-19019;31;12;13;M;Grupo;ASSIA;Restaurante Latores, Oviedo;Asturias
-18487;31;12;13;M;Dúo;DE LA CRUZ SHOW;Rianxo;A Coruña
-19310;31;12;13;M;Grupo;CLAXXON;Ribadavia;Ourense
-19288;31;12;13;M;Orquesta;CAPITOL;S.F. Chanteclair, Pontecesures;Pontevedra
-18552;31;12;13;M;Orquesta;PARIS DE NOIA;S.F. Imperial, Narón;A Coruña
-19174;31;12;13;M;Orquesta;OLYMPUS RED TOUR;S.F. La Concha, O Val;A Coruña
-19491;31;12;13;M;Orquesta;TELEVISIÓN;S.F. La Luna, Cerponzóns;Pontevedra
-19347;31;12;13;M;Orquesta;NEVADA;S.F. Mami, A Manchica;Ourense
-19267;31;12;13;M;Orquesta;ABANICO;S.F. Paulino, O Carballiño;Ourense
-19358;31;12;13;M;Orquesta;CINEMA;S.F. Rosalar, Ribadeo;Lugo
-19610;31;12;13;M;Grupo;ARAMIO;S.F. Velvet, Monçao;Portugal
-19234;31;12;13;M;Orquesta;PANAMA;S.F. Zeus, Campolongo;A Coruña
-19273;31;12;13;M;Orquesta;SOLARA;Vilalonga, Sanxenxo;Pontevedra
-17894;31;12;13;M;Trío;AZAR;Vincios, Gondomar;Pontevedra
-19177;31;12;13;M;Dúo;ESTRELLAS;Viveiro;Lugo
+18840;1;12;13;D;Orquesta;LOS SATÉLITES;A Coruña;A Coruña;Barrio de San Francisco Javier. 
+19020;1;12;13;D;Dúo;ESTRELLAS;Begonte;Lugo;1º Festival da Canción do Cambe na cafetería A Cantina. 
+16520;1;12;13;D;Solista;TANIA Y SU ACORDEÓN;Ferrol;A Coruña;Asociacion de vecinos de San Juan. 
+19146;1;12;13;D;Dúo;CARAMELO;Laraxe, Cabanas;A Coruña;
+19165;1;12;13;D;Grupo;ARAMIO;S.F. Chamán, Goián;Pontevedra;Avda. Brasil - Tomiño (Pontevedra)
+19156;1;12;13;D;Orquesta;CINEMA;S.F. Nova Exágono, Lugo;Lugo;
+18528;1;12;13;D;Orquesta;PONTEVEDRA;S.F. Paulino, O Carballiño;Ourense;
+19200;1;12;13;D;Orquesta;SOLARA;S.F. Velvet, Monçao;Portugal;
+18588;1;12;13;D;Charanga;MEKANIKA;Sigüeiro, Oroso;A Coruña;
+19331;4;12;13;X;Orquesta;WAYKAS FAMILY;Cangas del Narcea;Asturias;Santa Bárbara. 
+19185;5;12;13;J;Orquesta;COMPOSTELA;Centro Cívico de Cangas, Foz;Lugo;Centro civico de Cangas de Foz. 
+18974;5;12;13;J;Orquesta;EL COMBO DOMINICANO;Discoteca Teyma, Ponteceso;A Coruña;
+18934;5;12;13;J;Dúo;CALÚ;Golmar, A Laracha;A Coruña;Verbena XXVII Festa do Rixón. A partir de las 23:00 hrs.Acercateeee!!! Acompañados de la Orquesta Ismael. 
+19161;5;12;13;J;Orquesta;CINEMA;Restaurante El Pantano, Abegondo;A Coruña;
+19154;5;12;13;J;Solista;TANIA Y SU ACORDEÓN;S.F. Estilo, Oviedo;Asturias;
+18545;5;12;13;J;Orquesta;PARIS DE NOIA;S.F. Imperial, Narón;A Coruña;Entrada 8€. Acompañados de la Orquesta Filadelfia. 
+19339;5;12;13;J;Grupo;ARAMIO;S.F. Olimpo, Vigo;Pontevedra;
+19131;5;12;13;J;Orquesta;PANORAMA;S.F. Rosalar, Ribadeo;Lugo;Acompañados del Grupo Tekila. 
+19132;5;12;13;J;Grupo;TEKILA;S.F. Rosalar, Ribadeo;Lugo;Acompañados de la Orquesta Panorama. 
+18866;6;12;13;V;Dúo;MERITXELL;Aguada, Carballedo;Lugo;Sesión vermú y tarde. 
+18249;6;12;13;V;Trío;AZAR;Beade, Vigo;Pontevedra;Restaurante Parque Forestal.
+19320;6;12;13;V;Dúo;KARAMBA;Bergondo;A Coruña;Vermut Santaya de Probaos
+19133;6;12;13;V;Orquesta;PANORAMA;Grado;Asturias;Acompañados del Grupo Tekila. 
+19292;6;12;13;V;Grupo;TEKILA;Grado;Asturias;Acompañados de la Orquesta Panorama. 
+19332;6;12;13;V;Orquesta;WAYKAS FAMILY;León;León;
+19259;6;12;13;V;Orquesta;XACOBEO;Nantes, Sanxenxo;Pontevedra;
+18971;6;12;13;V;Charanga;NBA;O Barqueiro, Mañón;A Coruña;Festa do Marisco. 
+19335;6;12;13;V;Orquesta;ISRAEL;S.F. Chanteclair, Pontecesures;Pontevedra;A partir de las 18:00h. 
+18975;6;12;13;V;Orquesta;EL COMBO DOMINICANO;S.F. Dona Dana, Touro;A Coruña;
+19171;6;12;13;V;Orquesta;FANIA BLANCO SHOW;S.F. La Concha, O Val;A Coruña;Cena-Baile organizada por la Comisión de fiestas de Lago. 
+19189;6;12;13;V;Orquesta;COMPOSTELA;S.F. Mami, A Manchica;Ourense;
+19307;6;12;13;V;Grupo;CLAXXON;S.F. Nova Exágono, Lugo;Lugo;Acompañados de la Orquesta Gran Parada. 
+19341;6;12;13;V;Orquesta;GRAN PARADA;S.F. Nova Exágono, Lugo;Lugo;Acompañados del Grupo Claxxon. 
+19075;6;12;13;V;Orquesta;CHARLESTON BIG-BAND;S.F. Zeus, Campolongo;A Coruña;Acompañados de la Orquesta Filadelfia, de la Orquesta Aché y de la Orquesra Panamá. 
+19082;6;12;13;V;Orquesta;PANAMA;S.F. Zeus, Campolongo;A Coruña;Acompañados de la Orquesta Filadelfia, de la Orquesta Charleston Big-Band y de la Orquesta Aché. 
+18673;6;12;13;V;Solista;TANIA Y SU ACORDEÓN;San Antolin de Ibias;Asturias;Bar Félix. 
+19058;6;12;13;V;Orquesta;PARIS DE NOIA;Santaia de Probaos, Cesuras;A Coruña;Acompañados de la Orquesta Marbella. 
+19204;6;12;13;V;Orquesta;MARBELLA;Santaia de Probaos, Cesuras;A Coruña;
+19337;6;12;13;V;Grupo;ARAMIO;Vendanova, Salceda de Caselas;Pontevedra;
+19169;6;12;13;V;Orquesta;OLYMPUS RED TOUR;Vilaselán, Ribadeo;Lugo;Acompañados de la Orquesta Capitol. 
+19170;6;12;13;V;Orquesta;CAPITOL;Vilaselán, Ribadeo;Lugo;Acompañados de la Orquesta Olympus. 
+19392;7;12;13;S;Dúo;MERITXELL;A Coruña;A Coruña;Cena noche. 
+19037;7;12;13;S;Dúo;LA HORA BRUJA;Abade, Moeche;A Coruña;Local social. 
+19248;7;12;13;S;Orquesta;TREBOL;Aldeola Restaurante, Malpica de Bergantiños;A Coruña;
+19011;7;12;13;S;Dúo;ESTRELLAS;Arante, Ribadeo;Lugo;Cena-baile. 
+18294;7;12;13;S;Trío;AZAR;Beade, Vigo;Pontevedra;Restaurante Parque Forestal. Noche apartir de las 22:00h. 
+19321;7;12;13;S;Dúo;KARAMBA;Bergondo;A Coruña;Os Condes. 
+19294;7;12;13;S;Grupo;TEKILA;Canedo, Lourenzá;Lugo;
+19262;7;12;13;S;Orquesta;ABANICO;Centro Cívico de Cangas, Foz;Lugo;Centro cívico. 
+19336;7;12;13;S;Dúo;CARAMELO;Corme, Ponteceso;A Coruña;Restaurante Miramar. 
+18599;7;12;13;S;Solista;TANIA Y SU ACORDEÓN;Covelas, Ribadeo;Lugo;Restaurante A Pena. 
+18969;7;12;13;S;Orquesta;EL COMBO DOMINICANO;Discoteca Pazos, Laracha;A Coruña;
+18917;7;12;13;S;Solista;ROCÍO PÉREZ;Entrecruces, Carballo;A Coruña;A partir de las 12 de la noche en el Café Bar Bellavista. 
+19350;7;12;13;S;Orquesta;ACORDES;Espasande, Castroverde;Lugo;Vermú y noche. 
+19333;7;12;13;S;Orquesta;WAYKAS FAMILY;León;León;
+19279;7;12;13;S;Orquesta;IPANEMA;Manganeses de la Polvorosa;Zamora;
+19221;7;12;13;S;Orquesta;PONTEVEDRA;Nantes, Sanxenxo;Pontevedra;Acompañados de la Orquesta Fania Blanco Show. 
+19229;7;12;13;S;Orquesta;FANIA BLANCO SHOW;Nantes, Sanxenxo;Pontevedra;Acompañados de la Orquesta Pontevedra. 
+19305;7;12;13;S;Grupo;ARAMIO;Noicela, Carballo;A Coruña;A las 23:30h. Acompañados de la Orquesta Ismael. 
+18765;7;12;13;S;Grupo;FUSIÓN;O Barqueiro, Mañón;A Coruña;Festa do Marisco. 
+19308;7;12;13;S;Grupo;CLAXXON;Pub El Molino, Ribadeo;Lugo;Pub El Molino. 
+19377;7;12;13;S;Orquesta;ISRAEL;Restaurante As Rodas, Espíritu Santo;A Coruña;
+18927;7;12;13;S;Dúo;CALÚ;Restaurante Cerqueiro, A Laracha;A Coruña;Cena Baile a partir de las 00:00 hrs. Acercateeee!!!. 
+19205;7;12;13;S;Orquesta;MARBELLA;Restaurante El Pantano, Abegondo;A Coruña;
+19051;7;12;13;S;Orquesta;GRAN PARADA;Restaurante Os Paraguas, Carral;A Coruña;Cena baile. 
+19018;7;12;13;S;Grupo;ASSIA;S.F. Estilo, Oviedo;Asturias;
+18546;7;12;13;S;Orquesta;LOS SATÉLITES;S.F. Imperial, Narón;A Coruña;
+18993;7;12;13;S;Orquesta;PALLADIUM;S.F. Josfer, Mesón do Vento;A Coruña;
+18960;7;12;13;S;Orquesta;COMPOSTELA;Santa María de Xeve, Pontevedra;Pontevedra;Acompañados de la Orquesta Solara. 
+19035;7;12;13;S;Orquesta;SOLARA;Santa María de Xeve, Pontevedra;Pontevedra;Acompañados de la Orquesta Compostela. 
+19059;7;12;13;S;Orquesta;CINEMA;Santaia de Probaos, Cesuras;A Coruña;
+18732;7;12;13;S;Orquesta;PANORAMA;Silleda;Pontevedra;Closing Tour 2013. Recitno ferial. Acompañados de la Orquesta Paris De Noia y de la Orquesta Charleston Big-Band. 
+18733;7;12;13;S;Orquesta;PARIS DE NOIA;Silleda;Pontevedra;Closing Tour 2013. Recitno ferial. Acompañados de la Orquesta Panorama y de la Orquesta Charleston Big-Band. 
+18734;7;12;13;S;Orquesta;CHARLESTON BIG-BAND;Silleda;Pontevedra;Closing Tour 2013. Recitno ferial. Acompañados de la Orquesta Panorama y de la Orquesta Paris De Noia. 
+19231;7;12;13;S;Orquesta;PANAMA;Soutomaior;Pontevedra;Centro Cultural O Val. Acompañados del Grupo Limón. 
+19235;7;12;13;S;Grupo;LIMÓN;Soutomaior;Pontevedra;Centro Cultural O Val. Acompañados de la Orquesta Panamá. 
+19096;7;12;13;S;Orquesta;OLYMPUS RED TOUR;Xornes, Ponteceso;A Coruña;Habrá una gran carpa climatizada y una amplia zona de aparcamientos. Acompañados del Grupo Alaska. 
+19199;7;12;13;S;Dúo;ECLIPSE;Xove;Lugo;Centro civico de Xove. 
+17893;8;12;13;D;Trío;AZAR;Chapela, Redondela;Pontevedra;Restaurante Canario. 
+19295;8;12;13;D;Grupo;TEKILA;Discoteca La Pista, Pola de Laviana;Asturias;
+19222;8;12;13;D;Orquesta;PONTEVEDRA;Extramundi, Padrón;A Coruña;
+19393;8;12;13;D;Charanga;O´SANTIAGUIÑO;Extramundi, Padrón;A Coruña;
+19293;8;12;13;D;Dúo;DE LA CRUZ SHOW;Fontiñas, Santiago de Compostela;A Coruña;Baile de Tarde. 
+19334;8;12;13;D;Orquesta;WAYKAS FAMILY;León;León;
+19257;8;12;13;D;Orquesta;FIN DE SIGLO;Millán, Sobér;Lugo;
+18997;8;12;13;D;Dúo;CALÚ;Noicela, Carballo;A Coruña;Noicela - Sesión vermú a partir de las 14:00 hrs. Acercateeee!!!
+18936;8;12;13;D;Charanga;XL;Parada de Ribeira, Xinzo de Limia;Ourense;
+19263;8;12;13;D;Orquesta;ABANICO;S.F. Chanteclair, Pontecesures;Pontevedra;
+19232;8;12;13;D;Orquesta;PANAMA;S.F. La Luna, Cerponzóns;Pontevedra;
+19238;8;12;13;D;Orquesta;CHARLESTON BIG-BAND;S.F. La Reina, Sanguiñeda;Pontevedra;
+19186;8;12;13;D;Orquesta;OLYMPUS RED TOUR;S.F. Mami, A Manchica;Ourense;Actuaremos solos en sesión de tarde, desde las 19:30h. 
+19134;8;12;13;D;Orquesta;PANORAMA;S.F. Nova Exágono, Lugo;Lugo;Acompañados de la Orquesta Paris De Noia. 
+19135;8;12;13;D;Orquesta;PARIS DE NOIA;S.F. Nova Exágono, Lugo;Lugo;Acompañados de la Orquesta Panorama. 
+19280;8;12;13;D;Orquesta;CAPITOL;S.F. Olimpo, Vigo;Pontevedra;
+19378;8;12;13;D;Orquesta;ISRAEL;S.F. Paulino, O Carballiño;Ourense;A partir de las 18:00h. 
+19338;8;12;13;D;Grupo;ARAMIO;S.F. Velvet, Monçao;Portugal;A partir de las 17:00h. 
+19401;8;12;13;D;Orquesta;GRAN PARADA;S.F. Zeus, Campolongo;A Coruña;
+19249;8;12;13;D;Orquesta;TREBOL;Santa María de Xeve, Pontevedra;Pontevedra;Acompañados de la Orquesta Tango. 
+19250;8;12;13;D;Orquesta;TANGO;Santa María de Xeve, Pontevedra;Pontevedra;Acompañados de la Orquesta Trebol. 
+19322;8;12;13;D;Dúo;KARAMBA;Visantoña, Santiso;A Coruña;Vermut Filgueira de Barranca (Curtís). 
+19316;12;12;13;J;Orquesta;FANIA BLANCO SHOW;Santiago de Compostela;A Coruña;Grabación programa Bamboleo TVG. 
+19213;13;12;13;V;Orquesta;COMPOSTELA;Aldeola Restaurante, Malpica de Bergantiños;A Coruña;
+19450;13;12;13;V;Trío;ORQUÍDEA;Barra Portuguesa;Lugo;Cena baile. 
+18251;13;12;13;V;Trío;AZAR;Beade, Vigo;Pontevedra;Restaurante Parque Forestal.
+19038;13;12;13;V;Orquesta;CINEMA;Berdeogas, Dumbria;A Coruña;Acompañados del Dúo Rosan. 
+19402;13;12;13;V;Orquesta;GRAN PARADA;Boiro;A Coruña;
+18928;13;12;13;V;Dúo;CALÚ;Cervecería La Terraza, O Temple, Cambre;A Coruña;A partir de las 00:00 hrs. Acercateeee!!!. 
+19110;13;12;13;V;Charanga;XL;Montalegre;Portugal;Sexta Feira 13. Noite das bruxas. 
+19192;13;12;13;V;Orquesta;PARIS DE NOIA;Moraña;Pontevedra;Acompañados de la Orquesta Jerusalén. 
+18922;13;12;13;V;Solista;TANIA Y SU ACORDEÓN;Pazo Los Escudos, Vigo;Pontevedra;
+19306;13;12;13;V;Dúo;DE LA CRUZ SHOW;Pontecesures;Pontevedra;Cea-baile que se celebrara por mor das cercanas festas do Nadal a partires da medianoite. 
+18690;13;12;13;V;Orquesta;SOLARA;Restaurante Balcobo, Arteixo;A Coruña;
+19407;13;12;13;V;Orquesta;PALLADIUM;Restaurante El Pantano, Abegondo;A Coruña;
+18547;13;12;13;V;Orquesta;PANORAMA;S.F. Imperial, Narón;A Coruña;Entrada 8€. 
+19363;13;12;13;V;Grupo;ACIREMA;S.F. Velvet, Monçao;Portugal;Sala Velvet a partir de las 22h. 
+19323;13;12;13;V;Dúo;KARAMBA;Vilarrodís, Arteixo;A Coruña;Puerto Plata. 
+19251;14;12;13;S;Orquesta;TREBOL;A Lagoa, Vimianzo;A Coruña;Restaurante A Lagoa. 
+19214;14;12;13;S;Orquesta;COMPOSTELA;Aldeola Restaurante, Malpica de Bergantiños;A Coruña;
+18252;14;12;13;S;Trío;AZAR;Beade, Vigo;Pontevedra;Restaurante Parque Forestal.
+19403;14;12;13;S;Orquesta;GRAN PARADA;Bemil, Caldas de Reis;Pontevedra;
+19311;14;12;13;S;Orquesta;FANIA BLANCO SHOW;Brantuas, Ponteceso;A Coruña;Local Social de Brantuas. 
+18727;14;12;13;S;Orquesta;ESTRELLAMAR;Brens, Cee;A Coruña;Acompañados de la disco móvil CDC. 
+18968;14;12;13;S;Solista;TANIA Y SU ACORDEÓN;Cangas del Narcea;Asturias;Discoteca Zaycor. 
+19206;14;12;13;S;Orquesta;MARBELLA;Cepeda, Pazos de Borbén;Pontevedra;
+18929;14;12;13;S;Dúo;CALÚ;Cervecería La Terraza, O Temple, Cambre;A Coruña;A partir de las 00:30 hrs. Acercateeee!!!. 
+19193;14;12;13;S;Orquesta;PARIS DE NOIA;Discoteca Maravilla, Vilaboa;A Coruña;
+19425;14;12;13;S;Orquesta;TANGO;Estacas, Cuntis;Pontevedra;
+19434;14;12;13;S;Dúo;ESTRELLAS;Lourenzá;Lugo;Actuación de noite na Cafetería Galaxia. 
+19324;14;12;13;S;Dúo;KARAMBA;Montesalgueiro, Aranga;A Coruña;Pub Kenda +. 
+19372;14;12;13;S;Dúo;CARAMELO;Pontedeume;A Coruña;Restaurante Los Molinos. 
+18951;14;12;13;S;Orquesta;LOS SATÉLITES;Rairo, Ourense;Ourense;
+19281;14;12;13;S;Orquesta;CAPITOL;Restaurante As Rodas, Espíritu Santo;A Coruña;
+19270;14;12;13;S;Orquesta;SOLARA;Restaurante Balcobo, Arteixo;A Coruña;
+19408;14;12;13;S;Orquesta;PALLADIUM;Restaurante El Pantano, Abegondo;A Coruña;
+19052;14;12;13;S;Orquesta;PANAMA;Restaurante Os Paraguas, Carral;A Coruña;Cena baile. 
+19114;14;12;13;S;Dúo;DE LA CRUZ SHOW;Rianxo;A Coruña;Cea Baile. 
+19136;14;12;13;S;Orquesta;PANORAMA;S.F. Dona Dana, Touro;A Coruña;
+19414;14;12;13;S;Orquesta;DOMINÓ;S.F. Estilo, Oviedo;Asturias;
+19172;14;12;13;S;Orquesta;CHARLESTON BIG-BAND;S.F. La Concha, O Val;A Coruña;Cena-Baile. 
+19264;14;12;13;S;Orquesta;ABANICO;S.F. La Palmera Playa, Vigo;Pontevedra;
+19379;14;12;13;S;Orquesta;ISRAEL;S.F. Rombos, Arriondas;Asturias;A partir de las 01:00h. 
+19364;14;12;13;S;Grupo;ACIREMA;S.F. Velvet, Monçao;Portugal;Sala Velvet a partir de las 22h. 
+19223;14;12;13;S;Orquesta;PONTEVEDRA;Sisto, Valga;Pontevedra;Acompañados del Grupo Triunfo. 
+19236;14;12;13;S;Orquesta;TRIUNFO;Sisto, Valga;Pontevedra;Acompañados de la Orquesta Pontevedra. 
+18684;14;12;13;S;Orquesta;CINEMA;Tines, Vimianzo;A Coruña;Acompañados de la Orquesta Filadelfia. 
+19069;14;12;13;S;Grupo;FUSIÓN;Vilalba;Lugo;Centro de la tercera edad. 
+19215;15;12;13;D;Orquesta;COMPOSTELA;Aldeola Restaurante, Malpica de Bergantiños;A Coruña;
+18930;15;12;13;D;Dúo;CALÚ;Bribes, Cambre;A Coruña;A partir de las 18:00 hrs. Acercateeee!!!. 
+17932;15;12;13;D;Solista;TANIA Y SU ACORDEÓN;Cangas del Narcea;Asturias;Discoteca La Verbena. 
+19265;15;12;13;D;Orquesta;ABANICO;Coristanco;A Coruña;
+19365;15;12;13;D;Grupo;ACIREMA;Noalla, Sanxenxo;Pontevedra;Baile de la Tercera Edad en la Casa Forestal. A partir de las 20h. 
+19242;15;12;13;D;Orquesta;MIRAMAR;S.F. La Luna, Cerponzóns;Pontevedra;
+19343;15;12;13;D;Orquesta;NEVADA;S.F. La Palmera Playa, Vigo;Pontevedra;
+18531;15;12;13;D;Orquesta;PONTEVEDRA;S.F. La Reina, Sanguiñeda;Pontevedra;
+19282;15;12;13;D;Orquesta;CAPITOL;S.F. Mami, A Manchica;Ourense;
+19233;15;12;13;D;Orquesta;PANAMA;S.F. Nova Exágono, Lugo;Lugo;
+19299;15;12;13;D;Orquesta;CHARLESTON BIG-BAND;S.F. Paulino, O Carballiño;Ourense;
+19426;15;12;13;D;Orquesta;TANGO;S.F. Velvet, Monçao;Portugal;
+19207;15;12;13;D;Orquesta;MARBELLA;S.F. Zeus, Campolongo;A Coruña;
+19044;15;12;13;D;Orquesta;FANIA BLANCO SHOW;Tines, Vimianzo;A Coruña;Sesión vermú y noche a partir de las 22:00h. 
+19137;15;12;13;D;Orquesta;PANORAMA;Vegadeo;Asturias;Recinto ferial de Vegadeo. 
+19478;19;12;13;J;Orquesta;CHARLESTON BIG-BAND;Grabación TVG;A Coruña;
+18952;20;12;13;V;Orquesta;LOS SATÉLITES;Aldeola Restaurante, Malpica de Bergantiños;A Coruña;
+19374;20;12;13;V;Dúo;CALÚ;As Encrobas, Cerceda;A Coruña;Café Bar As Tinaxas. Churrascada(GRATIS) a partir de las 19:00 hrs. Y Nuestra actuación a partir de las 22:30 hrs. Acercateeeeeeee!!!!!!. 
+19447;20;12;13;V;Solista;ROCÍO PÉREZ;Carballo;A Coruña;A partir das 22 horas no PUB TABU. Avda. de Bergantiños Nº51 en Carballo, onda o intituto Alfredo Brañas. 
+19325;20;12;13;V;Dúo;KARAMBA;Palavea, A Coruña;A Coruña;Vinoteca Noll. 
+19216;20;12;13;V;Orquesta;COMPOSTELA;Restaurante Balcobo, Arteixo;A Coruña;
+19312;20;12;13;V;Orquesta;FANIA BLANCO SHOW;Restaurante El Pantano, Abegondo;A Coruña;
+19194;20;12;13;V;Orquesta;PARIS DE NOIA;S.F. Estilo, Oviedo;Asturias;
+18549;20;12;13;V;Orquesta;OLYMPUS RED TOUR;S.F. Imperial, Narón;A Coruña;
+19158;20;12;13;V;Orquesta;CINEMA;S.F. La Concha, O Val;A Coruña;
+19283;20;12;13;V;Orquesta;CAPITOL;S.F. La Palmera Playa, Vigo;Pontevedra;
+19519;20;12;13;V;Grupo;NIEVLA;S.F. Olimpo, Vigo;Pontevedra;Sesión noche. 
+19435;20;12;13;V;Orquesta;EL COMBO DOMINICANO;S.F. Zeus, Campolongo;A Coruña;Acompañados del Grupo Triunfo. 
+19528;20;12;13;V;Orquesta;TRIUNFO;S.F. Zeus, Campolongo;A Coruña;Acompañados de la Orquesta El Combo Dominicano. 
+19452;20;12;13;V;Orquesta;PALLADIUM;Vegadeo, A Veiga;Asturias;Recinto Ferial. Acompañados de la Orquesta Panorama. 
+19499;20;12;13;V;Orquesta;PANORAMA;Vegadeo, A Veiga;Asturias;Recinto Ferial. Acompañados de la Orquesta Palladium. 
+19366;20;12;13;V;Grupo;ACIREMA;Vilagarcía de Arousa;Pontevedra;Liceo Casino. A partir de las 18h. 
+19344;21;12;13;S;Orquesta;NEVADA;A Lagoa, Vimianzo;A Coruña;Restaurante A Lagoa. 
+18953;21;12;13;S;Orquesta;LOS SATÉLITES;Aldeola Restaurante, Malpica de Bergantiños;A Coruña;
+19492;21;12;13;S;Dúo;CARAMELO;Alvedro, Culleredo;A Coruña;
+19224;21;12;13;S;Orquesta;PONTEVEDRA;Alvite, Negreira;A Coruña;
+19427;21;12;13;S;Orquesta;TANGO;Centro Social de Foz;Lugo;
+19442;21;12;13;S;Orquesta;PALLADIUM;Cespón, Boiro;A Coruña;
+17885;21;12;13;S;Dúo;LA HORA BRUJA;Chamoso, O Corgo;Lugo;Cafetería La Cibeles. 
+19187;21;12;13;S;Orquesta;OLYMPUS RED TOUR;Discoteca Maravilla, Vilaboa;A Coruña;
+19361;21;12;13;S;Orquesta;EL COMBO DOMINICANO;LP45, Ordes;A Coruña;
+19326;21;12;13;S;Dúo;KARAMBA;Palavea, A Coruña;A Coruña;Vinoteca Noll. 
+18931;21;12;13;S;Dúo;CALÚ;Pub +Mengu, Vilarmaior;A Coruña;A partir de las 00:30 hrs. Acercateeee!!!. 
+19217;21;12;13;S;Orquesta;COMPOSTELA;Restaurante Balcobo, Arteixo;A Coruña;
+19313;21;12;13;S;Orquesta;FANIA BLANCO SHOW;Restaurante El Pantano, Abegondo;A Coruña;
+18711;21;12;13;S;Dúo;DE LA CRUZ SHOW;Rianxo;A Coruña;Cea Baile. 
+19166;21;12;13;S;Solista;TANIA Y SU ACORDEÓN;Rua do Camiño Real, Lugo;Lugo;Cafeteria Punto Zero. 
+18977;21;12;13;S;Grupo;NIEVLA;S.F. Chamán, Goián;Pontevedra;A partir de las 23:00h. 
+19284;21;12;13;S;Orquesta;CAPITOL;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra;
+19296;21;12;13;S;Grupo;TEKILA;S.F. Estilo, Oviedo;Asturias;
+18995;21;12;13;S;Orquesta;TREBOL;S.F. Josfer, Mesón do Vento;A Coruña;
+19147;21;12;13;S;Orquesta;ABANICO;S.F. La Concha, O Val;A Coruña;
+19138;21;12;13;S;Orquesta;PANORAMA;S.F. La Luna, Cerponzóns;Pontevedra;
+19195;21;12;13;S;Orquesta;PARIS DE NOIA;S.F. La Luna, Cerponzóns;Pontevedra;
+19208;21;12;13;S;Orquesta;MARBELLA;S.F. Rosalar, Ribadeo;Lugo;
+19477;21;12;13;S;Orquesta;COSTA BLANCA;San Tomé de Piñeiro, Marín;Pontevedra;Acompañados del Trío Sabor. 
+19167;21;12;13;S;Orquesta;CINEMA;Vilaboa, Culleredo;A Coruña;
+19449;21;12;13;S;Charanga;XL;Xinzo de Limia;Ourense;Evento Privado. 
+19493;22;12;13;D;Dúo;CARAMELO;Bemantes, Miño;A Coruña;Festa na Cantina do 3. 
+19139;22;12;13;D;Orquesta;PANORAMA;Caldas de Reis;Pontevedra;Fiesta de fans 2013. 
+19150;22;12;13;D;Solista;TANIA Y SU ACORDEÓN;Cariño;A Coruña;Sesión tarde 18:00 a 21:00. 
+19367;22;12;13;D;Grupo;ACIREMA;Coron, Vilanova de Arousa;Pontevedra;Baile de la Tercera Edad. A partir de las 19h. 
+19428;22;12;13;D;Orquesta;TANGO;S.F. Chamán, Goián;Pontevedra;A partir de las 17:00h. 
+19406;22;12;13;D;Orquesta;OLYMPUS RED TOUR;S.F. Chanteclair, Pontecesures;Pontevedra;Presentamos la navidad con Oly, nuestra nueva mascota. Apertura: 18:00h. Entrada niños gratis, entrada adultos: 5€. 
+19352;22;12;13;D;Orquesta;MARBELLA;S.F. La Palma, Seixo, Marín;Pontevedra;A partir de las 18:00h. 
+19239;22;12;13;D;Orquesta;GRAN PARADA;S.F. La Reina, Sanguiñeda;Pontevedra;
+19252;22;12;13;D;Orquesta;TREBOL;S.F. Mami, A Manchica;Ourense;
+19243;22;12;13;D;Orquesta;MIRAMAR;S.F. Nova Exágono, Lugo;Lugo;
+19266;22;12;13;D;Orquesta;ABANICO;S.F. Olimpo, Vigo;Pontevedra;
+19285;22;12;13;D;Orquesta;CAPITOL;S.F. Paulino, O Carballiño;Ourense;
+19502;22;12;13;D;Orquesta;EL COMBO DOMINICANO;S.F. Soco, Vimianzo;A Coruña;
+19196;22;12;13;D;Orquesta;PARIS DE NOIA;S.F. Zeus, Campolongo;A Coruña;
+19345;22;12;13;D;Orquesta;NEVADA;San Tomé de Piñeiro, Marín;Pontevedra;Acompañados del Trío Formas. 
+19560;25;12;13;X;Grupo;SONIDO LEÓN;Canicosa de la Sierra;Burgos;
+19007;25;12;13;X;Orquesta;PARIS DE NOIA;Discoteca Oh! Caramba, As Pontes;A Coruña;Entrada 5€. 
+19286;25;12;13;X;Orquesta;CAPITOL;Liceo de Noia, Noia;A Coruña;
+19297;25;12;13;X;Grupo;TEKILA;Moucide, O Valadouro;Lugo;
+19253;25;12;13;X;Orquesta;TREBOL;S.F. Chanteclair, Pontecesures;Pontevedra;
+19409;25;12;13;X;Orquesta;PALLADIUM;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra;
+19140;25;12;13;X;Orquesta;PANORAMA;S.F. Estilo, Oviedo;Asturias;Entrada + copa 10€
+19209;25;12;13;X;Orquesta;MARBELLA;S.F. La Luna, Cerponzóns;Pontevedra;
+19454;25;12;13;X;Orquesta;PONTEVEDRA;S.F. La Palma, Seixo, Marín;Pontevedra;A partir de las 18:00h. 
+19203;25;12;13;X;Orquesta;ABANICO;S.F. La Reina, Sanguiñeda;Pontevedra;
+19272;25;12;13;X;Orquesta;SOLARA;S.F. Olimpo, Vigo;Pontevedra;
+19188;25;12;13;X;Orquesta;OLYMPUS RED TOUR;S.F. Paulino, O Carballiño;Ourense;
+19346;25;12;13;X;Orquesta;NEVADA;Villaralbo;Zamora;
+19351;26;12;13;J;Orquesta;MARBELLA;A Canicouva, Pontevedra;Pontevedra;
+19564;26;12;13;J;Dúo;ECLIPSE;Cadrón, Lalín;Pontevedra;Matinal e noite. 
+19561;26;12;13;J;Grupo;SONIDO LEÓN;Canicosa de la Sierra;Burgos;
+18954;26;12;13;J;Orquesta;LOS SATÉLITES;Cans, O Porriño;Pontevedra;
+19357;26;12;13;J;Orquesta;FANIA BLANCO SHOW;Carral;A Coruña;Sesión vermú y noche de 20 a 23h. 
+19254;26;12;13;J;Orquesta;TREBOL;Landeira, Negreira;A Coruña;
+19260;26;12;13;J;Orquesta;XACOBEO;Negros, Redondela;Pontevedra;San Esteban de Negros. 
+19179;26;12;13;J;Trío;AZAR;Nigrán;Pontevedra;Auditorio Nigran. Tarde noche a partir de las 18:00h. 
+19271;26;12;13;J;Orquesta;SOLARA;Noalla, Sanxenxo;Pontevedra;Casa Social As Canteiras. 
+18329;26;12;13;J;Disco Móvil;BLANCO Y NEGRO;Piantón, Vegadeo;Asturias;
+19415;26;12;13;J;Orquesta;DOMINÓ;Piantón, Vegadeo;Asturias;
+19527;26;12;13;J;Orquesta;COSTA BLANCA;S.F. Olimpo, Vigo;Pontevedra;
+19557;26;12;13;J;Grupo;ALKAR;Saiar, Caldas de Reis;Pontevedra;Acompañados del Dúo Colores. 
+19225;26;12;13;J;Orquesta;PONTEVEDRA;Tremoedo, Vilanova de Arousa;Pontevedra;
+19410;26;12;13;J;Orquesta;PALLADIUM;Treos, Vimianzo;A Coruña;Acompañados de la Orquesta Sintonía De Vigo. 
+19255;27;12;13;V;Orquesta;TREBOL;Cans, O Porriño;Pontevedra;
+19429;27;12;13;V;Orquesta;TANGO;Cans, O Porriño;Pontevedra;
+19416;27;12;13;V;Orquesta;DOMINÓ;Castrillo de la Reina;Burgos;
+19141;27;12;13;V;Orquesta;PANORAMA;Éntoma, O Barco de Valdeorras;Ourense;Acompañados del Grupo Triunfo. 
+19143;27;12;13;V;Orquesta;TRIUNFO;Éntoma, O Barco de Valdeorras;Ourense;Acompañados de la Orquesta Panorama. 
+19212;27;12;13;V;Orquesta;MARBELLA;Pasarela, Vimianzo;A Coruña;
+18932;27;12;13;V;Dúo;CALÚ;Polígono industrial de Sabón, Arteixo;A Coruña;Inditex. Comida privada a partir de las 13:30 hrs. 
+19244;27;12;13;V;Orquesta;MIRAMAR;S.F. La Palmera Playa, Vigo;Pontevedra;
+19226;27;12;13;V;Orquesta;PONTEVEDRA;Tremoedo, Vilanova de Arousa;Pontevedra;Acompañados del Grupo Alkar. 
+19228;27;12;13;V;Grupo;ALKAR;Tremoedo, Vilanova de Arousa;Pontevedra;Acompañados de la Orquesta Pontevedra. 
+19362;27;12;13;V;Grupo;D´MODA;Viñas de Aliste, Viñas;Zamora;
+19287;28;12;13;S;Orquesta;CAPITOL;A Lagoa, Vimianzo;A Coruña;Restaurante A Lagoa. 
+19142;28;12;13;S;Orquesta;PANORAMA;Areas, Ponteareas;Pontevedra;
+19309;28;12;13;S;Grupo;CLAXXON;Areas, Ponteareas;Pontevedra;Acompañados de la Orquesta Panorama. 
+19554;28;12;13;S;Orquesta;NUEVA BANDA;Castrillo de la Reina;Burgos;
+19539;28;12;13;S;Dúo;DE LA CRUZ SHOW;Castro, Boiro;A Coruña;Cea Baile. 
+19375;28;12;13;S;Dúo;CALÚ;Loureda, Cesuras;A Coruña;Verbena a partir de las 23:00 hrs. Acompañados por la Orquesta Ismael.  Acercateeeeeeee!!!!. 
+19300;28;12;13;S;Orquesta;CHARLESTON BIG-BAND;Restaurante El Pantano, Abegondo;A Coruña;
+19439;28;12;13;S;Dúo;ESTRELLAS;Roupar, Xermade;Lugo;Aniversario de boda no Restaurante Ares. 
+19498;28;12;13;S;Orquesta;CINEMA;S.F. Dona Dana, Touro;A Coruña;
+19025;28;12;13;S;Orquesta;PONTEVEDRA;S.F. Estilo, Oviedo;Asturias;
+18551;28;12;13;S;Grupo;AMÉRICA DE VIGO;S.F. Imperial, Narón;A Coruña;
+18955;28;12;13;S;Orquesta;LOS SATÉLITES;S.F. Josfer, Mesón do Vento;A Coruña;
+19173;28;12;13;S;Orquesta;PARIS DE NOIA;S.F. La Concha, O Val;A Coruña;Cena-Baile organizada por el club de voleibol ALDEBARAN. 
+19576;28;12;13;S;Grupo;TALISMÁN;S.F. La Palma, Seixo, Marín;Pontevedra;Acompañados del Grupo Nueva Ola Show. 
+19245;28;12;13;S;Orquesta;MIRAMAR;S.F. La Palmera Playa, Vigo;Pontevedra;
+19219;28;12;13;S;Orquesta;COMPOSTELA;S.F. Olimpo, Vigo;Pontevedra;
+19411;28;12;13;S;Orquesta;PALLADIUM;S.F. Rosalar, Ribadeo;Lugo;
+19480;28;12;13;S;Solista;TANIA Y SU ACORDEÓN;San Antolin de Ibias;Asturias;Bar Félix. 
+19572;28;12;13;S;Charanga;XL;Xinzo de Limia;Ourense;A partir das 19:00 estaremos no bar Trebello de Xinzo de Limia!. 
+19578;29;12;13;D;Orquesta;PANORAMA;Melide;A Coruña;Discoteca Palladium, fiesta Pre-Fin de Año. 
+19611;29;12;13;D;Grupo;ARAMIO;S.F. Bolero, Redondela;Pontevedra;A partir de las 18:00h. 
+19190;29;12;13;D;Orquesta;OLYMPUS RED TOUR;S.F. Chanteclair, Pontecesures;Pontevedra;
+19218;29;12;13;D;Orquesta;COMPOSTELA;S.F. Chanteclair, Pontecesures;Pontevedra;
+19479;29;12;13;D;Orquesta;CHARLESTON BIG-BAND;S.F. La Luna, Cerponzóns;Pontevedra;
+19577;29;12;13;D;Grupo;NIEVLA;S.F. La Palma, Seixo, Marín;Pontevedra;
+19240;29;12;13;D;Orquesta;CAPITOL;S.F. La Reina, Sanguiñeda;Pontevedra;
+19380;29;12;13;D;Orquesta;ISRAEL;S.F. Mami, A Manchica;Ourense;A partir de las 18:00h. 
+19314;29;12;13;D;Orquesta;FANIA BLANCO SHOW;S.F. Nova Exágono, Lugo;Lugo;
+19451;29;12;13;D;Grupo;D´MODA;S.F. Olimpo, Vigo;Pontevedra;
+19210;29;12;13;D;Orquesta;MARBELLA;S.F. Paulino, O Carballiño;Ourense;
+19246;29;12;13;D;Orquesta;MIRAMAR;S.F. Zeus, Campolongo;A Coruña;
+19481;29;12;13;D;Grupo;AMÉRICA DE VIGO;Santa Comba;A Coruña;Discoteca Wasap. 
+19456;29;12;13;D;Solista;ROCÍO PÉREZ;Val do Dubra;A Coruña;Festa privada. Un bautizo amenizado pola actuacción de Rocio Pérez. 
+19555;30;12;13;L;Orquesta;NUEVA BANDA;Alcorcillo;Zamora;
+19562;30;12;13;L;Grupo;SONIDO LEÓN;Moncalvillo;Burgos;
+19534;30;12;13;L;Orquesta;CHARLESTON BIG-BAND;O Porriño;Pontevedra;
+19570;31;12;13;M;Orquesta;FIN DE SIGLO;A Pobra do Brollón;Lugo;
+18933;31;12;13;M;Dúo;CALÚ;Almeiras, Culleredo;A Coruña;Baile fin de año a partir de la 01:30 hrs. 
+19301;31;12;13;M;Orquesta;CHARLESTON BIG-BAND;Areas, Ponteareas;Pontevedra;
+17842;31;12;13;M;Grupo;FUSIÓN;Ares;A Coruña;Fiesta de fin de año. 
+19022;31;12;13;M;Dúo;CHIC;Begonte;Lugo;Noche de fin de año. 
+18215;31;12;13;M;Solista;TANIA Y SU ACORDEÓN;Casa Celesto, Vega de Anzo, Grado;Asturias;
+19327;31;12;13;M;Dúo;KARAMBA;Cervás, Ares;A Coruña;Centro Cívico. 
+19592;31;12;13;M;Orquesta;PRINCIPAL;Discoteca Litmar, Sarria;Lugo;A partir de las 02:00h. 
+19404;31;12;13;M;Orquesta;GRAN PARADA;Discoteca Ramallosa 2000, A Ramallosa;Pontevedra;
+19559;31;12;13;M;Solista;ROCÍO PÉREZ;Entrecruces, Carballo;A Coruña;Gran baile de bienvenida de ANO NOVO 2014. 
+19423;31;12;13;M;Grupo;D´MODA;Guillán, Vilagarcía de Arousa;Pontevedra;
+19130;31;12;13;M;Orquesta;PANORAMA;Guizán, Mos;Pontevedra;Fiesta de Fin de Año 2013 en el campo de fútbol de Guizán, Mos. Acompañados de un dj. 
+19412;31;12;13;M;Orquesta;PALLADIUM;La Chalana, Laviana;Asturias;Restaurante Pino. 
+19556;31;12;13;M;Orquesta;NUEVA BANDA;León;León;Casino de León. 
+19220;31;12;13;M;Orquesta;COMPOSTELA;Liceo de Noia, Noia;A Coruña;
+19646;31;12;13;M;Orquesta;SUAVECITO;Lugo;Lugo;Circulo de las artes. 
+19563;31;12;13;M;Grupo;SONIDO LEÓN;Moncalvillo;Burgos;
+19198;31;12;13;M;Dúo;ECLIPSE;Monforte de Lemos;Lugo;Cea fin de ano como grupo no restaurante Don Manuel. 
+19247;31;12;13;M;Orquesta;MIRAMAR;Mourente, Pontevedra;Pontevedra;Centro cultural de Mourente. 
+19315;31;12;13;M;Orquesta;FANIA BLANCO SHOW;Narón;A Coruña;
+19417;31;12;13;M;Orquesta;DOMINÓ;Navelgas, Tineo;Asturias;
+19241;31;12;13;M;Orquesta;MARAZUL;O Viso, Redondela;Pontevedra;A partir de la 1:30h. Acompañados de King Africa, Toñi Salazar, Sara Alazan y Traffic House. 
+19753;31;12;13;M;Grupo;AMÉRICA DE VIGO;Oleiros, Salvaterra de Miño;Pontevedra;A partir de las 21:00h. 
+19645;31;12;13;M;Orquesta;ISRAEL;Ourense;Ourense;En la Plaza Mayor. 
+19453;31;12;13;M;Grupo;ACIREMA;Pabellón dos Deportes, Vilanova de Arousa;Pontevedra;Baile de Fin de Ano no pabellón de Deportes. A partir da 1 da madrugada. 
+19227;31;12;13;M;Orquesta;PONTEVEDRA;Padrón;A Coruña;Restaurante Scala. 
+18956;31;12;13;M;Orquesta;LOS SATÉLITES;Pazo de Bidueiro, Ordes;A Coruña;
+19754;31;12;13;M;Grupo;GARIBALDI;Ponferrada;León;Sociedad La Obrera. 
+19440;31;12;13;M;Orquesta;TANGO;Pontevedra;Pontevedra;
+19256;31;12;13;M;Orquesta;TREBOL;Praza do Obradoiro, Santiago de Compostela;A Coruña;
+19298;31;12;13;M;Grupo;TEKILA;Restaurante El Llagar de Colloto, Colloto;Asturias;Nochevieja. 
+19211;31;12;13;M;Orquesta;MARBELLA;Restaurante El Pantano, Abegondo;A Coruña;
+19019;31;12;13;M;Grupo;ASSIA;Restaurante Latores, Oviedo;Asturias;
+18487;31;12;13;M;Dúo;DE LA CRUZ SHOW;Rianxo;A Coruña;Festa de Fin De Ano na Plaza De Castelao a partires das 01:30h. Alternamos con Pery DJ e Xacobe DJ. 
+19310;31;12;13;M;Grupo;CLAXXON;Ribadavia;Ourense;Club artístico de Ribadavia. 
+19288;31;12;13;M;Orquesta;CAPITOL;S.F. Chanteclair, Pontecesures;Pontevedra;
+18552;31;12;13;M;Orquesta;PARIS DE NOIA;S.F. Imperial, Narón;A Coruña;
+19174;31;12;13;M;Orquesta;OLYMPUS RED TOUR;S.F. La Concha, O Val;A Coruña;Cena-Baile FIN DE AÑO. 
+19491;31;12;13;M;Orquesta;TELEVISIÓN;S.F. La Luna, Cerponzóns;Pontevedra;
+19347;31;12;13;M;Orquesta;NEVADA;S.F. Mami, A Manchica;Ourense;
+19267;31;12;13;M;Orquesta;ABANICO;S.F. Paulino, O Carballiño;Ourense;S.F. Paulino. 
+19358;31;12;13;M;Orquesta;CINEMA;S.F. Rosalar, Ribadeo;Lugo;
+19610;31;12;13;M;Grupo;ARAMIO;S.F. Velvet, Monçao;Portugal;A partir de la 01:00h. 
+19234;31;12;13;M;Orquesta;PANAMA;S.F. Zeus, Campolongo;A Coruña;A partir de la 1:00h. 
+19273;31;12;13;M;Orquesta;SOLARA;Vilalonga, Sanxenxo;Pontevedra;Centro Cultural de Vilalonga. 
+17894;31;12;13;M;Trío;AZAR;Vincios, Gondomar;Pontevedra;Noche a partir de las 2:00h. 
+19177;31;12;13;M;Dúo;ESTRELLAS;Viveiro;Lugo;Baile de fin de ano no casino de Viveiro. 

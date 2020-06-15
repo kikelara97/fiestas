@@ -1,404 +1,404 @@
-114518;1;1;20;X;Charanga;CASTRO BELLO;As Curuxeiras, Ourense;Ourense
-98377;1;1;20;X;Solista;XILO;Fisterra;A Coruña
-115328;1;1;20;X;Orquesta;MIRAMAR;Oleiros, Salvaterra de Miño;Pontevedra
-115341;1;1;20;X;Dúo;CHARADA;Ribeira;A Coruña
-114947;1;1;20;X;Grupo;NOCHE DE ESTRELLAS;S.F. Chamán, Goián;Pontevedra
-115990;1;1;20;X;Orquesta;LA OLA ADN;S.F. La Luna, Cerponzóns;Pontevedra
-115318;1;1;20;X;Orquesta;CHARLESTON BIG-BAND;S.F. La Reina, Sanguiñeda;Pontevedra
-115042;1;1;20;X;Grupo;ARAMIO;S.F. Paulino, O Carballiño;Ourense
-115194;1;1;20;X;Orquesta;NEVADA;S.F. Velvet, Monçao;Portugal
-114414;1;1;20;X;Trío;INNOVACIÓN;Seixo, Marín;Pontevedra
-115367;2;1;20;J;Orquesta;CUARTA CALLE;Langreo;Asturias
-115422;3;1;20;V;Grupo;TEKILA;Avilés;Asturias
-115149;3;1;20;V;Solista;CRIS LÓPEZ;Carballo;A Coruña
-115259;3;1;20;V;Orquesta;LOS TROVADORES;Cebreiro, O Pino;A Coruña
-115474;3;1;20;V;Grupo;BEATRIZ;Ciaño, Langreo;Asturias
-115171;3;1;20;V;Orquesta;CINEMA;Discoteca Sambar, Vila de Cruces;Pontevedra
-114799;3;1;20;V;Solista;XILO;Ferrol;A Coruña
-115202;3;1;20;V;Orquesta;MARBELLA;Gargallóns, Campo Lameiro;Pontevedra
-115245;3;1;20;V;Orquesta;GRAN PARADA;Gargallóns, Campo Lameiro;Pontevedra
-115364;3;1;20;V;Dúo;LA MECÁNICA;Padrenda, Meaño;Pontevedra
-115195;4;1;20;S;Orquesta;NEVADA;A Carballa, Cedeira;A Coruña
-115389;4;1;20;S;Solista;JUDITH CUNDÍNS;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
-115097;4;1;20;S;Orquesta;FINISTERRE;Beba, Mazaricos;A Coruña
-115105;4;1;20;S;Disco Móvil;CDC;Beba, Mazaricos;A Coruña
-115267;4;1;20;S;Orquesta;ISRAEL;Cebreiro, O Pino;A Coruña
-115100;4;1;20;S;Orquesta;OLYMPUS RED TOUR;Disco Cota 960, A Fonsagrada;Lugo
-114044;4;1;20;S;Orquesta;LA FÓRMULA;Discoteca INK, Narón;A Coruña
-115218;4;1;20;S;Orquesta;LOS SATÉLITES;Discoteca Pazos, Laracha;A Coruña
-115273;4;1;20;S;Orquesta;PARIS DE NOIA;Discoteca Zouk, Lugo;Lugo
-115439;4;1;20;S;Orquesta;PRINCIPAL;La Colmena, Narón;A Coruña
-115376;4;1;20;S;Grupo;VIVIANS;La Felguera;Asturias
-114359;4;1;20;S;Disco Móvil;IMPACTO;Lendo, A Laracha;A Coruña
-115232;4;1;20;S;Orquesta;FANIA BLANCO SHOW;Loiba, Ortigueira;A Coruña
-115423;4;1;20;S;Grupo;TEKILA;Luarca, Valdés;Asturias
-115309;4;1;20;S;Dúo;D´VICIO;Montoxo, Cedeira;A Coruña
-115253;4;1;20;S;Trío;D´LIDER;O Rosal;Pontevedra
-115342;4;1;20;S;Dúo;CHARADA;Orro, Noia;A Coruña
-114585;4;1;20;S;Grupo;LUME;Ouria, Taramundi;Asturias
-115205;4;1;20;S;Orquesta;MARBELLA;Pontevedra;Pontevedra
-115160;4;1;20;S;Orquesta;PANAMA;Restaurante A Lagoa, Vimianzo;A Coruña
-114507;4;1;20;S;Orquesta;CINEMA;Restaurante El Pantano, Abegondo;A Coruña
-115203;4;1;20;S;Orquesta;MARBELLA;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
-115475;4;1;20;S;Grupo;BEATRIZ;S.F. Estilo, Oviedo;Asturias
-104672;4;1;20;S;Grupo;CHASTTON SHOW;S.F. Josfer, Mesón do Vento;A Coruña
-115319;4;1;20;S;Orquesta;CHARLESTON BIG-BAND;S.F. La Flor, Montouto;A Coruña
-115295;4;1;20;S;Grupo;NOCHE DE ESTRELLAS;S.F. La Luna, Cerponzóns;Pontevedra
-115313;4;1;20;S;Orquesta;LA OCABAND;S.F. Rosalar, Ribadeo;Lugo
-115505;4;1;20;S;Orquesta;CAPITOL;S.F. Rosalar, Ribadeo;Lugo
-115288;4;1;20;S;Orquesta;LA FAVORITA;Sociedad La Obrera, Ponferrada;León
-115438;4;1;20;S;Trío;KARMA;Toques;A Coruña
-115293;4;1;20;S;Solista;ROCÍO PÉREZ;Zas;A Coruña
-115390;5;1;20;D;Solista;JUDITH CUNDÍNS;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
-115038;5;1;20;D;Charanga;LEÑA VERDE;Arnois, A Estrada;Pontevedra
-115444;5;1;20;D;Charanga;NBA;Betanzos;A Coruña
-115169;5;1;20;D;Charanga;EUROPA;Bueu;Pontevedra
-114977;5;1;20;D;Solista;ROCÍO PÉREZ;Cabana de Bergantiños;A Coruña
-115476;5;1;20;D;Grupo;BEATRIZ;Café Teatro Première, Pola de Siero;Asturias
-115356;5;1;20;D;Orquesta;COMPOSTELA;Cebreiro, O Pino;A Coruña
-114800;5;1;20;D;Dúo;XILO & CARLOS;Cervecería Campo García, Meirás;A Coruña
-115219;5;1;20;D;Orquesta;LOS SATÉLITES;Circulo de las Artes, Lugo;Lugo
-115055;5;1;20;D;Charanga;BCB;Culleredo;A Coruña
-115228;5;1;20;D;Orquesta;FINISTERRE;Discoteca Ramallosa 2000, A Ramallosa;Pontevedra
-114360;5;1;20;D;Disco Móvil;IMPACTO;Lendo, A Laracha;A Coruña
-115251;5;1;20;D;Orquesta;LA FAVORITA;Lendo, A Laracha;A Coruña
-115260;5;1;20;D;Orquesta;LOS TROVADORES;Liceo de Noia, Noia;A Coruña
-115440;5;1;20;D;Orquesta;PRINCIPAL;Loiba, Ortigueira;A Coruña
-115365;5;1;20;D;Dúo;LA MECÁNICA;Marín;Pontevedra
-115415;5;1;20;D;Charanga;CLK;Noia;A Coruña
-113795;5;1;20;D;Dúo;EXPLOSIÓN;O Carballiño;Ourense
-115196;5;1;20;D;Orquesta;NEVADA;O Casal, Salvaterra de Miño;Pontevedra
-115254;5;1;20;D;Trío;D´LIDER;Oia, Vigo;Pontevedra
-115214;5;1;20;D;Disco Móvil;PARTY;Ortigueira;A Coruña
-113517;5;1;20;D;Trío;FUSSION;Ourense;Ourense
-113049;5;1;20;D;Grupo;ACIREMA;Pontevedra;Pontevedra
-115204;5;1;20;D;Orquesta;MARBELLA;Restaurante A Carballeira, Santa Cruz de Arrabaldo;Ourense
-115268;5;1;20;D;Orquesta;ISRAEL;Restaurante Canadá, Toral de los Vados;León
-115300;5;1;20;D;Trío;LA NOCHE DO GROVE;Ribadavia;Ourense
-115296;5;1;20;D;Grupo;NOCHE DE ESTRELLAS;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
-115424;5;1;20;D;Grupo;TEKILA;S.F. Estilo, Oviedo;Asturias
-115314;5;1;20;D;Orquesta;LA OCABAND;S.F. La Luna, Cerponzóns;Pontevedra
-115184;5;1;20;D;Orquesta;TREBOL;S.F. Morango K.N, Lugo;Lugo
-115161;5;1;20;D;Orquesta;PANAMA;S.F. Paulino, O Carballiño;Ourense
-115200;5;1;20;D;Orquesta;CICLOMANÍA;S.F. Paulino, O Carballiño;Ourense
-115172;5;1;20;D;Orquesta;CINEMA;S.F. Zeus, Campolongo;A Coruña
-115071;5;1;20;D;Charanga;SANTA COMPAÑA;Santa Comba;A Coruña
-115320;5;1;20;D;Orquesta;CHARLESTON BIG-BAND;Sociedad Cultural y Deportiva de Mourente, Pontevedra;Pontevedra
-115168;5;1;20;D;Charanga;A TU RITMO;Tui;Pontevedra
-113205;5;1;20;D;Dúo;EXPLOSIÓN;Xinzo de Limia;Ourense
-115343;6;1;20;L;Dúo;CHARADA;Aguiño, Ribeira;A Coruña
-113153;6;1;20;L;Orquesta;SAUDADE;Centro Cultural e Recreativo de Cabral, Vigo;Pontevedra
-115291;6;1;20;L;Trío;MUSICAL AIRES DE BROÑA;Extramundi, Padrón;A Coruña
-115321;6;1;20;L;Orquesta;CHARLESTON BIG-BAND;Extramundi, Padrón;A Coruña
-115330;6;1;20;L;Orquesta;MIRAMAR;Guláns, Ponteareas;Pontevedra
-115252;6;1;20;L;Dúo;DIAMANTE;Lendo, A Laracha;A Coruña
-115345;6;1;20;L;Grupo;NOCHE DE ESTRELLAS;Moaña;Pontevedra
-115082;6;1;20;L;Charanga;LEÑA VERDE;Piñeiro, Silleda;Pontevedra
-115290;6;1;20;L;Orquesta;FANIA BLANCO SHOW;S.F. La Luna, Cerponzóns;Pontevedra
-115315;6;1;20;L;Orquesta;LA OCABAND;S.F. La Reina, Sanguiñeda;Pontevedra
-115162;6;1;20;L;Orquesta;PANAMA;S.F. Paulino, O Carballiño;Ourense
-115185;6;1;20;L;Orquesta;TREBOL;Vilanova de Arousa;Pontevedra
-115292;7;1;20;M;Orquesta;FINISTERRE;Illa de Arousa;Pontevedra
-115326;7;1;20;M;Orquesta;MARBELLA;Illa de Arousa;Pontevedra
-115163;7;1;20;M;Orquesta;PANAMA;Mugardos;A Coruña
-115186;7;1;20;M;Orquesta;TREBOL;San Xulian, Marín;Pontevedra
-115504;8;1;20;X;Orquesta;CAPITOL;San Xulian, Marín;Pontevedra
-115255;9;1;20;J;Trío;D´LIDER;Azzaro Pub, A Ramallosa;Pontevedra
-115256;10;1;20;V;Trío;D´LIDER;Canido, Vigo;Pontevedra
-114762;10;1;20;V;Solista;XILO;Cervecería La Terraza, O Temple, Cambre;A Coruña
-115443;10;1;20;V;Orquesta;CICLOMANÍA;Discoteca Sambar, Vila de Cruces;Pontevedra
-115541;10;1;20;V;Grupo;IDEAS;Gijón;Asturias
-115206;10;1;20;V;Orquesta;MARBELLA;Plató 1000, Teo;A Coruña
-115284;10;1;20;V;Orquesta;LA FÓRMULA;S.F. Morango K.N, Lugo;Lugo
-115233;10;1;20;V;Orquesta;FANIA BLANCO SHOW;San Xulián de Sales, Vedra;A Coruña
-114420;10;1;20;V;Orquesta;FINISTERRE;Seaia, Malpica de Bergantiños;A Coruña
-115026;10;1;20;V;Grupo;CLAXXON;Seaia, Malpica de Bergantiños;A Coruña
-114085;11;1;20;S;Solista;ROCÍO PÉREZ;A Abeleira, Tordoia;A Coruña
-115446;11;1;20;S;Grupo;LUME;Alfoz;Lugo
-115123;11;1;20;S;Grupo;ARENA;Ampuyenta;Las Palmas
-115322;11;1;20;S;Orquesta;CHARLESTON BIG-BAND;Carreiras, Pontecesures;Pontevedra
-115346;11;1;20;S;Orquesta;OLYMPUS RED TOUR;Carreiras, Pontecesures;Pontevedra
-114763;11;1;20;S;Solista;XILO;Cervecería La Terraza, O Temple, Cambre;A Coruña
-115207;11;1;20;S;Orquesta;MARBELLA;Codeseda, A Estrada;Pontevedra
-115301;11;1;20;S;Trío;LA NOCHE DO GROVE;Cuíña, Cerdedo;Pontevedra
-114045;11;1;20;S;Orquesta;CINEMA;Discoteca INK, Narón;A Coruña
-115164;11;1;20;S;Orquesta;PANAMA;Discoteca Pazos, Laracha;A Coruña
-115542;11;1;20;S;Grupo;IDEAS;Foyedo, Valdes;Asturias
-115306;11;1;20;S;Orquesta;LOS TROVADORES;La Colmena, Narón;A Coruña
-112989;11;1;20;S;Dúo;D´VICIO;Lamas, San Sadurniño;A Coruña
-115104;11;1;20;S;Orquesta;LA FAVORITA;Lamas, San Sadurniño;A Coruña
-115425;11;1;20;S;Grupo;TEKILA;Mieres;Asturias
-115393;11;1;20;S;Solista;JUDITH CUNDÍNS;Oroso;A Coruña
-114754;11;1;20;S;Dúo;ZAFIRO;Playa Area, Viveiro;Lugo
-115429;11;1;20;S;Grupo;AMÉRICA DE VIGO;Ponferrada;León
-106575;11;1;20;S;Dúo;EXPLOSIÓN;Pontevedra;Pontevedra
-115357;11;1;20;S;Orquesta;COMPOSTELA;Restaurante A Lagoa, Vimianzo;A Coruña
-115528;11;1;20;S;Solista;AIXA ROMAY;Restaurante Avelino, Mesón do Vento;A Coruña
-114508;11;1;20;S;Orquesta;LOS SATÉLITES;Restaurante El Pantano, Abegondo;A Coruña
-115461;11;1;20;S;Grupo;ARAMIO;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
-115187;11;1;20;S;Orquesta;TREBOL;S.F. Josfer, Mesón do Vento;A Coruña
-115565;11;1;20;S;Grupo;TANIA VEIRAS;S.F. La Flor, Montouto;A Coruña
-115197;11;1;20;S;Orquesta;NEVADA;S.F. La Luna, Cerponzóns;Pontevedra
-115250;11;1;20;S;Orquesta;GRAN PARADA;S.F. Rosalar, Ribadeo;Lugo
-114959;11;1;20;S;Dúo;LA HORA BRUJA;San Xulián de Sales, Vedra;A Coruña
-115229;11;1;20;S;Orquesta;FINISTERRE;San Xulián de Sales, Vedra;A Coruña
-115274;11;1;20;S;Orquesta;PARIS DE NOIA;Seaia, Malpica de Bergantiños;A Coruña
-115441;11;1;20;S;Orquesta;PRINCIPAL;Seaia, Malpica de Bergantiños;A Coruña
-115574;11;1;20;S;Orquesta;MIRAMAR;Vigo;Pontevedra
-115297;11;1;20;S;Grupo;NOCHE DE ESTRELLAS;Vila Nova de Cerveira;Portugal
-115508;12;1;20;D;Grupo;NOCHE DE ESTRELLAS;Bouzas, Vigo;Pontevedra
-114606;12;1;20;D;Trío;KARMA;Carral;A Coruña
-115530;12;1;20;D;Solista;AIXA ROMAY;Narón;A Coruña
-115548;12;1;20;D;Dúo;EXPLOSIÓN;Ourense;Ourense
-115449;12;1;20;D;Dúo;ECLIPSE;Pedreda, Lugo;Lugo
-114755;12;1;20;D;Dúo;ZAFIRO;Playa Area, Viveiro;Lugo
-115394;12;1;20;D;Solista;JUDITH CUNDÍNS;Ponteceso;A Coruña
-112534;12;1;20;D;Solista;ROCÍO PÉREZ;Restaurante Pastoriza, Vimianzo;A Coruña
-115358;12;1;20;D;Orquesta;COMPOSTELA;S.F. Chamán, Goián;Pontevedra
-115543;12;1;20;D;Grupo;IDEAS;S.F. Estilo, Oviedo;Asturias
-115581;12;1;20;D;Orquesta;LA FAVORITA;S.F. La Luna, Cerponzóns;Pontevedra
-115220;12;1;20;D;Orquesta;LOS SATÉLITES;S.F. La Reina, Sanguiñeda;Pontevedra
-115208;12;1;20;D;Orquesta;MARBELLA;S.F. Morango K.N, Lugo;Lugo
-115261;12;1;20;D;Orquesta;LOS TROVADORES;S.F. Paulino, O Carballiño;Ourense
-115247;12;1;20;D;Orquesta;GRAN PARADA;S.F. Velvet, Monçao;Portugal
-114802;12;1;20;D;Dúo;XILO & CARLOS;S.F. Zeus, Campolongo;A Coruña
-115529;12;1;20;D;Solista;AIXA ROMAY;Sada;A Coruña
-114960;12;1;20;D;Dúo;LA HORA BRUJA;San Xulián de Sales, Vedra;A Coruña
-115593;12;1;20;D;Trío;SINTONÍA;Vilanova de Arousa;Pontevedra
-115209;15;1;20;X;Orquesta;MARBELLA;Arra, Sanxenxo;Pontevedra
-115275;15;1;20;X;Orquesta;PARIS DE NOIA;Arra, Sanxenxo;Pontevedra
-115359;15;1;20;X;Orquesta;COMPOSTELA;Entrecruces, Carballo;A Coruña
-115221;15;1;20;X;Orquesta;LOS SATÉLITES;San Amaro, Aldán, Cangas do Morrazo;Pontevedra
-115506;15;1;20;X;Orquesta;CAPITOL;San Amaro, Aldán, Cangas do Morrazo;Pontevedra
-115222;16;1;20;J;Orquesta;LOS SATÉLITES;Arra, Sanxenxo;Pontevedra
-115240;16;1;20;J;Orquesta;CICLOMANÍA;Arra, Sanxenxo;Pontevedra
-115511;16;1;20;J;Charanga;CASTRO BELLO;Macendo, Castrelo de Miño;Ourense
-115060;16;1;20;J;Solista;ROCÍO PÉREZ;O Tarambollo, Carballo;A Coruña
-115623;16;1;20;J;Disco Móvil;BOA FESTA;Puente de Domingo Florez;León
-115430;17;1;20;V;Grupo;AMÉRICA DE VIGO;Adina, Sanxenxo;Pontevedra
-115188;17;1;20;V;Orquesta;TREBOL;Cacheiro, Pontevedra;Pontevedra
-115331;17;1;20;V;Orquesta;MIRAMAR;Cacheiro, Pontevedra;Pontevedra
-115223;17;1;20;V;Orquesta;LOS SATÉLITES;Carres, Cesuras;A Coruña
-115307;17;1;20;V;Grupo;CLAXXON;Carres, Cesuras;A Coruña
-115473;17;1;20;V;Orquesta;BARCELÓ;Curtis;A Coruña
-115276;17;1;20;V;Orquesta;PARIS DE NOIA;Discoteca INK, Narón;A Coruña
-115426;17;1;20;V;Grupo;TEKILA;Gijón;Asturias
-115647;17;1;20;V;Charanga;CASTRO BELLO;Guimarei;Ourense
-115477;17;1;20;V;Grupo;BEATRIZ;Inguanzo, Cabrales;Asturias
-115269;17;1;20;V;Orquesta;ISRAEL;Macendo, Castrelo de Miño;Ourense
-115348;17;1;20;V;Orquesta;LA OCABAND;Mañufe, Gondomar;Pontevedra
-115210;17;1;20;V;Orquesta;MARBELLA;Monfero;A Coruña
-114453;17;1;20;V;Charanga;CLK;Noallo de Abaixo, Castrelo de Miño;Ourense
-115620;17;1;20;V;Orquesta;OLYMPUS RED TOUR;Plató 1000, Teo;A Coruña
-115624;17;1;20;V;Disco Móvil;BOA FESTA;Puente de Domingo Florez;León
-115589;17;1;20;V;Grupo;M-3;Rexosende, Vilardevós;Ourense
-115564;17;1;20;V;Orquesta;PANAMA;S.F. Morango K.N, Lugo;Lugo
-115239;18;1;20;S;Orquesta;CICLOMANÍA;A Arnoia;Ourense
-115717;18;1;20;S;Grupo;GARIBALDI;A Medua, Carballeda de Valdeorras;Ourense
-115224;18;1;20;S;Orquesta;LOS SATÉLITES;A Modia, Cambados;Pontevedra
-115323;18;1;20;S;Orquesta;CHARLESTON BIG-BAND;A Modia, Cambados;Pontevedra
-115234;18;1;20;S;Orquesta;FANIA BLANCO SHOW;Adina, Sanxenxo;Pontevedra
-115270;18;1;20;S;Orquesta;ISRAEL;Adina, Sanxenxo;Pontevedra
-115556;18;1;20;S;Orquesta;METRÓPOLIS;Bricia, Llanes;Asturias
-115559;18;1;20;S;Orquesta;VERSIÓN ORIGINAL;Bricia, Llanes;Asturias
-115739;18;1;20;S;Grupo;UNIÓN Y FUERZA;Bronllo, Valga;Pontevedra
-115052;18;1;20;S;Orquesta;XACOBEO;Bronllo, Valga;Pontevedra
-116738;18;1;20;S;Grupo;ASSIA;Café Teatro Première, Pola de Siero;Asturias
-115298;18;1;20;S;Grupo;NOCHE DE ESTRELLAS;Canido, Vigo;Pontevedra
-115302;18;1;20;S;Trío;LA NOCHE DO GROVE;Caroi, Cotobade;Pontevedra
-114177;18;1;20;S;Dúo;D´VICIO;Carres, Cesuras;A Coruña
-114423;18;1;20;S;Trío;KARMA;Caspedro, Quiroga;Lugo
-114596;18;1;20;S;Solista;ROCÍO PÉREZ;Castriz, Santa Comba;A Coruña
-115498;18;1;20;S;Trío;INNOVACIÓN;Cendoi, O Paramo;Lugo
-114404;18;1;20;S;Orquesta;FINISTERRE;Cores, Ponteceso;A Coruña
-115027;18;1;20;S;Disco Móvil;CDC;Cores, Ponteceso;A Coruña
-115427;18;1;20;S;Grupo;TEKILA;Discoteca La Villar, Felechosa;Asturias
-115308;18;1;20;S;Grupo;CLAXXON;Estás, Tomiño;Pontevedra
-115445;18;1;20;S;Charanga;NBA;Foz;Lugo
-115173;18;1;20;S;Orquesta;CINEMA;Inguanzo, Cabrales;Asturias
-115375;18;1;20;S;Grupo;VIVIANS;Inguanzo, Cabrales;Asturias
-115248;18;1;20;S;Orquesta;GRAN PARADA;Macendo, Castrelo de Miño;Ourense
-115360;18;1;20;S;Orquesta;COMPOSTELA;Mañufe, Gondomar;Pontevedra
-115189;18;1;20;S;Orquesta;TREBOL;Mirón, Ponte Caldelas;Pontevedra
-115987;18;1;20;S;Orquesta;LA OLA ADN;Mirón, Ponte Caldelas;Pontevedra
-115211;18;1;20;S;Orquesta;MARBELLA;Moreira, Soutomaior;Pontevedra
-115668;18;1;20;S;Orquesta;GÉNESIS;Navaleno;Soria
-116137;18;1;20;S;Orquesta;SAUDADE;Noallo de Abaixo, Castrelo de Miño;Ourense
-115453;18;1;20;S;Dúo;LA MECÁNICA;O Rosal;Pontevedra
-115432;18;1;20;S;Orquesta;SALSARENA;Pedreda, Lugo;Lugo
-115569;18;1;20;S;Orquesta;ESSENCIA;Perdecanai, Barro;Pontevedra
-115431;18;1;20;S;Grupo;AMÉRICA DE VIGO;Petelos, Mos;Pontevedra
-115165;18;1;20;S;Orquesta;PANAMA;Porto, Vilar de Barrio;Ourense
-115442;18;1;20;S;Orquesta;PRINCIPAL;Restaurante A Lagoa, Vimianzo;A Coruña
-114509;18;1;20;S;Orquesta;CAPITOL;Restaurante El Pantano, Abegondo;A Coruña
-115478;18;1;20;S;Grupo;BEATRIZ;Robledo, Llanera;Asturias
-115544;18;1;20;S;Grupo;IDEAS;Robledo, Llanera;Asturias
-115347;18;1;20;S;Orquesta;OLYMPUS RED TOUR;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
-115262;18;1;20;S;Orquesta;LOS TROVADORES;S.F. Josfer, Mesón do Vento;A Coruña
-115350;18;1;20;S;Grupo;ATENAS;S.F. La Flor, Montouto;A Coruña
-115332;18;1;20;S;Orquesta;MIRAMAR;S.F. Rosalar, Ribadeo;Lugo
-115198;18;1;20;S;Orquesta;NEVADA;San Amaro, Fornelos de Montes;Pontevedra
-115588;18;1;20;S;Trío;XTRA;San Mateo de Oliveira, Ponteareas;Pontevedra
-115007;18;1;20;S;Orquesta;SOLARA;Sancovade, Vilalba;Lugo
-115028;18;1;20;S;Orquesta;LA FÓRMULA;Sancovade, Vilalba;Lugo
-115648;18;1;20;S;Grupo;SONIDO LEÓN;Santa Inés;Burgos
-115289;18;1;20;S;Orquesta;LA FAVORITA;Sequeiros, Pazos de Borbén;Pontevedra
-115462;18;1;20;S;Grupo;ARAMIO;Sequeiros, Pazos de Borbén;Pontevedra
-115277;18;1;20;S;Orquesta;PARIS DE NOIA;Tabeirós, A Estrada;Pontevedra
-115349;18;1;20;S;Orquesta;LA OCABAND;Tabeirós, A Estrada;Pontevedra
-115311;18;1;20;S;Grupo;LECER;Vilamar, Barreiros;Lugo
-115368;18;1;20;S;Grupo;NEBRASKA;Villoruela;Salamanca
-115700;19;1;20;D;Orquesta;LOS SATÉLITES;Arra, Sanxenxo;Pontevedra
-115759;19;1;20;D;Orquesta;CICLOMANÍA;Arra, Sanxenxo;Pontevedra
-114178;19;1;20;D;Dúo;D´VICIO;Carres, Cesuras;A Coruña
-115448;19;1;20;D;Charanga;TDB;Castro Caldelas, Castro Caldelas;Ourense
-115369;19;1;20;D;Grupo;NEBRASKA;Cercedilla;Madrid
-115479;19;1;20;D;Grupo;BEATRIZ;Gijón;Asturias
-113936;19;1;20;D;Trío;KARMA;Malpica de Bergantiños;A Coruña
-115303;19;1;20;D;Trío;LA NOCHE DO GROVE;Marcón, Pontevedra;Pontevedra
-115509;19;1;20;D;Grupo;NOCHE DE ESTRELLAS;Moaña;Pontevedra
-115579;19;1;20;D;Trío;SINTONÍA;Ponteceso;A Coruña
-115649;19;1;20;D;Orquesta;MIRAMAR;S.F. La Luna, Cerponzóns;Pontevedra
-115463;19;1;20;D;Grupo;ARAMIO;S.F. La Reina, Sanguiñeda;Pontevedra
-115361;19;1;20;D;Orquesta;COMPOSTELA;S.F. Paulino, O Carballiño;Ourense
-115984;19;1;20;D;Orquesta;LA OLA ADN;S.F. Velvet, Monçao;Portugal
-115324;19;1;20;D;Orquesta;CHARLESTON BIG-BAND;S.F. Zeus, Campolongo;A Coruña
-115396;19;1;20;D;Solista;JUDITH CUNDÍNS;Trazo;A Coruña
-115733;19;1;20;D;Dúo;EXPLOSIÓN;Vigo;Pontevedra
-115626;20;1;20;L;Charanga;CASTRO BELLO;Abelenda das Penas, Carballeda de Avia;Ourense
-115798;20;1;20;L;Orquesta;PARIS DE NOIA;Discoteca Sambar, Vila de Cruces;Pontevedra
-115484;21;1;20;M;Orquesta;CICLOMANÍA;Plató 1000, Teo;A Coruña
-115152;22;1;20;X;Charanga;EUROPA;Bustelo, Xunqueira de Ambía;Ourense
-115454;22;1;20;X;Orquesta;IPANEMA;Manganeses de la Polvorosa;Zamora
-115257;23;1;20;J;Trío;D´LIDER;Azzaro Pub, A Ramallosa;Pontevedra
-115874;23;1;20;J;Disco Móvil;CHOCOLATE;Liceo de Noia, Noia;A Coruña
-115946;24;1;20;V;Solista;CRISTINA CACHALDORA;A Coruña;A Coruña
-115433;24;1;20;V;Orquesta;SALSARENA;Acebes del Páramo, Bustillo del Páramo;León
-115285;24;1;20;V;Orquesta;LA FÓRMULA;Armea, Coirós;A Coruña
-115875;24;1;20;V;Disco Móvil;CHOCOLATE;Barrio do Couto, Noia;A Coruña
-115435;24;1;20;V;Grupo;AMÉRICA DE VIGO;Bercianos del Páramo;León
-115776;24;1;20;V;Orquesta;BARCELÓ;Curtis;A Coruña
-115480;24;1;20;V;Grupo;BEATRIZ;Discoteca Hermo, Muimenta;Lugo
-114775;24;1;20;V;Solista;XILO;Duio, Fisterra;A Coruña
-115079;24;1;20;V;Dúo;ESTRELLAS;Duio, Fisterra;A Coruña
-115151;24;1;20;V;Orquesta;OLYMPUS RED TOUR;Mehá, Mugardos;A Coruña
-115327;24;1;20;V;Orquesta;MARBELLA;Piñeiro, A Pobra de Trives;Ourense
-115693;24;1;20;V;Orquesta;XACOBEO;Plató 1000, Teo;A Coruña
-115230;24;1;20;V;Orquesta;FINISTERRE;Praza de España, Porto do Son;A Coruña
-115764;24;1;20;V;Orquesta;CHARLESTON BIG-BAND;Rodeiro;Pontevedra
-115817;24;1;20;V;Orquesta;PANAMA;Rodeiro;Pontevedra
-115619;24;1;20;V;Orquesta;CINEMA;S.F. Morango K.N, Lugo;Lugo
-115921;24;1;20;V;Dúo;EXPLOSIÓN;Vigo;Pontevedra
-115925;24;1;20;V;Solista;BEGOÑA GARCÍA;Zas;A Coruña
-115451;25;1;20;S;Orquesta;METRÓPOLIS;A Mella, Arzúa;A Coruña
-116063;25;1;20;S;Grupo;KALIMA 3.0;A Regueira, A Pastoriza;Lugo
-115740;25;1;20;S;Charanga;LOUBAND;A Rúa;Ourense
-115271;25;1;20;S;Orquesta;ISRAEL;Ambroa, Irixoa;A Coruña
-113833;25;1;20;S;Dúo;ESTRELLAS;Boizán, Vilalba;Lugo
-115032;25;1;20;S;Orquesta;LA FAVORITA;Boizán, Vilalba;Lugo
-115175;25;1;20;S;Orquesta;CINEMA;Bricia, Llanes;Asturias
-115158;25;1;20;S;Trío;KARMA;Cariño;A Coruña
-115818;25;1;20;S;Disco Móvil;PARTY;Cariño;A Coruña
-115770;25;1;20;S;Trío;LA NOCHE DO GROVE;Castroquilame, Puente de Domingo Flórez;León
-115570;25;1;20;S;Orquesta;ESSENCIA;Cerponzóns, Pontevedra;Pontevedra
-115497;25;1;20;S;Trío;INNOVACIÓN;Cornado, Touro;A Coruña
-115231;25;1;20;S;Orquesta;FINISTERRE;Duio, Fisterra;A Coruña
-115385;25;1;20;S;Disco Móvil;CDC MINIDISC;Duio, Fisterra;A Coruña
-116057;25;1;20;S;Disco Móvil;CDC;Duio, Fisterra;A Coruña
-115495;25;1;20;S;Charanga;ERAVISTO;Fríamonde, Taboada;Lugo
-114788;25;1;20;S;Solista;XILO;Hotel Narón, Narón;A Coruña
-115927;25;1;20;S;Solista;BEGOÑA GARCÍA;La Reserva, Ferrol;A Coruña
-115227;25;1;20;S;Orquesta;LOS SATÉLITES;Lagoa, Alfoz;Lugo
-115517;25;1;20;S;Disco Móvil;CHOCOLATE;Liceo de Noia, Noia;A Coruña
-115176;25;1;20;S;Grupo;ASSIA;Mehá, Mugardos;A Coruña
-115481;25;1;20;S;Grupo;BEATRIZ;Mieres;Asturias
-115464;25;1;20;S;Solista;ROCÍO PÉREZ;Nantón, Cabana de Bergantiños;A Coruña
-115969;25;1;20;S;Trío;D´LIDER;Nigrán;Pontevedra
-115613;25;1;20;S;Charanga;EUROPA;O Navallo, Riós;Ourense
-115580;25;1;20;S;Trío;SINTONÍA;Oroso;A Coruña
-115199;25;1;20;S;Orquesta;NEVADA;Orxais, Quiroga;Lugo
-115242;25;1;20;S;Orquesta;CICLOMANÍA;Os Vilares, Guitiriz;Lugo
-115279;25;1;20;S;Orquesta;CHARLESTON BIG-BAND;Os Vilares, Guitiriz;Lugo
-115695;25;1;20;S;Dúo;EXPLOSIÓN;Ourense;Ourense
-114911;25;1;20;S;Trío;SINTONÍA;Parrillada Peiró, Cambre;A Coruña
-115263;25;1;20;S;Orquesta;LOS TROVADORES;Pedrafigueira, Carnota;A Coruña
-115351;25;1;20;S;Grupo;ATENAS;Pedrafigueira, Carnota;A Coruña
-115590;25;1;20;S;Grupo;M-3;Pepín, Castrelo do Val;Ourense
-115286;25;1;20;S;Orquesta;LA FÓRMULA;Piñeiro, A Pobra de Trives;Ourense
-115894;25;1;20;S;Charanga;NOVA;Piñeiro, A Pobra de Trives;Ourense
-115953;25;1;20;S;Solista;JUDITH CUNDÍNS;Ponteceso;A Coruña
-114156;25;1;20;S;Orquesta;SOLARA;Pontoibo, As Pontes;A Coruña
-115166;25;1;20;S;Orquesta;PANAMA;Pontoibo, As Pontes;A Coruña
-115144;25;1;20;S;Orquesta;XACOBEO;Praza de España, Porto do Son;A Coruña
-115190;25;1;20;S;Orquesta;TREBOL;Rábade;Lugo
-115436;25;1;20;S;Grupo;AMÉRICA DE VIGO;Rábade;Lugo
-115558;25;1;20;S;Grupo;ARAMIO;Restaurante A Lagoa, Vimianzo;A Coruña
-115428;25;1;20;S;Grupo;TEKILA;Restaurante Amandi, Villaviciosa;Asturias
-114510;25;1;20;S;Orquesta;MARBELLA;Restaurante El Pantano, Abegondo;A Coruña
-115833;25;1;20;S;Dúo;CHARADA;Ribeira;A Coruña
-115278;25;1;20;S;Orquesta;PARIS DE NOIA;S.F. Dona Dana, Touro;A Coruña
-115507;25;1;20;S;Orquesta;CAPITOL;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra
-115545;25;1;20;S;Grupo;IDEAS;S.F. Estilo, Oviedo;Asturias
-115952;25;1;20;S;Orquesta;PRINCIPAL;S.F. Josfer, Mesón do Vento;A Coruña
-115694;25;1;20;S;Grupo;TANIA VEIRAS;S.F. La Luna, Cerponzóns;Pontevedra
-115968;25;1;20;S;Orquesta;LA OLA ADN;S.F. Rosalar, Ribadeo;Lugo
-115110;25;1;20;S;Orquesta;OLYMPUS RED TOUR;San Paio, Maside;Ourense
-115366;25;1;20;S;Dúo;LA MECÁNICA;San Vicente do Grove, O Grove;Pontevedra
-115605;25;1;20;S;Orquesta;FLORIDA SHOW;Sancedo;León
-112979;25;1;20;S;Dúo;D´VICIO;Santirso de Mabegondo, Abegondo;A Coruña
-115249;25;1;20;S;Orquesta;GRAN PARADA;Santirso de Mabegondo, Abegondo;A Coruña
-115718;25;1;20;S;Grupo;GARIBALDI;Trabadelo;León
-115333;25;1;20;S;Orquesta;MIRAMAR;Trasmañó, Redondela;Pontevedra
-115362;25;1;20;S;Orquesta;COMPOSTELA;Trasmañó, Redondela;Pontevedra
-115370;25;1;20;S;Grupo;NEBRASKA;Valbuxán, O Bolo;Ourense
-115235;25;1;20;S;Orquesta;FANIA BLANCO SHOW;Vimianzo;A Coruña
-113834;26;1;20;D;Dúo;ESTRELLAS;Boizán, Vilalba;Lugo
-115398;26;1;20;D;Solista;JUDITH CUNDÍNS;Corme, Ponteceso;A Coruña
-115834;26;1;20;D;Dúo;CHARADA;Escarabote, Boiro;A Coruña
-115363;26;1;20;D;Orquesta;COMPOSTELA;Graíces, A Peroxa;Ourense
-115928;26;1;20;D;Solista;BEGOÑA GARCÍA;La Reserva, Ferrol;A Coruña
-115182;26;1;20;D;Grupo;LUME;Margaride de Lor, Quiroga;Lugo
-115582;26;1;20;D;Grupo;NOCHE DE ESTRELLAS;Meira, Moaña;Pontevedra
-115533;26;1;20;D;Solista;AIXA ROMAY;Narón;A Coruña
-114969;26;1;20;D;Trío;KARMA;Neaño, Cabana de Bergantiños;A Coruña
-115614;26;1;20;D;Charanga;EUROPA;O Navallo, Riós;Ourense
-115518;26;1;20;D;Disco Móvil;CHOCOLATE;O Obre, Noia;A Coruña
-115785;26;1;20;D;Dúo;LA MECÁNICA;Parada, Ponte Caldelas;Pontevedra
-114789;26;1;20;D;Solista;XILO;Pontedeume;A Coruña
-115571;26;1;20;D;Orquesta;ESSENCIA;Pontoibo, As Pontes;A Coruña
-115494;26;1;20;D;Orquesta;LOS TROVADORES;Rábade;Lugo
-115212;26;1;20;D;Orquesta;MARBELLA;S.F. Chamán, Goián;Pontevedra
-115482;26;1;20;D;Grupo;BEATRIZ;S.F. Estilo, Oviedo;Asturias
-115243;26;1;20;D;Orquesta;CICLOMANÍA;S.F. La Reina, Sanguiñeda;Pontevedra
-115976;26;1;20;D;Orquesta;LA OLA ADN;S.F. Paulino, O Carballiño;Ourense
-115769;26;1;20;D;Orquesta;MIRAMAR;S.F. Velvet, Monçao;Portugal
-115226;26;1;20;D;Orquesta;LOS SATÉLITES;S.F. Zeus, Campolongo;A Coruña
-115719;26;1;20;D;Grupo;GARIBALDI;Sancedo;León
-115947;26;1;20;D;Solista;CRISTINA CACHALDORA;Santa Comba;A Coruña
-115191;26;1;20;D;Orquesta;TREBOL;Trasmañó, Redondela;Pontevedra
-115621;26;1;20;D;Trío;LA NOCHE DO GROVE;Turienzo Castañero, Castropodame;León
-115734;26;1;20;D;Charanga;MANÍA;Villahibiera, Valdepolo;León
-115871;27;1;20;L;Disco Móvil;CHOCOLATE;A Barquiña, Noia;A Coruña
-116054;27;1;20;L;Disco Móvil;BOA FESTA;O Barco, O Barco de Valdeorras;Ourense
-115872;28;1;20;M;Disco Móvil;CHOCOLATE;Argalo, Noia;A Coruña
-115310;29;1;20;X;Dúo;D´VICIO;Arteixo;A Coruña
-115674;29;1;20;X;Grupo;NOCHE DE ESTRELLAS;Bouzas, Vigo;Pontevedra
-115873;29;1;20;X;Disco Móvil;CHOCOLATE;Serra de Outes, Outes;A Coruña
-115549;30;1;20;J;Disco Móvil;CHOCOLATE;Boa, Noia;A Coruña
-116162;31;1;20;V;Dúo;CRAZY;Brión;A Coruña
-115299;31;1;20;V;Grupo;NOCHE DE ESTRELLAS;Canido, Vigo;Pontevedra
-115797;31;1;20;V;Orquesta;PARIS DE NOIA;Discoteca Sambar, Vila de Cruces;Pontevedra
-115929;31;1;20;V;Solista;BEGOÑA GARCÍA;Ferrol;A Coruña
-115491;31;1;20;V;Solista;XILO;Mercado de las Conchiñas, A Coruña;A Coruña
-115374;31;1;20;V;Disco Móvil;CHOCOLATE;Noia;A Coruña
-115483;31;1;20;V;Grupo;BEATRIZ;Riberas, Soto del Barco;Asturias
-115192;31;1;20;V;Orquesta;TREBOL;Rúa, Cervo;Lugo
-115201;31;1;20;V;Orquesta;LOS SATÉLITES;Rúa, Cervo;Lugo
-115568;31;1;20;V;Orquesta;FINISTERRE;S.F. Morango K.N, Lugo;Lugo
-115720;31;1;20;V;Grupo;GARIBALDI;San Millán de los Caballeros;León
-115334;31;1;20;V;Orquesta;MIRAMAR;San Salvador de Budiño, O Porriño;Pontevedra
-115437;31;1;20;V;Grupo;AMÉRICA DE VIGO;San Salvador de Budiño, O Porriño;Pontevedra
-115450;31;1;20;V;Dúo;ECLIPSE;Sante, Navia;Asturias
-115258;31;1;20;V;Trío;D´LIDER;Tabagón, O Rosal;Pontevedra
-115819;31;1;20;V;Orquesta;LA OCABAND;Vilaxoane, Foz;Lugo
-115371;31;1;20;V;Grupo;NEBRASKA;Xinzo de Limia;Ourense
+114518;1;1;20;X;Charanga;CASTRO BELLO;As Curuxeiras, Ourense;Ourense;Horario: Tarde.
+98377;1;1;20;X;Solista;XILO;Fisterra;A Coruña;Hostal Mariquito. Horario: Noche (23:30).
+115328;1;1;20;X;Orquesta;MIRAMAR;Oleiros, Salvaterra de Miño;Pontevedra;Horario: Tarde (18:30). Tipo de terreno: Asfalto. Hay: Carpa, Aparcamiento.
+115341;1;1;20;X;Dúo;CHARADA;Ribeira;A Coruña;Jubilados de Ribeira. Horario: Noche (20:00).
+114947;1;1;20;X;Grupo;NOCHE DE ESTRELLAS;S.F. Chamán, Goián;Pontevedra;
+115990;1;1;20;X;Orquesta;LA OLA ADN;S.F. La Luna, Cerponzóns;Pontevedra;
+115318;1;1;20;X;Orquesta;CHARLESTON BIG-BAND;S.F. La Reina, Sanguiñeda;Pontevedra;
+115042;1;1;20;X;Grupo;ARAMIO;S.F. Paulino, O Carballiño;Ourense;Año Nuevo. Horario: Tarde (17:30).
+115194;1;1;20;X;Orquesta;NEVADA;S.F. Velvet, Monçao;Portugal;
+114414;1;1;20;X;Trío;INNOVACIÓN;Seixo, Marín;Pontevedra;Horario: Tarde, Noche.
+115367;2;1;20;J;Orquesta;CUARTA CALLE;Langreo;Asturias;Horario: Noche (23:00). Tipo de terreno: Cemento. Hay: Carpa.
+115422;3;1;20;V;Grupo;TEKILA;Avilés;Asturias;
+115149;3;1;20;V;Solista;CRIS LÓPEZ;Carballo;A Coruña;Parrillada O Refugio. Horario: Noche. Hay: Aparcamiento.
+115259;3;1;20;V;Orquesta;LOS TROVADORES;Cebreiro, O Pino;A Coruña;Horario: Vermú, Noche.
+115474;3;1;20;V;Grupo;BEATRIZ;Ciaño, Langreo;Asturias;
+115171;3;1;20;V;Orquesta;CINEMA;Discoteca Sambar, Vila de Cruces;Pontevedra;
+114799;3;1;20;V;Solista;XILO;Ferrol;A Coruña;Camf Ferrol. Horario: Tarde (17:30).
+115202;3;1;20;V;Orquesta;MARBELLA;Gargallóns, Campo Lameiro;Pontevedra;Acompañados de la Orquesta Gran Parada. Horario: Noche.
+115245;3;1;20;V;Orquesta;GRAN PARADA;Gargallóns, Campo Lameiro;Pontevedra;Acompañados de la Orquesta Marbella. Horario: Noche. Hay: Carpa.
+115364;3;1;20;V;Dúo;LA MECÁNICA;Padrenda, Meaño;Pontevedra;Cena-baile. Horario: Noche (22:00).
+115195;4;1;20;S;Orquesta;NEVADA;A Carballa, Cedeira;A Coruña;Horario: Vermú, Noche.
+115389;4;1;20;S;Solista;JUDITH CUNDÍNS;Aldeola Restaurante, Malpica de Bergantiños;A Coruña;Horario: Noche.
+115097;4;1;20;S;Orquesta;FINISTERRE;Beba, Mazaricos;A Coruña;Acompañados de la Disco Móvil Cdc. Horario: Noche (23:30). Hay: Carpa, Aparcamiento.
+115105;4;1;20;S;Disco Móvil;CDC;Beba, Mazaricos;A Coruña;Acompañados de la Orquesta Finisterre. Horario: Noche.
+115267;4;1;20;S;Orquesta;ISRAEL;Cebreiro, O Pino;A Coruña;Horario: Vermú, Noche.
+115100;4;1;20;S;Orquesta;OLYMPUS RED TOUR;Disco Cota 960, A Fonsagrada;Lugo;
+114044;4;1;20;S;Orquesta;LA FÓRMULA;Discoteca INK, Narón;A Coruña;Horario: Noche (01:15).
+115218;4;1;20;S;Orquesta;LOS SATÉLITES;Discoteca Pazos, Laracha;A Coruña;Horario: Noche. Hay: Bocateria.
+115273;4;1;20;S;Orquesta;PARIS DE NOIA;Discoteca Zouk, Lugo;Lugo; Tipo de terreno: Hierba.
+115439;4;1;20;S;Orquesta;PRINCIPAL;La Colmena, Narón;A Coruña;
+115376;4;1;20;S;Grupo;VIVIANS;La Felguera;Asturias;SUSPENDIDA.  Horario: Noche. Hay: Carpa.
+114359;4;1;20;S;Disco Móvil;IMPACTO;Lendo, A Laracha;A Coruña;Macro Impacto. Horario: Noche. Hay: Carpa.
+115232;4;1;20;S;Orquesta;FANIA BLANCO SHOW;Loiba, Ortigueira;A Coruña;Horario: Noche.
+115423;4;1;20;S;Grupo;TEKILA;Luarca, Valdés;Asturias;
+115309;4;1;20;S;Dúo;D´VICIO;Montoxo, Cedeira;A Coruña;Acompañados Orquesta Nevada. Horario: Noche.
+115253;4;1;20;S;Trío;D´LIDER;O Rosal;Pontevedra;Sala Hacienda. Horario: Noche.
+115342;4;1;20;S;Dúo;CHARADA;Orro, Noia;A Coruña;Cena-baile Restaurante O Rei Martiño. Horario: Noche.
+114585;4;1;20;S;Grupo;LUME;Ouria, Taramundi;Asturias;
+115205;4;1;20;S;Orquesta;MARBELLA;Pontevedra;Pontevedra;Programa Aquí Galicia, TVG. Horario: Tarde.
+115160;4;1;20;S;Orquesta;PANAMA;Restaurante A Lagoa, Vimianzo;A Coruña;
+114507;4;1;20;S;Orquesta;CINEMA;Restaurante El Pantano, Abegondo;A Coruña;
+115203;4;1;20;S;Orquesta;MARBELLA;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra;Horario: Noche.
+115475;4;1;20;S;Grupo;BEATRIZ;S.F. Estilo, Oviedo;Asturias;
+104672;4;1;20;S;Grupo;CHASTTON SHOW;S.F. Josfer, Mesón do Vento;A Coruña;Horario: Noche. Hay: Aparcamiento, Bocateria.
+115319;4;1;20;S;Orquesta;CHARLESTON BIG-BAND;S.F. La Flor, Montouto;A Coruña;
+115295;4;1;20;S;Grupo;NOCHE DE ESTRELLAS;S.F. La Luna, Cerponzóns;Pontevedra;Horario: Tarde, Noche.
+115313;4;1;20;S;Orquesta;LA OCABAND;S.F. Rosalar, Ribadeo;Lugo;Horario: Noche.
+115505;4;1;20;S;Orquesta;CAPITOL;S.F. Rosalar, Ribadeo;Lugo;
+115288;4;1;20;S;Orquesta;LA FAVORITA;Sociedad La Obrera, Ponferrada;León;
+115438;4;1;20;S;Trío;KARMA;Toques;A Coruña;Restaurante Xaneiro. Horario: Noche (00:30).
+115293;4;1;20;S;Solista;ROCÍO PÉREZ;Zas;A Coruña;Festa segunda xuventude. Entrada gratuita. Baile social. Horario: Tarde (20:00).
+115390;5;1;20;D;Solista;JUDITH CUNDÍNS;Aldeola Restaurante, Malpica de Bergantiños;A Coruña;Horario: Tarde.
+115038;5;1;20;D;Charanga;LEÑA VERDE;Arnois, A Estrada;Pontevedra;Horario: Vermú, Noche.
+115444;5;1;20;D;Charanga;NBA;Betanzos;A Coruña;Cabalgata Reyes. Horario: Tarde.
+115169;5;1;20;D;Charanga;EUROPA;Bueu;Pontevedra;Cabalagata de Reyes. Horario: Tarde. Tipo de terreno: Asfalto.
+114977;5;1;20;D;Solista;ROCÍO PÉREZ;Cabana de Bergantiños;A Coruña;Festa segunda xuventude. Horario: Tarde (19:00).
+115476;5;1;20;D;Grupo;BEATRIZ;Café Teatro Première, Pola de Siero;Asturias;
+115356;5;1;20;D;Orquesta;COMPOSTELA;Cebreiro, O Pino;A Coruña;Horario: Vermú.
+114800;5;1;20;D;Dúo;XILO & CARLOS;Cervecería Campo García, Meirás;A Coruña;Horario: Noche.
+115219;5;1;20;D;Orquesta;LOS SATÉLITES;Circulo de las Artes, Lugo;Lugo;Horario: Tarde, Noche.
+115055;5;1;20;D;Charanga;BCB;Culleredo;A Coruña;Cabalgata de Reis. Horario: Tarde (17:00).
+115228;5;1;20;D;Orquesta;FINISTERRE;Discoteca Ramallosa 2000, A Ramallosa;Pontevedra;Horario: Noche.
+114360;5;1;20;D;Disco Móvil;IMPACTO;Lendo, A Laracha;A Coruña;Macro Impacto. Horario: Noche. Hay: Carpa.
+115251;5;1;20;D;Orquesta;LA FAVORITA;Lendo, A Laracha;A Coruña;Horario: Vermú, Noche. Hay: Carpa.
+115260;5;1;20;D;Orquesta;LOS TROVADORES;Liceo de Noia, Noia;A Coruña;Horario: Noche.
+115440;5;1;20;D;Orquesta;PRINCIPAL;Loiba, Ortigueira;A Coruña;
+115365;5;1;20;D;Dúo;LA MECÁNICA;Marín;Pontevedra;Noche de Reyes. Horario: Noche (00:00).
+115415;5;1;20;D;Charanga;CLK;Noia;A Coruña;Horario: Tarde. Tipo de terreno: Asfalto.
+113795;5;1;20;D;Dúo;EXPLOSIÓN;O Carballiño;Ourense;Horario: Tarde.
+115196;5;1;20;D;Orquesta;NEVADA;O Casal, Salvaterra de Miño;Pontevedra;
+115254;5;1;20;D;Trío;D´LIDER;Oia, Vigo;Pontevedra;Restaurante Lugar. Horario: Noche.
+115214;5;1;20;D;Disco Móvil;PARTY;Ortigueira;A Coruña;Noche de reis en la alameda. Horario: Noche (23:00). Tipo de terreno: Asfalto. Hay: Carpa, Aparcamiento.
+113517;5;1;20;D;Trío;FUSSION;Ourense;Ourense;Horario: Noche.
+113049;5;1;20;D;Grupo;ACIREMA;Pontevedra;Pontevedra;
+115204;5;1;20;D;Orquesta;MARBELLA;Restaurante A Carballeira, Santa Cruz de Arrabaldo;Ourense;Horario: Noche.
+115268;5;1;20;D;Orquesta;ISRAEL;Restaurante Canadá, Toral de los Vados;León;Horario: Noche.
+115300;5;1;20;D;Trío;LA NOCHE DO GROVE;Ribadavia;Ourense;Casino. Horario: Tarde (20:00), Noche (00:00).
+115296;5;1;20;D;Grupo;NOCHE DE ESTRELLAS;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra;
+115424;5;1;20;D;Grupo;TEKILA;S.F. Estilo, Oviedo;Asturias;
+115314;5;1;20;D;Orquesta;LA OCABAND;S.F. La Luna, Cerponzóns;Pontevedra;Horario: Tarde.
+115184;5;1;20;D;Orquesta;TREBOL;S.F. Morango K.N, Lugo;Lugo;Horario: Noche.
+115161;5;1;20;D;Orquesta;PANAMA;S.F. Paulino, O Carballiño;Ourense;Acompañados de la Orquesta Ciclomanía. 
+115200;5;1;20;D;Orquesta;CICLOMANÍA;S.F. Paulino, O Carballiño;Ourense;Acompañados de la Orquesta Panama. 
+115172;5;1;20;D;Orquesta;CINEMA;S.F. Zeus, Campolongo;A Coruña;
+115071;5;1;20;D;Charanga;SANTA COMPAÑA;Santa Comba;A Coruña;Horario: Tarde.
+115320;5;1;20;D;Orquesta;CHARLESTON BIG-BAND;Sociedad Cultural y Deportiva de Mourente, Pontevedra;Pontevedra;
+115168;5;1;20;D;Charanga;A TU RITMO;Tui;Pontevedra;Horario: Tarde (17:00).
+113205;5;1;20;D;Dúo;EXPLOSIÓN;Xinzo de Limia;Ourense;Horario: Noche.
+115343;6;1;20;L;Dúo;CHARADA;Aguiño, Ribeira;A Coruña;
+113153;6;1;20;L;Orquesta;SAUDADE;Centro Cultural e Recreativo de Cabral, Vigo;Pontevedra;Baile de Reyes. Horario: Tarde (17:30). Hay: Aparcamiento.
+115291;6;1;20;L;Trío;MUSICAL AIRES DE BROÑA;Extramundi, Padrón;A Coruña;Horario: Vermú, Noche.
+115321;6;1;20;L;Orquesta;CHARLESTON BIG-BAND;Extramundi, Padrón;A Coruña;
+115330;6;1;20;L;Orquesta;MIRAMAR;Guláns, Ponteareas;Pontevedra;Horario: Tarde, Noche. Tipo de terreno: Asfalto. Hay: Carpa, Aparcamiento.
+115252;6;1;20;L;Dúo;DIAMANTE;Lendo, A Laracha;A Coruña;Horario: Vermú. Hay: Carpa.
+115345;6;1;20;L;Grupo;NOCHE DE ESTRELLAS;Moaña;Pontevedra;En la Cultural. 
+115082;6;1;20;L;Charanga;LEÑA VERDE;Piñeiro, Silleda;Pontevedra;Horario: Vermú.
+115290;6;1;20;L;Orquesta;FANIA BLANCO SHOW;S.F. La Luna, Cerponzóns;Pontevedra;
+115315;6;1;20;L;Orquesta;LA OCABAND;S.F. La Reina, Sanguiñeda;Pontevedra;Horario: Tarde.
+115162;6;1;20;L;Orquesta;PANAMA;S.F. Paulino, O Carballiño;Ourense;
+115185;6;1;20;L;Orquesta;TREBOL;Vilanova de Arousa;Pontevedra;Centro Cultural. Horario: Noche.
+115292;7;1;20;M;Orquesta;FINISTERRE;Illa de Arousa;Pontevedra;Acompañados de la Orquesta Marbella. Horario: Noche (21:30). Hay: Carpa.
+115326;7;1;20;M;Orquesta;MARBELLA;Illa de Arousa;Pontevedra;Acompañados de la Orquesta Finisterre. Horario: Noche.
+115163;7;1;20;M;Orquesta;PANAMA;Mugardos;A Coruña;
+115186;7;1;20;M;Orquesta;TREBOL;San Xulian, Marín;Pontevedra;Horario: Noche.
+115504;8;1;20;X;Orquesta;CAPITOL;San Xulian, Marín;Pontevedra;Horario: Noche (20:30).
+115255;9;1;20;J;Trío;D´LIDER;Azzaro Pub, A Ramallosa;Pontevedra;
+115256;10;1;20;V;Trío;D´LIDER;Canido, Vigo;Pontevedra;Ondas Canido. Horario: Noche.
+114762;10;1;20;V;Solista;XILO;Cervecería La Terraza, O Temple, Cambre;A Coruña;Horario: Noche.
+115443;10;1;20;V;Orquesta;CICLOMANÍA;Discoteca Sambar, Vila de Cruces;Pontevedra;
+115541;10;1;20;V;Grupo;IDEAS;Gijón;Asturias;Discoteca Gizeh. Horario: Noche.
+115206;10;1;20;V;Orquesta;MARBELLA;Plató 1000, Teo;A Coruña;Programa Luar, TVG. Horario: Noche.
+115284;10;1;20;V;Orquesta;LA FÓRMULA;S.F. Morango K.N, Lugo;Lugo;Apertura de puertas a las 23:00h. 
+115233;10;1;20;V;Orquesta;FANIA BLANCO SHOW;San Xulián de Sales, Vedra;A Coruña;Horario: Noche.
+114420;10;1;20;V;Orquesta;FINISTERRE;Seaia, Malpica de Bergantiños;A Coruña;Comenzamos a las 23:15h, a continuación los compañeros  del Grupo Claxxon. Horario: Noche (23:15). Tipo de terreno: Asfalto. Hay: Carpa, Aparcamiento, Bocateria.
+115026;10;1;20;V;Grupo;CLAXXON;Seaia, Malpica de Bergantiños;A Coruña;Acompañados de la Orquesta Finisterre. 
+114085;11;1;20;S;Solista;ROCÍO PÉREZ;A Abeleira, Tordoia;A Coruña;Festa sorpresa no Restaurante Casa Loureiro. Horario: Noche (22:00).
+115446;11;1;20;S;Grupo;LUME;Alfoz;Lugo;Casa Pereiras. 
+115123;11;1;20;S;Grupo;ARENA;Ampuyenta;Las Palmas;Fuerteventura. Horario: Noche.
+115322;11;1;20;S;Orquesta;CHARLESTON BIG-BAND;Carreiras, Pontecesures;Pontevedra;Acompañados de la Orquesta Olympus. 
+115346;11;1;20;S;Orquesta;OLYMPUS RED TOUR;Carreiras, Pontecesures;Pontevedra;Acompañados de la Orquesta Charleston Big-Band. 
+114763;11;1;20;S;Solista;XILO;Cervecería La Terraza, O Temple, Cambre;A Coruña;Horario: Noche.
+115207;11;1;20;S;Orquesta;MARBELLA;Codeseda, A Estrada;Pontevedra;Horario: Noche.
+115301;11;1;20;S;Trío;LA NOCHE DO GROVE;Cuíña, Cerdedo;Pontevedra;Acompañados del Trío Arena. Horario: Noche. Hay: Carpa.
+114045;11;1;20;S;Orquesta;CINEMA;Discoteca INK, Narón;A Coruña;
+115164;11;1;20;S;Orquesta;PANAMA;Discoteca Pazos, Laracha;A Coruña;
+115542;11;1;20;S;Grupo;IDEAS;Foyedo, Valdes;Asturias;Horario: Noche.
+115306;11;1;20;S;Orquesta;LOS TROVADORES;La Colmena, Narón;A Coruña;Horario: Noche.
+112989;11;1;20;S;Dúo;D´VICIO;Lamas, San Sadurniño;A Coruña;Acompañados de la Orquesta La Favorita. Horario: Noche.
+115104;11;1;20;S;Orquesta;LA FAVORITA;Lamas, San Sadurniño;A Coruña;Acompañados del Dúo D´Vicio. Horario: Vermú (14:00), Noche (23:00). Tipo de terreno: Asfalto. Hay: Carpa, Aparcamiento.
+115425;11;1;20;S;Grupo;TEKILA;Mieres;Asturias;Llagarón. 
+115393;11;1;20;S;Solista;JUDITH CUNDÍNS;Oroso;A Coruña;Centro Cultural. Horario: Tarde.
+114754;11;1;20;S;Dúo;ZAFIRO;Playa Area, Viveiro;Lugo;Bar Flora. Horario: Noche.
+115429;11;1;20;S;Grupo;AMÉRICA DE VIGO;Ponferrada;León;Sala La Vaca. 
+106575;11;1;20;S;Dúo;EXPLOSIÓN;Pontevedra;Pontevedra;Horario: Noche.
+115357;11;1;20;S;Orquesta;COMPOSTELA;Restaurante A Lagoa, Vimianzo;A Coruña;
+115528;11;1;20;S;Solista;AIXA ROMAY;Restaurante Avelino, Mesón do Vento;A Coruña;Bodas de Oro. Horario: Tarde.
+114508;11;1;20;S;Orquesta;LOS SATÉLITES;Restaurante El Pantano, Abegondo;A Coruña;
+115461;11;1;20;S;Grupo;ARAMIO;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra;Horario: Noche.
+115187;11;1;20;S;Orquesta;TREBOL;S.F. Josfer, Mesón do Vento;A Coruña;Horario: Noche.
+115565;11;1;20;S;Grupo;TANIA VEIRAS;S.F. La Flor, Montouto;A Coruña;Horario: Noche.
+115197;11;1;20;S;Orquesta;NEVADA;S.F. La Luna, Cerponzóns;Pontevedra;
+115250;11;1;20;S;Orquesta;GRAN PARADA;S.F. Rosalar, Ribadeo;Lugo;
+114959;11;1;20;S;Dúo;LA HORA BRUJA;San Xulián de Sales, Vedra;A Coruña;Horario: Vermú, Noche.
+115229;11;1;20;S;Orquesta;FINISTERRE;San Xulián de Sales, Vedra;A Coruña;Comienza la fiesta a las 22:30h con los compañeros de La Hora Bruja, a continuación Orquesta Finisterre. Horario: Noche (22:30). Tipo de terreno: Asfalto. Hay: Carpa, Aparcamiento, Bocateria.
+115274;11;1;20;S;Orquesta;PARIS DE NOIA;Seaia, Malpica de Bergantiños;A Coruña;
+115441;11;1;20;S;Orquesta;PRINCIPAL;Seaia, Malpica de Bergantiños;A Coruña;
+115574;11;1;20;S;Orquesta;MIRAMAR;Vigo;Pontevedra;Programa Aquí Galicia, TVG. Horario: Tarde. Hay: Carpa.
+115297;11;1;20;S;Grupo;NOCHE DE ESTRELLAS;Vila Nova de Cerveira;Portugal;Restaurante Braseirao do Minho. 
+115508;12;1;20;D;Grupo;NOCHE DE ESTRELLAS;Bouzas, Vigo;Pontevedra;Trío Noche de Estrellas en Salsa Costas. 
+114606;12;1;20;D;Trío;KARMA;Carral;A Coruña;Centro social. Horario: Tarde (17:00).
+115530;12;1;20;D;Solista;AIXA ROMAY;Narón;A Coruña;Bar los 80. Horario: Tarde (20:30), Noche.
+115548;12;1;20;D;Dúo;EXPLOSIÓN;Ourense;Ourense;Horario: Tarde.
+115449;12;1;20;D;Dúo;ECLIPSE;Pedreda, Lugo;Lugo;Horario: Tarde. Tipo de terreno: Cemento.
+114755;12;1;20;D;Dúo;ZAFIRO;Playa Area, Viveiro;Lugo;Bar Flora. Horario: Vermú.
+115394;12;1;20;D;Solista;JUDITH CUNDÍNS;Ponteceso;A Coruña;Centro Social. Horario: Tarde.
+112534;12;1;20;D;Solista;ROCÍO PÉREZ;Restaurante Pastoriza, Vimianzo;A Coruña;Baile para todo público. De 20:00h a 23:30h, bo ambiente e diversión garantizada. Horario: Tarde (20:00).
+115358;12;1;20;D;Orquesta;COMPOSTELA;S.F. Chamán, Goián;Pontevedra;
+115543;12;1;20;D;Grupo;IDEAS;S.F. Estilo, Oviedo;Asturias;Horario: Noche.
+115581;12;1;20;D;Orquesta;LA FAVORITA;S.F. La Luna, Cerponzóns;Pontevedra;
+115220;12;1;20;D;Orquesta;LOS SATÉLITES;S.F. La Reina, Sanguiñeda;Pontevedra;Horario: Tarde. Hay: Aparcamiento.
+115208;12;1;20;D;Orquesta;MARBELLA;S.F. Morango K.N, Lugo;Lugo;
+115261;12;1;20;D;Orquesta;LOS TROVADORES;S.F. Paulino, O Carballiño;Ourense;Horario: Tarde, Noche.
+115247;12;1;20;D;Orquesta;GRAN PARADA;S.F. Velvet, Monçao;Portugal;Horario: Tarde (16:00).
+114802;12;1;20;D;Dúo;XILO & CARLOS;S.F. Zeus, Campolongo;A Coruña;Festival de dúos. Horario: Tarde, Noche.
+115529;12;1;20;D;Solista;AIXA ROMAY;Sada;A Coruña;Restaurante Caballos Km0. Horario: Vermú.
+114960;12;1;20;D;Dúo;LA HORA BRUJA;San Xulián de Sales, Vedra;A Coruña;Horario: Vermú.
+115593;12;1;20;D;Trío;SINTONÍA;Vilanova de Arousa;Pontevedra;Familias rurais vista real. Horario: Tarde.
+115209;15;1;20;X;Orquesta;MARBELLA;Arra, Sanxenxo;Pontevedra;Acompañados de la Orquesta París de Noia. Horario: Noche.
+115275;15;1;20;X;Orquesta;PARIS DE NOIA;Arra, Sanxenxo;Pontevedra;Acompañados de la Orquesta Marbella. 
+115359;15;1;20;X;Orquesta;COMPOSTELA;Entrecruces, Carballo;A Coruña;Horario: Vermú.
+115221;15;1;20;X;Orquesta;LOS SATÉLITES;San Amaro, Aldán, Cangas do Morrazo;Pontevedra;Acompañados de la Orquesta Capitol. Horario: Noche.
+115506;15;1;20;X;Orquesta;CAPITOL;San Amaro, Aldán, Cangas do Morrazo;Pontevedra;Acompañados de la Orquesta Los Satélites. 
+115222;16;1;20;J;Orquesta;LOS SATÉLITES;Arra, Sanxenxo;Pontevedra;SUSPENDIDA. Suspendida por mal tiempo, se aplaza para el día 19 de Enero y comenzará la verbena a las 20:00 h. Horario: Noche.
+115240;16;1;20;J;Orquesta;CICLOMANÍA;Arra, Sanxenxo;Pontevedra;SUSPENDIDA. Acompañados de la Orquesta Los Satélites. Horario: Noche.
+115511;16;1;20;J;Charanga;CASTRO BELLO;Macendo, Castrelo de Miño;Ourense;Horario: Tarde.
+115060;16;1;20;J;Solista;ROCÍO PÉREZ;O Tarambollo, Carballo;A Coruña;Festa segunda xuventude. Horario: Tarde (16:30). Hay: Aparcamiento, Bocateria.
+115623;16;1;20;J;Disco Móvil;BOA FESTA;Puente de Domingo Florez;León;
+115430;17;1;20;V;Grupo;AMÉRICA DE VIGO;Adina, Sanxenxo;Pontevedra;
+115188;17;1;20;V;Orquesta;TREBOL;Cacheiro, Pontevedra;Pontevedra;Acompañados de la Orquesta Miramar. Horario: Noche.
+115331;17;1;20;V;Orquesta;MIRAMAR;Cacheiro, Pontevedra;Pontevedra;Acompañados de la Orquesta Trebol. Horario: Noche. Tipo de terreno: Asfalto. Hay: Aparcamiento.
+115223;17;1;20;V;Orquesta;LOS SATÉLITES;Carres, Cesuras;A Coruña;Acompañados del Grupo Claxxon. Horario: Noche (22:30). Hay: Carpa, Aparcamiento, Bocateria.
+115307;17;1;20;V;Grupo;CLAXXON;Carres, Cesuras;A Coruña;Acompañados de la Orquesta Los Satélites. Horario: Noche. Tipo de terreno: Asfalto. Hay: Carpa.
+115473;17;1;20;V;Orquesta;BARCELÓ;Curtis;A Coruña;Horario: Noche.
+115276;17;1;20;V;Orquesta;PARIS DE NOIA;Discoteca INK, Narón;A Coruña;
+115426;17;1;20;V;Grupo;TEKILA;Gijón;Asturias;La Buena Vida Fomento. 
+115647;17;1;20;V;Charanga;CASTRO BELLO;Guimarei;Ourense;Horario: Vermú.
+115477;17;1;20;V;Grupo;BEATRIZ;Inguanzo, Cabrales;Asturias;
+115269;17;1;20;V;Orquesta;ISRAEL;Macendo, Castrelo de Miño;Ourense;Horario: Noche.
+115348;17;1;20;V;Orquesta;LA OCABAND;Mañufe, Gondomar;Pontevedra;San Sebastián. Horario: Noche.
+115210;17;1;20;V;Orquesta;MARBELLA;Monfero;A Coruña;Taberna Rebordelo. 
+114453;17;1;20;V;Charanga;CLK;Noallo de Abaixo, Castrelo de Miño;Ourense;Horario: Vermú. Tipo de terreno: Asfalto.
+115620;17;1;20;V;Orquesta;OLYMPUS RED TOUR;Plató 1000, Teo;A Coruña;Programa Luar, TVG. 
+115624;17;1;20;V;Disco Móvil;BOA FESTA;Puente de Domingo Florez;León;
+115589;17;1;20;V;Grupo;M-3;Rexosende, Vilardevós;Ourense;
+115564;17;1;20;V;Orquesta;PANAMA;S.F. Morango K.N, Lugo;Lugo;
+115239;18;1;20;S;Orquesta;CICLOMANÍA;A Arnoia;Ourense; Hay: Carpa.
+115717;18;1;20;S;Grupo;GARIBALDI;A Medua, Carballeda de Valdeorras;Ourense;Horario: Tarde (20:00).
+115224;18;1;20;S;Orquesta;LOS SATÉLITES;A Modia, Cambados;Pontevedra;Acompañados de la Orquesta Charleston Big-Band. Horario: Noche (21:00). Tipo de terreno: Cemento. Hay: Carpa, Aparcamiento.
+115323;18;1;20;S;Orquesta;CHARLESTON BIG-BAND;A Modia, Cambados;Pontevedra;Acompañados de la Orquesta Los Satélites. 
+115234;18;1;20;S;Orquesta;FANIA BLANCO SHOW;Adina, Sanxenxo;Pontevedra;Acompañados de la Orquesta Israel. Horario: Noche.
+115270;18;1;20;S;Orquesta;ISRAEL;Adina, Sanxenxo;Pontevedra;Acompañados de la Orquesta Fania Blanco Show. Horario: Noche.
+115556;18;1;20;S;Orquesta;METRÓPOLIS;Bricia, Llanes;Asturias;Acompañados de la Orquesta Versión Original. Horario: Noche (22:00). Hay: Carpa.
+115559;18;1;20;S;Orquesta;VERSIÓN ORIGINAL;Bricia, Llanes;Asturias;Acompañados de la Orquesta Metrópolis. Horario: Noche (22:00). Hay: Carpa.
+115739;18;1;20;S;Grupo;UNIÓN Y FUERZA;Bronllo, Valga;Pontevedra;Acompañados de la Orquesta Xacobeo. 
+115052;18;1;20;S;Orquesta;XACOBEO;Bronllo, Valga;Pontevedra;Acompañados del Grupo Unión Y Fuerza. 
+116738;18;1;20;S;Grupo;ASSIA;Café Teatro Première, Pola de Siero;Asturias;
+115298;18;1;20;S;Grupo;NOCHE DE ESTRELLAS;Canido, Vigo;Pontevedra;Ondas de canido. 
+115302;18;1;20;S;Trío;LA NOCHE DO GROVE;Caroi, Cotobade;Pontevedra;Casa Cultural. Horario: Noche.
+114177;18;1;20;S;Dúo;D´VICIO;Carres, Cesuras;A Coruña;Horario: Vermú, Noche.
+114423;18;1;20;S;Trío;KARMA;Caspedro, Quiroga;Lugo;Horario: Tarde (20:00), Noche.
+114596;18;1;20;S;Solista;ROCÍO PÉREZ;Castriz, Santa Comba;A Coruña;Festa no Campo de Fútbol do Castriz. Horario: Tarde (18:00). Hay: Carpa, Aparcamiento, Bocateria.
+115498;18;1;20;S;Trío;INNOVACIÓN;Cendoi, O Paramo;Lugo;Horario: Vermú, Noche.
+114404;18;1;20;S;Orquesta;FINISTERRE;Cores, Ponteceso;A Coruña;Acompañados de Disco Móvil Cdc y Grupo Ciclón. Horario: Noche (21:15). Tipo de terreno: Asfalto. Hay: Carpa, Aparcamiento.
+115027;18;1;20;S;Disco Móvil;CDC;Cores, Ponteceso;A Coruña;Acompañados de la Orquesta Finisterre. Cabina CDC Móvil. Horario: Noche.
+115427;18;1;20;S;Grupo;TEKILA;Discoteca La Villar, Felechosa;Asturias;
+115308;18;1;20;S;Grupo;CLAXXON;Estás, Tomiño;Pontevedra;Horario: Noche.
+115445;18;1;20;S;Charanga;NBA;Foz;Lugo;Festa do Berberecho. Horario: Tarde.
+115173;18;1;20;S;Orquesta;CINEMA;Inguanzo, Cabrales;Asturias;Acompañados del Grupo Vivians. 
+115375;18;1;20;S;Grupo;VIVIANS;Inguanzo, Cabrales;Asturias;Acompañados de la Orquesta Cinema. Horario: Noche (23:00). Hay: Carpa.
+115248;18;1;20;S;Orquesta;GRAN PARADA;Macendo, Castrelo de Miño;Ourense;Horario: Noche (20:00).
+115360;18;1;20;S;Orquesta;COMPOSTELA;Mañufe, Gondomar;Pontevedra;San Sebastián. 
+115189;18;1;20;S;Orquesta;TREBOL;Mirón, Ponte Caldelas;Pontevedra;Horario: Noche.
+115987;18;1;20;S;Orquesta;LA OLA ADN;Mirón, Ponte Caldelas;Pontevedra;
+115211;18;1;20;S;Orquesta;MARBELLA;Moreira, Soutomaior;Pontevedra;Horario: Noche.
+115668;18;1;20;S;Orquesta;GÉNESIS;Navaleno;Soria;Horario: Noche (01:00).
+116137;18;1;20;S;Orquesta;SAUDADE;Noallo de Abaixo, Castrelo de Miño;Ourense;Horario: Noche (20:00).
+115453;18;1;20;S;Dúo;LA MECÁNICA;O Rosal;Pontevedra;Horario: Noche (00:00).
+115432;18;1;20;S;Orquesta;SALSARENA;Pedreda, Lugo;Lugo;Horario: Vermú, Noche.
+115569;18;1;20;S;Orquesta;ESSENCIA;Perdecanai, Barro;Pontevedra;
+115431;18;1;20;S;Grupo;AMÉRICA DE VIGO;Petelos, Mos;Pontevedra;
+115165;18;1;20;S;Orquesta;PANAMA;Porto, Vilar de Barrio;Ourense;
+115442;18;1;20;S;Orquesta;PRINCIPAL;Restaurante A Lagoa, Vimianzo;A Coruña;
+114509;18;1;20;S;Orquesta;CAPITOL;Restaurante El Pantano, Abegondo;A Coruña;
+115478;18;1;20;S;Grupo;BEATRIZ;Robledo, Llanera;Asturias;Acompañados del Grupo Ideas. 
+115544;18;1;20;S;Grupo;IDEAS;Robledo, Llanera;Asturias;Acompañados del Grupo Beatriz. Horario: Noche.
+115347;18;1;20;S;Orquesta;OLYMPUS RED TOUR;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra;
+115262;18;1;20;S;Orquesta;LOS TROVADORES;S.F. Josfer, Mesón do Vento;A Coruña;Horario: Noche.
+115350;18;1;20;S;Grupo;ATENAS;S.F. La Flor, Montouto;A Coruña;
+115332;18;1;20;S;Orquesta;MIRAMAR;S.F. Rosalar, Ribadeo;Lugo;Horario: Noche. Hay: Bocateria.
+115198;18;1;20;S;Orquesta;NEVADA;San Amaro, Fornelos de Montes;Pontevedra;
+115588;18;1;20;S;Trío;XTRA;San Mateo de Oliveira, Ponteareas;Pontevedra;Acompañados del Trío Azar. Horario: Noche (21:00). Tipo de terreno: Cemento. Hay: Carpa, Aparcamiento, Bocateria, Atracciones.
+115007;18;1;20;S;Orquesta;SOLARA;Sancovade, Vilalba;Lugo;Acompañados de la Orquesta La Fórmula. 
+115028;18;1;20;S;Orquesta;LA FÓRMULA;Sancovade, Vilalba;Lugo;Acompañados de la Orquesta Solara que empezará a las 22:30 horas. 
+115648;18;1;20;S;Grupo;SONIDO LEÓN;Santa Inés;Burgos;Horario: Tarde (20:00), Noche (00:00).
+115289;18;1;20;S;Orquesta;LA FAVORITA;Sequeiros, Pazos de Borbén;Pontevedra;
+115462;18;1;20;S;Grupo;ARAMIO;Sequeiros, Pazos de Borbén;Pontevedra;Horario: Noche.
+115277;18;1;20;S;Orquesta;PARIS DE NOIA;Tabeirós, A Estrada;Pontevedra;Acompañados de la Orquesta La Ocaband. 
+115349;18;1;20;S;Orquesta;LA OCABAND;Tabeirós, A Estrada;Pontevedra;Acompañados de la Orquesta París de Noia. Horario: Noche.
+115311;18;1;20;S;Grupo;LECER;Vilamar, Barreiros;Lugo;Festa dos Callos. Horario: Noche. Tipo de terreno: Asfalto. Hay: Carpa.
+115368;18;1;20;S;Grupo;NEBRASKA;Villoruela;Salamanca;Horario: Noche.
+115700;19;1;20;D;Orquesta;LOS SATÉLITES;Arra, Sanxenxo;Pontevedra;Acompañados de la Orquesta Ciclomanía. Horario: Tarde (20:00). Tipo de terreno: Asfalto. Hay: Carpa, Aparcamiento.
+115759;19;1;20;D;Orquesta;CICLOMANÍA;Arra, Sanxenxo;Pontevedra;Acompañados de la Orquesta Los Satélites. Horario: Tarde (20:00), Noche. Hay: Carpa.
+114178;19;1;20;D;Dúo;D´VICIO;Carres, Cesuras;A Coruña;Horario: Vermú.
+115448;19;1;20;D;Charanga;TDB;Castro Caldelas, Castro Caldelas;Ourense;Festa dos Fachós 2020. Horario: Tarde, Noche. Tipo de terreno: Asfalto.
+115369;19;1;20;D;Grupo;NEBRASKA;Cercedilla;Madrid;SUSPENDIDA.  Horario: Noche.
+115479;19;1;20;D;Grupo;BEATRIZ;Gijón;Asturias;Marieva Palace. 
+113936;19;1;20;D;Trío;KARMA;Malpica de Bergantiños;A Coruña;Horario: Tarde (19:00).
+115303;19;1;20;D;Trío;LA NOCHE DO GROVE;Marcón, Pontevedra;Pontevedra;Casa Cultural. Horario: Tarde (19:00).
+115509;19;1;20;D;Grupo;NOCHE DE ESTRELLAS;Moaña;Pontevedra;Cultural. 
+115579;19;1;20;D;Trío;SINTONÍA;Ponteceso;A Coruña;Horario: Tarde.
+115649;19;1;20;D;Orquesta;MIRAMAR;S.F. La Luna, Cerponzóns;Pontevedra;Horario: Tarde, Noche. Hay: Aparcamiento, Bocateria.
+115463;19;1;20;D;Grupo;ARAMIO;S.F. La Reina, Sanguiñeda;Pontevedra;Horario: Tarde.
+115361;19;1;20;D;Orquesta;COMPOSTELA;S.F. Paulino, O Carballiño;Ourense;
+115984;19;1;20;D;Orquesta;LA OLA ADN;S.F. Velvet, Monçao;Portugal;
+115324;19;1;20;D;Orquesta;CHARLESTON BIG-BAND;S.F. Zeus, Campolongo;A Coruña;
+115396;19;1;20;D;Solista;JUDITH CUNDÍNS;Trazo;A Coruña;Centro Polivalente. Horario: Tarde.
+115733;19;1;20;D;Dúo;EXPLOSIÓN;Vigo;Pontevedra;Horario: Vermú.
+115626;20;1;20;L;Charanga;CASTRO BELLO;Abelenda das Penas, Carballeda de Avia;Ourense;Horario: Vermú.
+115798;20;1;20;L;Orquesta;PARIS DE NOIA;Discoteca Sambar, Vila de Cruces;Pontevedra;
+115484;21;1;20;M;Orquesta;CICLOMANÍA;Plató 1000, Teo;A Coruña;
+115152;22;1;20;X;Charanga;EUROPA;Bustelo, Xunqueira de Ambía;Ourense;Horario: Vermú.
+115454;22;1;20;X;Orquesta;IPANEMA;Manganeses de la Polvorosa;Zamora;
+115257;23;1;20;J;Trío;D´LIDER;Azzaro Pub, A Ramallosa;Pontevedra;Horario: Noche.
+115874;23;1;20;J;Disco Móvil;CHOCOLATE;Liceo de Noia, Noia;A Coruña;Privada. Horario: Noche.
+115946;24;1;20;V;Solista;CRISTINA CACHALDORA;A Coruña;A Coruña;As Cantarelas. Un bar de toda la vida. Horario: Noche (00:00).
+115433;24;1;20;V;Orquesta;SALSARENA;Acebes del Páramo, Bustillo del Páramo;León;Salón. Horario: Noche.
+115285;24;1;20;V;Orquesta;LA FÓRMULA;Armea, Coirós;A Coruña;Churrascada en la fiesta por tan solo 11€
+115875;24;1;20;V;Disco Móvil;CHOCOLATE;Barrio do Couto, Noia;A Coruña;Privada. Horario: Noche.
+115435;24;1;20;V;Grupo;AMÉRICA DE VIGO;Bercianos del Páramo;León;
+115776;24;1;20;V;Orquesta;BARCELÓ;Curtis;A Coruña;Horario: Noche.
+115480;24;1;20;V;Grupo;BEATRIZ;Discoteca Hermo, Muimenta;Lugo;
+114775;24;1;20;V;Solista;XILO;Duio, Fisterra;A Coruña;Acompañado del Dúo Estrellas. Horario: Noche. Hay: Carpa.
+115079;24;1;20;V;Dúo;ESTRELLAS;Duio, Fisterra;A Coruña;Acompañados de Xilo. Horario: Noche (23:00). Hay: Carpa.
+115151;24;1;20;V;Orquesta;OLYMPUS RED TOUR;Mehá, Mugardos;A Coruña;Horario: Noche. Tipo de terreno: Cemento. Hay: Carpa.
+115327;24;1;20;V;Orquesta;MARBELLA;Piñeiro, A Pobra de Trives;Ourense;Horario: Noche.
+115693;24;1;20;V;Orquesta;XACOBEO;Plató 1000, Teo;A Coruña;Programa Luar de la TVG. 
+115230;24;1;20;V;Orquesta;FINISTERRE;Praza de España, Porto do Son;A Coruña;Horario: Noche (21:30).
+115764;24;1;20;V;Orquesta;CHARLESTON BIG-BAND;Rodeiro;Pontevedra;Acompañados de la Orquesta Panama. 
+115817;24;1;20;V;Orquesta;PANAMA;Rodeiro;Pontevedra;Acompañados de la Orquesta Charleston Big-Band. 
+115619;24;1;20;V;Orquesta;CINEMA;S.F. Morango K.N, Lugo;Lugo;
+115921;24;1;20;V;Dúo;EXPLOSIÓN;Vigo;Pontevedra;Horario: Tarde.
+115925;24;1;20;V;Solista;BEGOÑA GARCÍA;Zas;A Coruña;Restaurante Casa Maroñas. Horario: Noche (22:00).
+115451;25;1;20;S;Orquesta;METRÓPOLIS;A Mella, Arzúa;A Coruña;Alternando con Dj. Sr. Magick. Horario: Noche.
+116063;25;1;20;S;Grupo;KALIMA 3.0;A Regueira, A Pastoriza;Lugo;Horario: Vermú, Noche. Tipo de terreno: Asfalto. Hay: Carpa.
+115740;25;1;20;S;Charanga;LOUBAND;A Rúa;Ourense;Horario: Tarde.
+115271;25;1;20;S;Orquesta;ISRAEL;Ambroa, Irixoa;A Coruña;Horario: Vermú, Noche.
+113833;25;1;20;S;Dúo;ESTRELLAS;Boizán, Vilalba;Lugo;Acompañados de la Orquesta La Favorita. Horario: Noche. Tipo de terreno: Hierba. Hay: Carpa.
+115032;25;1;20;S;Orquesta;LA FAVORITA;Boizán, Vilalba;Lugo;Acompañados del Dúo Estrellas. Horario: Noche. Tipo de terreno: Hierba. Hay: Carpa.
+115175;25;1;20;S;Orquesta;CINEMA;Bricia, Llanes;Asturias;
+115158;25;1;20;S;Trío;KARMA;Cariño;A Coruña;Romaría San Xiao. Acompañados de la Disco Móvil Party. Horario: Vermú (13:30), Tarde (17:00). Tipo de terreno: Tierra. Hay: Carpa, Bocateria.
+115818;25;1;20;S;Disco Móvil;PARTY;Cariño;A Coruña;Romería San Xiao. Horario: Tarde, Noche. Tipo de terreno: Tierra. Hay: Carpa, Aparcamiento, Bocateria.
+115770;25;1;20;S;Trío;LA NOCHE DO GROVE;Castroquilame, Puente de Domingo Flórez;León;
+115570;25;1;20;S;Orquesta;ESSENCIA;Cerponzóns, Pontevedra;Pontevedra;
+115497;25;1;20;S;Trío;INNOVACIÓN;Cornado, Touro;A Coruña;Horario: Vermú.
+115231;25;1;20;S;Orquesta;FINISTERRE;Duio, Fisterra;A Coruña;Acompañados de la Disco Móvil Cdc. Horario: Noche (00:00). Hay: Carpa, Aparcamiento, Bocateria.
+115385;25;1;20;S;Disco Móvil;CDC MINIDISC;Duio, Fisterra;A Coruña;
+116057;25;1;20;S;Disco Móvil;CDC;Duio, Fisterra;A Coruña;Acompañados de la Orquesta Finisterre. Horario: Noche. Hay: Carpa, Aparcamiento, Bocateria.
+115495;25;1;20;S;Charanga;ERAVISTO;Fríamonde, Taboada;Lugo;Horario: Vermú, Tarde.
+114788;25;1;20;S;Solista;XILO;Hotel Narón, Narón;A Coruña;Horario: Noche.
+115927;25;1;20;S;Solista;BEGOÑA GARCÍA;La Reserva, Ferrol;A Coruña;Horario: Noche (23:45).
+115227;25;1;20;S;Orquesta;LOS SATÉLITES;Lagoa, Alfoz;Lugo;Horario: Noche.
+115517;25;1;20;S;Disco Móvil;CHOCOLATE;Liceo de Noia, Noia;A Coruña;Noia se mueve con chocolate. Horario: Noche.
+115176;25;1;20;S;Grupo;ASSIA;Mehá, Mugardos;A Coruña;Horario: Noche. Tipo de terreno: Cemento. Hay: Carpa.
+115481;25;1;20;S;Grupo;BEATRIZ;Mieres;Asturias;El Llagarón. 
+115464;25;1;20;S;Solista;ROCÍO PÉREZ;Nantón, Cabana de Bergantiños;A Coruña;Cea-baile na Parrillada A Pedra. Horario: Noche (23:00). Hay: Carpa, Aparcamiento, Bocateria.
+115969;25;1;20;S;Trío;D´LIDER;Nigrán;Pontevedra;Cafetería Mayo 29. Horario: Noche.
+115613;25;1;20;S;Charanga;EUROPA;O Navallo, Riós;Ourense;Horario: Vermú, Tarde.
+115580;25;1;20;S;Trío;SINTONÍA;Oroso;A Coruña;Horario: Tarde.
+115199;25;1;20;S;Orquesta;NEVADA;Orxais, Quiroga;Lugo;Horario: Vermú, Noche.
+115242;25;1;20;S;Orquesta;CICLOMANÍA;Os Vilares, Guitiriz;Lugo;Acompañados de la Orquesta Charleston Big-Band. 
+115279;25;1;20;S;Orquesta;CHARLESTON BIG-BAND;Os Vilares, Guitiriz;Lugo;Acompañados de la Orquesta Ciclomanía. 
+115695;25;1;20;S;Dúo;EXPLOSIÓN;Ourense;Ourense;Horario: Tarde.
+114911;25;1;20;S;Trío;SINTONÍA;Parrillada Peiró, Cambre;A Coruña;Horario: Noche.
+115263;25;1;20;S;Orquesta;LOS TROVADORES;Pedrafigueira, Carnota;A Coruña;Acompañados del Grupo Atenas. Horario: Noche.
+115351;25;1;20;S;Grupo;ATENAS;Pedrafigueira, Carnota;A Coruña;Acompañados de la Orquesta Los Trovadores. 
+115590;25;1;20;S;Grupo;M-3;Pepín, Castrelo do Val;Ourense;
+115286;25;1;20;S;Orquesta;LA FÓRMULA;Piñeiro, A Pobra de Trives;Ourense;Actuación en el interior de una carpa totalmente cerrada, con calefacción a partir de las 23:30 horas. Os esperamos a todos. Horario: Noche (23:30). Tipo de terreno: Asfalto. Hay: Carpa, Bocateria.
+115894;25;1;20;S;Charanga;NOVA;Piñeiro, A Pobra de Trives;Ourense;Procesión, misa e sesión vermú. Horario: Vermú. Hay: Carpa.
+115953;25;1;20;S;Solista;JUDITH CUNDÍNS;Ponteceso;A Coruña;Restaurante A Pesqueira. Horario: Noche.
+114156;25;1;20;S;Orquesta;SOLARA;Pontoibo, As Pontes;A Coruña;Acompañados de la Orquesta Panama. 
+115166;25;1;20;S;Orquesta;PANAMA;Pontoibo, As Pontes;A Coruña;Acompañados de la Orquesta Solara. 
+115144;25;1;20;S;Orquesta;XACOBEO;Praza de España, Porto do Son;A Coruña; Tipo de terreno: Asfalto.
+115190;25;1;20;S;Orquesta;TREBOL;Rábade;Lugo;Horario: Vermú, Noche.
+115436;25;1;20;S;Grupo;AMÉRICA DE VIGO;Rábade;Lugo;
+115558;25;1;20;S;Grupo;ARAMIO;Restaurante A Lagoa, Vimianzo;A Coruña;Cena-Baile. Horario: Noche.
+115428;25;1;20;S;Grupo;TEKILA;Restaurante Amandi, Villaviciosa;Asturias;
+114510;25;1;20;S;Orquesta;MARBELLA;Restaurante El Pantano, Abegondo;A Coruña;
+115833;25;1;20;S;Dúo;CHARADA;Ribeira;A Coruña;Horario: Noche.
+115278;25;1;20;S;Orquesta;PARIS DE NOIA;S.F. Dona Dana, Touro;A Coruña;
+115507;25;1;20;S;Orquesta;CAPITOL;S.F. El Otro Mundo del Tea, Ponteareas;Pontevedra;
+115545;25;1;20;S;Grupo;IDEAS;S.F. Estilo, Oviedo;Asturias;Horario: Noche.
+115952;25;1;20;S;Orquesta;PRINCIPAL;S.F. Josfer, Mesón do Vento;A Coruña;Horario: Noche.
+115694;25;1;20;S;Grupo;TANIA VEIRAS;S.F. La Luna, Cerponzóns;Pontevedra;
+115968;25;1;20;S;Orquesta;LA OLA ADN;S.F. Rosalar, Ribadeo;Lugo;
+115110;25;1;20;S;Orquesta;OLYMPUS RED TOUR;San Paio, Maside;Ourense;Horario: Noche. Hay: Carpa.
+115366;25;1;20;S;Dúo;LA MECÁNICA;San Vicente do Grove, O Grove;Pontevedra;Horario: Noche (22:00).
+115605;25;1;20;S;Orquesta;FLORIDA SHOW;Sancedo;León;fiesta interior. Horario: Tarde, Noche. Tipo de terreno: Cemento. Hay: Carpa, Aparcamiento, Bocateria, Atracciones.
+112979;25;1;20;S;Dúo;D´VICIO;Santirso de Mabegondo, Abegondo;A Coruña;Horario: Vermú, Noche.
+115249;25;1;20;S;Orquesta;GRAN PARADA;Santirso de Mabegondo, Abegondo;A Coruña;Horario: Noche.
+115718;25;1;20;S;Grupo;GARIBALDI;Trabadelo;León;
+115333;25;1;20;S;Orquesta;MIRAMAR;Trasmañó, Redondela;Pontevedra;Acompañados de la Orquesta Compostela. Horario: Noche. Hay: Carpa.
+115362;25;1;20;S;Orquesta;COMPOSTELA;Trasmañó, Redondela;Pontevedra;Acompañados de la Orquesta Miramar. 
+115370;25;1;20;S;Grupo;NEBRASKA;Valbuxán, O Bolo;Ourense;Horario: Noche.
+115235;25;1;20;S;Orquesta;FANIA BLANCO SHOW;Vimianzo;A Coruña;Horario: Noche.
+113834;26;1;20;D;Dúo;ESTRELLAS;Boizán, Vilalba;Lugo;Horario: Vermú. Tipo de terreno: Hierba. Hay: Carpa.
+115398;26;1;20;D;Solista;JUDITH CUNDÍNS;Corme, Ponteceso;A Coruña;Centro Social. Horario: Tarde.
+115834;26;1;20;D;Dúo;CHARADA;Escarabote, Boiro;A Coruña;Horario: Noche.
+115363;26;1;20;D;Orquesta;COMPOSTELA;Graíces, A Peroxa;Ourense;Horario: Vermú.
+115928;26;1;20;D;Solista;BEGOÑA GARCÍA;La Reserva, Ferrol;A Coruña;Horario: Noche (22:00).
+115182;26;1;20;D;Grupo;LUME;Margaride de Lor, Quiroga;Lugo;
+115582;26;1;20;D;Grupo;NOCHE DE ESTRELLAS;Meira, Moaña;Pontevedra;Trío Noche de Estrellas. 
+115533;26;1;20;D;Solista;AIXA ROMAY;Narón;A Coruña;Bar Los 80. Horario: Tarde (20:30), Noche.
+114969;26;1;20;D;Trío;KARMA;Neaño, Cabana de Bergantiños;A Coruña;Horario: Tarde (19:00).
+115614;26;1;20;D;Charanga;EUROPA;O Navallo, Riós;Ourense;Horario: Vermú.
+115518;26;1;20;D;Disco Móvil;CHOCOLATE;O Obre, Noia;A Coruña;Noia se mueve con chocolate. Horario: Noche.
+115785;26;1;20;D;Dúo;LA MECÁNICA;Parada, Ponte Caldelas;Pontevedra;Horario: Tarde (16:00). Hay: Carpa, Aparcamiento.
+114789;26;1;20;D;Solista;XILO;Pontedeume;A Coruña;Baile mayores. Horario: Tarde (17:30).
+115571;26;1;20;D;Orquesta;ESSENCIA;Pontoibo, As Pontes;A Coruña;
+115494;26;1;20;D;Orquesta;LOS TROVADORES;Rábade;Lugo;Horario: Vermú, Noche.
+115212;26;1;20;D;Orquesta;MARBELLA;S.F. Chamán, Goián;Pontevedra;
+115482;26;1;20;D;Grupo;BEATRIZ;S.F. Estilo, Oviedo;Asturias;
+115243;26;1;20;D;Orquesta;CICLOMANÍA;S.F. La Reina, Sanguiñeda;Pontevedra;
+115976;26;1;20;D;Orquesta;LA OLA ADN;S.F. Paulino, O Carballiño;Ourense;
+115769;26;1;20;D;Orquesta;MIRAMAR;S.F. Velvet, Monçao;Portugal;Horario: Tarde, Noche. Hay: Aparcamiento.
+115226;26;1;20;D;Orquesta;LOS SATÉLITES;S.F. Zeus, Campolongo;A Coruña;Horario: Tarde.
+115719;26;1;20;D;Grupo;GARIBALDI;Sancedo;León;
+115947;26;1;20;D;Solista;CRISTINA CACHALDORA;Santa Comba;A Coruña;Centro Sociocomunitario. Horario: Tarde (18:00).
+115191;26;1;20;D;Orquesta;TREBOL;Trasmañó, Redondela;Pontevedra;Horario: Noche.
+115621;26;1;20;D;Trío;LA NOCHE DO GROVE;Turienzo Castañero, Castropodame;León;
+115734;26;1;20;D;Charanga;MANÍA;Villahibiera, Valdepolo;León;Horario: Vermú.
+115871;27;1;20;L;Disco Móvil;CHOCOLATE;A Barquiña, Noia;A Coruña;Privada. Horario: Noche.
+116054;27;1;20;L;Disco Móvil;BOA FESTA;O Barco, O Barco de Valdeorras;Ourense;
+115872;28;1;20;M;Disco Móvil;CHOCOLATE;Argalo, Noia;A Coruña;Privada. Horario: Noche.
+115310;29;1;20;X;Dúo;D´VICIO;Arteixo;A Coruña;Horario: Tarde.
+115674;29;1;20;X;Grupo;NOCHE DE ESTRELLAS;Bouzas, Vigo;Pontevedra;Trío Noche de Estrellas en Salsa Costas. 
+115873;29;1;20;X;Disco Móvil;CHOCOLATE;Serra de Outes, Outes;A Coruña;Privada. Horario: Noche.
+115549;30;1;20;J;Disco Móvil;CHOCOLATE;Boa, Noia;A Coruña;Chocolate en Boa Cabina movil. Horario: Noche.
+116162;31;1;20;V;Dúo;CRAZY;Brión;A Coruña;Horario: Noche.
+115299;31;1;20;V;Grupo;NOCHE DE ESTRELLAS;Canido, Vigo;Pontevedra;Trío Noche de Estrellas en Ondas de Canido. 
+115797;31;1;20;V;Orquesta;PARIS DE NOIA;Discoteca Sambar, Vila de Cruces;Pontevedra;
+115929;31;1;20;V;Solista;BEGOÑA GARCÍA;Ferrol;A Coruña;Centro de Maiores en Río Xuvia. Horario: Tarde.
+115491;31;1;20;V;Solista;XILO;Mercado de las Conchiñas, A Coruña;A Coruña;Cafetería Amizar. Horario: Tarde (20:15), Noche.
+115374;31;1;20;V;Disco Móvil;CHOCOLATE;Noia;A Coruña;Bar Mariño. Horario: Noche.
+115483;31;1;20;V;Grupo;BEATRIZ;Riberas, Soto del Barco;Asturias;
+115192;31;1;20;V;Orquesta;TREBOL;Rúa, Cervo;Lugo;Acompañados de la Orquesta Los Satélites. Horario: Noche.
+115201;31;1;20;V;Orquesta;LOS SATÉLITES;Rúa, Cervo;Lugo;Acompañados de la Orquesta Trebol. Horario: Noche (22:30). Hay: Carpa.
+115568;31;1;20;V;Orquesta;FINISTERRE;S.F. Morango K.N, Lugo;Lugo;Horario: Noche.
+115720;31;1;20;V;Grupo;GARIBALDI;San Millán de los Caballeros;León;
+115334;31;1;20;V;Orquesta;MIRAMAR;San Salvador de Budiño, O Porriño;Pontevedra;Acompañados del Grupo América De Vigo. Horario: Noche (22:00). Tipo de terreno: Asfalto. Hay: Carpa, Aparcamiento, Bocateria.
+115437;31;1;20;V;Grupo;AMÉRICA DE VIGO;San Salvador de Budiño, O Porriño;Pontevedra;Acompañados de la Orquesta Miramar. Horario: Noche (22:00). Hay: Carpa.
+115450;31;1;20;V;Dúo;ECLIPSE;Sante, Navia;Asturias;Horario: Noche.
+115258;31;1;20;V;Trío;D´LIDER;Tabagón, O Rosal;Pontevedra;Horario: Noche.
+115819;31;1;20;V;Orquesta;LA OCABAND;Vilaxoane, Foz;Lugo;Horario: Noche.
+115371;31;1;20;V;Grupo;NEBRASKA;Xinzo de Limia;Ourense;Aladdino Cocktail Bar. Horario: Noche.

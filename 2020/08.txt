@@ -1,230 +1,230 @@
-115792;1;8;20;S;Charanga;BCB;A Ramallosa, Celanova;Ourense
-115325;1;8;20;S;Charanga;SIN CONTROL;Almanza;León
-115353;1;8;20;S;Charanga;MANÍA;Antimio de Arriba, Chozas de Abajo;León
-112986;1;8;20;S;Dúo;D´VICIO;Armentón, Arteixo;A Coruña
-116593;1;8;20;S;Orquesta;ACORDES;As Ribeiras do Sor, Mañón;A Coruña
-115092;1;8;20;S;Charanga;EUROPA;Avión;Ourense
-115578;1;8;20;S;Disco Móvil;CHOCOLATE;Barro, Noia;A Coruña
-115763;1;8;20;S;Charanga;CLK;Brues, Boborás;Ourense
-115662;1;8;20;S;Grupo;TATTOO;Lugo;Lugo
-116511;1;8;20;S;Charanga;SIN CONTROL;Mansilla del Esla;León
-117452;1;8;20;S;Disco Móvil;FABRIK;Mazaricos;A Coruña
-115697;1;8;20;S;Charanga;CLK;Mugueimes, Muíños;Ourense
-116673;1;8;20;S;Orquesta;ABANICO;O Araño, Rianxo;A Coruña
-117027;1;8;20;S;Orquesta;COSTA RICA;Orxais, Quiroga;Lugo
-117145;1;8;20;S;Charanga;OS BANDIÑOS;Pereira, Bande;Ourense
-114305;1;8;20;S;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca
-116411;1;8;20;S;Orquesta;GALILEA;San Pedro de Mor, Alfoz;Lugo
-115003;1;8;20;S;Orquesta;BARCELÓ;Sanfíns, Vimianzo;A Coruña
-117288;1;8;20;S;Orquesta;CENIZA;Sumoas, Xove;Lugo
-116171;1;8;20;S;Grupo;ARENA;Tias, Lanzarote;Las Palmas
-115750;1;8;20;S;Charanga;LOUBAND;Triacastela;Lugo
-117057;1;8;20;S;Disco Móvil;FABRIK;Vilabade, Castroverde;Lugo
-113355;1;8;20;S;Dúo;ESTRELLAS;Vilariño, O Barco de Valdeorras;Ourense
-115825;2;8;20;D;Charanga;EUROPA;A Arnoia;Ourense
-117212;2;8;20;D;Charanga;SIN CONTROL;Algadefe;León
-116021;2;8;20;D;Charanga;ARDORES;Carmoega, Agolada;Pontevedra
-116412;2;8;20;D;Orquesta;GALILEA;Marantes, Santiago de Compostela;A Coruña
-117453;2;8;20;D;Disco Móvil;FABRIK;Mazaricos;A Coruña
-115995;2;8;20;D;Solista;ROCÍO PÉREZ;Montemaior, A Laracha;A Coruña
-114494;2;8;20;D;Charanga;BCB;Trelle, Toén;Ourense
-114521;2;8;20;D;Charanga;EUROPA;Vilarello da Cota, Vilardevós;Ourense
-117075;2;8;20;D;Dúo;D´VICIO;Viós, Abegondo;A Coruña
-113324;3;8;20;L;Orquesta;ROYAL ESPECTÁCULO;Gafanha da Encarnação;Portugal
-115844;3;8;20;L;Charanga;SANTA COMPAÑA;Grandas de Salime;Asturias
-115731;3;8;20;L;Charanga;MANÍA;Llama de Colle, Boñar;León
-115663;3;8;20;L;Grupo;TATTOO;Lobios;Ourense
-117395;3;8;20;L;Trío;KARMA;Sismundi, Cariño;A Coruña
-114522;4;8;20;M;Charanga;EUROPA;Castrelo de Miño;Ourense
-110768;4;8;20;M;Charanga;EUROPA;Ponte, A Veiga;Ourense
-115536;5;8;20;X;Charanga;EUROPA;As Chás, Oímbra;Ourense
-115786;5;8;20;X;Disco Móvil;FABRIK;O Freixo, Outes;A Coruña
-116178;5;8;20;X;Charanga;CLK;reservada;Ourense
-112133;5;8;20;X;Grupo;M-3;Vilar de Lebres, Trasmiras;Ourense
-114759;6;8;20;J;Solista;XILO;Centro Cívico de Caranza, Ferrol;A Coruña
-112856;6;8;20;J;Charanga;BCB;Lubián;Zamora
-115721;6;8;20;J;Dúo;ESTRELLAS;San Miguel, Valdoviño;A Coruña
-115705;6;8;20;J;Dúo;ESTRELLAS;Serantes, Ferrol;A Coruña
-117076;7;8;20;V;Dúo;D´VICIO;Almeiras, Culleredo;A Coruña
-117404;7;8;20;V;Orquesta;ACORDES;Fene;A Coruña
-116847;7;8;20;V;Grupo;PUNTO CLAVE;Filgueira, Palas de Rei;Lugo
-110864;7;8;20;V;Charanga;CLK;Grou, Lobios;Ourense
-117153;7;8;20;V;Grupo;ACIREMA;Oia;Pontevedra
-116414;7;8;20;V;Orquesta;GALILEA;Pousada, Sobrado;A Coruña
-117345;7;8;20;V;Charanga;SIN CONTROL;Quintanilla de Yuso, Truchas;León
-115680;7;8;20;V;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca
-113008;8;8;20;S;Trío;TBM SHOW;A Cañiza;Pontevedra
-115732;8;8;20;S;Charanga;EUROPA;A Feira Vella, Entrimo;Ourense
-117077;8;8;20;S;Dúo;D´VICIO;Armental, Vilasantar;A Coruña
-115751;8;8;20;S;Charanga;LOUBAND;Becerreá;Lugo
-115910;8;8;20;S;Charanga;MANÍA;El Burgo Ranero;León
-113980;8;8;20;S;Grupo;M-3;Filgueira, Crecente;Pontevedra
-114439;8;8;20;S;Orquesta;ROYAL ESPECTÁCULO;Foz;Lugo
-116499;8;8;20;S;Grupo;TATTOO;Lugo;Lugo
-114524;8;8;20;S;Trío;KARMA;Mosteiro, Ortigueira;A Coruña
-115671;8;8;20;S;Charanga;EUROPA;Palmés, Ourense;Ourense
-116415;8;8;20;S;Orquesta;GALILEA;Piñor, Barbadás;Ourense
-116022;8;8;20;S;Charanga;ARDORES;Pousada, Sobrado;A Coruña
-115681;8;8;20;S;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca
-117311;8;8;20;S;Charanga;LEÑA VERDE;San martiño de Oleiros. Toques;A Coruña
-113713;8;8;20;S;Dúo;ESTRELLAS;Sueiro, Culleredo;A Coruña
-115130;8;8;20;S;Grupo;ARENA;Tejeda;Las Palmas
-115066;8;8;20;S;Disco Móvil;CHOCOLATE;Tordoia;A Coruña
-116848;8;8;20;S;Grupo;PUNTO CLAVE;Valdeferreiros, Ibias;Asturias
-117289;8;8;20;S;Orquesta;CENIZA;Valdesoto, Siero;Asturias
-116605;8;8;20;S;Trío;SINTONÍA;Veronza, Carballeda de Avia;Ourense
-117405;8;8;20;S;Orquesta;ACORDES;Zanfoga, Pedrafita do Cebreiro;Lugo
-113468;8;8;20;S;Charanga;BCB;Zarracós, A Merca;Ourense
-111288;9;8;20;D;Charanga;EUROPA;Arzádegos, Vilardevós;Ourense
-117304;9;8;20;D;Trío;SINTONÍA;buño malpica de bergantiños;A Coruña
-115864;9;8;20;D;Charanga;MANÍA;El Burgo Ranero;León
-115752;9;8;20;D;Charanga;LOUBAND;Sobrado dos Monxes, Sobrado;A Coruña
-117078;9;8;20;D;Dúo;D´VICIO;Vixoi, Bergondo;A Coruña
-114663;9;8;20;D;Charanga;CASTRO BELLO;Zarracós, A Merca;Ourense
-111107;10;8;20;L;Charanga;BCB;Arnuide, Vilar de Barrio;Ourense
-116329;10;8;20;L;Charanga;MANÍA;Felechas, Boñar;León
-116136;10;8;20;L;Charanga;EUROPA;Graíces, A Peroxa;Ourense
-112867;11;8;20;M;Orquesta;ROYAL ESPECTÁCULO;Cabril, Montalegre;Portugal
-111225;11;8;20;M;Charanga;EUROPA;Castrelo de Abaixo, Riós;Ourense
-116023;11;8;20;M;Charanga;ARDORES;Muimenta, Lalín;Pontevedra
-116674;12;8;20;X;Orquesta;ABANICO;Dentellais, O Bolo;Ourense
-116920;12;8;20;X;Disco Móvil;CHOCOLATE;puente candelas;Pontevedra
-115870;13;8;20;J;Disco Móvil;CHOCOLATE;Alón, Santa Comba;A Coruña
-115057;13;8;20;J;Charanga;MANÍA;Oseja de Sajambre;León
-114306;13;8;20;J;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca
-115183;14;8;20;V;Charanga;MANÍA;Autilla del Pino;Palencia
-116493;14;8;20;V;Dúo;ZAFIRO;Bacoi, Alfoz;Lugo
-116024;14;8;20;V;Charanga;ARDORES;Bermés, Lalín;Pontevedra
-115753;14;8;20;V;Charanga;LOUBAND;Corbelle;Ourense
-111104;14;8;20;V;Charanga;BCB;Entrimo;Ourense
-116849;14;8;20;V;Grupo;PUNTO CLAVE;Ferreirós de Valboa, Becerreá;Lugo
-116594;14;8;20;V;Orquesta;ACORDES;Luarca, Valdés;Asturias
-114430;14;8;20;V;Grupo;M-3;Ponferrada;León
-115067;14;8;20;V;Disco Móvil;CHOCOLATE;Ponferrada;León
-114499;14;8;20;V;Charanga;SIN CONTROL;Robles de la Valcueva, Matallana de Torío;León
-114307;14;8;20;V;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca
-116416;14;8;20;V;Orquesta;GALILEA;Santa María de Oís, Coirós;A Coruña
-115773;14;8;20;V;Orquesta;BARCELÓ;Turces, Touro;A Coruña
-116172;14;8;20;V;Grupo;ARENA;Veneguera, Mogán;Las Palmas
-116675;15;8;20;S;Orquesta;ABANICO;A Barra, Coles;Ourense
-115076;15;8;20;S;Solista;ROCÍO PÉREZ;Bardaos, Tordoia;A Coruña
-117541;15;8;20;S;Charanga;MANÍA;Barrio de Nuestra Señora;León
-117436;15;8;20;S;Charanga;MANÍA;Boñar;León
-115911;15;8;20;S;Charanga;CLK;Castrelo de Miño;Ourense
-114029;15;8;20;S;Charanga;CLK;Cenlle;Ourense
-113862;15;8;20;S;Charanga;BCB;Corvelle, Bande;Ourense
-116766;15;8;20;S;Charanga;SIN CONTROL;Cunas;León
-117250;15;8;20;S;Disco Móvil;CHOCOLATE;Cuntis;Pontevedra
-116746;15;8;20;S;Orquesta;ROYAL ESPECTÁCULO;Junta de Villalba de Losa;Burgos
-115774;15;8;20;S;Orquesta;BARCELÓ;Ludrio, Castro de Rei;Lugo
-117417;15;8;20;S;Charanga;MANÍA;Maraña;León
-116417;15;8;20;S;Orquesta;GALILEA;Marrozos, Santiago de Compostela;A Coruña
-117251;15;8;20;S;Disco Móvil;CHOCOLATE;Noia;A Coruña
-116363;15;8;20;S;Grupo;CHASTTON SHOW;Os Ánxeles, Boimorto;A Coruña
-114900;15;8;20;S;Trío;SINTONÍA;Quins, Melón;Ourense
-115847;15;8;20;S;Charanga;CASTRO BELLO;Quins, Melón;Ourense
-114431;15;8;20;S;Grupo;M-3;quintana;León
-116069;15;8;20;S;Disco Móvil;FABRIK;Riomol, Castroverde;Lugo
-114308;15;8;20;S;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca
-116713;15;8;20;S;Orquesta;ACORDES;Salamanca;Salamanca
-117290;15;8;20;S;Orquesta;CENIZA;San Martin de Ombreiro;Lugo
-117147;15;8;20;S;Charanga;OS BANDIÑOS;Santa Comba, Bande;Ourense
-115576;15;8;20;S;Disco Móvil;CHOCOLATE;Santa maria de roo;A Coruña
-115664;15;8;20;S;Grupo;TATTOO;Tibiás, O Pereiro de Aguiar;Ourense
-114856;15;8;20;S;Solista;XILO;Vilafiz, O Páramo;Lugo
-116850;15;8;20;S;Grupo;PUNTO CLAVE;Vilarello, Cervantes;Lugo
-117146;15;8;20;S;Charanga;OS BANDIÑOS;Xermeade, Muiños;Ourense
-117148;16;8;20;D;Charanga;OS BANDIÑOS;A Mezquita, A Merca;Ourense
-116676;16;8;20;D;Orquesta;ABANICO;La Colegiata del Sar, Santiago;A Coruña
-113773;16;8;20;D;Charanga;CLK;Macendo, Castrelo de Miño;Ourense
-115704;16;8;20;D;Charanga;EUROPA;Monterredondo, Padrenda;Ourense
-116025;16;8;20;D;Charanga;ARDORES;Noceda, Lalín;Pontevedra
-115949;16;8;20;D;Charanga;LEÑA VERDE;O Freixo, Crecente;Pontevedra
-116851;16;8;20;D;Grupo;PUNTO CLAVE;Pacios, Baralla;Lugo
-117131;16;8;20;D;Charanga;MANÍA;Pallide, Reyero;León
-112134;16;8;20;D;Grupo;M-3;plaza da feira lugo;Lugo
-114481;16;8;20;D;Charanga;SIN CONTROL;Pobladura del Bernesga;León
-115642;16;8;20;D;Charanga;CASTRO BELLO;Punxín;Ourense
-115020;16;8;20;D;Charanga;MANÍA;Riaño;León
-115682;16;8;20;D;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca
-116714;16;8;20;D;Orquesta;ACORDES;Salamanca;Salamanca
-117154;16;8;20;D;Grupo;ACIREMA;Tui;Pontevedra
-114485;16;8;20;D;Trío;SINTONÍA;Vilachá, Boborás;Ourense
-117291;16;8;20;D;Orquesta;CENIZA;Vilachá, Boborás;Ourense
-115981;16;8;20;D;Dúo;ESTRELLAS;Vilalba;Lugo
-117183;16;8;20;D;Orquesta;ROYAL ESPECTÁCULO;Villarcayo;Burgos
-117079;17;8;20;L;Dúo;D´VICIO;Cambre;A Coruña
-114500;17;8;20;L;Charanga;SIN CONTROL;Robles de la Valcueva, Matallana de Torío;León
-114309;17;8;20;L;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca
-114421;19;8;20;X;Trío;INNOVACIÓN;Porta do Conde, Portas;Pontevedra
-114751;19;8;20;X;Charanga;EUROPA;Xares, A Veiga;Ourense
-115683;20;8;20;J;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca
-117043;21;8;20;V;Orquesta;ROYAL ESPECTÁCULO;Bande;Ourense
-116330;21;8;20;V;Charanga;MANÍA;Calzadilla de los Hermanillos, El Burgo Ranero;León
-116852;21;8;20;V;Grupo;PUNTO CLAVE;Cervantes;Lugo
-117059;21;8;20;V;Charanga;SIN CONTROL;Dueñas;Palencia
-116677;21;8;20;V;Orquesta;ABANICO;O Pereiro, Alfoz;Lugo
-114816;21;8;20;V;Solista;XILO;Os Condes, Bergondo;A Coruña
-112987;21;8;20;V;Dúo;D´VICIO;Pravio, Cambre;A Coruña
-114310;21;8;20;V;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca
-115730;21;8;20;V;Charanga;MANÍA;Santibáñez de Tera;Zamora
-117292;22;8;20;S;Orquesta;CENIZA;Baldaio, Carballo;A Coruña
-117155;22;8;20;S;Grupo;ACIREMA;Bembibre;León
-116026;22;8;20;S;Charanga;ARDORES;Brocos, Agolada;Pontevedra
-115017;22;8;20;S;Orquesta;BARCELÓ;Corbelle, Sarria;Lugo
-116678;22;8;20;S;Orquesta;ABANICO;Crecente;Pontevedra
-117301;22;8;20;S;Charanga;SIN CONTROL;Folledo de Gordón;León
-116595;22;8;20;S;Orquesta;ACORDES;León;León
-116853;22;8;20;S;Grupo;PUNTO CLAVE;Muxa, Lugo;Lugo
-117081;22;8;20;S;Dúo;D´VICIO;O Val, Narón;A Coruña
-114817;22;8;20;S;Solista;XILO;Os Condes, Bergondo;A Coruña
-115684;22;8;20;S;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca
-117080;22;8;20;S;Dúo;D´VICIO;Santa Cruz, Oleiros;A Coruña
-114432;22;8;20;S;Grupo;M-3;valle de finolledo Ponferrada;León
-116679;23;8;20;D;Orquesta;ABANICO;Arceo, Boimorto;A Coruña
-115459;23;8;20;D;Charanga;MANÍA;Báscones de Ojeda;Palencia
-116158;23;8;20;D;Charanga;ARDORES;Berrande, Vilardevós;Ourense
-117293;23;8;20;D;Orquesta;CENIZA;Cardama, Oroso;A Coruña
-114867;23;8;20;D;Dúo;ESTRELLAS;Malpica de Bergantiños;A Coruña
-116854;23;8;20;D;Grupo;PUNTO CLAVE;Martul, Outeiro de Rei;Lugo
-114273;23;8;20;D;Charanga;EUROPA;Moimenta, Vinhais;Portugal
-115793;23;8;20;D;Charanga;MANÍA;Valdecastillo, Boñar;León
-115469;23;8;20;D;Charanga;SIN CONTROL;Villafruela del Condado;León
-115466;24;8;20;L;Charanga;BCB;Berrande, Vilardevós;Ourense
-116331;24;8;20;L;Charanga;MANÍA;Calzadilla de los Hermanillos, El Burgo Ranero;León
-115884;24;8;20;L;Charanga;MANÍA;Carrión de los Condes;Palencia
-114125;24;8;20;L;Charanga;CLK;Fornelos, O Bolo;Ourense
-111453;24;8;20;L;Charanga;BCB;Lobios;Ourense
-115685;24;8;20;L;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca
-115868;24;8;20;L;Charanga;EUROPA;San Xurxo da Touza, Taboadela;Ourense
-114458;25;8;20;M;Charanga;MANÍA;Redipollos, Puebla de Lillo;León
-115869;25;8;20;M;Charanga;EUROPA;San Xurxo da Touza, Taboadela;Ourense
-116716;25;8;20;M;Charanga;MANÍA;Villayandre, Crémenes;León
-113234;27;8;20;J;Charanga;EUROPA;San Vitoiro, Allariz;Ourense
-115018;28;8;20;V;Orquesta;BARCELÓ;A Barciela, Oroso;A Coruña
-117406;28;8;20;V;Orquesta;ACORDES;Armariz, Nogueira de Ramuín;Ourense
-116855;28;8;20;V;Grupo;PUNTO CLAVE;Baralla;Lugo
-114832;28;8;20;V;Solista;XILO;Cervecería Campo García, Meirás;A Coruña
-116636;28;8;20;V;Charanga;CLK;Cornoces, Amoeiro;Ourense
-117524;28;8;20;V;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca
-116418;28;8;20;V;Orquesta;GALILEA;Somado, Pravia;Asturias
-116795;28;8;20;V;Orquesta;OLYMPUS RED TOUR;Visantoña, Santiso;A Coruña
-116796;28;8;20;V;Orquesta;METRÓPOLIS;Visantoña, Santiso;A Coruña
-116596;29;8;20;S;Orquesta;ACORDES;Arcilla, Cospeito;Lugo
-116027;29;8;20;S;Charanga;ARDORES;Carballeda, Lalín;Pontevedra
-115108;29;8;20;S;Trío;SINTONÍA;O Carballal, Aranga;A Coruña
-116856;29;8;20;S;Grupo;PUNTO CLAVE;RESERVADO;Lugo
-116067;29;8;20;S;Trío;KARMA;reservado a Coruña;A Coruña
-117523;29;8;20;S;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca
-115724;29;8;20;S;Disco Móvil;CHOCOLATE;San Pedro de Muro, Porto do Son;A Coruña
-116419;29;8;20;S;Orquesta;GALILEA;San Pedro de Vilanova, Vedra;A Coruña
-117082;30;8;20;D;Dúo;D´VICIO;Abegondo;A Coruña
-115591;30;8;20;D;Grupo;M-3;Carelle, Sobrado;A Coruña
-116715;30;8;20;D;Orquesta;ACORDES;Guntín de Pallares, Guntín;Lugo
-115636;30;8;20;D;Trío;KARMA;Iñás, Oleiros;A Coruña
-117454;30;8;20;D;Disco Móvil;FABRIK;Mazaricos;A Coruña
-115019;30;8;20;D;Orquesta;BARCELÓ;Mesos, Frades;A Coruña
-116857;30;8;20;D;Grupo;PUNTO CLAVE;O Chao do Fabeiro, Monforte de Lemos;Lugo
-117149;30;8;20;D;Charanga;OS BANDIÑOS;Porqueirós, Muíños;Ourense
-116689;30;8;20;D;Disco Móvil;CHOCOLATE;Santeles, A Estrada;Pontevedra
-117156;30;8;20;D;Grupo;ACIREMA;Sanxenxo;Pontevedra
+115792;1;8;20;S;Charanga;BCB;A Ramallosa, Celanova;Ourense;Horario: Noche. Hay: Bocateria, Atracciones.
+115325;1;8;20;S;Charanga;SIN CONTROL;Almanza;León;Interpueblos. Horario: Tarde, Noche.
+115353;1;8;20;S;Charanga;MANÍA;Antimio de Arriba, Chozas de Abajo;León;Horario: Tarde.
+112986;1;8;20;S;Dúo;D´VICIO;Armentón, Arteixo;A Coruña;Horario: Vermú, Noche.
+116593;1;8;20;S;Orquesta;ACORDES;As Ribeiras do Sor, Mañón;A Coruña;Horario: Vermú, Noche.
+115092;1;8;20;S;Charanga;EUROPA;Avión;Ourense;Horario: Vermú (10:00), Tarde (17:00). Tipo de terreno: Asfalto.
+115578;1;8;20;S;Disco Móvil;CHOCOLATE;Barro, Noia;A Coruña;Horario: Noche.
+115763;1;8;20;S;Charanga;CLK;Brues, Boborás;Ourense;Horario: Noche. Tipo de terreno: Cemento.
+115662;1;8;20;S;Grupo;TATTOO;Lugo;Lugo;Horario: Noche.
+116511;1;8;20;S;Charanga;SIN CONTROL;Mansilla del Esla;León;Horario: Vermú.
+117452;1;8;20;S;Disco Móvil;FABRIK;Mazaricos;A Coruña;superFabrik. Horario: Noche. Tipo de terreno: Cemento.
+115697;1;8;20;S;Charanga;CLK;Mugueimes, Muíños;Ourense;Horario: Vermú, Tarde. Tipo de terreno: Asfalto.
+116673;1;8;20;S;Orquesta;ABANICO;O Araño, Rianxo;A Coruña;Horario: Noche.
+117027;1;8;20;S;Orquesta;COSTA RICA;Orxais, Quiroga;Lugo;Horario: Vermú (14:00), Noche.
+117145;1;8;20;S;Charanga;OS BANDIÑOS;Pereira, Bande;Ourense;SUSPENDIDA. Festa da Magdalena. Horario: Tarde (18:00). Tipo de terreno: Gravilla.
+114305;1;8;20;S;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca; Tipo de terreno: Asfalto.
+116411;1;8;20;S;Orquesta;GALILEA;San Pedro de Mor, Alfoz;Lugo;
+115003;1;8;20;S;Orquesta;BARCELÓ;Sanfíns, Vimianzo;A Coruña;Horario: Vermú, Noche.
+117288;1;8;20;S;Orquesta;CENIZA;Sumoas, Xove;Lugo;
+116171;1;8;20;S;Grupo;ARENA;Tias, Lanzarote;Las Palmas;Horario: Noche.
+115750;1;8;20;S;Charanga;LOUBAND;Triacastela;Lugo;Horario: Tarde.
+117057;1;8;20;S;Disco Móvil;FABRIK;Vilabade, Castroverde;Lugo;Horario: Tarde. Hay: Carpa, Aparcamiento, Bocateria, Atracciones.
+113355;1;8;20;S;Dúo;ESTRELLAS;Vilariño, O Barco de Valdeorras;Ourense;Romaría do Regueiro. Horario: Vermú, Tarde, Noche. Tipo de terreno: Hierba.
+115825;2;8;20;D;Charanga;EUROPA;A Arnoia;Ourense;Horario: Tarde (19:00).
+117212;2;8;20;D;Charanga;SIN CONTROL;Algadefe;León;Horario: Tarde.
+116021;2;8;20;D;Charanga;ARDORES;Carmoega, Agolada;Pontevedra;Horario: Tarde, Noche.
+116412;2;8;20;D;Orquesta;GALILEA;Marantes, Santiago de Compostela;A Coruña;
+117453;2;8;20;D;Disco Móvil;FABRIK;Mazaricos;A Coruña;superfabrik. Horario: Noche. Tipo de terreno: Cemento.
+115995;2;8;20;D;Solista;ROCÍO PÉREZ;Montemaior, A Laracha;A Coruña;Evento no Restaurante da santa. Horario: Tarde (19:00).
+114494;2;8;20;D;Charanga;BCB;Trelle, Toén;Ourense;Horario: Vermú, Tarde, Noche.
+114521;2;8;20;D;Charanga;EUROPA;Vilarello da Cota, Vilardevós;Ourense;Horario: Vermú.
+117075;2;8;20;D;Dúo;D´VICIO;Viós, Abegondo;A Coruña;Horario: Vermú, Noche.
+113324;3;8;20;L;Orquesta;ROYAL ESPECTÁCULO;Gafanha da Encarnação;Portugal;Horario: Noche.
+115844;3;8;20;L;Charanga;SANTA COMPAÑA;Grandas de Salime;Asturias;
+115731;3;8;20;L;Charanga;MANÍA;Llama de Colle, Boñar;León;Horario: Vermú.
+115663;3;8;20;L;Grupo;TATTOO;Lobios;Ourense;
+117395;3;8;20;L;Trío;KARMA;Sismundi, Cariño;A Coruña;Horario: Tarde (21:00).
+114522;4;8;20;M;Charanga;EUROPA;Castrelo de Miño;Ourense;Horario: Tarde (20:00).
+110768;4;8;20;M;Charanga;EUROPA;Ponte, A Veiga;Ourense;Horario: Vermú (12:00).
+115536;5;8;20;X;Charanga;EUROPA;As Chás, Oímbra;Ourense;Horario: Vermú, Tarde.
+115786;5;8;20;X;Disco Móvil;FABRIK;O Freixo, Outes;A Coruña;Horario: Tarde. Tipo de terreno: Cemento. Hay: Carpa, Aparcamiento, Bocateria, Atracciones.
+116178;5;8;20;X;Charanga;CLK;reservada;Ourense;
+112133;5;8;20;X;Grupo;M-3;Vilar de Lebres, Trasmiras;Ourense;Horario: Tarde, Noche.
+114759;6;8;20;J;Solista;XILO;Centro Cívico de Caranza, Ferrol;A Coruña;Horario: Tarde (17:30).
+112856;6;8;20;J;Charanga;BCB;Lubián;Zamora;Horario: Tarde.
+115721;6;8;20;J;Dúo;ESTRELLAS;San Miguel, Valdoviño;A Coruña;Horario: Noche.
+115705;6;8;20;J;Dúo;ESTRELLAS;Serantes, Ferrol;A Coruña;Horario: Vermú.
+117076;7;8;20;V;Dúo;D´VICIO;Almeiras, Culleredo;A Coruña;Horario: Noche.
+117404;7;8;20;V;Orquesta;ACORDES;Fene;A Coruña;Acompañados por un grupo. Horario: Vermú, Noche.
+116847;7;8;20;V;Grupo;PUNTO CLAVE;Filgueira, Palas de Rei;Lugo;Horario: Noche. Tipo de terreno: Hierba. Hay: Carpa, Aparcamiento.
+110864;7;8;20;V;Charanga;CLK;Grou, Lobios;Ourense;Horario: Vermú, Tarde. Tipo de terreno: Asfalto.
+117153;7;8;20;V;Grupo;ACIREMA;Oia;Pontevedra;
+116414;7;8;20;V;Orquesta;GALILEA;Pousada, Sobrado;A Coruña;
+117345;7;8;20;V;Charanga;SIN CONTROL;Quintanilla de Yuso, Truchas;León;Horario: Tarde.
+115680;7;8;20;V;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca;Horario: Noche. Tipo de terreno: Asfalto.
+113008;8;8;20;S;Trío;TBM SHOW;A Cañiza;Pontevedra;Horario: Noche. Tipo de terreno: Asfalto.
+115732;8;8;20;S;Charanga;EUROPA;A Feira Vella, Entrimo;Ourense;Horario: Tarde (19:00). Tipo de terreno: Asfalto.
+117077;8;8;20;S;Dúo;D´VICIO;Armental, Vilasantar;A Coruña;Horario: Vermú, Noche.
+115751;8;8;20;S;Charanga;LOUBAND;Becerreá;Lugo;Horario: Tarde.
+115910;8;8;20;S;Charanga;MANÍA;El Burgo Ranero;León;Horario: Tarde.
+113980;8;8;20;S;Grupo;M-3;Filgueira, Crecente;Pontevedra;
+114439;8;8;20;S;Orquesta;ROYAL ESPECTÁCULO;Foz;Lugo;Horario: Noche (23:00).
+116499;8;8;20;S;Grupo;TATTOO;Lugo;Lugo;Horario: Noche.
+114524;8;8;20;S;Trío;KARMA;Mosteiro, Ortigueira;A Coruña;SUSPENDIDA.  Horario: Noche (23:00).
+115671;8;8;20;S;Charanga;EUROPA;Palmés, Ourense;Ourense;Horario: Vermú.
+116415;8;8;20;S;Orquesta;GALILEA;Piñor, Barbadás;Ourense;
+116022;8;8;20;S;Charanga;ARDORES;Pousada, Sobrado;A Coruña;Horario: Vermú, Noche.
+115681;8;8;20;S;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca;Horario: Noche. Tipo de terreno: Asfalto.
+117311;8;8;20;S;Charanga;LEÑA VERDE;San martiño de Oleiros. Toques;A Coruña;Horario: Vermú, Noche.
+113713;8;8;20;S;Dúo;ESTRELLAS;Sueiro, Culleredo;A Coruña;Horario: Vermú, Noche. Tipo de terreno: Cemento. Hay: Carpa.
+115130;8;8;20;S;Grupo;ARENA;Tejeda;Las Palmas;La Solana. Horario: Noche.
+115066;8;8;20;S;Disco Móvil;CHOCOLATE;Tordoia;A Coruña;Chocolate se mueve, esta vez con el Escenario insigne de la marca. El mega escenario. Horario: Noche. Tipo de terreno: Cemento. Hay: Carpa, Aparcamiento.
+116848;8;8;20;S;Grupo;PUNTO CLAVE;Valdeferreiros, Ibias;Asturias;Horario: Vermú, Noche. Tipo de terreno: Hierba. Hay: Carpa, Aparcamiento, Atracciones.
+117289;8;8;20;S;Orquesta;CENIZA;Valdesoto, Siero;Asturias;
+116605;8;8;20;S;Trío;SINTONÍA;Veronza, Carballeda de Avia;Ourense;Horario: Noche.
+117405;8;8;20;S;Orquesta;ACORDES;Zanfoga, Pedrafita do Cebreiro;Lugo;Horario: Noche.
+113468;8;8;20;S;Charanga;BCB;Zarracós, A Merca;Ourense;Sesión matinal. Horario: Vermú.
+111288;9;8;20;D;Charanga;EUROPA;Arzádegos, Vilardevós;Ourense;Horario: Vermú.
+117304;9;8;20;D;Trío;SINTONÍA;buño malpica de bergantiños;A Coruña;Horario: Vermú.
+115864;9;8;20;D;Charanga;MANÍA;El Burgo Ranero;León;Horario: Tarde, Noche.
+115752;9;8;20;D;Charanga;LOUBAND;Sobrado dos Monxes, Sobrado;A Coruña;Horario: Tarde.
+117078;9;8;20;D;Dúo;D´VICIO;Vixoi, Bergondo;A Coruña;Horario: Vermú.
+114663;9;8;20;D;Charanga;CASTRO BELLO;Zarracós, A Merca;Ourense;Horario: Vermú.
+111107;10;8;20;L;Charanga;BCB;Arnuide, Vilar de Barrio;Ourense;Sesión matinal. Horario: Vermú.
+116329;10;8;20;L;Charanga;MANÍA;Felechas, Boñar;León;Horario: Vermú.
+116136;10;8;20;L;Charanga;EUROPA;Graíces, A Peroxa;Ourense;Horario: Vermú.
+112867;11;8;20;M;Orquesta;ROYAL ESPECTÁCULO;Cabril, Montalegre;Portugal;Horario: Noche (23:00).
+111225;11;8;20;M;Charanga;EUROPA;Castrelo de Abaixo, Riós;Ourense;Horario: Noche.
+116023;11;8;20;M;Charanga;ARDORES;Muimenta, Lalín;Pontevedra;Horario: Vermú, Noche.
+116674;12;8;20;X;Orquesta;ABANICO;Dentellais, O Bolo;Ourense;Horario: Noche.
+116920;12;8;20;X;Disco Móvil;CHOCOLATE;puente candelas;Pontevedra;Horario: Noche.
+115870;13;8;20;J;Disco Móvil;CHOCOLATE;Alón, Santa Comba;A Coruña;14 agosto pequeno Alon sta comba. Horario: Noche.
+115057;13;8;20;J;Charanga;MANÍA;Oseja de Sajambre;León;Horario: Vermú, Tarde.
+114306;13;8;20;J;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca; Tipo de terreno: Asfalto.
+115183;14;8;20;V;Charanga;MANÍA;Autilla del Pino;Palencia;Horario: Noche.
+116493;14;8;20;V;Dúo;ZAFIRO;Bacoi, Alfoz;Lugo;Horario: Noche.
+116024;14;8;20;V;Charanga;ARDORES;Bermés, Lalín;Pontevedra;Horario: Noche.
+115753;14;8;20;V;Charanga;LOUBAND;Corbelle;Ourense;Horario: Noche.
+111104;14;8;20;V;Charanga;BCB;Entrimo;Ourense;Entroido de verán (Entrifaz). Horario: Tarde, Noche.
+116849;14;8;20;V;Grupo;PUNTO CLAVE;Ferreirós de Valboa, Becerreá;Lugo;Horario: Noche. Tipo de terreno: Cemento. Hay: Carpa, Aparcamiento, Atracciones.
+116594;14;8;20;V;Orquesta;ACORDES;Luarca, Valdés;Asturias;Horario: Noche.
+114430;14;8;20;V;Grupo;M-3;Ponferrada;León;Horario: Noche. Tipo de terreno: Tierra.
+115067;14;8;20;V;Disco Móvil;CHOCOLATE;Ponferrada;León;Chocolate se mueve, esta vez con el Escenario insigne de la marca. El mega escenario. Horario: Noche. Tipo de terreno: Cemento. Hay: Carpa, Aparcamiento.
+114499;14;8;20;V;Charanga;SIN CONTROL;Robles de la Valcueva, Matallana de Torío;León;
+114307;14;8;20;V;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca; Tipo de terreno: Asfalto.
+116416;14;8;20;V;Orquesta;GALILEA;Santa María de Oís, Coirós;A Coruña;
+115773;14;8;20;V;Orquesta;BARCELÓ;Turces, Touro;A Coruña;Horario: Noche. Tipo de terreno: Hierba.
+116172;14;8;20;V;Grupo;ARENA;Veneguera, Mogán;Las Palmas;Horario: Noche.
+116675;15;8;20;S;Orquesta;ABANICO;A Barra, Coles;Ourense;Horario: Vermú, Noche.
+115076;15;8;20;S;Solista;ROCÍO PÉREZ;Bardaos, Tordoia;A Coruña;Horario: Noche (23:00). Hay: Carpa, Aparcamiento, Atracciones.
+117541;15;8;20;S;Charanga;MANÍA;Barrio de Nuestra Señora;León;Horario: Vermú.
+117436;15;8;20;S;Charanga;MANÍA;Boñar;León;Horario: Tarde.
+115911;15;8;20;S;Charanga;CLK;Castrelo de Miño;Ourense;Horario: Vermú. Tipo de terreno: Asfalto.
+114029;15;8;20;S;Charanga;CLK;Cenlle;Ourense;Horario: Noche. Tipo de terreno: Asfalto.
+113862;15;8;20;S;Charanga;BCB;Corvelle, Bande;Ourense;Horario: Noche.
+116766;15;8;20;S;Charanga;SIN CONTROL;Cunas;León;Horario: Vermú, Noche.
+117250;15;8;20;S;Disco Móvil;CHOCOLATE;Cuntis;Pontevedra;15 agosto rijido Cuntis. Horario: Tarde.
+116746;15;8;20;S;Orquesta;ROYAL ESPECTÁCULO;Junta de Villalba de Losa;Burgos;Horario: Noche.
+115774;15;8;20;S;Orquesta;BARCELÓ;Ludrio, Castro de Rei;Lugo;Horario: Vermú, Noche.
+117417;15;8;20;S;Charanga;MANÍA;Maraña;León;Horario: Tarde, Noche.
+116417;15;8;20;S;Orquesta;GALILEA;Marrozos, Santiago de Compostela;A Coruña;
+117251;15;8;20;S;Disco Móvil;CHOCOLATE;Noia;A Coruña;Concentración motera Noia Formato Trailer. Horario: Noche.
+116363;15;8;20;S;Grupo;CHASTTON SHOW;Os Ánxeles, Boimorto;A Coruña;Horario: Vermú, Noche. Hay: Bocateria, Atracciones.
+114900;15;8;20;S;Trío;SINTONÍA;Quins, Melón;Ourense;Horario: Noche.
+115847;15;8;20;S;Charanga;CASTRO BELLO;Quins, Melón;Ourense;Horario: Vermú.
+114431;15;8;20;S;Grupo;M-3;quintana;León;Horario: Tarde, Noche.
+116069;15;8;20;S;Disco Móvil;FABRIK;Riomol, Castroverde;Lugo;Horario: Vermú. Tipo de terreno: Cemento. Hay: Carpa.
+114308;15;8;20;S;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca; Tipo de terreno: Asfalto.
+116713;15;8;20;S;Orquesta;ACORDES;Salamanca;Salamanca;Actuación en la provincia de Salamanca. Localización exacta por concretar. Horario: Noche.
+117290;15;8;20;S;Orquesta;CENIZA;San Martin de Ombreiro;Lugo;
+117147;15;8;20;S;Charanga;OS BANDIÑOS;Santa Comba, Bande;Ourense;Festa da Virxe da Pena. Horario: Tarde (18:00). Tipo de terreno: Gravilla.
+115576;15;8;20;S;Disco Móvil;CHOCOLATE;Santa maria de roo;A Coruña;Rigido sesión bermut. Horario: Vermú.
+115664;15;8;20;S;Grupo;TATTOO;Tibiás, O Pereiro de Aguiar;Ourense;
+114856;15;8;20;S;Solista;XILO;Vilafiz, O Páramo;Lugo;Horario: Tarde.
+116850;15;8;20;S;Grupo;PUNTO CLAVE;Vilarello, Cervantes;Lugo;Horario: Noche. Hay: Carpa, Aparcamiento, Atracciones.
+117146;15;8;20;S;Charanga;OS BANDIÑOS;Xermeade, Muiños;Ourense;Festa da Virxe da Torre. Horario: Vermú (10:00). Tipo de terreno: Asfalto.
+117148;16;8;20;D;Charanga;OS BANDIÑOS;A Mezquita, A Merca;Ourense;Horario: Tarde (16:00).
+116676;16;8;20;D;Orquesta;ABANICO;La Colegiata del Sar, Santiago;A Coruña;Horario: Vermú, Noche.
+113773;16;8;20;D;Charanga;CLK;Macendo, Castrelo de Miño;Ourense;Horario: Vermú. Tipo de terreno: Cemento.
+115704;16;8;20;D;Charanga;EUROPA;Monterredondo, Padrenda;Ourense;SUSPENDIDA.  Horario: Tarde. Tipo de terreno: Asfalto.
+116025;16;8;20;D;Charanga;ARDORES;Noceda, Lalín;Pontevedra;Horario: Vermú, Noche.
+115949;16;8;20;D;Charanga;LEÑA VERDE;O Freixo, Crecente;Pontevedra;SUSPENDIDA.  Horario: Vermú.
+116851;16;8;20;D;Grupo;PUNTO CLAVE;Pacios, Baralla;Lugo;Horario: Vermú, Noche. Hay: Carpa, Aparcamiento, Atracciones.
+117131;16;8;20;D;Charanga;MANÍA;Pallide, Reyero;León;Horario: Vermú, Tarde.
+112134;16;8;20;D;Grupo;M-3;plaza da feira lugo;Lugo;Horario: Vermú.
+114481;16;8;20;D;Charanga;SIN CONTROL;Pobladura del Bernesga;León;Horario: Vermú (12:00).
+115642;16;8;20;D;Charanga;CASTRO BELLO;Punxín;Ourense;Horario: Vermú, Tarde, Noche.
+115020;16;8;20;D;Charanga;MANÍA;Riaño;León;Horario: Vermú.
+115682;16;8;20;D;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca;Horario: Noche. Tipo de terreno: Asfalto.
+116714;16;8;20;D;Orquesta;ACORDES;Salamanca;Salamanca;Actuación en la provincia de Salamanca. Localización exacta por concretar. Horario: Noche.
+117154;16;8;20;D;Grupo;ACIREMA;Tui;Pontevedra;
+114485;16;8;20;D;Trío;SINTONÍA;Vilachá, Boborás;Ourense;Horario: Tarde.
+117291;16;8;20;D;Orquesta;CENIZA;Vilachá, Boborás;Ourense;
+115981;16;8;20;D;Dúo;ESTRELLAS;Vilalba;Lugo;Festas de San Roque e As Pedreiras. Horario: Noche.
+117183;16;8;20;D;Orquesta;ROYAL ESPECTÁCULO;Villarcayo;Burgos;Horario: Noche (00:00).
+117079;17;8;20;L;Dúo;D´VICIO;Cambre;A Coruña;Horario: Vermú, Noche.
+114500;17;8;20;L;Charanga;SIN CONTROL;Robles de la Valcueva, Matallana de Torío;León;
+114309;17;8;20;L;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca; Tipo de terreno: Asfalto.
+114421;19;8;20;X;Trío;INNOVACIÓN;Porta do Conde, Portas;Pontevedra;Horario: Noche.
+114751;19;8;20;X;Charanga;EUROPA;Xares, A Veiga;Ourense;Horario: Tarde.
+115683;20;8;20;J;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca;Horario: Noche. Tipo de terreno: Asfalto.
+117043;21;8;20;V;Orquesta;ROYAL ESPECTÁCULO;Bande;Ourense;Horario: Noche. Hay: Aparcamiento, Bocateria, Atracciones.
+116330;21;8;20;V;Charanga;MANÍA;Calzadilla de los Hermanillos, El Burgo Ranero;León;Horario: Tarde.
+116852;21;8;20;V;Grupo;PUNTO CLAVE;Cervantes;Lugo;Mesón Cuatrovientos. Horario: Noche. Hay: Aparcamiento, Atracciones.
+117059;21;8;20;V;Charanga;SIN CONTROL;Dueñas;Palencia;Horario: Tarde.
+116677;21;8;20;V;Orquesta;ABANICO;O Pereiro, Alfoz;Lugo;Horario: Vermú, Noche.
+114816;21;8;20;V;Solista;XILO;Os Condes, Bergondo;A Coruña;Horario: Noche.
+112987;21;8;20;V;Dúo;D´VICIO;Pravio, Cambre;A Coruña;Horario: Noche.
+114310;21;8;20;V;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca; Tipo de terreno: Asfalto.
+115730;21;8;20;V;Charanga;MANÍA;Santibáñez de Tera;Zamora;Horario: Tarde, Noche.
+117292;22;8;20;S;Orquesta;CENIZA;Baldaio, Carballo;A Coruña;
+117155;22;8;20;S;Grupo;ACIREMA;Bembibre;León;
+116026;22;8;20;S;Charanga;ARDORES;Brocos, Agolada;Pontevedra;Horario: Tarde, Noche.
+115017;22;8;20;S;Orquesta;BARCELÓ;Corbelle, Sarria;Lugo;Horario: Vermú, Noche.
+116678;22;8;20;S;Orquesta;ABANICO;Crecente;Pontevedra;Horario: Noche.
+117301;22;8;20;S;Charanga;SIN CONTROL;Folledo de Gordón;León;Horario: Vermú.
+116595;22;8;20;S;Orquesta;ACORDES;León;León;(Lugar por concretar). Horario: Noche.
+116853;22;8;20;S;Grupo;PUNTO CLAVE;Muxa, Lugo;Lugo;Horario: Vermú, Noche. Hay: Carpa, Aparcamiento.
+117081;22;8;20;S;Dúo;D´VICIO;O Val, Narón;A Coruña;Altrn america sl. Horario: Noche.
+114817;22;8;20;S;Solista;XILO;Os Condes, Bergondo;A Coruña;Horario: Noche.
+115684;22;8;20;S;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca;Horario: Noche. Tipo de terreno: Asfalto.
+117080;22;8;20;S;Dúo;D´VICIO;Santa Cruz, Oleiros;A Coruña;Horario: Vermú.
+114432;22;8;20;S;Grupo;M-3;valle de finolledo Ponferrada;León;Horario: Tarde, Noche.
+116679;23;8;20;D;Orquesta;ABANICO;Arceo, Boimorto;A Coruña;Horario: Vermú, Noche.
+115459;23;8;20;D;Charanga;MANÍA;Báscones de Ojeda;Palencia;Horario: Tarde.
+116158;23;8;20;D;Charanga;ARDORES;Berrande, Vilardevós;Ourense;Horario: Noche.
+117293;23;8;20;D;Orquesta;CENIZA;Cardama, Oroso;A Coruña;
+114867;23;8;20;D;Dúo;ESTRELLAS;Malpica de Bergantiños;A Coruña;Horario: Vermú.
+116854;23;8;20;D;Grupo;PUNTO CLAVE;Martul, Outeiro de Rei;Lugo;Horario: Vermú, Tarde. Hay: Carpa, Aparcamiento.
+114273;23;8;20;D;Charanga;EUROPA;Moimenta, Vinhais;Portugal;
+115793;23;8;20;D;Charanga;MANÍA;Valdecastillo, Boñar;León;Horario: Vermú.
+115469;23;8;20;D;Charanga;SIN CONTROL;Villafruela del Condado;León;Horario: Vermú.
+115466;24;8;20;L;Charanga;BCB;Berrande, Vilardevós;Ourense;Sesión matinal. Horario: Vermú.
+116331;24;8;20;L;Charanga;MANÍA;Calzadilla de los Hermanillos, El Burgo Ranero;León;Horario: Vermú, Tarde.
+115884;24;8;20;L;Charanga;MANÍA;Carrión de los Condes;Palencia;Horario: Vermú.
+114125;24;8;20;L;Charanga;CLK;Fornelos, O Bolo;Ourense;Horario: Vermú. Tipo de terreno: Asfalto.
+111453;24;8;20;L;Charanga;BCB;Lobios;Ourense;Horario: Tarde, Noche.
+115685;24;8;20;L;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca;Horario: Noche. Tipo de terreno: Asfalto.
+115868;24;8;20;L;Charanga;EUROPA;San Xurxo da Touza, Taboadela;Ourense;Horario: Vermú. Tipo de terreno: Asfalto.
+114458;25;8;20;M;Charanga;MANÍA;Redipollos, Puebla de Lillo;León;Horario: Vermú.
+115869;25;8;20;M;Charanga;EUROPA;San Xurxo da Touza, Taboadela;Ourense;Horario: Vermú.
+116716;25;8;20;M;Charanga;MANÍA;Villayandre, Crémenes;León;Horario: Vermú, Tarde.
+113234;27;8;20;J;Charanga;EUROPA;San Vitoiro, Allariz;Ourense;Horario: Vermú.
+115018;28;8;20;V;Orquesta;BARCELÓ;A Barciela, Oroso;A Coruña;Horario: Noche.
+117406;28;8;20;V;Orquesta;ACORDES;Armariz, Nogueira de Ramuín;Ourense;Horario: Noche.
+116855;28;8;20;V;Grupo;PUNTO CLAVE;Baralla;Lugo;Horario: Noche. Hay: Aparcamiento, Bocateria, Atracciones.
+114832;28;8;20;V;Solista;XILO;Cervecería Campo García, Meirás;A Coruña;Horario: Noche.
+116636;28;8;20;V;Charanga;CLK;Cornoces, Amoeiro;Ourense;Horario: Tarde, Noche. Tipo de terreno: Hierba.
+117524;28;8;20;V;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca; Tipo de terreno: Asfalto.
+116418;28;8;20;V;Orquesta;GALILEA;Somado, Pravia;Asturias;
+116795;28;8;20;V;Orquesta;OLYMPUS RED TOUR;Visantoña, Santiso;A Coruña;Acompañados de la Orquesta Metrópolis. 
+116796;28;8;20;V;Orquesta;METRÓPOLIS;Visantoña, Santiso;A Coruña;Acompañados de la Orquesta Olympus. 
+116596;29;8;20;S;Orquesta;ACORDES;Arcilla, Cospeito;Lugo;Horario: Vermú, Noche.
+116027;29;8;20;S;Charanga;ARDORES;Carballeda, Lalín;Pontevedra;Horario: Vermú, Noche.
+115108;29;8;20;S;Trío;SINTONÍA;O Carballal, Aranga;A Coruña;Horario: Vermú, Noche.
+116856;29;8;20;S;Grupo;PUNTO CLAVE;RESERVADO;Lugo;
+116067;29;8;20;S;Trío;KARMA;reservado a Coruña;A Coruña;Horario: Noche.
+117523;29;8;20;S;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca; Tipo de terreno: Asfalto.
+115724;29;8;20;S;Disco Móvil;CHOCOLATE;San Pedro de Muro, Porto do Son;A Coruña;Macrochocolate. Horario: Noche.
+116419;29;8;20;S;Orquesta;GALILEA;San Pedro de Vilanova, Vedra;A Coruña;
+117082;30;8;20;D;Dúo;D´VICIO;Abegondo;A Coruña;Horario: Vermú, Noche.
+115591;30;8;20;D;Grupo;M-3;Carelle, Sobrado;A Coruña;Horario: Vermú, Noche.
+116715;30;8;20;D;Orquesta;ACORDES;Guntín de Pallares, Guntín;Lugo;Festa do Pemento de Mougán. Horario: Noche. Tipo de terreno: Hierba.
+115636;30;8;20;D;Trío;KARMA;Iñás, Oleiros;A Coruña;Horario: Vermú.
+117454;30;8;20;D;Disco Móvil;FABRIK;Mazaricos;A Coruña;Superfabrik. Horario: Noche. Tipo de terreno: Cemento.
+115019;30;8;20;D;Orquesta;BARCELÓ;Mesos, Frades;A Coruña;Horario: Vermú, Tarde.
+116857;30;8;20;D;Grupo;PUNTO CLAVE;O Chao do Fabeiro, Monforte de Lemos;Lugo;Horario: Noche. Hay: Carpa, Aparcamiento.
+117149;30;8;20;D;Charanga;OS BANDIÑOS;Porqueirós, Muíños;Ourense;Festa da Virxe da Aparecida. Horario: Vermú (10:00). Tipo de terreno: Gravilla.
+116689;30;8;20;D;Disco Móvil;CHOCOLATE;Santeles, A Estrada;Pontevedra;agosto rijido Santeles. Horario: Noche.
+117156;30;8;20;D;Grupo;ACIREMA;Sanxenxo;Pontevedra;

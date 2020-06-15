@@ -1,197 +1,197 @@
-5623;1;11;12;J;Dúo;ECLIPSE;As Nogais;Lugo
-5660;1;11;12;J;Grupo;ARAMIO;Avenida de Beiramar, 251, Vigo;Pontevedra
-5661;2;11;12;V;Grupo;ARAMIO;Avenida de Beiramar, 251, Vigo;Pontevedra
-5680;2;11;12;V;Grupo;TEKILA;Bárzana, Quirós;Asturias
-5669;2;11;12;V;Dúo;CALÚ;Cantarrana, Viveiro;Lugo
-5570;2;11;12;V;Orquesta;CHARLESTON BIG-BAND;Estrada Pavillon, Narón;A Coruña
-5587;2;11;12;V;Orquesta;PANORAMA;Monforte de Lemos;Lugo
-5633;2;11;12;V;Orquesta;LOS SATÉLITES;Paradela;Lugo
-5724;2;11;12;V;Orquesta;TRIUNFO;Rubián, Bóveda;Lugo
-5681;3;11;12;S;Grupo;TEKILA;Arriondas, Parres;Asturias
-5662;3;11;12;S;Orquesta;COMPOSTELA;Avenida de Beiramar, 251, Vigo;Pontevedra
-5654;3;11;12;S;Orquesta;PANAMA;Avenida de Ramón Nieto, 367, Vigo;Pontevedra
-5643;3;11;12;S;Orquesta;TREBOL;Buño, Malpica de Bergantiños;A Coruña
-5804;3;11;12;S;Orquesta;ABANICO;Cangas, Foz;Lugo
-5640;3;11;12;S;Grupo;KALIMA 3.0;Castelo, Taboada;Lugo
-5718;3;11;12;S;Orquesta;MARAZUL;Ferrol;A Coruña
-5626;3;11;12;S;Dúo;ECLIPSE;Marzás, Carballedo;Lugo
-5825;3;11;12;S;Orquesta;FANIA BLANCO SHOW;Mesón do Vento, Ordes;A Coruña
-5625;3;11;12;S;Orquesta;GRAN PARADA;O Pereiro, Valdoviño;A Coruña
-5305;3;11;12;S;Charanga;DGT;Paderne;A Coruña
-5692;3;11;12;S;Orquesta;LOS TROVADORES;Ponteareas;Pontevedra
-5634;3;11;12;S;Orquesta;LOS SATÉLITES;Restaurante El Pantano, Abegondo;A Coruña
-5606;3;11;12;S;Orquesta;SOLARA;Restaurante Os Paraguas, Carral;A Coruña
-5604;3;11;12;S;Orquesta;CHARLESTON BIG-BAND;S.F. La Luna, Cerponzóns;Pontevedra
-5588;3;11;12;S;Orquesta;PANORAMA;Santa Comba, Maside;Ourense
-5519;3;11;12;S;Disco Móvil;BLANCO Y NEGRO;Tapia de Casariego;Asturias
-5807;3;11;12;S;Orquesta;PONTEVEDRA;Tineo;Asturias
-5437;3;11;12;S;Solista;TANIA Y SU ACORDEÓN;Tormaleo, Ibias;Asturias
-5803;3;11;12;S;Grupo;ARAMIO;Valadares, Vigo;Pontevedra
-5719;4;11;12;D;Orquesta;MARAZUL;A Cañiza;Pontevedra
-5663;4;11;12;D;Orquesta;COMPOSTELA;Avenida de Beiramar, 251, Vigo;Pontevedra
-5589;4;11;12;D;Orquesta;PANORAMA;Avenida de Ramón Nieto, 367, Vigo;Pontevedra
-5693;4;11;12;D;Orquesta;LOS TROVADORES;Perillo, Oleiros;A Coruña
-5805;4;11;12;D;Orquesta;ABANICO;S.F. La Luna, Cerponzóns;Pontevedra
-5635;4;11;12;D;Orquesta;LOS SATÉLITES;S.F. La Reina, Sanguiñeda;Pontevedra
-5768;4;11;12;D;Orquesta;CAPITOL;S.F. La Reina, Sanguiñeda;Pontevedra
-5695;4;11;12;D;Orquesta;NEVADA;S.F. Mami, A Manchica;Ourense
-5571;4;11;12;D;Orquesta;CHARLESTON BIG-BAND;S.F. Nova Exágono, Lugo;Lugo
-5630;4;11;12;D;Orquesta;GRAN PARADA;S.F. Nova Exágono, Lugo;Lugo
-5607;4;11;12;D;Orquesta;SOLARA;S.F. Paulino, O Carballiño;Ourense
-5615;4;11;12;D;Orquesta;TELEVISIÓN;S.F. Zeus, Campolongo;A Coruña
-5297;4;11;12;D;Grupo;LECER;San Pedro de Benquerencia, Barreiros;Lugo
-5627;4;11;12;D;Dúo;ECLIPSE;Santa Comba, Lugo;Lugo
-5644;4;11;12;D;Orquesta;TREBOL;Valadares, Vigo;Pontevedra
-5530;9;11;12;V;Grupo;GARIBALDI;Bueu;Pontevedra
-5541;9;11;12;V;Solista;TANIA Y SU ACORDEÓN;Corvelle, A Pastoriza;Lugo
-5741;9;11;12;V;Orquesta;TELEVISIÓN;Estrada Pavillon, Narón;A Coruña
-5590;9;11;12;V;Orquesta;PANORAMA;Lariño, Carnota;A Coruña
-5597;9;11;12;V;Grupo;ALKAR;Lariño, Carnota;A Coruña
-5608;9;11;12;V;Orquesta;SOLARA;Pino, Cospeito;Lugo
-5619;9;11;12;V;Orquesta;LOS TROVADORES;Pino, Cospeito;Lugo
-5655;9;11;12;V;Orquesta;PANAMA;San Martín do Porto, Cabañas;A Coruña
-5682;9;11;12;V;Grupo;TEKILA;Sotrondio, San Martín del Rey Aurelio;Asturias
-5637;9;11;12;V;Disco Móvil;BLANCO Y NEGRO;Trabada;Lugo
-5725;9;11;12;V;Orquesta;TRIUNFO;Vilarrube, Valdoviño;A Coruña
-5802;9;11;12;V;Grupo;ARAMIO;Vilaseco, Vimianzo;A Coruña
-5740;9;11;12;V;Dúo;ECLIPSE;Viveiro;Lugo
-5691;10;11;12;S;Charanga;DGT;Areas, Paderne;A Coruña
-5438;10;11;12;S;Solista;TANIA Y SU ACORDEÓN;Barcia, Ribeira de Piquín;Lugo
-5696;10;11;12;S;Orquesta;NEVADA;Belesar, Vilalba;Lugo
-5531;10;11;12;S;Orquesta;TELEVISIÓN;Bueu;Pontevedra
-5532;10;11;12;S;Orquesta;GRAN PARADA;Bueu;Pontevedra
-5726;10;11;12;S;Orquesta;TRIUNFO;Caraño, Pol;Lugo
-5716;10;11;12;S;Orquesta;FIN DE SIGLO;Corvelle, A Pastoriza;Lugo
-5656;10;11;12;S;Orquesta;PANAMA;Figueiró, Tomiño;Pontevedra
-5591;10;11;12;S;Orquesta;PANORAMA;Galans, Vilagarcía;Pontevedra
-5779;10;11;12;S;Orquesta;PALLADIUM;Galans, Vilagarcía;Pontevedra
-5641;10;11;12;S;Grupo;ASSIA;Gijón;Asturias
-5609;10;11;12;S;Orquesta;SOLARA;Lanzós, Vilalba;Lugo
-5795;10;11;12;S;Orquesta;MIRAMAR;Moaña;Pontevedra
-5806;10;11;12;S;Orquesta;ABANICO;Moaña;Pontevedra
-5211;10;11;12;S;Grupo;CLAXXON;O Grove;Pontevedra
-5699;10;11;12;S;Dúo;ECLIPSE;O Irixo;Ourense
-5670;10;11;12;S;Dúo;CALÚ;Pazo de Santa Cruz, Bueu;Pontevedra
-5645;10;11;12;S;Orquesta;TREBOL;Pino, Cospeito;Lugo
-5646;10;11;12;S;Orquesta;CAPITOL;Pino, Cospeito;Lugo
-5801;10;11;12;S;Grupo;ARAMIO;Plaza do Corgo, O Grove;Pontevedra
-5800;10;11;12;S;Orquesta;RITMO JOVEN;Poio;Pontevedra
-5694;10;11;12;S;Orquesta;LOS TROVADORES;Restaurante El Pantano, Abegondo;A Coruña
-5683;10;11;12;S;Grupo;TEKILA;S.F. Rosalar, Ribadeo;Lugo
-5568;10;11;12;S;Orquesta;CHARLESTON BIG-BAND;Sabadelle, Pereiro de Aguiar;Ourense
-5799;10;11;12;S;Grupo;ALKAR;Sabadelle, Pereiro de Aguiar;Ourense
-5808;10;11;12;S;Orquesta;PONTEVEDRA;Salcedo, Pontevedra;Pontevedra
-5817;10;11;12;S;Orquesta;XACOBEO;Salcedo, Pontevedra;Pontevedra
-5778;10;11;12;S;Grupo;LIMÓN;San Martín do Porto, Cabañas;A Coruña
-5789;10;11;12;S;Orquesta;CINEMA;San Martín do Porto, Cabañas;A Coruña
-5543;10;11;12;S;Orquesta;LOS SATÉLITES;Tabeaio, Carral;A Coruña
-5798;10;11;12;S;Orquesta;PARAISO;Verducido de Xeve, Pontevedra;Pontevedra
-5731;10;11;12;S;Grupo;KALIMA 3.0;Vilalba;Lugo
-5847;11;11;12;D;Orquesta;CAPITOL;A Cañiza;Pontevedra
-5667;11;11;12;D;Solista;TANIA Y SU ACORDEÓN;A Fonsagrada;Lugo
-5647;11;11;12;D;Orquesta;TREBOL;Avenida de Beiramar, 251, Vigo;Pontevedra
-5636;11;11;12;D;Orquesta;LOS SATÉLITES;Benigno Rivera 67, O Ceao;Lugo
-5533;11;11;12;D;Orquesta;ABANICO;Bueu;Pontevedra
-5534;11;11;12;D;Orquesta;CHARLESTON BIG-BAND;Bueu;Pontevedra
-5659;11;11;12;D;Grupo;ALKAR;Galans, Vilagarcía;Pontevedra
-5809;11;11;12;D;Orquesta;PONTEVEDRA;Galans, Vilagarcía;Pontevedra
-5818;11;11;12;D;Orquesta;XACOBEO;Galans, Vilagarcía;Pontevedra
-5605;11;11;12;D;Orquesta;LOS TROVADORES;Laraño, Santiago de Compostela;A Coruña
-5743;11;11;12;D;Orquesta;METRÓPOLIS;Lariño, Carnota;A Coruña
-5841;11;11;12;D;Dúo;D´CACHE;Lugo;Lugo
-5819;11;11;12;D;Orquesta;CINEMA;Moaña;Pontevedra
-5820;11;11;12;D;Orquesta;TELEVISIÓN;Moaña;Pontevedra
-5610;11;11;12;D;Orquesta;SOLARA;O Grove;Pontevedra
-5700;11;11;12;D;Dúo;ECLIPSE;O Páramo;Lugo
-5668;11;11;12;D;Orquesta;COMPOSTELA;Pino, Cospeito;Lugo
-5631;11;11;12;D;Orquesta;GRAN PARADA;S.F. La Luna, Cerponzóns;Pontevedra
-5780;11;11;12;D;Orquesta;PALLADIUM;S.F. La Reina, Sanguiñeda;Pontevedra
-5832;11;11;12;D;Orquesta;RITMO JOVEN;S.F. La Reina, Sanguiñeda;Pontevedra
-5658;11;11;12;D;Orquesta;PANAMA;S.F. Zeus, Campolongo;A Coruña
-5592;11;11;12;D;Orquesta;PANORAMA;Sabadelle, Pereiro de Aguiar;Ourense
-5727;11;11;12;D;Orquesta;TRIUNFO;Sobral, Coles;Ourense
-5545;11;11;12;D;Dúo;CALÚ;Tabeaio, Carral;A Coruña
-5671;12;11;12;L;Orquesta;GRAN PARADA;Moaña;Pontevedra
-5781;12;11;12;L;Orquesta;PALLADIUM;San Marcos, Santiago de Compostela;A Coruña
-5867;16;11;12;V;Orquesta;TREBOL;Santiago de Compostela;A Coruña
-5863;16;11;12;V;Solista;PILI PAMPÍN;Teo;A Coruña
-5732;16;11;12;V;Solista;TANIA Y SU ACORDEÓN;Vián, Pastoriza;Lugo
-5708;16;11;12;V;Grupo;TEKILA;Viveiro;Lugo
-5851;17;11;12;S;Dúo;ECLIPSE;Bravos, Ourol;Lugo
-5821;17;11;12;S;Orquesta;TELEVISIÓN;Cacheiras, Teo;A Coruña
-5642;17;11;12;S;Grupo;ASSIA;Gijón;Asturias
-5856;17;11;12;S;Dúo;CALÚ;Muimenta, Cospeito;Lugo
-5611;17;11;12;S;Orquesta;SOLARA;Piñeiro, Xermade;Lugo
-5845;17;11;12;S;Orquesta;LOS ESPAÑOLES;Ponteareas;Pontevedra
-5648;17;11;12;S;Orquesta;TREBOL;Restaurante El Pantano, Abegondo;A Coruña
-5875;17;11;12;S;Grupo;SAMBA;S.F. Chanteclair, Pontecesures;Pontevedra
-5813;17;11;12;S;Orquesta;PONTEVEDRA;S.F. La Luna, Cerponzóns;Pontevedra
-5810;17;11;12;S;Orquesta;ABANICO;S.F. Rosalar, Ribadeo;Lugo
-5737;17;11;12;S;Dúo;DE LA CRUZ SHOW;Teo;A Coruña
-5688;17;11;12;S;Grupo;TEKILA;Tineo;Asturias
-5842;17;11;12;S;Dúo;D´CACHE;Viladonga, Castro de Rei;Lugo
-5782;17;11;12;S;Orquesta;PALLADIUM;Vilalba;Lugo
-5567;17;11;12;S;Solista;TANIA Y SU ACORDEÓN;Villanueva de Oscos;Asturias
-5848;18;11;12;D;Orquesta;CIUDADEVIGO;A Cañiza;Pontevedra
-5783;18;11;12;D;Orquesta;PALLADIUM;Av Bierzo, 91, Dehesas;León
-5612;18;11;12;D;Orquesta;SOLARA;Avenida de Beiramar, 251, Vigo;Pontevedra
-5649;18;11;12;D;Orquesta;TREBOL;S.F. La Reina, Sanguiñeda;Pontevedra
-5822;18;11;12;D;Orquesta;TELEVISIÓN;S.F. La Reina, Sanguiñeda;Pontevedra
-5811;18;11;12;D;Orquesta;ABANICO;S.F. Paulino, O Carballiño;Ourense
-5593;23;11;12;V;Orquesta;PANORAMA;Lalín;Pontevedra
-5890;23;11;12;V;Dúo;D´CACHE;Pendiente de Confirmación;Lugo
-5942;23;11;12;V;Orquesta;CINEMA;Ponteareas;Pontevedra
-5572;24;11;12;S;Solista;TANIA Y SU ACORDEÓN;A Fonsagrada;Lugo
-5650;24;11;12;S;Orquesta;TREBOL;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
-5864;24;11;12;S;Orquesta;SAUDADE;Avenida de Beiramar, 251, Vigo;Pontevedra
-5823;24;11;12;S;Orquesta;TELEVISIÓN;Avenida de Ramón Nieto, 367, Vigo;Pontevedra
-5870;24;11;12;S;Dúo;CALÚ;Baldaio, Carballo;A Coruña
-5689;24;11;12;S;Grupo;TEKILA;Cangas, Foz;Lugo
-5616;24;11;12;S;Grupo;CICLÓN;Mesón do Vento, Ordes;A Coruña
-5860;24;11;12;S;Grupo;KALIMA 3.0;Pacios, Begonte;Lugo
-5697;24;11;12;S;Orquesta;NEVADA;Pousada, Pastoriza;Lugo
-5613;24;11;12;S;Orquesta;SOLARA;Restaurante El Pantano, Abegondo;A Coruña
-5784;24;11;12;S;Orquesta;PALLADIUM;Restaurante El Pantano, Abegondo;A Coruña
-5594;24;11;12;S;Orquesta;PANORAMA;S.F. La Concha, O Val;A Coruña
-5651;25;11;12;D;Orquesta;TREBOL;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
-5868;25;11;12;D;Orquesta;SOLARA;Benigno Rivera 67, O Ceao;Lugo
-5919;25;11;12;D;Orquesta;TELEVISIÓN;Bueu;Pontevedra
-5690;25;11;12;D;Grupo;TEKILA;S.F. La Luna, Cerponzóns;Pontevedra
-5812;25;11;12;D;Orquesta;ABANICO;S.F. La Reina, Sanguiñeda;Pontevedra
-5833;25;11;12;D;Orquesta;LOS ESPAÑOLES;S.F. La Reina, Sanguiñeda;Pontevedra
-5595;25;11;12;D;Orquesta;PANORAMA;S.F. Nova Exágono, Lugo;Lugo
-5785;25;11;12;D;Orquesta;PALLADIUM;S.F. Zeus, Campolongo;A Coruña
-5614;30;11;12;V;Orquesta;SOLARA;Cures, Boiro;A Coruña
-5738;30;11;12;V;Orquesta;PANAMA;Estrada Pavillon, Narón;A Coruña
-5896;30;11;12;V;Orquesta;METRÓPOLIS;Ézaro, Dumbría;A Coruña
-5898;30;11;12;V;Orquesta;FANIA BLANCO SHOW;Ézaro, Dumbría;A Coruña
-5961;30;11;12;V;Orquesta;PALLADIUM;Golmar, A Laracha;A Coruña
-5652;30;11;12;V;Orquesta;TREBOL;Mañufe, Gondomar;Pontevedra
-5596;30;11;12;V;Orquesta;PANORAMA;S.F. Nova Exágono, Lugo;Lugo
-6078;30;11;12;V;Orquesta;PARIS DE NOIA;S.F. Nova Exágono, Lugo;Lugo
-5824;30;11;12;V;Orquesta;TELEVISIÓN;Xeve;Pontevedra
-5871;30;11;12;V;Orquesta;MARBELLA;Xeve;Pontevedra
-6076;1;12;12;S;Orquesta;SOLARA;A Lagoa, Vimianzo;A Coruña
-5854;1;12;12;S;Orquesta;COMPOSTELA;Aldeola Restaurante, Malpica de Bergantiños;A Coruña
-5937;1;12;12;S;Orquesta;CINEMA;Alto de Xestoso, Monfero;A Coruña
-6018;1;12;12;S;Orquesta;PARAISO;Amoedo, Pazos de Borbén;Pontevedra
-6045;1;12;12;S;Orquesta;LOS ESPAÑOLES;Avenida de Beiramar, 251, Vigo;Pontevedra
-6130;1;12;12;S;Grupo;ALKAR;Avenida de Ramón Nieto, 367, Vigo;Pontevedra
-5858;1;12;12;S;Solista;TANIA Y SU ACORDEÓN;Barcia, Ribeira de Piquín;Lugo
-6090;1;12;12;S;Orquesta;TREBOL;Cures, Boiro;A Coruña
-5709;1;12;12;S;Orquesta;MARAZUL;El Vilar, Bergondo;A Coruña
-6009;1;12;12;S;Grupo;TEKILA;Grado;Asturias
-5672;1;12;12;S;Orquesta;GRAN PARADA;Parroquia de San Francisco Javier;A Coruña
-5981;1;12;12;S;Orquesta;PANORAMA;Poio;Pontevedra
-5998;1;12;12;S;Orquesta;PONTEVEDRA;Ponteareas;Pontevedra
-6079;1;12;12;S;Orquesta;PARIS DE NOIA;Ponteceso;A Coruña
-5684;1;12;12;S;Orquesta;CHARLESTON BIG-BAND;Restaurante El Pantano, Abegondo;A Coruña
-6035;1;12;12;S;Orquesta;LOS SATÉLITES;Restaurante El Pantano, Abegondo;A Coruña
-6120;1;12;12;S;Orquesta;MIRAMAR;S.F. Chanteclair, Pontecesures;Pontevedra
-6159;1;12;12;S;Grupo;ASSIA;S.F. Estilo, Oviedo;Asturias
-5599;1;12;12;S;Orquesta;PANAMA;S.F. La Concha, O Val;A Coruña
-6151;1;12;12;S;Grupo;CLAXXON;S.F. La Reina, Sanguiñeda;Pontevedra
-6059;1;12;12;S;Orquesta;PALLADIUM;S.F. Rosalar, Ribadeo;Lugo
-5872;1;12;12;S;Orquesta;MARBELLA;Torres, Vilarmaior;A Coruña
-5969;1;12;12;S;Orquesta;OLYMPUS RED TOUR;Touro, Touro;A Coruña
-6102;1;12;12;S;Orquesta;TELEVISIÓN;Valiñas, Barro;Pontevedra
+5623;1;11;12;J;Dúo;ECLIPSE;As Nogais;Lugo;19:00 magosto popular solos. 
+5660;1;11;12;J;Grupo;ARAMIO;Avenida de Beiramar, 251, Vigo;Pontevedra;S.F. Olimpo. 
+5661;2;11;12;V;Grupo;ARAMIO;Avenida de Beiramar, 251, Vigo;Pontevedra;S.F. Olimpo. 
+5680;2;11;12;V;Grupo;TEKILA;Bárzana, Quirós;Asturias;
+5669;2;11;12;V;Dúo;CALÚ;Cantarrana, Viveiro;Lugo;Cafetería Forum. 
+5570;2;11;12;V;Orquesta;CHARLESTON BIG-BAND;Estrada Pavillon, Narón;A Coruña;S.F. Imperial. 
+5587;2;11;12;V;Orquesta;PANORAMA;Monforte de Lemos;Lugo;23:30h. 
+5633;2;11;12;V;Orquesta;LOS SATÉLITES;Paradela;Lugo;
+5724;2;11;12;V;Orquesta;TRIUNFO;Rubián, Bóveda;Lugo;
+5681;3;11;12;S;Grupo;TEKILA;Arriondas, Parres;Asturias;Discoteca HO2. 
+5662;3;11;12;S;Orquesta;COMPOSTELA;Avenida de Beiramar, 251, Vigo;Pontevedra;S.F. Olimpo. 
+5654;3;11;12;S;Orquesta;PANAMA;Avenida de Ramón Nieto, 367, Vigo;Pontevedra;S.F. La Palmera. 
+5643;3;11;12;S;Orquesta;TREBOL;Buño, Malpica de Bergantiños;A Coruña;Casa Elias. 
+5804;3;11;12;S;Orquesta;ABANICO;Cangas, Foz;Lugo;La Gran Verbena. 
+5640;3;11;12;S;Grupo;KALIMA 3.0;Castelo, Taboada;Lugo;Magosto. 
+5718;3;11;12;S;Orquesta;MARAZUL;Ferrol;A Coruña;
+5626;3;11;12;S;Dúo;ECLIPSE;Marzás, Carballedo;Lugo;Magosto popular 21:00 solos. 
+5825;3;11;12;S;Orquesta;FANIA BLANCO SHOW;Mesón do Vento, Ordes;A Coruña;S.F. Josfer. 
+5625;3;11;12;S;Orquesta;GRAN PARADA;O Pereiro, Valdoviño;A Coruña;Discoteca Maravilla. Dj´s Residentes. 
+5305;3;11;12;S;Charanga;DGT;Paderne;A Coruña;Estaremos amenizando a festa do magosto da Asociaciòn Primula. 
+5692;3;11;12;S;Orquesta;LOS TROVADORES;Ponteareas;Pontevedra;S.F. El Otro Mundo del Tea. 
+5634;3;11;12;S;Orquesta;LOS SATÉLITES;Restaurante El Pantano, Abegondo;A Coruña;Restaurante El Pantano. 
+5606;3;11;12;S;Orquesta;SOLARA;Restaurante Os Paraguas, Carral;A Coruña;
+5604;3;11;12;S;Orquesta;CHARLESTON BIG-BAND;S.F. La Luna, Cerponzóns;Pontevedra;S.F. La Luna. 
+5588;3;11;12;S;Orquesta;PANORAMA;Santa Comba, Maside;Ourense;23:00h. 
+5519;3;11;12;S;Disco Móvil;BLANCO Y NEGRO;Tapia de Casariego;Asturias;Mesón El Puerto. 
+5807;3;11;12;S;Orquesta;PONTEVEDRA;Tineo;Asturias;S.F. Rimmel. 
+5437;3;11;12;S;Solista;TANIA Y SU ACORDEÓN;Tormaleo, Ibias;Asturias;Restaurante Casablanca. 
+5803;3;11;12;S;Grupo;ARAMIO;Valadares, Vigo;Pontevedra;
+5719;4;11;12;D;Orquesta;MARAZUL;A Cañiza;Pontevedra;S.F. Selene. 
+5663;4;11;12;D;Orquesta;COMPOSTELA;Avenida de Beiramar, 251, Vigo;Pontevedra;S.F. Olimpo. 
+5589;4;11;12;D;Orquesta;PANORAMA;Avenida de Ramón Nieto, 367, Vigo;Pontevedra;S.F. La Palmera, 18:00h. 
+5693;4;11;12;D;Orquesta;LOS TROVADORES;Perillo, Oleiros;A Coruña;Mercado municipal, esta previsto comenzar a las 18:30 horas. 
+5805;4;11;12;D;Orquesta;ABANICO;S.F. La Luna, Cerponzóns;Pontevedra;S.F. La Luna. 
+5635;4;11;12;D;Orquesta;LOS SATÉLITES;S.F. La Reina, Sanguiñeda;Pontevedra;Sala de Fiestas La Reina, acompañados de Capitol. 
+5768;4;11;12;D;Orquesta;CAPITOL;S.F. La Reina, Sanguiñeda;Pontevedra;Sala de Fiestas La Reina, acompañados de Los Satélites. 
+5695;4;11;12;D;Orquesta;NEVADA;S.F. Mami, A Manchica;Ourense;S.F. Mami. 
+5571;4;11;12;D;Orquesta;CHARLESTON BIG-BAND;S.F. Nova Exágono, Lugo;Lugo;S.F. Nova Exagono. 
+5630;4;11;12;D;Orquesta;GRAN PARADA;S.F. Nova Exágono, Lugo;Lugo;S.F. Nova Exagono. 
+5607;4;11;12;D;Orquesta;SOLARA;S.F. Paulino, O Carballiño;Ourense;
+5615;4;11;12;D;Orquesta;TELEVISIÓN;S.F. Zeus, Campolongo;A Coruña;S.F. Zeus. 
+5297;4;11;12;D;Grupo;LECER;San Pedro de Benquerencia, Barreiros;Lugo;Plaza do Canteiro. 
+5627;4;11;12;D;Dúo;ECLIPSE;Santa Comba, Lugo;Lugo;Magosto popular 18:00 solos. 
+5644;4;11;12;D;Orquesta;TREBOL;Valadares, Vigo;Pontevedra;
+5530;9;11;12;V;Grupo;GARIBALDI;Bueu;Pontevedra;San Martiño. Acompañados de Orquesta SINTONIA DE VIGO. 
+5541;9;11;12;V;Solista;TANIA Y SU ACORDEÓN;Corvelle, A Pastoriza;Lugo;
+5741;9;11;12;V;Orquesta;TELEVISIÓN;Estrada Pavillon, Narón;A Coruña;S.F. Imperial. 
+5590;9;11;12;V;Orquesta;PANORAMA;Lariño, Carnota;A Coruña;22:30h, alternando con ALKAR y NUEVA GENERACIÓN. 
+5597;9;11;12;V;Grupo;ALKAR;Lariño, Carnota;A Coruña;22:30h, alternando con PANORAMA y NUEVA GENERACIÓN. 
+5608;9;11;12;V;Orquesta;SOLARA;Pino, Cospeito;Lugo;San Martiño. Alternando con Los Trovadores. 
+5619;9;11;12;V;Orquesta;LOS TROVADORES;Pino, Cospeito;Lugo;San Martiño. Alternando con Solara. 
+5655;9;11;12;V;Orquesta;PANAMA;San Martín do Porto, Cabañas;A Coruña;
+5682;9;11;12;V;Grupo;TEKILA;Sotrondio, San Martín del Rey Aurelio;Asturias;
+5637;9;11;12;V;Disco Móvil;BLANCO Y NEGRO;Trabada;Lugo;Magosto popular en el Pabellón polideportivo municipal. 
+5725;9;11;12;V;Orquesta;TRIUNFO;Vilarrube, Valdoviño;A Coruña;22:00 horas. 
+5802;9;11;12;V;Grupo;ARAMIO;Vilaseco, Vimianzo;A Coruña;
+5740;9;11;12;V;Dúo;ECLIPSE;Viveiro;Lugo;Cafeteria Forun de 21:30 a 1:00. 
+5691;10;11;12;S;Charanga;DGT;Areas, Paderne;A Coruña;Festa dos callos. 
+5438;10;11;12;S;Solista;TANIA Y SU ACORDEÓN;Barcia, Ribeira de Piquín;Lugo;Hotel Mirador. 
+5696;10;11;12;S;Orquesta;NEVADA;Belesar, Vilalba;Lugo;Alternando con la Orquesta D´Tacón. 
+5531;10;11;12;S;Orquesta;TELEVISIÓN;Bueu;Pontevedra;San Martiño. Acompañados de Orquesta GRAN PARADA. 
+5532;10;11;12;S;Orquesta;GRAN PARADA;Bueu;Pontevedra;San Martiño. Acompañados de Orquesta Televisión. 
+5726;10;11;12;S;Orquesta;TRIUNFO;Caraño, Pol;Lugo;23:00 horas. 
+5716;10;11;12;S;Orquesta;FIN DE SIGLO;Corvelle, A Pastoriza;Lugo;
+5656;10;11;12;S;Orquesta;PANAMA;Figueiró, Tomiño;Pontevedra;Alternando con grupo &quot,La Oca&quot,. 
+5591;10;11;12;S;Orquesta;PANORAMA;Galans, Vilagarcía;Pontevedra;21:30h, alternando con Palladium. 
+5779;10;11;12;S;Orquesta;PALLADIUM;Galans, Vilagarcía;Pontevedra;21:30h, alternando con Panorama. 
+5641;10;11;12;S;Grupo;ASSIA;Gijón;Asturias;SALA DE FIESTAS... TROPICANA.. 
+5609;10;11;12;S;Orquesta;SOLARA;Lanzós, Vilalba;Lugo;
+5795;10;11;12;S;Orquesta;MIRAMAR;Moaña;Pontevedra;San Martiño. Alternamos con Abanico. 
+5806;10;11;12;S;Orquesta;ABANICO;Moaña;Pontevedra;San Martiño. Alternamos con Miramar. 
+5211;10;11;12;S;Grupo;CLAXXON;O Grove;Pontevedra;Fiestas de San Martiño. 
+5699;10;11;12;S;Dúo;ECLIPSE;O Irixo;Ourense;Magosto popular 22:00 solos. 
+5670;10;11;12;S;Dúo;CALÚ;Pazo de Santa Cruz, Bueu;Pontevedra;
+5645;10;11;12;S;Orquesta;TREBOL;Pino, Cospeito;Lugo;San Martiño. Sesión vermú. Acompañados de Orquesta CAPITOL. 
+5646;10;11;12;S;Orquesta;CAPITOL;Pino, Cospeito;Lugo;San Martiño. Acompañados de Orquesta TREBOL. 
+5801;10;11;12;S;Grupo;ARAMIO;Plaza do Corgo, O Grove;Pontevedra;Alternando con CLAXXON. 
+5800;10;11;12;S;Orquesta;RITMO JOVEN;Poio;Pontevedra;
+5694;10;11;12;S;Orquesta;LOS TROVADORES;Restaurante El Pantano, Abegondo;A Coruña;Restaurante El Pantano. A partir de las 21:00 horas. 
+5683;10;11;12;S;Grupo;TEKILA;S.F. Rosalar, Ribadeo;Lugo;S.F. Rosalar. 
+5568;10;11;12;S;Orquesta;CHARLESTON BIG-BAND;Sabadelle, Pereiro de Aguiar;Ourense;alternando co el grupo Alkar. 
+5799;10;11;12;S;Grupo;ALKAR;Sabadelle, Pereiro de Aguiar;Ourense;Alternando con CHARLESTON BIG BAND. 
+5808;10;11;12;S;Orquesta;PONTEVEDRA;Salcedo, Pontevedra;Pontevedra;
+5817;10;11;12;S;Orquesta;XACOBEO;Salcedo, Pontevedra;Pontevedra;
+5778;10;11;12;S;Grupo;LIMÓN;San Martín do Porto, Cabañas;A Coruña;
+5789;10;11;12;S;Orquesta;CINEMA;San Martín do Porto, Cabañas;A Coruña;Alternando con LIMÓN. 
+5543;10;11;12;S;Orquesta;LOS SATÉLITES;Tabeaio, Carral;A Coruña;Acompañados de Orquesta ALMIRANTES. 
+5798;10;11;12;S;Orquesta;PARAISO;Verducido de Xeve, Pontevedra;Pontevedra;22:00h. Alternando con Aché. 
+5731;10;11;12;S;Grupo;KALIMA 3.0;Vilalba;Lugo;
+5847;11;11;12;D;Orquesta;CAPITOL;A Cañiza;Pontevedra;S.F. Selene. 
+5667;11;11;12;D;Solista;TANIA Y SU ACORDEÓN;A Fonsagrada;Lugo;Fiesta de los jubilados. 
+5647;11;11;12;D;Orquesta;TREBOL;Avenida de Beiramar, 251, Vigo;Pontevedra;S.F. Olimpo. 
+5636;11;11;12;D;Orquesta;LOS SATÉLITES;Benigno Rivera 67, O Ceao;Lugo;Discoteca Morango. 
+5533;11;11;12;D;Orquesta;ABANICO;Bueu;Pontevedra;San Martiño. Acompañados de Orquesta CHARLESTON BIG-BAND. 
+5534;11;11;12;D;Orquesta;CHARLESTON BIG-BAND;Bueu;Pontevedra;San Martiño. Acompañados de Orquesta ABANICO. 
+5659;11;11;12;D;Grupo;ALKAR;Galans, Vilagarcía;Pontevedra;Alternando con Orquesta Pontevedra. 
+5809;11;11;12;D;Orquesta;PONTEVEDRA;Galans, Vilagarcía;Pontevedra;Alternando con Grupo Alkar. 
+5818;11;11;12;D;Orquesta;XACOBEO;Galans, Vilagarcía;Pontevedra;
+5605;11;11;12;D;Orquesta;LOS TROVADORES;Laraño, Santiago de Compostela;A Coruña;San Martiño. Sesión vermú. Noche a partir de las 21h. 
+5743;11;11;12;D;Orquesta;METRÓPOLIS;Lariño, Carnota;A Coruña;Festas de San Martiño. 
+5841;11;11;12;D;Dúo;D´CACHE;Lugo;Lugo;Discoteca Paccha. 
+5819;11;11;12;D;Orquesta;CINEMA;Moaña;Pontevedra;Alternando con TELEVISIÓN. 
+5820;11;11;12;D;Orquesta;TELEVISIÓN;Moaña;Pontevedra;Alternando con CINEMA. 
+5610;11;11;12;D;Orquesta;SOLARA;O Grove;Pontevedra;Fiestas de San Martiño. Alternando con Javi Solla. 
+5700;11;11;12;D;Dúo;ECLIPSE;O Páramo;Lugo;Magosto popular 17:00 solos. 
+5668;11;11;12;D;Orquesta;COMPOSTELA;Pino, Cospeito;Lugo;San Martiño. Sesión vermú. 
+5631;11;11;12;D;Orquesta;GRAN PARADA;S.F. La Luna, Cerponzóns;Pontevedra;S.F. La Luna. Solos. 
+5780;11;11;12;D;Orquesta;PALLADIUM;S.F. La Reina, Sanguiñeda;Pontevedra;S.F. La Reina. Alternamos con Ritmo Joven. 
+5832;11;11;12;D;Orquesta;RITMO JOVEN;S.F. La Reina, Sanguiñeda;Pontevedra;S.F. La Reina. Alternamos con Palladium. 
+5658;11;11;12;D;Orquesta;PANAMA;S.F. Zeus, Campolongo;A Coruña;S.F. Zeus. 
+5592;11;11;12;D;Orquesta;PANORAMA;Sabadelle, Pereiro de Aguiar;Ourense;20:00h. 
+5727;11;11;12;D;Orquesta;TRIUNFO;Sobral, Coles;Ourense;19:30 horas. 
+5545;11;11;12;D;Dúo;CALÚ;Tabeaio, Carral;A Coruña;&quot,Tabeaio&quot, sesión vermú. a partir de las 13:00.
+5671;12;11;12;L;Orquesta;GRAN PARADA;Moaña;Pontevedra;Acompañados de Sintonia. 
+5781;12;11;12;L;Orquesta;PALLADIUM;San Marcos, Santiago de Compostela;A Coruña;TVG (Eiche Cantar Queridiña). 
+5867;16;11;12;V;Orquesta;TREBOL;Santiago de Compostela;A Coruña;TVG Programa O Luar. 
+5863;16;11;12;V;Solista;PILI PAMPÍN;Teo;A Coruña;Actuación en TVG Plató 1000 (Luar). 
+5732;16;11;12;V;Solista;TANIA Y SU ACORDEÓN;Vián, Pastoriza;Lugo;
+5708;16;11;12;V;Grupo;TEKILA;Viveiro;Lugo;Pub Flash. 
+5851;17;11;12;S;Dúo;ECLIPSE;Bravos, Ourol;Lugo;Centro sociocultural a partir das 21            :30. 
+5821;17;11;12;S;Orquesta;TELEVISIÓN;Cacheiras, Teo;A Coruña;Restaurante Los Robles. 
+5642;17;11;12;S;Grupo;ASSIA;Gijón;Asturias;sala de fiestas... TROPICANA.. 
+5856;17;11;12;S;Dúo;CALÚ;Muimenta, Cospeito;Lugo;Pub Akelarre. A partir de las 23:00. 
+5611;17;11;12;S;Orquesta;SOLARA;Piñeiro, Xermade;Lugo;
+5845;17;11;12;S;Orquesta;LOS ESPAÑOLES;Ponteareas;Pontevedra;S.F. El Otro Mundo del Tea. 
+5648;17;11;12;S;Orquesta;TREBOL;Restaurante El Pantano, Abegondo;A Coruña;Restaurante El Pantano. 
+5875;17;11;12;S;Grupo;SAMBA;S.F. Chanteclair, Pontecesures;Pontevedra;S.F. Chanteclair. 
+5813;17;11;12;S;Orquesta;PONTEVEDRA;S.F. La Luna, Cerponzóns;Pontevedra;S.F. La Luna. 
+5810;17;11;12;S;Orquesta;ABANICO;S.F. Rosalar, Ribadeo;Lugo;S.F. Rosalar. 
+5737;17;11;12;S;Dúo;DE LA CRUZ SHOW;Teo;A Coruña;Privado. 
+5688;17;11;12;S;Grupo;TEKILA;Tineo;Asturias;S.F. Rimmel. 
+5842;17;11;12;S;Dúo;D´CACHE;Viladonga, Castro de Rei;Lugo;Sesión de tarde. 
+5782;17;11;12;S;Orquesta;PALLADIUM;Vilalba;Lugo;Noche. Alternando con Ache. 
+5567;17;11;12;S;Solista;TANIA Y SU ACORDEÓN;Villanueva de Oscos;Asturias;Restaurante Oscos. 
+5848;18;11;12;D;Orquesta;CIUDADEVIGO;A Cañiza;Pontevedra;S.F. Selene. 
+5783;18;11;12;D;Orquesta;PALLADIUM;Av Bierzo, 91, Dehesas;León;S.F. Nova Delfos. 
+5612;18;11;12;D;Orquesta;SOLARA;Avenida de Beiramar, 251, Vigo;Pontevedra;S.F. Olimpo. 
+5649;18;11;12;D;Orquesta;TREBOL;S.F. La Reina, Sanguiñeda;Pontevedra;S.F. La Reina. Alternamos con Television. 
+5822;18;11;12;D;Orquesta;TELEVISIÓN;S.F. La Reina, Sanguiñeda;Pontevedra;S.F. La Reina. Alternamos con Trebol. 
+5811;18;11;12;D;Orquesta;ABANICO;S.F. Paulino, O Carballiño;Ourense;
+5593;23;11;12;V;Orquesta;PANORAMA;Lalín;Pontevedra;23:00h. 
+5890;23;11;12;V;Dúo;D´CACHE;Pendiente de Confirmación;Lugo;
+5942;23;11;12;V;Orquesta;CINEMA;Ponteareas;Pontevedra;S.F. El Otro Mundo del Tea. 
+5572;24;11;12;S;Solista;TANIA Y SU ACORDEÓN;A Fonsagrada;Lugo;Restaurante Os Chaos. 
+5650;24;11;12;S;Orquesta;TREBOL;Aldeola Restaurante, Malpica de Bergantiños;A Coruña;Restaurante Aldeola. 
+5864;24;11;12;S;Orquesta;SAUDADE;Avenida de Beiramar, 251, Vigo;Pontevedra;S.F. Olimpo. 
+5823;24;11;12;S;Orquesta;TELEVISIÓN;Avenida de Ramón Nieto, 367, Vigo;Pontevedra;S.F. La Palmera. 
+5870;24;11;12;S;Dúo;CALÚ;Baldaio, Carballo;A Coruña;Camping Baladaio. A partir de las 00:00 hrs. 
+5689;24;11;12;S;Grupo;TEKILA;Cangas, Foz;Lugo;
+5616;24;11;12;S;Grupo;CICLÓN;Mesón do Vento, Ordes;A Coruña;S.F. Josfer. 
+5860;24;11;12;S;Grupo;KALIMA 3.0;Pacios, Begonte;Lugo;Taberna Rural do Labrego. Cena baile. Os esperamos
+5697;24;11;12;S;Orquesta;NEVADA;Pousada, Pastoriza;Lugo;
+5613;24;11;12;S;Orquesta;SOLARA;Restaurante El Pantano, Abegondo;A Coruña;Restaurante El Pantano. 
+5784;24;11;12;S;Orquesta;PALLADIUM;Restaurante El Pantano, Abegondo;A Coruña;Restaurante El Pantano. 
+5594;24;11;12;S;Orquesta;PANORAMA;S.F. La Concha, O Val;A Coruña;S.F. La Concha. 
+5651;25;11;12;D;Orquesta;TREBOL;Aldeola Restaurante, Malpica de Bergantiños;A Coruña;Restaurante Aldeola. 
+5868;25;11;12;D;Orquesta;SOLARA;Benigno Rivera 67, O Ceao;Lugo;Discoteca Morango. 
+5919;25;11;12;D;Orquesta;TELEVISIÓN;Bueu;Pontevedra;S.F. La Ola. 
+5690;25;11;12;D;Grupo;TEKILA;S.F. La Luna, Cerponzóns;Pontevedra;S.F. La Luna. 
+5812;25;11;12;D;Orquesta;ABANICO;S.F. La Reina, Sanguiñeda;Pontevedra;S.F. La Reina. Alternamos con Los Españoles. 
+5833;25;11;12;D;Orquesta;LOS ESPAÑOLES;S.F. La Reina, Sanguiñeda;Pontevedra;S.F. La Reina. Alternamos con Abanico. 
+5595;25;11;12;D;Orquesta;PANORAMA;S.F. Nova Exágono, Lugo;Lugo;S.F. Nova Exagono. 
+5785;25;11;12;D;Orquesta;PALLADIUM;S.F. Zeus, Campolongo;A Coruña;S.F. Zeus. 
+5614;30;11;12;V;Orquesta;SOLARA;Cures, Boiro;A Coruña;
+5738;30;11;12;V;Orquesta;PANAMA;Estrada Pavillon, Narón;A Coruña;S.F. Imperial. 
+5896;30;11;12;V;Orquesta;METRÓPOLIS;Ézaro, Dumbría;A Coruña;Alternamos con Fania Blanco Show. 
+5898;30;11;12;V;Orquesta;FANIA BLANCO SHOW;Ézaro, Dumbría;A Coruña;Alternamos con Grupo Metrópolis. 
+5961;30;11;12;V;Orquesta;PALLADIUM;Golmar, A Laracha;A Coruña;
+5652;30;11;12;V;Orquesta;TREBOL;Mañufe, Gondomar;Pontevedra;San Vicente. Acompañados de Orquesta D´TACÓN. 
+5596;30;11;12;V;Orquesta;PANORAMA;S.F. Nova Exágono, Lugo;Lugo;S.F. Nova Exágono. Alternamos con Paris de Noia y Sintonía de Vigo. 
+6078;30;11;12;V;Orquesta;PARIS DE NOIA;S.F. Nova Exágono, Lugo;Lugo;S.F. Nova Exágono. Alternamos con Sintonía de Vigo y Panorama. 
+5824;30;11;12;V;Orquesta;TELEVISIÓN;Xeve;Pontevedra;San Andrés. 
+5871;30;11;12;V;Orquesta;MARBELLA;Xeve;Pontevedra;San Andrés. 
+6076;1;12;12;S;Orquesta;SOLARA;A Lagoa, Vimianzo;A Coruña;Restaurante A Lagoa. 
+5854;1;12;12;S;Orquesta;COMPOSTELA;Aldeola Restaurante, Malpica de Bergantiños;A Coruña;Restaurante Aldeola. 
+5937;1;12;12;S;Orquesta;CINEMA;Alto de Xestoso, Monfero;A Coruña;
+6018;1;12;12;S;Orquesta;PARAISO;Amoedo, Pazos de Borbén;Pontevedra;Pazos de Borben. Acompañados de Orquesta Costa Oeste. 
+6045;1;12;12;S;Orquesta;LOS ESPAÑOLES;Avenida de Beiramar, 251, Vigo;Pontevedra;S.F. Olimpo. 
+6130;1;12;12;S;Grupo;ALKAR;Avenida de Ramón Nieto, 367, Vigo;Pontevedra;S.F. La Palmera. Noche 23:00h. 
+5858;1;12;12;S;Solista;TANIA Y SU ACORDEÓN;Barcia, Ribeira de Piquín;Lugo;Hotel Mirador. 
+6090;1;12;12;S;Orquesta;TREBOL;Cures, Boiro;A Coruña;
+5709;1;12;12;S;Orquesta;MARAZUL;El Vilar, Bergondo;A Coruña;Hotel Os Olivos. Ctra. Nacional VI, km.580. 
+6009;1;12;12;S;Grupo;TEKILA;Grado;Asturias;Sala de Fiestas Spook. 
+5672;1;12;12;S;Orquesta;GRAN PARADA;Parroquia de San Francisco Javier;A Coruña;
+5981;1;12;12;S;Orquesta;PANORAMA;Poio;Pontevedra;
+5998;1;12;12;S;Orquesta;PONTEVEDRA;Ponteareas;Pontevedra;S.F. El Otro Mundo del Tea. 
+6079;1;12;12;S;Orquesta;PARIS DE NOIA;Ponteceso;A Coruña;Discoteca Teyma. 
+5684;1;12;12;S;Orquesta;CHARLESTON BIG-BAND;Restaurante El Pantano, Abegondo;A Coruña;Restaurante El Pantano. Uno de los mejores restaurantes para Cenar y bailar. 
+6035;1;12;12;S;Orquesta;LOS SATÉLITES;Restaurante El Pantano, Abegondo;A Coruña;Restaurante El Pantano. 
+6120;1;12;12;S;Orquesta;MIRAMAR;S.F. Chanteclair, Pontecesures;Pontevedra;S.F. Chanteclair. 
+6159;1;12;12;S;Grupo;ASSIA;S.F. Estilo, Oviedo;Asturias;S.F. Estilo. 
+5599;1;12;12;S;Orquesta;PANAMA;S.F. La Concha, O Val;A Coruña;S.F. La Concha. 
+6151;1;12;12;S;Grupo;CLAXXON;S.F. La Reina, Sanguiñeda;Pontevedra;S.F. La Reina. 
+6059;1;12;12;S;Orquesta;PALLADIUM;S.F. Rosalar, Ribadeo;Lugo;S.F. Rosalar. 
+5872;1;12;12;S;Orquesta;MARBELLA;Torres, Vilarmaior;A Coruña;
+5969;1;12;12;S;Orquesta;OLYMPUS RED TOUR;Touro, Touro;A Coruña;S.F. La Isla. 
+6102;1;12;12;S;Orquesta;TELEVISIÓN;Valiñas, Barro;Pontevedra;Noche. Acompañados de Grupo CHICAS SHOW. 
