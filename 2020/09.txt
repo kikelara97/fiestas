@@ -9,6 +9,7 @@
 115755;5;9;20;S;Charanga;LOUBAND;Baiona;Pontevedra;Horario: Tarde.
 116680;5;9;20;S;Orquesta;ABANICO;Boimorto;A Coruña;Acompañados del Dúo D´Vicio. Horario: Vermú, Noche.
 117084;5;9;20;S;Dúo;D´VICIO;Boimorto;A Coruña;Acompañados de la Orquesta Abanico. Horario: Noche.
+117573;5;9;20;S;Charanga;FURRUXA;casaldeirigo, Valga;Pontevedra;Horario: Vermú, Tarde.
 112531;5;9;20;S;Charanga;EUROPA;Chandrexa de Queixa;Ourense;Horario: Vermú, Tarde.
 117150;5;9;20;S;Charanga;OS BANDIÑOS;Parada de Ventosa;Ourense;Horario: Vermú (10:00), Tarde (18:00).
 115686;5;9;20;S;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca;Horario: Noche. Tipo de terreno: Asfalto.
@@ -18,6 +19,7 @@
 117132;6;9;20;D;Charanga;MANÍA;Cofiñal, Puebla de Lillo;León;Horario: Vermú.
 115849;6;9;20;D;Charanga;EUROPA;Nogueiroa, O Irixo;Ourense;Horario: Vermú.
 113066;6;9;20;D;Orquesta;ROYAL ESPECTÁCULO;Ribeiradio, Sever do Vouga;Portugal;Horario: Noche (23:00). Hay: Aparcamiento, Bocateria, Atracciones.
+117574;6;9;20;D;Charanga;FURRUXA;San Clemente de Cesar, Caldas de Reis;Pontevedra;Horario: Vermú.
 116599;7;9;20;L;Orquesta;ACORDES;Barcia, Valdés;Asturias;Horario: Noche.
 116682;7;9;20;L;Orquesta;ABANICO;Santa María de Tebra, Tomiño;Pontevedra;Horario: Noche.
 115766;8;9;20;M;Charanga;EUROPA;Fumaces, Riós;Ourense;Horario: Vermú. Tipo de terreno: Asfalto.
@@ -41,7 +43,6 @@
 117086;12;9;20;S;Dúo;D´VICIO;Guiliade, Betanzos;A Coruña;Horario: Vermú, Noche.
 116313;12;9;20;S;Disco Móvil;CHOCOLATE;Lalín;Pontevedra;12 septiembre Rigido Don Ramiro Lalin. Horario: Noche.
 116859;12;9;20;S;Grupo;PUNTO CLAVE;Outeiro, Castroverde;Lugo;Horario: Vermú, Noche. Hay: Carpa, Aparcamiento, Atracciones.
-117294;12;9;20;S;Orquesta;CENIZA;San Esteban de Budiño, Salceda de Caselas;Pontevedra;
 117186;12;9;20;S;Charanga;ARDORES;Siabal, Paderne de Allariz;Ourense;Horario: Noche.
 111289;13;9;20;D;Charanga;EUROPA;Arzádegos, Vilardevós;Ourense;Horario: Vermú.
 113460;13;9;20;D;Solista;ROCÍO PÉREZ;belen santa cristina de fecha santiag;A Coruña;Festa do Belen. Horario: Tarde (18:00).
@@ -65,6 +66,7 @@
 116423;19;9;20;S;Orquesta;GALILEA;Oza, Teo;A Coruña;
 115592;19;9;20;S;Grupo;M-3;piedra ucha Mos;Pontevedra;Horario: Noche.
 116303;19;9;20;S;Disco Móvil;CHOCOLATE;Quilmas, Carnota;A Coruña;18 19 septiembre motera carnota.  Hay: Carpa.
+117575;19;9;20;S;Charanga;FURRUXA;tivo, caldas de reis;Pontevedra;Horario: Vermú.
 116601;20;9;20;D;Orquesta;ACORDES;Arcos, Outeiro de Rei;Lugo;Horario: Vermú, Noche.
 116424;20;9;20;D;Orquesta;GALILEA;Carballido, Vilalba;Lugo;
 115617;20;9;20;D;Disco Móvil;CHOCOLATE;Carnota;A Coruña;18 19 septiembre motera carnota. Horario: Noche.

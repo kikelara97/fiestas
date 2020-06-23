@@ -227,7 +227,6 @@
 99287;16;2;19;S;Orquesta;CAPITOL;La Colmena, Narón;A Coruña;
 98298;16;2;19;S;Solista;XILO;Lorbé, Oleiros;A Coruña;Restaurante A Escola. Horario: Noche.
 99072;16;2;19;S;Dúo;D´VICIO;Lugo;Lugo;Pub BB+. Horario: Noche.
-99025;16;2;19;S;Dúo;VENDAVAL;Melide;A Coruña;Cena San Valentín en el Hotel Carlos 96. Horario: Noche (21:30).
 98794;16;2;19;S;Dúo;ECLIPSE;Mesón do Loyo, Paradela;Lugo;Cea-baile. Horario: Noche.
 98955;16;2;19;S;Dúo;CHARADA;Orro, Noia;A Coruña;Cena baile de enamorados en restaurante Rei Martiño. Horario: Noche.
 97357;16;2;19;S;Trío;SINTONÍA;Parrillada Peiró, Cambre;A Coruña;Horario: Noche.
@@ -442,7 +441,6 @@
 99219;2;3;19;S;Trío;INNOVACIÓN;O Incio;Lugo;Horario: Tarde.
 99880;2;3;19;S;Dúo;CARPE DIEM;O Porto de Espasante, Ortigueira;A Coruña;Horario: Vermú, Tarde. Hay: Carpa.
 99903;2;3;19;S;Dúo;CHARADA;Orro, Noia;A Coruña;Cena-baile en Restaurante Rei Martiño. Horario: Noche. Hay: Aparcamiento.
-99304;2;3;19;S;Dúo;VENDAVAL;Ortigueira;A Coruña;
 99495;2;3;19;S;Orquesta;ESCAPARATE;Ortigueira;A Coruña; Tipo de terreno: Asfalto. Hay: Carpa.
 98558;2;3;19;S;Charanga;CASTRO BELLO;Ourense;Ourense;Horario: Tarde, Noche.
 98572;2;3;19;S;Charanga;EUROPA;Ourense;Ourense;Entroido. Horario: Noche.

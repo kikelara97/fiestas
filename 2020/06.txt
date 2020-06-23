@@ -76,7 +76,7 @@
 117502;19;6;20;V;Disco Móvil;CDC MINIDISC;A Estrada;A Coruña;SUSPENDIDA.  
 112854;19;6;20;V;Charanga;BCB;Fonteblanca, Ramirás;Ourense;SUSPENDIDA.  Horario: Noche.
 114814;19;6;20;V;Solista;XILO;Os Condes, Bergondo;A Coruña;SUSPENDIDA.  Horario: Noche.
-117542;19;6;20;V;Grupo;ACIREMA;PROGRAMA LUAR DE LA TVG;A Coruña;ACTUACIÓN DE: &quot,JOSELITO DEL GROVE&quot,, SOBRE LAS 22H. 
+117542;19;6;20;V;Grupo;ACIREMA;Plató 1000, Teo;A Coruña;Actuación de Joselito del Grove presentando su disco &quot,Canto as orquestras galegas&quot,. 
 117119;19;6;20;V;Solista;BEGOÑA GARCÍA;Pub La Terraza, Ordes;A Coruña;SUSPENDIDA.  Horario: Noche.
 113847;19;6;20;V;Charanga;ARDORES;Taboada dos Freires, Taboada;Lugo;SUSPENDIDA.  Horario: Noche.
 113330;19;6;20;V;Trío;TBM SHOW;Vigo;Pontevedra;SUSPENDIDA.  Horario: Tarde. Tipo de terreno: Cemento. Hay: Aparcamiento.
@@ -99,52 +99,54 @@
 111197;21;6;20;D;Dúo;ESTRELLAS;O Vicedo;Lugo;SUSPENDIDA. Acompañados de la Orquesta Principal.
 112540;21;6;20;D;Solista;ROCÍO PÉREZ;Restaurante Pastoriza, Vimianzo;A Coruña;SUSPENDIDA. Baile para todo público.  De 20:00h a 23:00 h. Ambiente garantizado. Ben a bailar!. Horario: Tarde (20:00).
 115696;21;6;20;D;Charanga;CLK;Toén;Ourense;SUSPENDIDA.  Horario: Vermú. Tipo de terreno: Cemento.
-115384;23;6;20;M;Orquesta;CINEMA;Botos, Lalín;Pontevedra;Horario: Noche. Tipo de terreno: Asfalto. Hay: Carpa, Aparcamiento, Bocateria, Atracciones.
-114806;23;6;20;M;Dúo;XILO & CARLOS;Cervecería La Terraza, O Temple, Cambre;A Coruña;Horario: Tarde, Noche.
-116880;23;6;20;M;Grupo;PUNTO CLAVE;Puebla de San Julián, Láncara;Lugo;Horario: Noche.
-115676;23;6;20;M;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca;Horario: Noche. Tipo de terreno: Asfalto.
-117492;23;6;20;M;Disco Móvil;CDC;Sardiñeiro, Fisterra;A Coruña;
-113170;23;6;20;M;Solista;ROCÍO PÉREZ;Tablilla, Tordoia;A Coruña;Festa da cachela dos Socios da Tablilla. Horario: Noche (23:00).
-116180;24;6;20;X;Orquesta;ROYAL ESPECTÁCULO;Antas de Ulla;Lugo;Horario: Noche (23:00).
-115839;24;6;20;X;Charanga;EUROPA;Barbadás;Ourense;Horario: Vermú.
-116400;24;6;20;X;Orquesta;GALILEA;Ove, Ribadeo;Lugo;
-117504;25;6;20;J;Disco Móvil;CDC MINIDISC;Ortoño, Ames;A Coruña;
-116401;25;6;20;J;Orquesta;GALILEA;Touro;A Coruña;
-116582;25;6;20;J;Charanga;ARDORES;Touro;A Coruña;Horario: Vermú.
-115790;26;6;20;V;Orquesta;ROYAL ESPECTÁCULO;Begonte;Lugo;Horario: Noche (23:00).
-114852;26;6;20;V;Solista;XILO;Cervecería O Lagar, Neda;A Coruña;Horario: Noche.
-117493;26;6;20;V;Disco Móvil;CDC;Gures, Cee;A Coruña;
-117505;26;6;20;V;Disco Móvil;CDC MINIDISC;Ortoño, Ames;A Coruña;
+115384;23;6;20;M;Orquesta;CINEMA;Botos, Lalín;Pontevedra;SUSPENDIDA.  Horario: Noche. Tipo de terreno: Asfalto. Hay: Carpa, Aparcamiento, Bocateria, Atracciones.
+114806;23;6;20;M;Dúo;XILO & CARLOS;Cervecería La Terraza, O Temple, Cambre;A Coruña;SUSPENDIDA.  Horario: Tarde, Noche.
+117582;23;6;20;M;Trío;KARMA;Montrove, Oleiros;A Coruña;Horario: Noche. Hay: Bocateria.
+117566;23;6;20;M;Orquesta;ROYAL ESPECTÁCULO;Plató 1000, Teo;A Coruña;Horario: Tarde (17:00).
+116880;23;6;20;M;Grupo;PUNTO CLAVE;Pub Glass, Sarria;Lugo;Horario: Noche (22:00).
+115676;23;6;20;M;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca;SUSPENDIDA.  Horario: Noche. Tipo de terreno: Asfalto.
+117492;23;6;20;M;Disco Móvil;CDC;Sardiñeiro, Fisterra;A Coruña;SUSPENDIDA.  
+113170;23;6;20;M;Solista;ROCÍO PÉREZ;Tablilla, Tordoia;A Coruña;SUSPENDIDA. Festa da cachela dos Socios da Tablilla. Horario: Noche (23:00).
+116180;24;6;20;X;Orquesta;ROYAL ESPECTÁCULO;Antas de Ulla;Lugo;SUSPENDIDA.  Horario: Noche (23:00).
+115839;24;6;20;X;Charanga;EUROPA;Barbadás;Ourense;SUSPENDIDA.  Horario: Vermú.
+116400;24;6;20;X;Orquesta;GALILEA;Ove, Ribadeo;Lugo;SUSPENDIDA.  
+117580;24;6;20;X;Dúo;URAKÁN;Pub Glass, Sarria;Lugo;Horario: Noche (22:00).
+117504;25;6;20;J;Disco Móvil;CDC MINIDISC;Ortoño, Ames;A Coruña;SUSPENDIDA.  
+116401;25;6;20;J;Orquesta;GALILEA;Touro;A Coruña;SUSPENDIDA.  
+116582;25;6;20;J;Charanga;ARDORES;Touro;A Coruña;SUSPENDIDA.  Horario: Vermú.
+115790;26;6;20;V;Orquesta;ROYAL ESPECTÁCULO;Begonte;Lugo;SUSPENDIDA.  Horario: Noche (23:00).
+114852;26;6;20;V;Solista;XILO;Cervecería O Lagar, Neda;A Coruña;SUSPENDIDA.  Horario: Noche.
+117493;26;6;20;V;Disco Móvil;CDC;Gures, Cee;A Coruña;SUSPENDIDA.  
+117505;26;6;20;V;Disco Móvil;CDC MINIDISC;Ortoño, Ames;A Coruña;SUSPENDIDA.  
 116693;26;6;20;V;Charanga;EUROPA;Poulo, Gomesende;Ourense;SUSPENDIDA.  Horario: Noche.
-117072;26;6;20;V;Dúo;D´VICIO;San Román do Mao, O Incio;Lugo;Horario: Noche.
-117494;26;6;20;V;Disco Móvil;CDC;Santa Comba;A Coruña;La Mega CDC. Horario: Noche.
-116402;26;6;20;V;Orquesta;GALILEA;Toreno;León;
-117286;27;6;20;S;Orquesta;CENIZA;Arante, Ribadeo;Lugo;
-112980;27;6;20;S;Dúo;D´VICIO;Bens, A Coruña;A Coruña;Horario: Vermú.
+117072;26;6;20;V;Dúo;D´VICIO;San Román do Mao, O Incio;Lugo;SUSPENDIDA.  Horario: Noche.
+117494;26;6;20;V;Disco Móvil;CDC;Santa Comba;A Coruña;SUSPENDIDA. La Mega CDC. Horario: Noche.
+116402;26;6;20;V;Orquesta;GALILEA;Toreno;León;SUSPENDIDA.  
+112980;27;6;20;S;Dúo;D´VICIO;Bens, A Coruña;A Coruña;SUSPENDIDA.  Horario: Vermú.
 105923;27;6;20;S;Dúo;ESTRELLAS;Bres, Taramundi;Asturias;SUSPENDIDA. Suspendida por COVID-19. Horario: Vermú, Noche. Tipo de terreno: Hierba. Hay: Carpa.
-116665;27;6;20;S;Orquesta;ABANICO;Burgueira, Oia;Pontevedra;Horario: Noche.
-117495;27;6;20;S;Disco Móvil;CDC;Buxantes, Dumbría;A Coruña;
-115979;27;6;20;S;Charanga;LEÑA VERDE;Erbo de Arriba, Lalin;Pontevedra;Horario: Vermú, Noche.
-116345;27;6;20;S;Charanga;ARDORES;Erbo de Arriba, Lalin;Pontevedra;Horario: Noche.
-116928;27;6;20;S;Grupo;CHASTTON SHOW;Lamaigrexa, A Pobra do Brollón;Lugo;Horario: Noche (22:00).
-117433;27;6;20;S;Trío;INNOVACIÓN;Porta do Conde, Portas;Pontevedra;Horario: Noche.
-117496;27;6;20;S;Disco Móvil;CDC;Redonda, Corcubión;A Coruña;La Mega CDC. Horario: Noche.
-114641;27;6;20;S;Orquesta;ROYAL ESPECTÁCULO;Riotorto;Lugo;Horario: Noche.
-115677;27;6;20;S;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca;Horario: Noche. Tipo de terreno: Asfalto.
-117073;27;6;20;S;Dúo;D´VICIO;San Mateo, Narón;A Coruña;Horario: Noche.
-115722;27;6;20;S;Disco Móvil;CHOCOLATE;San Pedro de Muro, Porto do Son;A Coruña;Macrochocolate. Horario: Noche.
-116839;27;6;20;S;Grupo;PUNTO CLAVE;San Xoán do Campo, Lugo;Lugo;Horario: Vermú, Noche. Tipo de terreno: Cemento. Hay: Carpa, Aparcamiento, Atracciones.
-117506;27;6;20;S;Disco Móvil;CDC MINIDISC;Santa Comba;A Coruña;
+116665;27;6;20;S;Orquesta;ABANICO;Burgueira, Oia;Pontevedra;SUSPENDIDA.  Horario: Noche.
+117495;27;6;20;S;Disco Móvil;CDC;Buxantes, Dumbría;A Coruña;SUSPENDIDA.  
+115979;27;6;20;S;Charanga;LEÑA VERDE;Erbo de Arriba, Lalin;Pontevedra;SUSPENDIDA.  Horario: Vermú, Noche.
+116345;27;6;20;S;Charanga;ARDORES;Erbo de Arriba, Lalin;Pontevedra;SUSPENDIDA.  Horario: Noche.
+116928;27;6;20;S;Grupo;CHASTTON SHOW;Lamaigrexa, A Pobra do Brollón;Lugo;SUSPENDIDA.  Horario: Noche (22:00).
+117433;27;6;20;S;Trío;INNOVACIÓN;Porta do Conde, Portas;Pontevedra;SUSPENDIDA.  Horario: Noche.
+117496;27;6;20;S;Disco Móvil;CDC;Redonda, Corcubión;A Coruña;SUSPENDIDA. La Mega CDC. Horario: Noche.
+114641;27;6;20;S;Orquesta;ROYAL ESPECTÁCULO;Riotorto;Lugo;SUSPENDIDA.  Horario: Noche.
+115677;27;6;20;S;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca;SUSPENDIDA.  Horario: Noche. Tipo de terreno: Asfalto.
+117073;27;6;20;S;Dúo;D´VICIO;San Mateo, Narón;A Coruña;SUSPENDIDA.  Horario: Noche.
+115722;27;6;20;S;Disco Móvil;CHOCOLATE;San Pedro de Muro, Porto do Son;A Coruña;SUSPENDIDA. Macrochocolate. Horario: Noche.
+116839;27;6;20;S;Grupo;PUNTO CLAVE;San Xoán do Campo, Lugo;Lugo;SUSPENDIDA.  Horario: Vermú, Noche. Tipo de terreno: Cemento. Hay: Carpa, Aparcamiento, Atracciones.
+117506;27;6;20;S;Disco Móvil;CDC MINIDISC;Santa Comba;A Coruña;SUSPENDIDA.  
 117533;27;6;20;S;Solista;ROCÍO PÉREZ;Valenza, Coristanco;A Coruña;Festaza de ambiente!!! Entrada libreee. Horario: Noche (22:00).
 117508;27;6;20;S;Solista;ROCÍO PÉREZ;Xavestre, Trazo;A Coruña;Festa privada comunion. Horario: Tarde (17:00).
-104726;28;6;20;D;Solista;ROCÍO PÉREZ;A Silva, Cerceda;A Coruña;Comida Familiar Manuel Rey. Horario: Tarde (17:00). Hay: Carpa, Aparcamiento, Bocateria.
-117385;28;6;20;D;Dúo;D´VICIO;Cambás, Aranga;A Coruña;Horario: Vermú.
-115980;28;6;20;D;Charanga;LEÑA VERDE;Erbo de Arriba, Lalin;Pontevedra;Horario: Vermú.
-116840;28;6;20;D;Grupo;PUNTO CLAVE;Maside, Sarria;Lugo;Horario: Vermú, Noche. Hay: Carpa, Aparcamiento, Atracciones.
+104726;28;6;20;D;Solista;ROCÍO PÉREZ;A Silva, Cerceda;A Coruña;SUSPENDIDA. Comida Familiar Manuel Rey. Horario: Tarde (17:00). Hay: Carpa, Aparcamiento, Bocateria.
+117385;28;6;20;D;Dúo;D´VICIO;Cambás, Aranga;A Coruña;SUSPENDIDA.  Horario: Vermú.
+115980;28;6;20;D;Charanga;LEÑA VERDE;Erbo de Arriba, Lalin;Pontevedra;SUSPENDIDA.  Horario: Vermú.
+116840;28;6;20;D;Grupo;PUNTO CLAVE;Maside, Sarria;Lugo;SUSPENDIDA.  Horario: Vermú, Noche. Hay: Carpa, Aparcamiento, Atracciones.
 116698;28;6;20;D;Charanga;CLK;Moreiras, Toén;Ourense;SUSPENDIDA.  Horario: Tarde. Tipo de terreno: Asfalto.
-117497;28;6;20;D;Disco Móvil;CDC;Redonda, Corcubión;A Coruña;
-117007;28;6;20;D;Charanga;SIN CONTROL;Rodiezmo, Villamanín;León;Horario: Vermú.
-117498;29;6;20;L;Disco Móvil;CDC;Buxantes, Dumbría;A Coruña;
+117497;28;6;20;D;Disco Móvil;CDC;Redonda, Corcubión;A Coruña;SUSPENDIDA.  
+117007;28;6;20;D;Charanga;SIN CONTROL;Rodiezmo, Villamanín;León;SUSPENDIDA.  Horario: Vermú.
+117498;29;6;20;L;Disco Móvil;CDC;Buxantes, Dumbría;A Coruña;SUSPENDIDA.  
 116384;29;6;20;L;Charanga;EUROPA;Figueiredo, Paderne de Allariz;Ourense;SUSPENDIDA.  Horario: Vermú.
-117507;29;6;20;L;Disco Móvil;CDC MINIDISC;Redonda, Corcubión;A Coruña;
-117424;30;6;20;M;Orquesta;TREBOL;Anca, Neda;A Coruña;Acompañados de la Orquesta Fania Blanco Show. Horario: Noche.
+117507;29;6;20;L;Disco Móvil;CDC MINIDISC;Redonda, Corcubión;A Coruña;SUSPENDIDA.  
+117424;30;6;20;M;Orquesta;TREBOL;Anca, Neda;A Coruña;SUSPENDIDA. Acompañados de la Orquesta Fania Blanco Show. Horario: Noche.

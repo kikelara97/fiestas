@@ -3,7 +3,7 @@
 115353;1;8;20;S;Charanga;MANÍA;Antimio de Arriba, Chozas de Abajo;León;Horario: Tarde.
 112986;1;8;20;S;Dúo;D´VICIO;Armentón, Arteixo;A Coruña;Horario: Vermú, Noche.
 116593;1;8;20;S;Orquesta;ACORDES;As Ribeiras do Sor, Mañón;A Coruña;Horario: Vermú, Noche.
-115092;1;8;20;S;Charanga;EUROPA;Avión;Ourense;Horario: Vermú (10:00), Tarde (17:00). Tipo de terreno: Asfalto.
+115092;1;8;20;S;Charanga;EUROPA;Avión;Ourense;SUSPENDIDA.  Horario: Vermú (10:00), Tarde (17:00). Tipo de terreno: Asfalto.
 115578;1;8;20;S;Disco Móvil;CHOCOLATE;Barro, Noia;A Coruña;Horario: Noche.
 115763;1;8;20;S;Charanga;CLK;Brues, Boborás;Ourense;Horario: Noche. Tipo de terreno: Cemento.
 115662;1;8;20;S;Grupo;TATTOO;Lugo;Lugo;Horario: Noche.
@@ -16,7 +16,6 @@
 114305;1;8;20;S;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca; Tipo de terreno: Asfalto.
 116411;1;8;20;S;Orquesta;GALILEA;San Pedro de Mor, Alfoz;Lugo;
 115003;1;8;20;S;Orquesta;BARCELÓ;Sanfíns, Vimianzo;A Coruña;Horario: Vermú, Noche.
-117288;1;8;20;S;Orquesta;CENIZA;Sumoas, Xove;Lugo;
 116171;1;8;20;S;Grupo;ARENA;Tias, Lanzarote;Las Palmas;Horario: Noche.
 115750;1;8;20;S;Charanga;LOUBAND;Triacastela;Lugo;Horario: Tarde.
 117057;1;8;20;S;Disco Móvil;FABRIK;Vilabade, Castroverde;Lugo;Horario: Tarde. Hay: Carpa, Aparcamiento, Bocateria, Atracciones.
@@ -27,6 +26,7 @@
 116412;2;8;20;D;Orquesta;GALILEA;Marantes, Santiago de Compostela;A Coruña;
 117453;2;8;20;D;Disco Móvil;FABRIK;Mazaricos;A Coruña;superfabrik. Horario: Noche. Tipo de terreno: Cemento.
 115995;2;8;20;D;Solista;ROCÍO PÉREZ;Montemaior, A Laracha;A Coruña;Evento no Restaurante da santa. Horario: Tarde (19:00).
+117569;2;8;20;D;Charanga;FURRUXA;Trabanca Sardiñeira, Vilagarcía de Arousa;Pontevedra;Horario: Vermú.
 114494;2;8;20;D;Charanga;BCB;Trelle, Toén;Ourense;Horario: Vermú, Tarde, Noche.
 114521;2;8;20;D;Charanga;EUROPA;Vilarello da Cota, Vilardevós;Ourense;Horario: Vermú.
 117075;2;8;20;D;Dúo;D´VICIO;Viós, Abegondo;A Coruña;Horario: Vermú, Noche.
@@ -42,7 +42,7 @@
 116178;5;8;20;X;Charanga;CLK;reservada;Ourense;
 112133;5;8;20;X;Grupo;M-3;Vilar de Lebres, Trasmiras;Ourense;Horario: Tarde, Noche.
 114759;6;8;20;J;Solista;XILO;Centro Cívico de Caranza, Ferrol;A Coruña;Horario: Tarde (17:30).
-112856;6;8;20;J;Charanga;BCB;Lubián;Zamora;Horario: Tarde.
+112856;6;8;20;J;Charanga;BCB;Lubián;Zamora;SUSPENDIDA.  Horario: Tarde.
 115721;6;8;20;J;Dúo;ESTRELLAS;San Miguel, Valdoviño;A Coruña;Horario: Noche.
 115705;6;8;20;J;Dúo;ESTRELLAS;Serantes, Ferrol;A Coruña;Horario: Vermú.
 117076;7;8;20;V;Dúo;D´VICIO;Almeiras, Culleredo;A Coruña;Horario: Noche.
@@ -51,7 +51,7 @@
 110864;7;8;20;V;Charanga;CLK;Grou, Lobios;Ourense;Horario: Vermú, Tarde. Tipo de terreno: Asfalto.
 117153;7;8;20;V;Grupo;ACIREMA;Oia;Pontevedra;
 116414;7;8;20;V;Orquesta;GALILEA;Pousada, Sobrado;A Coruña;
-117345;7;8;20;V;Charanga;SIN CONTROL;Quintanilla de Yuso, Truchas;León;Horario: Tarde.
+117345;7;8;20;V;Charanga;SIN CONTROL;Quintanilla de Yuso, Truchas;León;SUSPENDIDA.  Horario: Tarde.
 115680;7;8;20;V;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca;Horario: Noche. Tipo de terreno: Asfalto.
 113008;8;8;20;S;Trío;TBM SHOW;A Cañiza;Pontevedra;Horario: Noche. Tipo de terreno: Asfalto.
 115732;8;8;20;S;Charanga;EUROPA;A Feira Vella, Entrimo;Ourense;Horario: Tarde (19:00). Tipo de terreno: Asfalto.
@@ -71,22 +71,24 @@
 115130;8;8;20;S;Grupo;ARENA;Tejeda;Las Palmas;La Solana. Horario: Noche.
 115066;8;8;20;S;Disco Móvil;CHOCOLATE;Tordoia;A Coruña;Chocolate se mueve, esta vez con el Escenario insigne de la marca. El mega escenario. Horario: Noche. Tipo de terreno: Cemento. Hay: Carpa, Aparcamiento.
 116848;8;8;20;S;Grupo;PUNTO CLAVE;Valdeferreiros, Ibias;Asturias;Horario: Vermú, Noche. Tipo de terreno: Hierba. Hay: Carpa, Aparcamiento, Atracciones.
-117289;8;8;20;S;Orquesta;CENIZA;Valdesoto, Siero;Asturias;
 116605;8;8;20;S;Trío;SINTONÍA;Veronza, Carballeda de Avia;Ourense;Horario: Noche.
 117405;8;8;20;S;Orquesta;ACORDES;Zanfoga, Pedrafita do Cebreiro;Lugo;Horario: Noche.
 113468;8;8;20;S;Charanga;BCB;Zarracós, A Merca;Ourense;Sesión matinal. Horario: Vermú.
+117570;9;8;20;D;Charanga;FURRUXA;A Devesa, Valga;Pontevedra;Horario: Vermú.
 111288;9;8;20;D;Charanga;EUROPA;Arzádegos, Vilardevós;Ourense;Horario: Vermú.
 117304;9;8;20;D;Trío;SINTONÍA;buño malpica de bergantiños;A Coruña;Horario: Vermú.
 115864;9;8;20;D;Charanga;MANÍA;El Burgo Ranero;León;Horario: Tarde, Noche.
 115752;9;8;20;D;Charanga;LOUBAND;Sobrado dos Monxes, Sobrado;A Coruña;Horario: Tarde.
 117078;9;8;20;D;Dúo;D´VICIO;Vixoi, Bergondo;A Coruña;Horario: Vermú.
 114663;9;8;20;D;Charanga;CASTRO BELLO;Zarracós, A Merca;Ourense;Horario: Vermú.
+117571;10;8;20;L;Charanga;FURRUXA;A Devesa, Valga;Pontevedra;Horario: Vermú.
 111107;10;8;20;L;Charanga;BCB;Arnuide, Vilar de Barrio;Ourense;Sesión matinal. Horario: Vermú.
 116329;10;8;20;L;Charanga;MANÍA;Felechas, Boñar;León;Horario: Vermú.
 116136;10;8;20;L;Charanga;EUROPA;Graíces, A Peroxa;Ourense;Horario: Vermú.
 112867;11;8;20;M;Orquesta;ROYAL ESPECTÁCULO;Cabril, Montalegre;Portugal;Horario: Noche (23:00).
 111225;11;8;20;M;Charanga;EUROPA;Castrelo de Abaixo, Riós;Ourense;Horario: Noche.
 116023;11;8;20;M;Charanga;ARDORES;Muimenta, Lalín;Pontevedra;Horario: Vermú, Noche.
+117572;12;8;20;X;Charanga;FURRUXA;Combarro, Poio;Pontevedra;Horario: Tarde.
 116674;12;8;20;X;Orquesta;ABANICO;Dentellais, O Bolo;Ourense;Horario: Noche.
 116920;12;8;20;X;Disco Móvil;CHOCOLATE;puente candelas;Pontevedra;Horario: Noche.
 115870;13;8;20;J;Disco Móvil;CHOCOLATE;Alón, Santa Comba;A Coruña;14 agosto pequeno Alon sta comba. Horario: Noche.
@@ -110,6 +112,7 @@
 115076;15;8;20;S;Solista;ROCÍO PÉREZ;Bardaos, Tordoia;A Coruña;Horario: Noche (23:00). Hay: Carpa, Aparcamiento, Atracciones.
 117541;15;8;20;S;Charanga;MANÍA;Barrio de Nuestra Señora;León;Horario: Vermú.
 117436;15;8;20;S;Charanga;MANÍA;Boñar;León;Horario: Tarde.
+117578;15;8;20;S;Dúo;ESTRELLAS;Buazo, Boimorto;A Coruña;Horario: Vermú.
 115911;15;8;20;S;Charanga;CLK;Castrelo de Miño;Ourense;Horario: Vermú. Tipo de terreno: Asfalto.
 114029;15;8;20;S;Charanga;CLK;Cenlle;Ourense;Horario: Noche. Tipo de terreno: Asfalto.
 113862;15;8;20;S;Charanga;BCB;Corvelle, Bande;Ourense;Horario: Noche.
@@ -127,11 +130,10 @@
 116069;15;8;20;S;Disco Móvil;FABRIK;Riomol, Castroverde;Lugo;Horario: Vermú. Tipo de terreno: Cemento. Hay: Carpa.
 114308;15;8;20;S;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca; Tipo de terreno: Asfalto.
 116713;15;8;20;S;Orquesta;ACORDES;Salamanca;Salamanca;Actuación en la provincia de Salamanca. Localización exacta por concretar. Horario: Noche.
-117290;15;8;20;S;Orquesta;CENIZA;San Martin de Ombreiro;Lugo;
 117147;15;8;20;S;Charanga;OS BANDIÑOS;Santa Comba, Bande;Ourense;Festa da Virxe da Pena. Horario: Tarde (18:00). Tipo de terreno: Gravilla.
 115576;15;8;20;S;Disco Móvil;CHOCOLATE;Santa maria de roo;A Coruña;Rigido sesión bermut. Horario: Vermú.
 115664;15;8;20;S;Grupo;TATTOO;Tibiás, O Pereiro de Aguiar;Ourense;
-114856;15;8;20;S;Solista;XILO;Vilafiz, O Páramo;Lugo;Horario: Tarde.
+114856;15;8;20;S;Solista;XILO;Vilafiz, O Páramo;Lugo;SUSPENDIDA.  Horario: Tarde.
 116850;15;8;20;S;Grupo;PUNTO CLAVE;Vilarello, Cervantes;Lugo;Horario: Noche. Hay: Carpa, Aparcamiento, Atracciones.
 117146;15;8;20;S;Charanga;OS BANDIÑOS;Xermeade, Muiños;Ourense;Festa da Virxe da Torre. Horario: Vermú (10:00). Tipo de terreno: Asfalto.
 117148;16;8;20;D;Charanga;OS BANDIÑOS;A Mezquita, A Merca;Ourense;Horario: Tarde (16:00).
@@ -157,7 +159,7 @@
 114500;17;8;20;L;Charanga;SIN CONTROL;Robles de la Valcueva, Matallana de Torío;León;
 114309;17;8;20;L;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca; Tipo de terreno: Asfalto.
 114421;19;8;20;X;Trío;INNOVACIÓN;Porta do Conde, Portas;Pontevedra;Horario: Noche.
-114751;19;8;20;X;Charanga;EUROPA;Xares, A Veiga;Ourense;Horario: Tarde.
+114751;19;8;20;X;Charanga;EUROPA;Xares, A Veiga;Ourense;SUSPENDIDA.  Horario: Tarde.
 115683;20;8;20;J;Disco Móvil;MACRO SHOW MOVIMIENTO;Salamanca;Salamanca;Horario: Noche. Tipo de terreno: Asfalto.
 117043;21;8;20;V;Orquesta;ROYAL ESPECTÁCULO;Bande;Ourense;Horario: Noche. Hay: Aparcamiento, Bocateria, Atracciones.
 116330;21;8;20;V;Charanga;MANÍA;Calzadilla de los Hermanillos, El Burgo Ranero;León;Horario: Tarde.
@@ -185,7 +187,7 @@
 115459;23;8;20;D;Charanga;MANÍA;Báscones de Ojeda;Palencia;Horario: Tarde.
 116158;23;8;20;D;Charanga;ARDORES;Berrande, Vilardevós;Ourense;Horario: Noche.
 117293;23;8;20;D;Orquesta;CENIZA;Cardama, Oroso;A Coruña;
-114867;23;8;20;D;Dúo;ESTRELLAS;Malpica de Bergantiños;A Coruña;Horario: Vermú.
+114867;23;8;20;D;Dúo;ESTRELLAS;Malpica de Bergantiños;A Coruña;SUSPENDIDA. Aprazada para o 2021 polo COVID-19. Horario: Vermú.
 116854;23;8;20;D;Grupo;PUNTO CLAVE;Martul, Outeiro de Rei;Lugo;Horario: Vermú, Tarde. Hay: Carpa, Aparcamiento.
 114273;23;8;20;D;Charanga;EUROPA;Moimenta, Vinhais;Portugal;
 115793;23;8;20;D;Charanga;MANÍA;Valdecastillo, Boñar;León;Horario: Vermú.

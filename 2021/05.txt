@@ -1,5 +1,7 @@
 117532;2;5;21;D;Orquesta;ROYAL ESPECTÁCULO;Cerdal, Valença;Portugal;Horario: Tarde (17:00). Tipo de terreno: Hierba.
 117531;8;5;21;S;Orquesta;ROYAL ESPECTÁCULO;Vilela, Outeiro de Rei;Lugo;Horario: Noche.
 117528;15;5;21;S;Dúo;ESTRELLAS;San Simón da Costa, Vilalba;Lugo;Alternando coa Orquesta Xacobeo. Horario: Tarde, Noche. Tipo de terreno: Hierba.
+117564;22;5;21;S;Dúo;ESTRELLAS;Perlío, Fene;A Coruña;Acompañados de la Orquesta Televisión. Horario: Vermú, Noche. Tipo de terreno: Cemento. Hay: Bocateria, Atracciones.
+117565;23;5;21;D;Dúo;ESTRELLAS;Perlío, Fene;A Coruña;Horario: Vermú. Tipo de terreno: Cemento. Hay: Bocateria, Atracciones.
 117538;24;5;21;L;Charanga;MANÍA;Miranda de Ebro;Burgos;Horario: Vermú, Tarde, Noche.
 117536;31;5;21;L;Charanga;MANÍA;Benavente;Zamora;Horario: Tarde.
